@@ -1,0 +1,69 @@
+id: bbc_2022_11370
+title: 'IHG hack: ''Vindictive'' couple deleted hotel chain data for fun - BBC News'
+date: '2022-09-17'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-62937678
+content: |-
+  The pair, who say they are from Vietnam, wiped out IHG group data after a foiled ransomware attack.
+
+  Hackers have told the BBC they carried out a destructive cyber-attack against Holiday Inn owner Intercontinental Hotels Group (IHG) "for fun".
+
+  Describing themselves as a couple from Vietnam, they say they first tried a ransomware attack, then deleted large amounts of data when they were foiled.
+
+  They accessed the FTSE 100 firm's databases thanks to an easily found and weak password, Qwerty1234.
+
+  An expert says the case highlights the vindictive side of criminal hackers.
+
+  UK-based IHG operates 6,000 hotels around the world, including the Holiday Inn, Crowne Plaza and Regent brands.
+
+  On Monday last week, customers reported widespread problems with booking and check-in.
+
+  For 24 hours IHG responded to complaints on social media by saying that the company was "undergoing system maintenance".
+
+  Then on the Tuesday afternoon it told investors that it had been hacked.
+
+  "Booking channels and other applications have been significantly disrupted since yesterday," it said in an official notice lodged with the London Stock Exchange.
+
+  The hackers, calling themselves TeaPea, contacted the BBC on the encrypted messaging app, Telegram, providing screenshots as evidence that they had carried out the hack.
+
+  The images, which IHG has confirmed are genuine, show they gained access to the company's internal Outlook emails, Microsoft Teams chats and server directories.
+
+  "Our attack was originally planned to be a ransomware but the company's IT team kept isolating servers before we had a chance to deploy it, so we thought to have some funny [sic]. We did a wiper attack instead," one of the hackers said.
+
+  A wiper attack is a form of cyber-attack that irreversibly destroys data, documents and files.
+
+  The average wage in Vietnam is about $300 (£270) per month
+
+  Cyber-security specialist Rik Ferguson, vice-president of security at Forescout, said the incident was a cautionary tale as, even though the company's IT team initially found a way to fend them off, the hackers were still able to find a way to inflict damage.
+
+  "The hackers' change of tactic seems born out of vindictive frustration," he said. "They couldn't make money so they lashed out, and that absolutely betrays the fact that we are not talking about 'professional' cybercriminals here."
+
+  IHG says customer-facing systems are returning to normal but that services may remain intermittent.
+
+  The hackers are showing no remorse about the disruption they have caused the company and its customers.
+
+  "We don't feel guilty, really. We prefer to have a legal job here in Vietnam but the wage is average $300 per month. I'm sure our hack won't hurt the company a lot."
+
+  The hackers say no customer data was stolen but they do have some corporate data, including email records.
+
+  This video can not be played To play this video you need to enable JavaScript in your browser. Watch: What is ransomware and how does it work?
+
+  TeaPea say they gained access to IHG's internal IT network by tricking an employee into downloading a malicious piece of software through a booby-trapped email attachment.
+
+  They also had to bypass an additional security prompt message sent to the worker's devices as part of a two-factor authentication system.
+
+  Qwerty1234 is a popular password because it comprises the first six letters and the first four numbers of an English keyboard
+
+  The criminals then say they accessed the most sensitive parts of IHG's computer system after finding login details for the company's internal password vault.
+
+  "The username and password to the vault was available to all employees, so 200,000 staff could see. And the password was extremely weak," they told the BBC.
+
+  Surprisingly, the password was Qwerty1234, which regularly appears on lists of most commonly used passwords worldwide.
+
+  "Sensitive data should only be available to employees who need access to that data to do their job, and they should have the minimum level of access [needed] to use that data," said Mr Ferguson, after seeing the screenshots.
+
+  "Even a highly complex password is just as insecure as a simple one if it is left exposed."
+
+  An IHG spokeswoman disputed that the password vault details were not secure, saying that the attacker had to evade "multiple layers of security", but would not give details about the extra security.
+
+  "IHG employs a defence-in-depth strategy to information security that leverages many modern security solutions," she added.

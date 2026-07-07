@@ -1,0 +1,19 @@
+id: bbc_2025_2046
+title: Epilepsy AI tool detects brain lesions doctors miss - BBC News
+date: '2025-02-24'
+section: Health
+url: http://www.bbc.co.uk/news/articles/cvg1xd7l5pvo
+content: |-
+  One in five epilepsy patients has uncontrolled seizures due to brain abnormalities too subtle for doctors to spot.
+
+  A consultant radiologist at Great Ormond Street Hospital reviews the brain scan and AI report of a child with complex epilepsy
+
+  An artificial-intelligence tool can detect two-thirds of epilepsy brain lesions doctors often miss, say the UK researchers who have developed it, paving the way for more targeted surgery to stop seizures. One out of every five people with epilepsy - a total of 30,000 in the UK - has uncontrolled seizures caused by brain abnormalities too subtle for the human eye to see on scans. Child epilepsy experts say the AI tool has "huge potential" and opens up avenues for treatment. But more studies on the long-term benefits for patients are needed before it can be licensed and used in clinics.
+
+  Brain abnormalities called focal cortical dysplasia are a common cause of epilepsy, especially when medication cannot control seizures. Seizures affect people in different ways - symptoms include jerking and shaking, becoming stiff and losing awareness - and can mean regular visits to accident-and-emergency units. Removing a small part of the brain can be a safe and effective way of stopping them - but if radiologists cannot see the tiny lesions on brain scans, diagnosis, treatment and surgery can be delayed.
+
+  For this study, published in JAMA Neurology, external, the researchers, from King's College London and University College London, fed their tool magnetic-resonance-imaging (MRI) scans from more than 1,185 adults and children at 23 hospitals around the world, 703 of whom had brain abnormalities. The tool, MELD Graph, was able to process the images more quickly than a doctor could - and in more detail - which could mean more timely treatment and fewer costly tests and procedures, lead researcher Dr Konrad Wagstyl said. The AI would require human oversight, however, and many of the abnormalities were still missed. "It's like finding one character on five pages of solid black text," Dr Wagstyl said. "AI can find about two-thirds that doctors miss - but a third are still really difficult to find." At one hospital in Italy, the tool identified a subtle lesion missed by radiologists, in a 12-year-old boy who had tried nine different medications but still had seizures every day.
+
+  Dr Konrad Wagstyl and fellow researchers work on the AI algorithm
+
+  Study co-author and childhood epilepsy consultant Prof Helen Cross said it had the potential "to rapidly identify abnormalities that can be removed and potentially cure the epilepsy". Uncontrolled epilepsy was "incapacitating", she said. Many of the children she sees as a consultant at Great Ormond Street Hospital have had years of seizures and investigations before a lesion is found. Charity Epilepsy Action said the new AI tool's potential was "really exciting" and could give people faster diagnosis, but did not solve the issue of lack of specialist epilepsy nurses in England. "It remains early days and, as always, we must proceed with caution," said Ley Sander from the Epilepsy Society, adding that if the tool could identify more people as candidates for brain surgery, that could be "life-changing for many more people with epilepsy". The researchers are hoping for official approval to use MELD Graph as a diagnostic tool - but other trials are needed first to investigate the long-term benefits for patients whose brain lesions are detected. In the meantime, the research team has made the tool available on open-source software, so it can be used for clinical research by hospitals worldwide.

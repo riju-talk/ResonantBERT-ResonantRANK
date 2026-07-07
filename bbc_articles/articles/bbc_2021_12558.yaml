@@ -1,0 +1,57 @@
+id: bbc_2021_12558
+title: Twitch blames server error for massive data leak - BBC News
+date: '2021-10-07'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-58829604
+content: |-
+  The livestreaming site says a mistake exposed its data to a malicious third party on the internet.
+
+  Livestreaming site Twitch says an "error" caused the unprecedented leak that posted vast amounts of sensitive data online this week.
+
+  The data appeared to include Twitch's internal code and documents, as well as the payments made to thousands of top streamers.
+
+  Twitch now says the breach was caused by a "server configuration change" that "exposed" some data.
+
+  But it has not confirmed if all the data posted online is genuine.
+
+  The Amazon-owned company said the breach had involved "a Twitch server configuration change that was subsequently accessed by a malicious third party".
+
+  "As the investigation is ongoing, we are still in the process of understanding the impact in detail," it said.
+
+  But as Twitch streamers and viewers alike scrambled to change passwords, the company also said it:
+
+  Twitch's short statement shows the company is in full crisis mode.
+
+  Information-technology (IT) teams and security experts are still trying to understand just how bad the data leak is.
+
+  The explanation for the hack is there was some sort of human error with a "server configuration".
+
+  In other words, someone set up the computers that store Twitch's private data incorrectly, making it findable and downloadable to hackers.
+
+  What the company has not said is when this mistake was made.
+
+  Some of the stolen data goes back three years, so there is a chance the servers could have been sitting ducks for some time - or the mistake could have left the door open for only a few days or weeks.
+
+  Hackers are always searching and scanning for open databases online - or it is even possible someone may have tipped off hackers about the internal IT blunder.
+
+  But making these sorts of mistakes is costly - particularly when you are a target as big as Twitch.
+
+  Wednesday's leak took the form of a torrent file posted to online forums by an anonymous user.
+
+  Its file structure contains folders labelled as containing payout information, business documents, under-the-hood software files and code, and even details of unreleased projects.
+
+  And the payouts folder contains what appear to be records of payments made to thousands of the biggest streamers on the platform over two years - showing many of the biggest brands are earning millions of dollars.
+
+  Several streamers told BBC News the payment data was accurate for their own earnings.
+
+  And that poses problems for the company.
+
+  "A lot more damage is now in store for Twitch," Candid Wuest from cyber-security company Acronis, said.
+
+  "The breach is already harming Twitch on all the fronts that count."
+
+  The leaked data "could contain nearly the full digital footprint of Twitch, making it one of the most severe data breaches of late", he said.
+
+  "Releasing payout reports for streaming clients will not make the influencers happy either," Mr Wuest added.
+
+  The download released online is also labelled "part one" - suggesting there may be more material yet to be posted to the internet.

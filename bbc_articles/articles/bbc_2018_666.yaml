@@ -1,0 +1,57 @@
+id: bbc_2018_666
+title: 'Meltdown and Spectre: All Macs, iPhones and iPads affected - BBC News'
+date: '2018-01-05'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-42575033
+content: |-
+  The tech giant has released some fixes and says there are "no known exploits" of the flaws.
+
+  Only iPhones and Macs running the very latest operating system software are safe from the Meltdown bug
+
+  Apple has said that all iPhones, iPads and Mac computers are affected by two major flaws in computer chips.
+
+  It emerged this week that tech companies have been racing to fix the Meltdown and Spectre bugs, that could allow hackers to steal data.
+
+  Billions of PCs, smartphones and tablets around the world are affected - Apple has now confirmed its products are too.
+
+  The firm has released some patches to mitigate the Meltdown flaw.
+
+  It said there was no evidence that either vulnerability had been exploited yet, but advised downloading software only from trusted sources to avoid "malicious" apps.
+
+  Mac users have often believed that their devices and operating systems are less vulnerable to security issues than, for example Android phones or computers running Microsoft systems.
+
+  This video can not be played To play this video you need to enable JavaScript in your browser.
+
+  The Meltdown and Spectre flaws are found in many modern computer processing units - or microchips - designed by Intel and ARM, and together the firms supply almost the entire global computer market.
+
+  "All Mac systems and iOS devices are affected, but there are no known exploits impacting customers at this time," Apple said in blog post on the issue.
+
+  "These issues apply to all modern processors and affect nearly all computing devices and operating systems."
+
+  Apple said it had already released "mitigations" against Meltdown in its latest iPhones and iPad operating system update - iOS 11.2 and the macOS 10.13.2 for its MacBooks and iMacs.
+
+  Meltdown does not affect the Apple Watch, it said.
+
+  Patches against Spectre, in the form of an update to web browser Safari, will be released "in the coming days".
+
+  Google and Microsoft have already issued statements telling users which products are affected by the bugs.
+
+  Google said its Android phones - which make up more than 80% of the global market - were protected if users had the latest security updates.
+
+  And Microsoft has already released fixes for many of its services.
+
+  Windows users should be aware that third-party anti-virus software may need to be updated before applying operating system patches.
+
+  Security researcher Kevin Beaumont is maintaining an online list of anti-virus products that have been updated.
+
+  Guidance from US cyber-security project CERT, which is funded by the federal government, originally advised computer users that in order to fully remove the vulnerability they would have to "replace" processor hardware.
+
+  It has now changed that advice to say users should "apply updates" to mitigate any attacks instead.
+
+  As the severity of the microchip flaws affecting billions of devices became clear, news broke that Intel's chief executive Brian Krzanich sold off 245,000 of his shares in the firm in October.
+
+  This was at a time when Intel knew about Meltdown and Spectre, but before the issues had become public.
+
+  "Brian's sale is unrelated," said Intel in a statement.
+
+  "It was made pursuant to a pre-arranged stock sale plan [...] with an automated sale schedule."

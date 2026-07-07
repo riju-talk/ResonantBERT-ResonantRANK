@@ -1,0 +1,55 @@
+id: bbc_2018_13645
+title: 'Predictim babysitter app: Facebook and Twitter take action - BBC News'
+date: '2018-11-27'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-46354276
+content: |-
+  A service analysing the social media of prospective babysitters falls foul of rules on personal data.
+
+  The app analyses social media accounts for posts that might give parents cause for concern
+
+  An app that claims to vet babysitters is being investigated by Facebook, and has been blocked altogether by Twitter.
+
+  Predictim, based in California, offers a service that scours a prospective babysitter’s social media activity in order to provide a score out of five to suggest how safe they may or may not be.
+
+  It looks for posts about drugs, violence of other undesirable content. Critics say algorithms should not be trusted to give advice on someone’s employability.
+
+  Earlier this month, after discovering the activity, Facebook revoked most of Predictim’s access to users, deeming the firm to be in violation of its policies on use of personal data.
+
+  Facebook is now investigating whether to block the firm entirely from its platform after Predictim said it was still scraping public Facebook data in order to power its algorithms.
+
+  "Everyone looks people up on social media, they look people up on Google,” said Predictim's chief executive and co-founder, Sal Parsa,
+
+  Facebook did not see it that way.
+
+  “Scraping people's information on Facebook is against our terms of service,” a spokeswoman said.
+
+  "We will be investigating Predictim for violations of our terms, including to see if they are engaging in scraping.”
+
+  Meanwhile, Twitter told the BBC it had “recently” decided to block Predictim’s access to its users.
+
+  “We strictly prohibit the use of Twitter data and APIs for surveillance purposes, including performing background checks,” a spokeswoman said via email. "When we became aware of Predictim’s services, we conducted an investigation and revoked their access to Twitter's public APIs."
+
+  An API - application programming interface - is used to allow different software to interact. In this case, Predictim would make use of Twitter’s API in order to quickly analyse a user's tweets.
+
+  Predictim, which has been funded by a scheme set up the the University of California, gained considerable attention over the weekend thanks to a front-page story in the Washington Post. In it, experts warned of the fallibility of algorithms that might misinterpret the intent behind messages.
+
+  Jamie Williams, from the Electronic Frontier Foundation, told the newspaper: "Kids have inside jokes. They’re notoriously sarcastic. Something that could sound like a ‘bad attitude’ to the algorithm could sound to someone else like a political statement or valid criticism."
+
+  Predictim said it had a human review element to its system that meant posts flagged as being troublesome were looked at manually to prevent false negatives. As well as references to criminal behaviour, Predictim claims to be able to spot instances "when an individual demonstrates a lack of respect, esteem, or courteous behaviour".
+
+  The company showed the BBC a demonstration dashboard that showed how users could see specific social media posts flagged as inappropriate to make their own judgements.
+
+  The service charges $25 to run a scan of an applicant’s social media profiles, with discounts for multiple scans. The company said it was in discussions with major “shared economy” companies to provide vetting for ride share drivers or accommodation service hosts.
+
+  "It’s not blackbox magic,” Mr Parsa said. "If the AI flags an individual as abusive, there is proof of why that person is abusive."
+
+  The firm insists it is not a tool designed to be used to make hiring decisions, and that the score is just a guide. However, on the site’s dashboard, the company uses phrasing such as "this person is very likely to display the undesired behaviour (high likelihood of being a bad hire)”. Elsewhere on the dummy dashboard, the person in question is flagged as being “very high risk”.
+
+  Mr Parsa pointed out a disclaimer at the bottom of the page that reads: “We cannot provide any guarantee as to the accuracy of the analysis in the report or whether the subject of this report would be suitable for your needs.”
+
+  The legality of firms scraping public social networking data without the consent of the sites in question is being tested in the courts.
+
+  Professional networking site LinkedIn is currently locked in the US appeal courts with HiQ, a service that made use of publicly available LinkedIn data to create its own database. A lower court in California earlier ruled in favour of HiQ being allowed to make use of the data.
+
+  Do you have more information about this or any other technology story? You can reach Dave directly and securely through encrypted messaging app Signal on: +1 (628) 400-7370

@@ -1,0 +1,59 @@
+id: bbc_2022_11111
+title: 'Check your postcode: Is your area vulnerable to extreme heat? - BBC News'
+date: '2022-08-12'
+section: UK
+url: http://www.bbc.co.uk/news/uk-62243280
+content: |-
+  With Britain reaching record temperatures, use our postcode tool to find out how your area experiences extreme heat.
+
+  Rising summer temperatures are causing longer and more frequent heatwaves across Great Britain, according to the Met office.
+
+  BBC analysis estimates that six million people live in places at risk of higher heat during the summer months.
+
+  Using satellite data from 4 Earth Intelligence, the BBC mapped how vulnerable postcode areas were to extreme heat in England, Wales and Scotland during periods of hot weather over the past three summers - shown with a heat hazard score.
+
+  A modern browser with JavaScript and a stable internet connection is required to view this interactive. Is your postcode area vulnerable to extreme heat? Enter your full postcode to find out Find out more about the data The heat hazard score for each postcode area was calculated by 4 Earth Intelligence (a satellite analytics company), who measured the average land surface temperature over a sample of days across the past three summers in Great Britain. Each heat hazard score represents different sized groups, as shown in the scale. This is to highlight the places where the temperature in an area was higher compared to the rest of Great Britain, once the temperature had been adjusted to make it comparable across regions. For example, a score of one means the postcode was in the lowest 40% of potential heat hazard areas, while a score of five means it was in the top 1% of potential heat hazard areas. If your postcode is represented by or contains a small square, this may be because your building has too many addresses in it for a single postcode. This block can be shown adjacent to areas with the same postcode, or a few streets away.
+
+  The difference in heat between areas is often due to a phenomenon known as the urban heat island effect, where buildings and roads absorb and retain heat and become significantly hotter than surrounding areas with shade or green space.
+
+  This can be seen in part of Brent, London, seen below. Postcodes next to or near green spaces, such as Roundwood Park, are generally cooler than those surrounded by other buildings over the past three summers, according to the data from 4 Earth Intelligence.
+
+  A similar effect can be seen with bodies of water in Cardiff Bay. One of the postcodes below, which includes buildings next to the River Taff and a wildlife reserve, are cooler than those in more built up areas nearby.
+
+  The potential heat hazard score for each postcode area was calculated by 4EI, who measured the average land surface temperature over a sample of days in the past three summers across Britain.
+
+  What does my heat hazard score mean?
+
+  Each score, ranging from one to five, is an indicator of how likely it is that your area will experience high temperatures during hot weather, when compared with other areas in your surrounding neighbourhood.
+
+  How was the score calculated?
+
+  A statistical method published by academics was used to standardise land surface temperatures for each postcode area, which involved combining satellite images for different dates over the past three years.
+
+  The temperature data was then adjusted to consider the different average temperatures of each region, to highlight hotter areas across the country, despite varying climates and temperatures.
+
+  Each heat hazard score represents different sized groups, as described below.
+
+  1 = 40th percentile and lower, if you lined up all the postcodes by heat hazard score, your postcode is in the coolest 40%.
+
+  2 = 40th - 70th percentile, your postcode is in the mid-range. 40% of postcodes have a lower heat hazard than yours but 30% have a higher one.
+
+  3 = 70th - 90th percentile, your postcode is towards the upper end of the scale. 70% of postcodes have a lower heat hazard than than yours but 10% have a higher one.
+
+  4 = 90th - 99th percentile, nine out of 10 postcodes have a lower heat hazard than yours and only 1% have a higher one.
+
+  5 = 99th percentile, your postcode area has among the highest heat hazard scores.
+
+  Why does my postcode show a square block?
+
+  A single building can contain more than one postcode, such as a block of flats, this is known as a vertical street.
+
+  On the heat hazard map, postcodes that are part of vertical streets are represented by a square shape.
+
+  Vertical street postcodes which sit away from the main postcode area, or inside other postcode areas have inherited the heat hazard score from the main postcode they originally belong to.
+
+  I live in Didcot or Northampton, why is there no data for my area?
+
+  Postcodes in Didcot and Northampton do not have a heat hazard score. This is because of limitations in the way the satellite data was collected which meant scores for neighbourhoods in these areas were not comparable to one another.
+
+  Produced by Rob England, Harriet Bradshaw, Libby Rogers, Jana Tauschinski, Deirdre Finnerty and Wesley Stephenson. Development by Alexander Ivanov, Marcos Gurgel, Shilpa Saraf and Becky Rush. Data provided by 4 Earth Intelligence.

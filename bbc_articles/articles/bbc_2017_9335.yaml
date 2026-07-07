@@ -1,0 +1,31 @@
+id: bbc_2017_9335
+title: Microsoft Outlook issue fixed - BBC News
+date: '2017-09-18'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-41306441
+content: |-
+  Email users across Europe were affected, the technology giant said.
+
+  Microsoft says that its Outlook email services have been fully restored, following problems which lasted several hours.
+
+  Many Outlook users were unable to send email or access their accounts.
+
+  Hundreds from around Europe commented on the website Downdetector that they had been affected by the problem - many since Monday morning.
+
+  One common issue seemed to be that sent emails remained in the drafts folder and were not delivered to recipients.
+
+  On its website, Microsoft said the service dropped "unexpectedly" and it was working on a fix.
+
+  Not all account holders were affected.
+
+  "Intermittent connectivity is affecting customers in some European countries, which we are working to resolve as soon as possible," said a Microsoft representative.
+
+  On its service status page, Microsoft said that an "alternate infrastructure" is being used while the service is restored.
+
+  "We've identified that a subset of infrastructure was unable to process requests as expected, which caused general service availability to drop unexpectedly," it says.
+
+  "We've redirected requests to alternate infrastructure to restore service, and we're monitoring the environment while connectivity recovers.
+
+  "Additionally, we're investigating an issue in which users are unable to send email messages."
+
+  In an updated statement, Microsoft now says services are "fully restored".

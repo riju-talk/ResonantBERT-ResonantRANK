@@ -1,0 +1,67 @@
+id: bbc_2019_1668
+title: Crime prediction software 'adopted by 14 UK police forces' - BBC News
+date: '2019-02-04'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-47118229
+content: |-
+  Liberty says at least 14 forces have used or intend to use crime-prediction software.
+
+  Liberty is concerned the software's predictions are based on biased data
+
+  At least 14 UK police forces have made use of crime-prediction software or plan to do so, according to Liberty.
+
+  The human rights group said it had sent a total of 90 Freedom of Information requests out last year to discover which forces used the technology.
+
+  It believes the programs involved can lead to biased policing strategies that unfairly focus on ethnic minorities and lower-income communities.
+
+  And it said there had been a "severe lack of transparency" about the matter.
+
+  Defenders of the technology say it can provide new insights into gun and knife crime, sex trafficking and other potentially life-threatening offences at a time when police budgets are under pressure.
+
+  One of the named forces - Avon and Somerset Police - said it had invited members of the press in to see the Qlik system it used in action, to raise public awareness.
+
+  "We make every effort to prevent bias in data models," said a spokeswoman.
+
+  "For this reason the data... does not include ethnicity, gender, address location or demographics."
+
+  But Liberty said the technologies lacked proper oversight, and moreover there was no clear evidence that they had led to safer communities.
+
+  "These opaque computer programs use algorithms to analyse hordes of biased police data, identifying patterns and embedding an approach to policing which relies on discriminatory profiling," its report said.
+
+  "[They] entrench pre-existing inequalities while being disguised as cost-effective innovations."
+
+  Liberty's report focuses on two types of software, which are sometimes used side-by-side.
+
+  The first is "predictive mapping", in which crime "hotspots" are mapped out, leading to more patrols in the area.
+
+  The second is called "individual risk assessment", which attempts to predict how likely an individual is to commit an offence or be a victim of a crime.
+
+  Manchester's police force was identified as one of those to be using historical data to predict where future crimes might take place
+
+  The report says the following forces had already used one or both types or were planning to do so:
+
+  Companies that develop such applications include IBM, Microsoft, Predpol and Palantir and there are efforts to create bespoke solutions.
+
+  The BBC contacted each of the named forces and two responded that they had already stopped using the technology.
+
+  Cheshire Police said it had trialled a mapping program between January and November 2015 but had since stopped using the system.
+
+  And Kent Police confirmed it had introduced a predictive policing mapping tool in 2013 but had subsequently decided not to renew its contract, as reported last year.
+
+  "The launch of a new policing model that places victims and witnesses at its centre has led Kent Police to evaluate alternative options which will support a focus on both traditional and emerging crime types," a spokeswoman said.
+
+  Several forces, however, are involved in a £4.5m "proof-of-concept project", called the National Data Analytics Solution (NDAS), which is funded by the Home Office.
+
+  It draws on information already held by the police about roughly five million people, including incident logs, custody records and conviction histories.
+
+  Using machine-learning techniques, the aim is to calculate a risk score for individuals as to their likelihood of committing crimes in the future.
+
+  In addition, the police hope to use the system to identify which members of their own workforce need support to help reduce illness.
+
+  West Midlands Police leads the effort. The others involved include Metropolitan Police, Greater Manchester Police, Merseyside Police, West Yorkshire Police, Warwickshire and West Mercia Police.
+
+  "We want to see analytics being used to justify investment in social mobility in this time of harmful austerity, addressing deep-rooted inequalities and helping to prevent crime," said Tom McNeil, strategic adviser to the effort.
+
+  "To support this we have appointed a diverse ethics panel placing human rights at the centre."
+
+  However, a report by the Alan Turing Institute - which was commissioned by the police - raised concerns that those involved had been too vague about how they planned to address the risks involved.

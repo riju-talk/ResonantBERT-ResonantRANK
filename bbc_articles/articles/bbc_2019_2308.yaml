@@ -1,0 +1,45 @@
+id: bbc_2019_2308
+title: Russia considers 'unplugging' from internet - BBC News
+date: '2019-02-12'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-47198426
+content: |-
+  Russia may briefly disconnect from the internet as part of a test of its cyber-defences.
+
+  The net independence plan is seen as a way for Russia's government to get more control over online life
+
+  Russia is considering whether to disconnect from the global internet briefly, as part of a test of its cyber-defences.
+
+  The test will mean data passing between Russian citizens and organisations stays inside the nation rather than being routed internationally.
+
+  A draft law mandating technical changes needed to operate independently was introduced to its parliament last year.
+
+  The test is expected to happen before 1 April but no exact date has been set.
+
+  The draft law, called the Digital Economy National Program, requires Russia's ISPs to ensure that it can operate in the event of foreign powers acting to isolate the country online.
+
+  Nato and its allies have threatened to sanction Russia over the cyber-attacks and other online interference which it is regularly accused of instigating.
+
+  The measures outlined in the law include Russia building its own version of the net's address system, known as DNS, so it can operate if links to these internationally-located servers are cut.
+
+  Currently, 12 organisations oversee the root servers for DNS and none of them are in Russia. However many copies of the net's core address book do already exist inside Russia suggesting its net systems could keep working even if punitive action was taken to cut it off.
+
+  The test is also expected to involve ISPs demonstrating that they can direct data to government-controlled routing points. These will filter traffic so that data sent between Russians reaches its destination, but any destined for foreign computers is discarded.
+
+  Eventually the Russian government wants all domestic traffic to pass through these routing points. This is believed to be part of an effort to set up a mass censorship system akin to that seen in China, which tries to scrub out prohibited traffic.
+
+  Russian news organisations reported that the nation's ISPs are broadly backing the aims of the draft law but are divided on how to do it. They believe the test will cause "major disruption" to Russian internet traffic, reports tech news website ZDNet.
+
+  The Russian government is providing cash for ISPs to modify their infrastructure so the redirection effort can be properly tested.
+
+  How does an entire country "unplug" itself from the internet?
+
+  It's important to understand a little about how the internet works. It is essentially a series of thousands of digital networks along which information travels. These networks are connected by router points - and they are notoriously the weakest link in the chain.
+
+  What Russia wants to do is to bring those router points that handle data entering or exiting the country within its borders and under its control- so that it can then pull up the drawbridge, as it were, to external traffic if it's under threat - or if it decides to censor what outside information people can access.
+
+  China's firewall is probably the world's best known censorship tool and it has become a sophisticated operation. It also polices its router points, using filters and blocks on keywords and certain websites and redirecting web traffic so that computers cannot connect to sites the state does not wish Chinese citizens to see.
+
+  It is possible to get around some firewalls using virtual private networks (VPNs) - which disguise the location of a computer so the filters do not kick in - but some regimes are more tolerant of them than others. China cracks down on them from time to time and the punishment for providing or using illegal VPNs can be a prison sentence.
+
+  Occasionally countries disconnect themselves by accident - Mauritania was left offline for two days in 2018 after the undersea fibre cable that supplied its internet was cut, possibly by a trawler.

@@ -1,0 +1,39 @@
+id: bbc_2024_16024
+title: IT outage exposes fragility of tech infrastructure - BBC News
+date: '2024-07-20'
+section: Technology
+url: http://www.bbc.co.uk/news/articles/c4ngv0nw612o
+content: |-
+  Ultimately, when systems wobble, there is little that can be done - except wait for a fix.
+
+  As the global chaos subsides and systems continue to return online, the enormous IT outage which caused havoc around the world on Friday reveals a few uncomfortable truths about the foundations of our digital lives - and how fragile they might be.
+
+  The outage showed that even the platform of an enormous firm like Microsoft, with its deep pockets and huge investment in robust system security, could be knocked sideways by an accidental error in a software update issued by an independent cybersecurity company. And with catastrophic impact because Microsoft-powered computers are at the heart of so much of our tech infrastructure.
+
+  It shines a light on just how reliant we have become on that infrastructure, and how helpless we are as a result when something goes wrong that is beyond our control.
+
+  Ultimately, when these systems wobble, there is nothing you or I can do about it.
+
+  I watched an IT expert on the TV yesterday, whose advice for those caught up in the whirlwind was to “be patient”. Patience is the last thing many people felt at the time I’m sure, but honestly it was the only possible action for most of us.
+
+  The outage also demonstrated, wrote Owen Sayers in Computer Weekly, “the immense risk we face if we put all our eggs into one huge world-spanning basket”.
+
+  He was referring to the huge number of businesses, services and people who use a single IT provider. It is easy and convenient - but it also means there is no Plan B if that provider suddenly has a problem.
+
+  There is an old adage that convenience is the enemy of security, and this is the biggest example of that I have ever seen.
+
+  As a consumer, it is hard to avoid this dominance - if you shop in a store and pay with a card or your phone, you are relying on someone else’s tech to process your transaction smoothly. Increasingly, you are less likely to have a choice - a number of businesses no longer accept physical cash at all.
+
+  “In some of the cases, the single vendor is a choice due to cost,” says Alina Timofeeva from BCS, the Institute for IT.
+
+  “The rationale is that the vendor is so big and powerful that the companies do not anticipate it could go down.”
+
+  This makes sense, but is a larger number of smaller IT providers the solution?
+
+  You might not get the huge, seismic outages if fewer people are relying on them, but you are also introducing multiple systems with multiple potential weaknesses – which could make them easier to hack.
+
+  What happened on Friday was not a cyber attack, and Microsoft is quick to point out that the outage was not its fault, although questions clearly remain about exactly how the cyber security firm CrowdStrike’s disastrous Falcon update slipped through the net.
+
+  “There will be someone in CrowdStrike who will be in a lot of trouble right now for not getting this right,” observes Prof Victoria Baines, from Gresham College in London.
+
+  “And there will be a lot of people working this weekend.”

@@ -1,0 +1,33 @@
+id: bbc_2019_1443
+title: Jack'd gay dating app exposes millions of private photos - BBC News
+date: '2019-02-07'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-47156029
+content: |-
+  A security flaw in gay dating app Jack'd left private intimate photos publicly exposed on the internet.
+
+  Anyone with a web browser who knew where to look could access millions of private photos, even if they did not have a Jack'd account.
+
+  Researcher Oliver Hough told BBC News he had reported the flaw to Jack'd a year ago.
+
+  The company has not responded to a request for comment, but it appeared to implement a fix on Thursday.
+
+  News site The Register first reported the flaw on 5 February, even though it had not been fixed at the time, in order to warn the app's users.
+
+  Jack'd has been downloaded more than five million times on the Google Play app store.
+
+  It lets members add "private" photos to their profile, which should be visible to only specific people they have chosen to share them with.
+
+  However, Mr Hough found that all the photos shared in the app were uploaded to the same open web server, leaving them exposed.
+
+  BBC News saw evidence that private photos were still publicly available on the web server as of Thursday morning.
+
+  According to news website Ars Technica, the app had also leaked "location data and other metadata about users".
+
+  Earlier this week, the company's chief executive, Mark Girolamo, told Ars Technica a fix would be deployed on Thursday
+
+  However, Jack'd has not yet issued a statement addressing the flaw.
+
+  "They acknowledged my report but then just went silent and did nothing," Mr Hough told BBC News.
+
+  "A journalist contacted them in November and they did the same."

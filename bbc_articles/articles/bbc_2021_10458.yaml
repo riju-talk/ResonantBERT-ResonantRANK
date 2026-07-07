@@ -1,0 +1,49 @@
+id: bbc_2021_10458
+title: Apple defends new photo scanning child protection tech - BBC News
+date: '2021-08-09'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-58145943
+content: |-
+  The tech giant has insisted that its new technology will not be used to spy on its users.
+
+  Apple has responded to critics of its new anti-child abuse measures
+
+  Apple has defended its new system that scans users' phones for child sexual abuse material (CSAM), after a backlash from customers and privacy advocates.
+
+  The technology searches for matches of known abuse material before the image is uploaded to its iCloud storage.
+
+  Critics warned it could be a "backdoor" to spy on people, and more than 5,000 people and organisations have signed an open letter against the technology.
+
+  As a result, Apple has pledged not to "expand" the system for any reason.
+
+  Digital privacy campaigners warned last week that authoritarian governments could use the technology to bolster anti-LGBT regimes, or crack down on political dissidents in countries where protests are deemed illegal.
+
+  But Apple said it would "will not accede to any government's request to expand" the system.
+
+  It published a question-and-answer document, saying it had numerous safeguards in place to stop its systems from being used for anything other than the detection of child abuse imagery.
+
+  "We have faced demands to build and deploy government-mandated changes that degrade the privacy of users before, and have steadfastly refused those demands. We will continue to refuse them in the future," it said.
+
+  However, Apple has made some concessions in the past in order to keep operating in countries around the world.
+
+  Last New Year's Eve, the tech giant removed 39,000 apps from its Chinese App Store amid a crackdown on unlicensed games by authorities in the country.
+
+  Apple also said its anti-CSAM tool will not allow the company to see or scan a user's photo album. It will only scan photos that are shared on iCloud.
+
+  The system will look for matches, securely on the device, based on a database of hashes of known CSAM images provided by child safety organisations.
+
+  Apple also claims it is nearly impossible to falsely flag innocent people to police. "The likelihood that the system would incorrectly flag any given account is less than one in one trillion per year," it said. There is also a human review of positive matches.
+
+  Privacy advocates, however, have argued that the only thing preventing that technology being turned to other uses is Apple's promise that it will not be.
+
+  Digital rights group the Electronic Frontier Foundation, for example, said that "all it would take... is an expansion of the machine learning parameters to look for additional types of content".
+
+  "That's not a slippery slope; that's a fully-built system just waiting for external pressure to make the slightest change," it warned.
+
+  Apple also provided reassurances regarding another new feature that will warn children and their parents using linked family accounts, when sexually explicit photos are sent or received.
+
+  The company says its two new features do not use the same technology, and says it will "never" gain access to users' private communications.
+
+  While there was a backlash regarding Apple's announcement from privacy advocates, some politicians welcomed the new technology.
+
+  UK Health Secretary Sajid Javid said it was time for others, especially Facebook, to follow suit.

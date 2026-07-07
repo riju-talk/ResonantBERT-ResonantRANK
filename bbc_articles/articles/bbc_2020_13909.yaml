@@ -1,0 +1,70 @@
+id: bbc_2020_13909
+title: 'Coronavirus: NHS Covid-19 app starts offering self-isolate payments - BBC
+  News'
+date: '2020-12-10'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-55259272
+content: |-
+  Users of the app in England and Wales can now apply for £500 if eligible.
+
+  An update to England and Wales's NHS Covid-19 contact-tracing app is adding a way to apply for a £500 grant if it gives a self-isolation order.
+
+  Until now, those on low incomes were only offered the payment if they had been told to stay at home by human Test and Trace operators.
+
+  The move comes at a time when the number of people testing positive for the coronavirus is on the rise again.
+
+  Experts have suggested following the app's guidance could help reverse that.
+
+  "People are not isolating because they can't afford to or because they don't realise that they have to - the whole system is not working," Paul Hunter, professor of health protection at the University of East Anglia, told BBC Radio 4's Today programme.
+
+  "I think there is ample evidence that many people who should be isolating don't feel they can for whatever reason, and I think that has to be fixed if this is going to be effectively controlled until we've had adequate rollout of the vaccine."
+
+  New figures reveal that the NHS Covid-19 app has been downloaded 20,361,253 times as of 2 December, representing about 40% of eligible adults.
+
+  That only represents a 0.7% gain since the previous week, suggesting that installations have plateaued.
+
+  But by offering financial support, more people might be willing to use it.
+
+  And that in turn would help the system become more effective at identifying those at high risk of being infected by someone they were recently in close proximity to.
+
+  However, officials say the key aim is to encourage and make it easier for more people to self-isolate.
+
+  England and Wales have both allowed people on low incomes, who cannot work from home, to apply for financial help if they have received a phone call, email, letter or text message telling them to self-isolate.
+
+  Previously, that did not cover people who had received the app notification to isolate.
+
+  This was in part because the app is designed to keep the identity of anyone receiving an alert private.
+
+  So, the challenge was to find a way to add the facility while still being able to prevent fraudulent claims.
+
+  The solution involves a new financial support button that only appears on the app's home screen if the user has been told to self-isolate.
+
+  If tapped, the user is taken out of the app to a webpage that asks them to select if they live in England or Wales.
+
+  In the case of England, they will then need to fill in an eligibility criteria check.
+
+  If accepted, they are next asked to supply their email address and phone number to get a security code to register with NHS Test and Trace.
+
+  The NHS Test and Trace team then provides an account number that the user supplies to their local authority to get the payment.
+
+  In doing so, the user must reveal their identity and accept a legal obligation to stay at home for the duration of the order.
+
+  If they then break the self-isolation rules they can be fined £1,000 or more.
+
+  Wales's NHS Test, Trace, Protect service has a parallel system, which first asks users which of the country's 22 local authorities they live in.
+
+  Each council has its own claims process, which must then be completed.
+
+  The system has been set up in such a way that the process only works once, and the external webpage checks it has been accessed in an authorised way via use of a token.
+
+  All data stored within the app, including locations checked in via QR barcode scans, remains anonymous to the authorities.
+
+  Northern Ireland's StopCovid NI app recently deployed a similar solution, generating a Self-Isolation Certificate that can be used to apply for a grant from its Department for Communities.
+
+  But at this point, the NHS Scotland Protect Scotland app lacks a similar facility to let users apply for help from the Scottish Welfare Fund.
+
+  "Currently we are not able to provide direct eligibility from an app-only request to isolate as it maintains the anonymity of the user so we cannot confirm that the applicant is the person who has been contacted," said a spokeswoman for the Scottish government.
+
+  "We are looking at possible solutions if a user chooses to be identified when asked to isolate.
+
+  "In the meantime, local authorities are being flexible and looking further into the individual circumstances of these types of applications on a case by case basis to determine whether the request to isolate can be verified by other means and an award made."

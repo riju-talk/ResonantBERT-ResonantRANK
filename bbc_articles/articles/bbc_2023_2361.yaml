@@ -1,0 +1,73 @@
+id: bbc_2023_2361
+title: Quantum breakthrough could revolutionise computing - BBC News
+date: '2023-02-08'
+section: Science & Environment
+url: http://www.bbc.co.uk/news/science-environment-64492456
+content: |-
+  Researchers have transferred 'quantum' information between computer chips at record speeds and accuracy.
+
+  Twenty years ago Winfried Hensinger was told by other scientists that developing a powerful quantum computer was impossible. Now he has made the system behind him that he believes will prove them wrong
+
+  Scientists have come a step closer to making multi-tasking 'quantum' computers, far more powerful than even today's most advanced supercomputers.
+
+  Quantum computers make use of the weird qualities of sub-atomic particles.
+
+  So-called quantum particles can be in two places at the same time and also strangely connected even though they are millions of miles apart.
+
+  A Sussex University team transferred quantum information between computer chips at record speeds and accuracy.
+
+  The researchers connected two chips together and sent record amounts of quantum information at unprecedented speeds and reliability
+
+  Computer scientists have been trying to make an effective quantum computer for more than 20 years. Firms such as Google, IBM and Microsoft have developed simple machines. But, according to Prof Winfried Hensinger, who led the research at Sussex University, the new development paves the way for systems that can solve complex real world problems that the best computers we have today are incapable of.
+
+  "Right now we have quantum computers with very simple microchips," he said. "What we have achieved here is the ability to realise extremely powerful quantum computers capable of solving some of the most important problems for industries and society."
+
+  Rolls-Royce is investing in quantum computing research to see if it can speed up the design process for their aircraft engines
+
+  Currently, computers solve problems in a simple linear way, one calculation at a time.
+
+  In the quantum realm, particles can be in two places at the same time and researchers want to harness this property to develop computers that can do multiple calculations all at the same time.
+
+  Quantum particles can also be millions of miles apart and be strangely connected, mirroring each other's actions instantaneously. Again, that could also be used to develop much more powerful computers.
+
+  The quantum computer chips have to be set up in a clean room an put into a vacuum container as even the slightest contamination can reduce its performance
+
+  One stumbling block has been the need to transfer quantum information between chips quickly and reliably: the information degrades, and errors are introduced.
+
+  But Prof Hensinger's team has made a breakthrough, published in the journal Nature Communications, which may have overcome that obstacle.
+
+  The team developed a system able to transport information from one chip to another with a reliability of 99.999993% at record speeds. That, say the researchers, shows that in principle chips could be slotted together to make a more powerful quantum computer.
+
+  The research team can see individual atoms floating above their chips as the test out their quantum computer
+
+  Prof Michael Cuthbert, who is the director of the newly established National Quantum Computing Centre in Didcot, Oxfordshire and is independent of the Sussex research group described the development as a "really important enabling step". But he said that more work was needed to develop practical systems.
+
+  "To build the type of quantum computer you need in the future, you start off by connecting chips that are the size of your thumbnail until you get something the size of a dinner plate. The Sussex group has shown you can have the stability and speed for that step.
+
+  "But then you need a mechanism to connect these dinner plates together to scale up a machine, potentially as large as a football pitch, in order to carry out realistic and useful computations, and the technology for communications for that scale is not yet available."
+
+  Quantum computers harness two weird properties of particles at the very small scale - they can be in two places at the same time and be strangely connected even though they are millions of miles apart.
+
+  PhD student Sahra Kulmiya, who carried out the Sussex experiment, says that the team are ready for the challenge to take the technology to the next level.
+
+  "It is not just solely a physics problem anymore," she told BBC News.
+
+  "It is an engineering problem, a computer science problem and also a mathematical problem.
+
+  "It is really difficult to say how close we are to the realisation of quantum computing, but I'm optimistic in how it can become relevant to us in our everyday lives."
+
+  One of the UK's leading engineering firms, Rolls Royce, is also optimistic about the technology. It is working with the Sussex researchers to develop machines that could help them design even better jet engines.
+
+  Powerful supercomputers are used to model the flow of air in simulations to test out new designs of aircraft engines.
+
+  A quantum computer could in principle track the airflow with even greater accuracy, and do so really quickly, according to Prof Leigh Lapworth, who is leading the development of quantum computing for Rolls-Royce.
+
+  "Quantum computers would be able to do calculations that we can't currently do and others that would take many months or years. The potential of doing those in days would just transform our design systems and lead to even better engines."
+
+  The technology could potentially also be used to design drugs more quickly by accurately simulating their chemical reactions, a calculation too difficult for current supercomputers. They could also provide even more accurate systems to forecast weather and project the impact of climate change.
+
+  Prof Hensinger said he first had the idea of developing a quantum computer more than 20 years ago.
+
+  "People rolled their eyes and said: 'it's impossible'."
+
+  "And when people tell me something can't be done, I just love to try. So I have spent the past 20 years removing the barriers one by one to a point where one can now really build a practical quantum computer."

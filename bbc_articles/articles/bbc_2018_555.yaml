@@ -1,0 +1,43 @@
+id: bbc_2018_555
+title: '''Text bomb'' is latest Apple bug - BBC News'
+date: '2018-01-18'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-42728336
+content: |-
+  Security expert says bug affecting Apple's iPhone and Mac computers is 'nasty' and a nuisance.
+
+  Apple has not yet commented on the latest bug
+
+  A new "text bomb" affecting Apple's iPhone and Mac computers has been discovered.
+
+  Abraham Masri, a software developer, tweeted about the flaw which typically causes an iPhone to crash and in some cases restart.
+
+  Simply sending a message containing a link which pointed to Mr Masri's code on programming site GitHub would be enough to activate the bug - even if the recipient did not click the link itself.
+
+  Mr Masri said he "always reports bugs" before releasing them. Apple has not yet commented on the issue.
+
+  On a Mac, the bug reportedly makes the Safari browser crash, and causes other slowdowns.
+
+  But users should not be alarmed.
+
+  Security expert Graham Cluley wrote on his blog that the bug does not present anything to be particularly worried about - it's merely very annoying.
+
+  On a Mac computer, the bug reportedly makes the Safari browser crash, and causes other slowdowns
+
+  "Something about the so-called ChaiOS bug's code gives your Apple device a brainstorm," he wrote.
+
+  "Ashamed about the mess it gets itself in, Messages decides the least embarrassing thing to do is to crash.
+
+  "Nasty. But, thankfully, more of a nuisance than something that will lead to data being stolen from your computer or a malicious hacker being able to access your files."
+
+  After the link did the rounds on social media, Mr Masri removed the code from GitHub, therefore disabling the "attack" unless someone was to replicate the code elsewhere.
+
+  "I'm not going to re-upload it," he said.
+
+  "I made my point. Apple needs to take such bugs more seriously."
+
+  Bugs in Apple's software have been a recurring problem of late.
+
+  In November it apologised to its customers for a glaring password flaw which meant its latest Mac operating system could be accessed without a password.
+
+  Less serious but highly frustrating was a bug that autocorrected the letter "I" into a strange symbol.

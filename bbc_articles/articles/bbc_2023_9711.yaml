@@ -1,0 +1,67 @@
+id: bbc_2023_9711
+title: AI to stop water pollution before it happens - BBC News
+date: '2023-06-16'
+section: Science & Environment
+url: http://www.bbc.co.uk/news/science-environment-65913940
+content: |-
+  A project in England uses sensors, satellites and past spill data to predict future pollution.
+
+  A network of sensors provides real-time information on changes in water quality
+
+  Artificial intelligence will be used in south-west England to predict pollution before it happens and help prevent it.
+
+  It's hoped the pilot project in Devon will help improve water quality at the seaside resort of Combe Martin, making it a better place for swimming.
+
+  Sensors placed in rivers and fields will build a picture of the state of local rivers, rainfall and soil.
+
+  AI will then combine that data with satellite imagery of local land use.
+
+  It will predict when the local river system is most vulnerable to things like agricultural runoff, allowing for measures such as asking farms to hold off on applying fertiliser.
+
+  Computer systems company CGI is running the artificial intelligence project with mapping experts Ordnance Survey. CGI said it was more than 90% accurate during a test run.
+
+  It's being trialled in what's known as the North Devon Biosphere Reserve, a 55-sq-mile (142-sq-km) protected area that includes important natural habitats as well as farmland and small towns.
+
+  "We'll give (the AI) the history," said CGI's chief sustainability officer Mattie Yeta. "We'll give it all of the geographic information, as well as data sets from the sensors for it to learn and develop the predictive mechanisms to be able to inform where these incidents are occurring and indeed when they will take place."
+
+  The green lined River Umber brings pollution into the sea at Combe Martin
+
+  It's hoped the project could clean up the seaside resort town of Combe Martin, where the quality of bathing water has long been a concern.
+
+  "It's always been bumping along the bottom in terms of water quality," says Andy Bell from the North Devon Biosphere Reserve.
+
+  Though the water at Combe Martin was last year rated by the Environment Agency as 'good', Mr Bell says that was mainly down to dry weather. More typical years, he says, were 2018 and 2019 when it received a 'poor' rating, which meant a notice being posted advising people not to swim.
+
+  "There is very much a fear in the community of what would happen if the bathing water status was rescinded." Andy says
+
+  "It would impact on the cafes, the restaurants, the B&B's... people want to come to a clean place to enjoy themselves."
+
+  The River Umber is the main culprit, according to Mr Bell. It reaches the sea through a corridor of lush green algae on the edge of the beach. The Umber is usually little more than a stream but it receives discharges both from a sewage treatment plant and agricultural runoff from farms.
+
+  Cleaning up the Umber is seen as a first step towards improving the water quality on the beach and the key to that, according to the artificial intelligence project, is a huge amount of real-time information.
+
+  Floating water sensors monitor key indicators and send back information over mobile and wifi networks
+
+  A couple of kilometres upstream from Combe Martin beach, a floating water sensor is being installed in the river. It's a square black box with solar panels on top and is moored by a cable to the bank.
+
+  It automatically transmits a stream of data on six key indicators of water health including acidity (pH), ammonia, the amount of dissolved oxygen in the water and how clear the water is (turbidity).
+
+  "It's a really good overview of water quality," said Glyn Cotton, the chief executive of environment-focussed technology company Watr, which is supplying the £2,000-a-go ($2,557) sensors to the project.
+
+  "If sewage was being discharged upstream we would see spikes in things like ammonia and pH and we can then cross-reference that with temperature and dissolved oxygen levels."
+
+  About 50 connected sensors are being used across the catchment area, a mix of water, soil and rain gauges. Mapping company Ordnance Survey are providing the expertise to integrate that information with location specific data and satellite imagery.
+
+  Mapping experts Ordnance Survey are helping integrate the sensors with satellite imagery in the AI model
+
+  "We can start training the model using data to get it understanding that when there was a pollution event - whether it was associated with a particular area?" said Donna Lyndsay from Ordnance Survey. "Was there for example a particular rainfall event that washed it all off?"
+
+  The hope is that the AI might, for example, advise a farmer to stop putting more fertiliser on his field, if the soil is dry and heavy rain forecast because of the likelihood of it being washed into the waterways.
+
+  Preventing raw sewage being discharged by water treatment plants - a practice allowed when heavy rainfall overwhelms facilities - is more complicated. The AI might see it coming after heavy rainfall but that doesn't mean the water company has the capacity to stopped it being released.
+
+  The first phase of the AI project was a desk-based model using historic data, with CGI saying it predicted pollution events with 91.5% accuracy. Now the AI model is being unleashed 'in the wild' and the question is whether it can do the same.
+
+  "We're starting very small here (in North Devon) ... but the idea is very much to scale up and roll this out to different parts of the UK." said CGI's Mattie Yeta.
+
+  Artificial intelligence (AI) technology is developing fast, and transforming many aspects of life. Great promises have been made, and dire predictions as well. So what is the reality? Find out more here.

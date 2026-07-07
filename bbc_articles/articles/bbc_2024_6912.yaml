@@ -1,0 +1,73 @@
+id: bbc_2024_6912
+title: Your personal data all over the web - is there a better way? - BBC News
+date: '2024-03-08'
+section: Business
+url: http://www.bbc.co.uk/news/business-68286395
+content: |-
+  Would it be better to keep your personal data in one place, rather than entering it into hundreds of websites?
+
+  Sir Tim Berners-Lee says individuals should claim back control of their personal data
+
+  "From the beginning, I always meant for the web to be a platform for creativity and collaboration," says Sir Tim Berners-Lee, inventor of the world wide web.
+
+  "The first decade of the web lived up to that promise, but that's not what we've seen in the last 20 years or so."
+
+  Sir Tim says a particular problem is the way personal data is handled. When you log in and store data in a website, it can only be used within that website.
+
+  But an open source software project, called Solid, is designed to reverse that situation.
+
+  The idea of Solid is that people have a private data store, and they get to choose which organisations can access it, for what purpose, and for how long.
+
+  Called a Personal Online Data Store, or Pod, it gives users control over their data, and the freedom to combine it or share it between applications.
+
+  Sir Tim is co-founder of Inrupt, a company that provides Solid-based technologies. He says using the technology would mean that data storage would be "centred around people, instead of around apps".
+
+  In Flanders, Belgium, Athumi is working on several projects using Solid.
+
+  The company was set up by the Flemish government to help re-launch the economy after the Covid-19 emergency. The company acts as a neutral intermediary, connecting businesses in different sectors and enabling them to access sensitive company and citizen data.
+
+  Athumi's first Solid project launched last year in collaboration with recruitment company Randstad, prior to a rollout with other recruitment firms. During 2024, Athumi plans to scale this application to 30,000 users.
+
+  Björn De Vidts believes Solid will be hugely disruptive to today’s business models
+
+  The application solves a common problem for job applicants in Belgium. They often have to submit copies of their diplomas, typically as photocopies by mail. Sometimes people struggle to find their certificates and getting replacements causes delay and costs money. "We made the process very easy," says Björn De Vidts, chief executive of Athumi.
+
+  "The first step is to activate your pod. That is legally required because we cannot deliver services for a person who hasn't given us the authority to activate their pod. The second step is that you give permission to load your diploma into the pod. The third step is giving access to Randstad for a certain period of time to use the diploma in your pod for the specific job application." Citizens access and manage their pods through a web browser.
+
+  For some roles, the recruiter needs to verify that the claimed qualification is genuine.
+
+  This can be time-consuming when dealing with paperwork. In the Solid application, the diploma has a token that guarantees the data is authentic and hasn't been changed.
+
+  The tech is also being piloted in healthcare.
+
+  Starting this year, five Belgian hospitals will store information about hospital visits in patients' Solid pods. The idea is that it will make it easier for patients to share their medical data. For example, they could share proof of a recent medical examination when applying for a job, so they don't need to have another one.
+
+  Athumi is also working with several media companies to create shared user profiles that span streaming services, so viewers can get better personalised services.
+
+  The pods store data in standard formats, so that it can be reused in multiple contexts. "What I call the real fun stuff of the data economy is when we will be able to combine these different data elements," says Mr De Vidts. "That will generate use cases that we cannot even predict today. When you have enough interesting data points, application builders will, we believe, come to the pod to build new applications."
+
+  Research commissioned by the Flemish government indicates that citizens would be willing to use the pods if they save time or money, or they help them to improve their health.
+
+  Research suggests people would use pods if they saved time or money
+
+  The Flemish pods are hosted using Enterprise Solid Server, provided by Inrupt. John Bruce, Inrupt's co-founder and CEO, says you could have multiple pods hosted for you by companies such as internet service providers or travel firms you use frequently. All the pods can be accessed through one login.
+
+  Even though pods may share a server, each one has its own access controls, set by the user. By contrast, a company database has one set of access controls that grants access to all customer records. "Today you exist in big databases," says Mr Bruce. "Your credit card is in there with 10 million others.
+
+  "That database is a high value target. [Hackers] will put months of work in to get that database. When the data value exists only in your pod, it is like the difference in the kind of attack one would get on a bank versus you getting mugged on the street. You're not going to get a team of people following you around for three months to nick your wallet," he says.
+
+  Amanda Finch, CEO of The Chartered Institute of Information Security, says Athumi's plan to create a centralised data platform will have benefits.
+
+  As well as easing the flow of data through the economy it could boost security.
+
+  "From a security standpoint, it should help to create a safer environment. With fewer platforms to secure, and responsibility lying with one, overarching party, you'd expect fewer vulnerabilities compared to multiple different solutions."
+
+  She adds a note of caution, though, as the new architecture means citizens take responsibility for more sensitive data than they might previously have held. "Putting security into the hands of users and citizens is a risk when you consider how many breaches have a human element," she says.
+
+  "If someone is duped into sharing their pod with a fraudster, then that's it - they've potentially lost everything. Users need to make their own conscious decisions on whether they share data. But this can only happen if citizens are educated on how they can reduce risk by instilling security best practices such as strong passwords or multi-factor authentication."
+
+  Would all those companies used to hoarding data give it up easily? "Companies don't want it," says Mr Bruce. "If they could live in a world where they don't have to be responsible for your data, but they can have access to it, they'd take that in a heartbeat."
+
+  Back at Athumi, Mr De Vidts thinks Solid could be the start of a data revolution.
+
+  "I've been working 25 years in B2B data collaboration, and this is the first time I've seen a data sharing technology that has this kind of potential to disrupt existing business models," he says. "A citizen can decide what data goes to which consuming application. The data subject becomes the data controller."

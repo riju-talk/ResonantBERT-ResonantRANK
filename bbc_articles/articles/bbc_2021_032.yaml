@@ -1,0 +1,49 @@
+id: bbc_2021_032
+title: Elephants counted from space for conservation - BBC News
+date: '2021-01-21'
+section: Science & Environment
+url: http://www.bbc.co.uk/news/science-environment-55737086
+content: |-
+  Satellite imagery is being used to count elephants in a breakthrough that could aid conservation.
+
+  An algorithm is trained to pick out an elephant against a complex backdrop such as a forest
+
+  At first, the satellite images appear to be of grey blobs in a forest of green splotches - but, on closer inspection, those blobs are revealed as elephants wandering through the trees.
+
+  And scientists are using these images to count African elephants from space.
+
+  The pictures come from an Earth-observation satellite orbiting 600km (372 miles) above the planet's surface.
+
+  The breakthrough could allow up to 5,000 sq km of elephant habitat to be surveyed on a single cloud-free day.
+
+  And all the laborious elephant counting is done via machine learning - a computer algorithm trained to identify elephants in a variety of backdrops.
+
+  "We just present examples to the algorithm and tell it, 'This is an elephant, this is not an elephant,'"Dr Olga Isupova, from the University of Bath, said.
+
+  "By doing this, we can train the machine to recognise small details that we wouldn't be able to pick up with the naked eye."
+
+  African elephants are listed as vulnerable to extinction
+
+  The scientists looked first at South Africa's Addo Elephant National Park.
+
+  "It has a high density of elephants," University of Oxford conservation scientist Dr Isla Duporge said.
+
+  "And it has areas of thickets and of open savannah.
+
+  "So it's a great place to test our approach.
+
+  "While this is a proof of concept, it's ready to go.
+
+  "And conservation organisations are already interested in using this to replace surveys using aircraft."
+
+  Conservationists will have to pay for access to commercial satellites and the images they capture.
+
+  But this approach could vastly improve the monitoring of threatened elephant populations in habitats that span international borders, where it can be difficult to obtain permission for aircraft surveys.
+
+  The scientists say it could also be used in anti-poaching work.
+
+  "And of course, [because you can capture these images from space,] you don't need anyone on the ground, which is particularly helpful during these times of coronavirus," Dr Duporge said.
+
+  "In zoology, technology can move quite slowly.
+
+  "So being able to use the cutting-edge techniques for animal conservation is just really nice."

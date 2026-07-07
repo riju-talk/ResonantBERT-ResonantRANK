@@ -1,0 +1,41 @@
+id: bbc_2018_938
+title: Toy firm VTech fined $650,000 over data breach - BBC News
+date: '2018-01-09'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-42620717
+content: |-
+  US regulators say it did a poor job of protecting data it gathered about children and parents.
+
+  Pictures taken with VTech toys were hackable by attackers, security researchers found
+
+  Electronic toymaker VTech will pay $650,000 (£480,000) to settle charges that it failed to protect the privacy of children using its gadgets.
+
+  The US Federal Trade Commission (FTC) levelled the charges at VTech following a data breach in 2015.
+
+  While investigating the breach, the FTC found the firm had broken US laws governing the way data about children is gathered.
+
+  The FTC said VTech also "failed to take reasonable steps" to secure that data.
+
+  VTech gathered a lot of data about children via its Kid Connect app that was bundled in with many of the electronic toys it makes. Almost 650,000 children downloaded the app and used it in conjunction with VTech's educational toys.
+
+  The app collected personal information but did so without seeking consent from parents or telling children what data was being collected and the uses to which it would be put, said the FTC.
+
+  VTech's poor data security practices meant a security researcher could get at the firm's network and take personal information which included customers' names as well as email addresses, it added in its complaint.
+
+  The hacker was also able to get at an internal database that held copies of encryption keys that, if used, would have let an attacker view photos and audio files uploaded by children and parents.
+
+  VTech was unaware that its network had been penetrated and data taken until it was contacted by a journalist.
+
+  "As connected toys become increasingly popular, it's more important than ever that companies let parents know how their kids' data is collected and used and that they take reasonable steps to secure that data," said Maureen Ohlhausen, acting FTC chairwoman, in a statement.
+
+  "Unfortunately," she added, "VTech fell short in both of these areas."
+
+  As well as paying the financial penalty, VTech has pledged to uphold US child data protection laws in future. It has also agreed to improve its security practices and will be subjected to regular independent data and privacy audits for the next 20 years.
+
+  In a statement, VTech said parents were left in no doubt about the type of information being collected about children and were able to decide who they talked to via the app.
+
+  It said it collected data only to help users of its products to communicate with each other, not for marketing purposes.
+
+  Marc Rotenberg, president of the Electronic Privacy Information Center which campaigns on privacy issues, welcomed the FTC's action but said the penalty could have been levied more swiftly.
+
+  "This is good news that the FTC finally took action but we feel like they are moving too slow and clearly following and not leading," Mr. Rotenberg told the New York Times.

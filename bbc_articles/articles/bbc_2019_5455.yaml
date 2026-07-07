@@ -1,0 +1,56 @@
+id: bbc_2019_5455
+title: Who are the hackers who cracked the iPhone? - BBC News
+date: '2019-05-14'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-37192670
+content: |-
+  A botched attempt to hack the iPhone of a human rights lawyer has exposed a secretive hacking group.
+
+  The NSO Group boasted about being able to work without "a trace"
+
+  What do we know about the curious, secretive NSO Group? Very little - but after this week, an awful lot more than we did before.
+
+  The group, an Israeli-based but American-owned company, specialises in creating what it calls tools against crime and terrorism. But the security researchers call them something else: a cyber arms dealer.
+
+  On Thursday, the NSO Group was thrust into international headlines after being credited with creating malicious software capable of "jailbreaking" any iPhone with just one tap of the screen, and then installing vicious spyware.
+
+  Security-savvy human rights lawyer Ahmed Mansoor found himself targeted by the attack when his iPhone received a message promising "secrets" about torture happening in prisons in the United Arab Emirates.
+
+  Had he tapped on the link, the phone would have been plundered. Huge amounts of private data: text messages, photos, emails, location data, even what’s being picked up by the device’s microphone and camera.
+
+  Thankfully, he didn't do that. Instead, he passed on the message to experts at Citizen Lab and Lookout, who peeled back the covers on what they described as one of the most sophisticated cyber weapons ever discovered. With it came evidence that it was the NSO Group’s expertise at the heart of it all.
+
+  Earlier this year, UK-based watchdog Privacy International launched a database tracking the global trade of cyber arms. Its intention was to track deals between cyber arms companies and governments.
+
+  According to the Surveillance Industry Index (SII), the NSO Group was founded in 2010 and is based in Herzliya, an attractive city north of Tel Aviv that is known as being a cluster of tech start-ups. The group was likely funded by the elite 8200 Intelligence Unit, an Israeli military-funded scheme for start-ups.
+
+  According to Forbes, the 8200 Intelligence Unit was heavily involved in providing expertise and funding for Stuxnet, a cyber attack on Iran that was a joint operation between the US and Israel.
+
+  The texts had been sent to human rights activist Ahmed Mansoor
+
+  Listed in the SSI were multi-million dollar deals made between the NSO Group and government entities in Mexico and Panama. This is the tip of the iceberg - press reports of sales rely on leaks and anonymous sources, and so there are likely many more unknown to the general public.
+
+  In 2015, the NSO Group’s owners - US-based venture capital firm Francisco Partners - were looking to sell the company at a value of around $1bn. Neither firm has responded to the BBC’s requests for further comment.
+
+  That the NSO Group sells tools to governments is no secret - in a statement released in response to claims it was behind the attack on Mr Mansoor, NSO Group spokesman Zamir Dahbash said: "The company sells only to authorized governmental agencies, and fully complies with strict export control laws and regulations."
+
+  But the company has gone no further than that in describing who its customers are, and what exactly they buy. It does say it has no control over how its tools are used and for what purpose.
+
+  Whatever the origin of the NSO Group, what has been created is an extraordinarily talented team of cyber specialists.
+
+  The attack on Mr Mansoor, had it worked, would have utilised not one but three zero day attacks. A "zero day" is a term given to vulnerabilities that were previously unknown to the security industry, and are therefore wide open to attack. To discover one zero day is rare, to find three is outstanding.
+
+  Clues to the origin of the attack came when the experts looked at the messages Mr Mansoor received. A link was included to a web domain known to point to servers set up by the NSO Group for its customers.
+
+  When the researchers analysed the spyware’s code, they noticed apparent references to "Pegasus", the name given, by the NSO Group, to one of its spying products.
+
+  Details about Pegasus were made public last year when another cyber arms firm, called the Hacking Team, was itself breached. Material used to market Pegasus was subsequently leaked.
+
+  When Apple was made aware of the vulnerabilities in its iPhone, it acted quickly, patching the problem in 10 days and pushing out an update to all of its users. That has neutralised this specific attack, sure, but there'll likely be many more that remain hidden from view.
+
+  In a rare interview with Defense News, the NSO Group’s co-founder, Omri Lavie, said their attacks would "leave no trace".
+
+  Thanks to the quick thinking of Mr Mansoor, and the forensic efforts of researchers, the group has been temporarily dragged into the limelight - but it will only be for a brief moment. Soon the NSO Group will rejoin the rest of the money-spinning cyber arms trade back in the shadows.
+
+  Follow Dave Lee on Twitter @DaveLeeBBC and on Facebook
+  • None iPhones could be hacked with one tap

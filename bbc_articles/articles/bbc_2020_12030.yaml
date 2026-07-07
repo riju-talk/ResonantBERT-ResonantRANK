@@ -1,0 +1,112 @@
+id: bbc_2020_12030
+title: 'Covid: Test error ''should never have happened'' - Hancock - BBC News'
+date: '2020-10-06'
+section: UK
+url: http://www.bbc.co.uk/news/uk-54422505
+content: |-
+  The health secretary has said a technical glitch that saw nearly 16,000 Covid-19 cases go unreported in England "should never have happened".
+
+  The error meant that although those who tested positive were told about their results, their close contacts were not traced.
+
+  By Monday afternoon, around half of those who tested positive had yet to be asked about their close contacts.
+
+  Labour said the missing results were "putting lives at risk".
+
+  Experts advise that ideally contacts should be tracked down within 48 hours.
+
+  The technical error was caused by some Microsoft Excel data files exceeding the maximum size after they were sent from NHS Test and Trace to Public Health England.
+
+  It meant 15,841 cases between 25 September and 2 October were left out of the UK daily case figures.
+
+  PHE said the error itself, discovered overnight on Friday, has been fixed, and outstanding cases had been passed on to tracers by 01:00 BST on Saturday.
+
+  But Health Secretary Matt Hancock told MPs the incident as a whole had not yet been resolved - with only 51% of those whose positive results were caught up in the glitch now reached by contact tracers.
+
+  He said it had "not substantially changed" the government's assessment of the epidemic, however, and had "not impacted the basis on which decisions about local action were taken".
+
+  He also said outbreak control in care homes, schools and hospitals had not been directly affected, as they do not rely on the data in question.
+
+  "This incident should never have happened. But the team have acted swiftly to minimise its impact," he added.
+
+  The BBC has confirmed the missing Covid-19 test data was caused by the ill-thought-out use of Microsoft's Excel software. Furthermore, PHE was to blame, rather than a third-party contractor.
+
+  The issue was caused by the way the agency brought together logs produced by the commercial firms paid to carry out swab tests for the virus.
+
+  They filed their results in the form of text-based lists, without issue.
+
+  PHE had set up an automatic process to pull this data together into Excel templates so that it could then be uploaded to a central system and made available to the NHS Test and Trace team as well as other government computer dashboards.
+
+  The problem is that the PHE developers picked an old file format to do this - known as XLS.
+
+  As a consequence, each template could handle only about 65,000 rows of data rather than the one million-plus rows that Excel is actually capable of.
+
+  And since each test result created several rows of data, in practice it meant that each template was limited to about 1,400 cases. When that total was reached, further cases were simply left off.
+
+  Labour's shadow health secretary Jonathan Ashworth said the missing results were "putting lives at risk".
+
+  He said the unreported cases meant as many as 48,000 contacts had not been traced and therefore not been isolating, with "thousands blissfully unaware they've been exposed to Covid, potentially spreading this deadly virus".
+
+  This video can not be played To play this video you need to enable JavaScript in your browser. Matt Hancock tells MPs the late reporting of test results was a “serious issue that is being investigated fully”.
+
+  Paul Wells said the NHS Covid-19 app allowed him to "carry on as normal" even after his husband had uploaded a positive test result and been told to self-isolate.
+
+  "It's very frustrating to hear that processes or systems are not working correctly, especially with something that is high risk," he told BBC News.
+
+  "The knock-on effect is damaging to not only myself and my husband, but the ripple effect it has to family and friends and our neighbours."
+
+  On Monday afternoon, the government's coronavirus dashboard announced a further 12,594 lab-confirmed cases of coronavirus in the UK, bringing the total number of cases in the UK to 515,571.
+
+  Another 19 people were reported to have died within 28 days of testing positive for Covid-19.
+
+  The earlier technical error meant the daily case totals reported on the government's coronavirus dashboard over the past week have been lower than the true number.
+
+  Daily figures for the end of the week were about 10,000 rather than the roughly 7,000 that had been reported.
+
+  BBC analysis found the number of cases reported for the week to 1 October increased by 92.6% in the North West after taking in the missing tests - with similar rises reflected across England.
+
+  The increase, of 8,348 cases, is mostly down to the missing tests, but the figures also included some results which came back after 2 October.
+
+  You can look at the case numbers two ways: we normally count them on the date they're reported, which today would be 12,594.
+
+  But today's news has shown how reporting lags can skew those trends.
+
+  If you arrange the figures by the date the tests were taken, you can get a clearer picture.
+
+  In that analysis, we reached an average of 10,000 new cases a day towards the end of last week.
+
+  That's about double what it was a fortnight ago.
+
+  It's hard to say for sure what's happened since then, since it takes a few days for tests to be reported and for these figures to settle down.
+
+  But that pattern is consistent with other data: the number of people going into hospital, or official surveys and symptom trackers.
+
+  They all paint a picture of an epidemic that's growing - not doubling every week, but growing.
+
+  There's hope in some parts of the data that the pace of growth may be slowing slightly, but there's no evidence that it's shrinking.
+
+  Mr Hancock suggested that the error did not impact the introduction of local restrictions last week.
+
+  However, Liverpool Metro Mayor Steve Rotheram said the measures brought in there were "predicated on" figures that were "underestimated by a considerable sum".
+
+  "We understand that there needed to be further restrictions because of those increases in transmission rates, but we've not received any of the scientific evidence that backs that up," he told the BBC.
+
+  "It seems that the restrictions were predicated on a false promise that the figures that we were provided with were the basis for the announcement."
+
+  PHE data shows Liverpool has the second highest rate of infection in England, at 456.4 cases per 100,000 people in the week to 1 October, from 287.1 the week before. Knowsley in Merseyside, Newcastle, Nottingham, Leeds and Sheffield have also seen sharp rises.
+
+  Manchester has the highest rate of infection, at 495.6 cases per 100,000 people, from 223.2 the week before.
+
+  The BBC's Danny Savage said the head of public health in Manchester estimates the infection rate among the city's student population is as high as 3,000 cases per 100,000.
+
+  "We'll have to watch closely at what those figures are like in student populations across the country in areas with a high number of infection," he said.
+
+  PHE said NHS Test and Trace has made sure there are enough contact tracers working, and is working with local teams to ensure they also have sufficient resources to be urgently able to contact all cases.
+
+  The number of call attempts is being increased from 10 to 15 over 96 hours.
+  • None 1,980cases per day, on average, were missed in that time
+
+  Have you recently tested positive? Have you been contacted by test and trace? Share your experiences by emailing haveyoursay@bbc.co.uk.
+
+  Please include a contact number if you are willing to speak to a BBC journalist. You can also get in touch in the following ways:
+
+  If you are reading this page and can't see the form you will need to visit the mobile version of the BBC website to submit your question or comment or you can email us at HaveYourSay@bbc.co.uk. Please include your name, age and location with any submission.

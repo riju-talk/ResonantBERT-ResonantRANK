@@ -1,0 +1,49 @@
+id: bbc_2021_8895
+title: WhatsApp to let users message without their phones - BBC News
+date: '2021-07-15'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-57849883
+content: |-
+  For the first time, billions of people will be able to use the service even if their phone has no battery.
+
+  WhatsApp is testing a new feature that will let people message without using their phone for the first time.
+
+  At present, WhatsApp is linked to a user's phone. Its desktop and web apps need that device to be connected and receiving messages.
+
+  But the new feature will let users send and receive messages "even if your phone battery is dead".
+
+  Up to four other devices - like PCs and tablets - can be used together, WhatsApp said.
+
+  To begin with, the new feature will be rolled out as a beta test for a "small group of users", and the team plans to improve performance and add features before enabling it for everyone.
+
+  End-to-end encryption - a key selling point for WhatsApp - will still work under this new system, it said.
+
+  Several other messaging apps already have such a feature, including rival encrypted app Signal, which requires a phone for sign-up, but not to exchange messages.
+
+  But the feature has long been requested by WhatsApp users - of which there are a reported two billion.
+
+  In a blog post announcing the move, Facebook engineers said the change needed a "rethink" of WhatsApp's software design.
+
+  That is because the current version "uses a smartphone app as the primary device, making the phone the source of truth for all user data and the only device capable of end-to-end encrypting messages for another user [or] initiating calls", the company said.
+
+  WhatsApp Web and other non-smartphone apps are essentially a "mirror" of what happens on the phone.
+
+  But that system has significant drawbacks familiar to many regular users, as the web app is known to frequently disconnect.
+
+  This Twitter post cannot be displayed in your browser. Please enable Javascript or try a different browser. View original content on Twitter The BBC is not responsible for the content of external sites. Skip twitter post by Will Cathcart This article contains content provided by Twitter. We ask for your permission before anything is loaded, as they may be using cookies and other technologies. You may want to read Twitter’s cookie policy, external and privacy policy, external before accepting. To view this content choose ‘accept and continue’. The BBC is not responsible for the content of external sites. End of twitter post by Will Cathcart
+
+  It also means that only one so-called "companion app" can be active at a time - so loading WhatsApp on another device will disconnect a WhatsApp web window.
+
+  "The new WhatsApp multi-device architecture removes these hurdles, no longer requiring a smartphone to be the source of truth, while still keeping user data seamlessly and securely synchronised and private," the company said.
+
+  On a technical level, the solution was giving every device its own "identity key", and WhatsApp keeps a record of which keys belong to the same user account. That means it does not need to store messages on its own server, which could lead to privacy concerns.
+
+  But Jake Moore, a security specialist at anti-virus-company Eset, said that no matter how robust the security is, having messages on more devices could still be a concern.
+
+  "There will always be a malicious actor looking to create a workaround," he said.
+
+  "Domestic abusers and stalkers could now have the potential of using this new feature to their advantage, by creating additional endpoints in order to capture any synchronised private communications."
+
+  He also said that social engineering is an "ever-increasing" threat, and the responsibility lies with the user to keep an eye out for potential misuse.
+
+  "It is therefore vital that people are aware of all the devices that are connected to their account," he warned.

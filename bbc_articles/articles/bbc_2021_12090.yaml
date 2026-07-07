@@ -1,0 +1,77 @@
+id: bbc_2021_12090
+title: 'Cressida Dick: Tech giants make it impossible to stop terrorists - BBC News'
+date: '2021-09-12'
+section: Business
+url: http://www.bbc.co.uk/news/business-58537599
+content: |-
+  Pressure on tech firms intensifies as Priti Patel unveils fund for technologies to keep children safe.
+
+  The Metropolitan Police commissioner has accused tech giants of making it harder to identify and stop terrorists.
+
+  The tech giants' focus on end-to-end encryption was making it "impossible in some cases" for the police to do their jobs, Dame Cressida Dick wrote in the Telegraph on Saturday.
+
+  On Wednesday, Home Secretary Priti Patel launched a new fund for technologies to keep children safe.
+
+  She also called on tech firms to put user safety before profits.
+
+  But cyber-security experts have told the BBC that they are not sure the solutions the government wants are possible to build.
+
+  In her piece marking the 20th anniversary of the 9/11 attacks, Dame Cressida stressed that advances in communication technologies meant terrorists were now able to "recruit anyone, anywhere and at any time" through social media and the internet.
+
+  In response, the UK was needing to constantly develop its own digital capabilities to keep up with terrorists exploiting technology to their advantage.
+
+  Her message echoes that of Ms Patel, who launched the Safety Tech Challenge Fund at a meeting of the G7 interior ministers earlier this week.
+
+  The fund, open to experts from across the world, is aimed at tackling child sexual abuse online.
+
+  Five applicants will be awarded up to £85,000 each to develop new technologies that enable the detection of child sexual abuse material (CSAM) online, without breaking end-to-end encryption.
+
+  End-to-end encryption is a privacy feature that makes it impossible for anyone except the sender and recipient to read messages sent online.
+
+  While tech giants such as Facebook say using such technology will protect users' privacy, several governments including the US, UK and Australia have repeatedly objected to the idea since 2019.
+
+  Cyber-security and privacy experts believe that Ms Patel and Dame Cressida's views could be in response to Apple's decision to delay a plan to scan iPhones for CSAM earlier this month.
+
+  More than a billion people in the world now have an iPhone
+
+  The detection technology, first announced in August, compares images before they are uploaded to iCloud against unique "digital fingerprints", or hashes, of known CSAM material on a database maintained by the National Center for Missing and Exploited Children.
+
+  Apple's technology was widely criticised by privacy groups and the cyber-security industry as setting a dangerous precedent, because it involved using an individual's own device to check if they could be a potential criminal.
+
+  "We already have end-to-end encryption in Apple's iMessage texting technology - it's strange that law enforcement and the government haven't hit out at Apple about that, but it's all about attacking Facebook and WhatsApp," Alec Muffett, who led the team that built end-to-end encryption technology for Facebook Messenger, told the BBC.
+
+  Much has been written about the wealth of data tech giants possess about the users of their services, particularly the fact they are constantly tracking user behaviour and interests in order to provide personalised ads.
+
+  He argues that tech firms already possess the technology they need to detect paedophiles and terrorists, simply by tracking their behaviour - they don't need to compromise a user's privacy by looking at all their personal files on their phone.
+
+  "If you've got an Facebook account of a middle-aged male who is randomly messaging a dozen teenagers out of the blue, then you have a potentially suspicious activity. It might be innocent, but it is certainly an issue worth delving into," said Mr Muffett, who has more than 30 years' experience in cyber-security and cryptography.
+
+  "The UK government is trying to detect CSAM by looking at the content, as in trying to snoop, rather than trying to observe behaviours."
+
+  On top of this, he says, multiple cyber-security researchers have tested Apple's NeuralHash algorithm and found that it is mistaking two completely different images, as being the same photo, so they fear Apple will falsely accuse users of having criminal content.
+
+  One leading cyber-security expert who did not wish to be named told the BBC that what the government wants is not technically feasible.
+
+  Cyber-security experts fear the government is asking for something that is technically impossible to achieve
+
+  "You can change the law of the land, but you can't change the law of science - there's no way of allowing the mass scanning of devices without undermining the protections of end-to-end encryption," the expert said.
+
+  "If somebody manages to viably protect end-to-end encryption while detecting child sexual abuse imagery, they're going to make a lot more than £85,000, so I just don't see what the economics are."
+
+  Another cyber-security boss agrees: "It's almost like the government is making a statement to make Facebook and other social media organisations do more and give them more access.
+
+  "If you read between the lines, Ms Patel is essentially saying they want to recruit hackers."
+
+  Then there's the privacy concerns. "Can we trust those in power not to abuse these powers?" questions online child safety expert Dr Rachel O'Connell, founder of a secure child age authentication tool TrustElevate.
+
+  As far as data protection expert Pat Walshe is concerned, Apple's solution is not legal. He says he has asked the tech giant to explain how it can be deployed in Europe, and has yet to receive an answer.
+
+  "The European Court of Justice (ECJ) says the mobile phone is an extension of our private sphere, and the courts have said that the device and any information on it is part of the private sphere of our lives, meaning it requires protection under the European Convention of Human Rights (ECHR)," he said.
+
+  Mr Walshe, who led a team at the mobile operator Three that was responsible for dealing with the government and law enforcement, also has grave concerns about the tech fund proposal, saying it prompts too many questions about privacy.
+
+  Instead, he says, there need to be better, more direct reporting channels to enable both citizens and communication providers to report CSAM to either the tech firms or law enforcement.
+
+  "And law enforcement needs to receive a huge boost in training, manpower and funding to deal with the reports," he stressed.
+
+  "I'd like to see a greater emphasis on that, than on breaking technology that keeps us safe every day."

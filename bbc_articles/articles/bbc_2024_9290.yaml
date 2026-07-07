@@ -1,0 +1,65 @@
+id: bbc_2024_9290
+title: How AI is being used to prevent illegal fishing - BBC News
+date: '2024-04-04'
+section: Business
+url: http://www.bbc.co.uk/news/business-68564249
+content: |-
+  Illegal fishing remains a huge global problem, but AI is now being used to tackle the issue.
+
+  One in every five fish caught around the world is done so by illegal or unregulated fishing
+
+  Late last year, the Spanish government fined 25 Spanish-flagged fishing ships that had been operating near Argentina's territorial waters.
+
+  The financial penalties were imposed because the vessels had illegally turned off the GPS-based automatic identification systems (AIS), which were transmitting their positions. This is often a sign that a vessel is engaged in illegal fishing.
+
+  "It's estimated that illegal or unregulated fishing is as much as 20% of what's caught," says David Kroodsma, head of the research team at Global Fishing Watch.
+
+  Such illegal, unreported and unregulated (IUU) fishing may catch as much as 26 million tonnes of fish every year, or one in every five fish, according to the UN Food and Agriculture Organisation. It says that in financial terms this black market is worth up to $23bn (£18bn).
+
+  This contributes significantly to overfishing, with the UN adding that a third of global fish stocks are now being fished beyond biologically sustainable levels. For example it's estimated that the population of bluefin tuna, is just 2.6% of its historic, unfished size.
+
+  David Kroodsma says that illegal fishing needs to be more seriously tackled
+
+  "Sharks and rays are at the brink of extinction," says Mr Kroodsma. "You have extinction threats to sea birds and turtles from bycatch. It is really sad, because we could manage the oceans so much better."
+
+  Global Fishing Watch was co-founded by Google, marine conservation body Oceana, and environmental group SkyTruth. The latter studies satellite images to spot environmental damage.
+
+  To try to better monitor and quantify the problem of overfishing, Global Fishing Watch is now using increasingly sophisticated AI software, and satellite imagery, to globally map the movements of more than 65,000 commercial fishing vessels, both those with - and without - AIS.
+
+  The AI analyses millions of gigabytes of satellite imagery to detect vessels and offshore infrastructure. It then looks at publicly accessible data from ships' AIS signals, and combines this with radar and optical imagery to identify vessels that fail to broadcast their positions.
+
+  And while not all ships are legally required to use AIS, the AI and its "fishing detection algorithm" aims to work out which of these "dark" vessels are likely to be engaging in fishing.
+
+  "We use information like the length of the vessel, plus environmental information as to where that vessel is located, the imaging of the area, the density of vessel traffic in the area, the state of the ocean, like the temperature - a bunch of information on where the vessel is operating," says Fernando Paolo, Global Fishing Watch's senior remote sensing machine learning engineer.
+
+  "And this model infers whether the vessel is likely a fishing vessel or not a fishing vessel, like passenger vessels, oil tankers, shipping vessels and that kind of stuff."
+
+  The researchers have found that three quarters of the world's industrial fishing vessels are not publicly tracked, with particular hot spots around Africa and South Asia.
+
+  Global Fishing Watch is now working to introduce higher-resolution imagery to help spot more smaller fishing vessels.
+
+  Global Fishing Watch creates a map where the darker the orange the more fishing in an area is not publicly tracked
+
+  However, stamping out illegal fishing means getting data as quickly as possible - and a project from the University of Southampton and local firm RS Aqua is aiming to do just that.
+
+  The team is building a submarine robot that uses underwater sensors and AI to identify the sound of fishing, and transmit the information in real time. The AI can already differentiate between the natural sounds of the ocean, and is now being trained to identify the noise of trawlers operating in protected waters.
+
+  "Part of the drive of the project is to try and put something in place that would help monitor fishing activity within marine protected areas [MPAs]," says University of Southampton professor of statistical signal processing Paul White.
+
+  "There's a definite concern that by creating these ecosystems with higher densities of fish, those are going to be attractive to fishermen."
+
+  Currently there are around 15,000 MPAs around the globe, which account for 8% of the world's oceans. Yet one study says that less than half are actually "fully protected" from fishing.
+
+  Mr White says the aim is that if the robot senses fishing, it will automatically contact authorities who can send out a patrol vessel.
+
+  He adds: "Exactly what form of AI we're going to use, we've not completely fixed on yet. Part of the problem is that for this to work it has to sit in the ocean for many months. You can't put something out in one week and then have to go back and change the batteries.
+
+  "It's got to be very power efficient, which means you can't have very complicated algorithms running, but they need to be sufficiently powerful to distinguish something like trawler noise from other sources of noise in the ocean."
+
+  The University of Southampton's underwater robot, pictured, is being trained to recognise the sound of fishing
+
+  Paul Lansbergen, chair of the International Coalition of Fisheries, says that illegal, unreported and unregulated fishing (IUU) "is a scourge of the industry".
+
+  "The sustainability impacts and economic damages are very real, but it's also no longer an issue that persists in the shadows. Industry leaders, policy makers, and associated stakeholders are all focusing on the challenge.
+
+  "Emerging technology, like AI, is complementary to traditional law enforcement and placing IUU in the cross hairs. But consumers also need to make sustainable choices and make it tougher on IUU fishers. We all play a role."

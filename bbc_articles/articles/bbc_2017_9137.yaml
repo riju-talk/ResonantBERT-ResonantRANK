@@ -1,0 +1,99 @@
+id: bbc_2017_9137
+title: How 'the invisible network' poses a major security threat - BBC News
+date: '2017-09-22'
+section: Business
+url: http://www.bbc.co.uk/news/business-41252203
+content: |-
+  Many firms have no idea how many devices are connected to their networks - a major cyber-security risk.
+
+  If a hacker managed to switch off a life-support machine, the results could be fatal
+
+  Imagine a hacker remotely turning off a life support machine in a hospital, or shutting down a power station. These are the nightmare scenarios we face because many organisations haven't a clue how many unsecured devices are connected to their networks, cyber-security experts warn.
+
+  It was an ordinary day at a busy hospital - doctors, nurses and surgeons rushed about attending to the health of their patients.
+
+  For Hussein Syed, chief information security officer for the largest health provider in New Jersey, it was the health of his IT network that was keeping him busy.
+
+  And today, he was in for a surprise.
+
+  He knew he presided over a complex web of connected medical devices, computers, and software applications spread across RWJBarnabas Health's 13 hospitals.
+
+  This included about 30,000 computers, 300 apps, a data centre, as well as all the mobile phones hooking up to the hospitals' wi-fi networks.
+
+  Company mergers had only added to the complexity of these sprawling IT systems.
+
+  Hussein Syed discovered that there were around 70,000 devices connected to his network
+
+  But when he used a specialist IoT cyber-security program to carry out a full audit, he discovered that there were in fact 70,000 internet-enabled devices accessing the health firm's network - far more than he'd expected.
+
+  "We found a lot of things we were not aware of," Mr Syed tells the BBC, "systems that weren't registered with IT and which didn't meet our security standards."
+
+  These included security cameras and seemingly innocuous gadgets such as uninterruptible power supplies (UPSs) - units that provide back-up battery power in the event of a power cut.
+
+  "These unidentified devices could definitely have been access points for hackers who could have then found high-value assets on our network," says Mr Syed.
+
+  Hack in to a UPS and you could potentially switch off life-critical machines, he explains. Or hackers could steal patient data, encrypt it, then demand a ransom for its safe return.
+
+  On the black market "health data is worth 50 times more than credit card data", says Mr Syed.
+
+  Hospitals like this RWJBarnabas Health one in New Jersey are also complex IT networks
+
+  The audit "helped us protect our network," he adds, preferring not to dwell on what might have been.
+
+  Mike DeCesare, chief executive of ForeScout, the software provider Mr Syed brought in, says: "Businesses typically underestimate by 30% to 40% how many devices are linked to their network. It's often a shock when they find out.
+
+  "With the proliferation of IoT [internet of things] devices the attack surface for hackers has increased massively.
+
+  "Traditional antivirus software was designed on the assumption that there were just a few operating systems. Now, because of IoT, there are thousands."
+
+  ForeScout's software monitors a company's network and indentifies every device trying to access it, "not just from its IP [internet protocol] address, but from 50 other attributes and fingerprints", says Mr DeCesare.
+
+  The reason for these other layers of security is that it is "relatively easy" for hackers to mask the identity of a particular device - known as MAC [media access control] spoofing.
+
+  ForeScout boss Mike DeCesare says his company can spot rogue devices on the network
+
+  "We look at the traffic from all those different devices and analyse whether they are behaving like they should," he says.
+
+  "Is that printer behaving like a printer? So why is it trying to access other devices on the network and break in to the system?
+
+  "If we spot aberrant behaviour we can disconnect the device from the network automatically."
+
+  Services from network monitoring firms - ForeScout, Solar Winds, IBM, SecureWorks, Gigamon and others - are becoming increasingly necessary in a world where everything - from lamp-posts to lawn sensors - is becoming internet-enabled.
+
+  According to Verizon's latest State of the Market: Internet of Things report there are now 8.4 billion connected devices - a 31% increase on 2016 - and $2tn (£1.5tn) will have been spent on the technologies by the end of 2017.
+
+  But as Verizon points out, lack of industry-wide standards for IoT devices is giving businesses major security concerns.
+
+  This video can not be played To play this video you need to enable JavaScript in your browser. Technology explained: What is the internet of things?
+
+  Stories of cyber-attacks mounted on the back of insecure devices such as video cameras have highlighted the issue.
+
+  "IoT security is one of the biggest challenges we're facing right now," says Darren Thomson, chief technology officer and vice president, technology services at cyber-security firm Symantec.
+
+  The difficulty is that IoT devices are generally simple, cheap and low-powered, without the capability of running the antivirus programs operated by traditional computers.
+
+  "The challenge with critical infrastructure is that it wasn't built with security in mind," says Tom Reilly, chief executive of Cloudera, the IoT and data analytics platform.
+
+  "Smart cities are a great playing field for hackers - changing traffic lights, turning elevators on and off - there are many security exposures.
+
+  "We need to get ahead of them."
+
+  This necessitates a different approach to security, a growing number of experts believe.
+
+  In April, telecoms giant Verizon launched what it calls its IoT "security credentialing" service, whereby only trusted, verified devices are allowed to access a company's network.
+
+  Meanwhile, Cloudera has formed a strategic partnership with chip maker Intel.
+
+  "Intel makes the chips that are being used in many IoT sensors," explains Mr Reilly, "and all that data being created needs to land in a database like ours residing in a data centre.
+
+  "We authenticate all the devices - we're creating an end-to-end platform for the IoT world."
+
+  Rival GE Digital, a subsidiary of the global engineering giant GE, has also developed its own IoT and data analytics platform called Predix which it is outsourcing to big clients such as British Airways and oil giant Exxon.
+
+  IoT sensors are fitted to big machines, from gas turbines to aero engines, and these transmit "petabytes of data in real time that helps us work out how to optimise their maintenance", says Bill Ruh, GE Digital chief executive.
+
+  "We get all that data back via virtual private networks mostly in a highly secure encrypted fashion."
+
+  But if you don't have the resources to commit to an entire IoT ecosystem operated by a major tech company, behavioural network monitoring may be your next best bet.
+
+  Just bear in mind that your organisation's defences are only as strong as the weakest part.

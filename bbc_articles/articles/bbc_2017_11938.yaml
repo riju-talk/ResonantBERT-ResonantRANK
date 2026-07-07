@@ -1,0 +1,39 @@
+id: bbc_2017_11938
+title: Ethical hackers to boost NHS cyber-defences - BBC News
+date: '2017-11-27'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-42137409
+content: |-
+  The hackers will work in an operations centre that will look for threats before they hit hospitals.
+
+  About one-third of UK health trusts were caught out by the WannaCry ransomware worm
+
+  The NHS is spending £20m to set up a security operations centre that will oversee the health service's digital defences.
+
+  It will employ "ethical hackers" to look for weaknesses in health computer networks, not just react to breaches.
+
+  Such hackers use the same tactics seen in cyber-attacks to help organisations spot weak points.
+
+  In May, one-third of UK health trusts were hit by the WannaCry worm, which demanded cash to unlock infected PCs.
+
+  In a statement, Dan Taylor, head of the data security centre at NHS Digital, said the centre would create and run a "near-real-time monitoring and alerting service that covers the whole health and care system".
+
+  The centre would also help the NHS improve its "ability to anticipate future vulnerabilities while supporting health and care in remediating current known threats", he said.
+
+  And operations centre guidance would complement the existing teams the NHS used to defend itself against cyber-threats.
+
+  NHS Digital, the IT arm of the health service, has issued an invitation to tender to find a partner to help run the project and advise it about the mix of expertise it required.
+
+  Kevin Beaumont, a security vulnerability manager, welcomed the plan to set up the centre.
+
+  "This is a really positive move," he told the BBC.
+
+  Many private sector organisations already have similar central teams that use threat intelligence and analysis to keep networks secure.
+
+  "Having a function like this is essential in modern-day organisations," Mr Beaumont said.
+
+  "In an event like WannaCry, the centre could help hospitals know where they are getting infected from in real time, which was a big issue at the time, organisations were unsure how they were being infected".
+
+  In October, the UK's National Audit Office said NHS trusts had been caught out by the WannaCry worm because they had failed to follow recommended cyber-security policies.
+
+  The NAO report said NHS trusts had not acted on critical alerts from NHS Digital or on warnings from 2014 that had urged users to patch or migrate away from vulnerable older software.

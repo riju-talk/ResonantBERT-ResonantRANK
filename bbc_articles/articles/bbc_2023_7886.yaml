@@ -1,0 +1,71 @@
+id: bbc_2023_7886
+title: Minister attacks Meta boss over Facebook message encryption plan - BBC News
+date: '2023-05-24'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-65686989
+content: |-
+  Minister Tom Tugendhat criticises Mark Zuckerberg over Facebook's extension of message encryption.
+
+  A government minister has attacked Meta boss Mark Zuckerberg for the "extraordinary moral choice" to roll out encryption in Facebook messages.
+
+  Meta was allowing child abusers to "operate with impunity", Security Minister Tom Tugendhat said.
+
+  End-to-end encryption (E2EE) stops anyone but the sender and recipient reading the message.
+
+  Meta which owns Facebook, said it would work with law enforcement and child safety experts as it deployed the tech.
+
+  The government has long been critical of those plans and of other platforms' resistance to weakening the privacy of end-to-end-encrypted messaging.
+
+  Police and government maintain the tech - also used in apps such as Signal, WhatsApp and Apple's iMessage - prevents law enforcement and the firms themselves from identifying the sharing of child sexual abuse material.
+
+  Mr Tugendhat said: "Faced with an epidemic of child sexual exploitation abuse, Meta are choosing to ignore it and in doing so, they are allowing predators to operate with impunity.
+
+  "That is an extraordinary moral choice. It is an extraordinary decision. And I think we should remember who it is who is making it."
+
+  He was speaking at the PIER23 conference on tackling online harms at Anglia Ruskin University Chelmsford.
+
+  The security minister singled out the Meta boss for criticism.
+
+  "I am speaking about Meta specifically, and Mark Zuckerberg's choices particularly. These are his choices," he said.
+
+  A government advertising campaign will soon be launched "to tell parents the truth about Meta's choices and what they mean for the safety of their children", he said.
+
+  The campaign, which would run in print, online and broadcast, would "encourage tech firms to take responsibility and to do the right thing", Mr Tugendhat said.
+
+  The Home Office declined to provide more detail about the campaign when approached by the BBC.
+
+  Mr Tugendhat has been security minister since September 2022
+
+  Meta argues the majority of British people already rely on apps that use encryption to keep them safe from hackers, fraudsters and criminals.
+
+  "We don't think people want us reading their private messages so have developed safety measures that prevent, detect and allow us to take action against this heinous abuse, while maintaining online privacy and security", it said.
+
+  The company removes and reports millions of images each month.
+
+  WhatsApp, which Meta owns, made more than one million reports in a year even though it uses end-to-end-encryption.
+
+  The Home Office has promoted similar campaigns in the past, such as last year's No Place to Hide campaign, which also called on Facebook to abandon plans for end-to-end encryption.
+
+  But the data watchdog the Information Commissioner's Office was critical of the campaign, arguing the tech helped protect children from criminals and abusers, urged Facebook to roll it out without delay.
+
+  The Online Safety Bill, currently going through Parliament, contains powers that could enable communication regulator Ofcom to direct platforms to use accredited technology to scan the contents of messages.
+
+  Several messaging platforms, including Signal and WhatsApp, have previously told the BBC they will refuse to weaken the privacy of their encrypted messaging systems if directed to do so.
+
+  The government argues it is possible to provide technological solutions that mean the contents of encrypted messages can be scanned for child abuse material.
+
+  The only way of doing that, many tech experts argue, would be to install software that would scan messages on the phone or computer before they are sent, called client-side scanning.
+
+  This, critics argue, would fundamentally undermine the privacy of messages and to argue otherwise would be like arguing that digging a hole under a fence did not break the fence
+
+  Signal told the BBC in February that it would "walk" from the UK if forced to weaken the privacy of its encrypted messaging app.
+
+  In response to the minister's comments, its president Meredith Whittaker told BBC Radio 4's Today programme that the government was trying to implement "a mass surveillance apparatus". It would, she said, require people to "run government-mandated scanning services on their devices".
+
+  Ciaran Martin, the former head of the National Cyber Security Centre, told Today that: "Essentially it's building a door that doesn't currently exist, not into the encrypted messaging app but into devices, which could be used or misused by people who aren't interested in protecting children for more nefarious purposes."
+
+  Mr Martin said he believed the UK would end up in the "unhappy situation" where the power in the bill would be passed by Parliament but not used.
+
+  Apple tried client-side scanning, but abandoned it after a backlash. In an article in the Financial Times, Mr Martin suggested Apple is privately critical of the powers in the bill, but the firm has so far declined to set out publicly its position on the issue.
+
+  BBC News learned from Freedom of Information requests that Apple has had four meetings since April 2022 with the Ofcom team responsible for developing policy regarding the enforcement of the relevant section of the bill.

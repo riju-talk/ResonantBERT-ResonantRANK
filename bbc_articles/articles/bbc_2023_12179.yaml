@@ -1,0 +1,53 @@
+id: bbc_2023_12179
+title: Minister defends safety law on messaging apps - BBC News
+date: '2023-08-10'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-66455616
+content: |-
+  Tech Secretary insists technology is in development to access illegal content without breaking encryption.
+
+  Michelle Donelan MP, Secretary of State for Science, Innovation and Technology
+
+  The technology secretary has defended a controversial section of the Online Safety Bill which would force messaging apps to access the content of private messages if requested by the regulator Ofcom.
+
+  She said it was a sensible approach in order to protect children from abuse.
+
+  But some tech firms, including WhatsApp and Signal, have threatened to leave the UK if forced to weaken their messaging security.
+
+  The Bill is due to be passed in autumn.
+
+  Michelle Donelan was speaking to the BBC on a visit to University College London where she announced £13m in funding for Artificial Intelligence projects in healthcare.
+
+  Both the tech sector and the cyber security community have criticised the government's proposal that the content of encrypted messages should be made accessible if there is deemed to be a risk to children within them.
+
+  Currently messages sent in this way can only be read by the sender and the recipient, and not by the tech firms themselves.
+
+  Several popular messaging services including Meta's Whatsapp and Apple's iMessage use this popular security feature by default.
+
+  But once there's a way in, it's not only the good guys who will use it, is the argument, and some firms are saying they will pull their services from the UK altogether rather than compromise on security.
+
+  Ms Donelan claimed the government was not anti-encryption and access would only be requested as a last resort.
+
+  "I, like you, want my privacy because I don't want people reading my private messages. They'd be very bored but I don't want them to do it," she said.
+
+  "However we do know that on some of these platforms, they are hotbeds sometimes for child abuse and sexual exploitation.
+
+  "And we have to be able access that information should that problem occur."
+
+  She also said the onus would be on tech companies to invest in technology to solve this issue.
+
+  "Technology is in development to enable you to have encryption as well as to be able to access this particular information and the safety mechanism that we have is very explicit that this can only be used for child exploitation and abuse".
+
+  The current frontrunner for this is known as Client Side Scanning - it involves installing software onto devices themselves which can scan content and send alerts if triggered. But it has not proved popular: Apple halted a trial of it following a backlash, and it has been dubbed "the spy in your pocket".
+
+  Children's charity the NSPCC says its research suggests the public is "overwhelmingly supportive" of efforts to tackle child abuse in encrypted platforms.
+
+  "Tech firms should be showing industry leadership by listening to the public and investing in technology that protects both the safety and privacy rights of all users," said Richard Collard, head of child safety online policy at the NSPCC
+
+  But Ryan Polk, Director of Internet Policy at the Internet Society, a global charitable non profit focused on Internet policy, technology, and development, is sceptical that this technology is ready.
+
+  "The government's own Safety Tech Challenge Fund, which was supposed to find a magical technical solution to this problem, failed to do so," he said.
+
+  Mr Polk said scientists from the UK's National Research Centre on Privacy, Harm Reduction and Adversarial Influence Online found severe problems with the proposed technologies, "including that they undermine the end-to-end security and privacy necessary for protecting the security and privacy of UK citizens."If the UK government can't see that the Online Safety Bill will in effect ban encryption, then they are wilfully blinding themselves to the dangers ahead."
+
+  The legislation is expected back in the House of Commons in September.

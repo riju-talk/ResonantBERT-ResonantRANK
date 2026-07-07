@@ -1,0 +1,47 @@
+id: bbc_2020_1068
+title: Facebook's Sir Nick Clegg criticised over WhatsApp security - BBC News
+date: '2020-01-24'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-51235815
+content: |-
+  Sir Nick Clegg did not acknowledge WhatsApp security flaws in a BBC interview.
+
+  Security researchers have criticised Facebook's head of communications, Sir Nick Clegg, for his response to the hacking of Amazon chief Jeff Bezos.
+
+  Mr Bezos' phone was hacked in May 2018 after he received a WhatsApp message loaded with malware.
+
+  But in an interview with the BBC, Sir Nick said WhatsApp's encrypted messages could "not be hacked into".
+
+  And he failed to acknowledge security flaws in the app that had let hackers compromise their target's smartphones.
+
+  "Nobody tell Nick Clegg about how exploits work," joked cyber-security researcher Kevin Beaumont.
+
+  This Twitter post cannot be displayed in your browser. Please enable Javascript or try a different browser. View original content on Twitter The BBC is not responsible for the content of external sites. Skip twitter post by BBC Radio 4 Today This article contains content provided by Twitter. We ask for your permission before anything is loaded, as they may be using cookies and other technologies. You may want to read Twitter’s cookie policy, external and privacy policy, external before accepting. To view this content choose ‘accept and continue’. The BBC is not responsible for the content of external sites.
+
+  Mr Bezos' phone was compromised after he received a WhatsApp message containing a malicious file from the personal number of Saudi Arabia's crown prince Mohammed bin Salman, according to the Guardian newspaper which broke the story.
+
+  An investigation suggested the phone secretly started sharing huge amounts of data after he received the message.
+
+  The kingdom's US embassy has described the allegations as "absurd".
+
+  When asked about the hack in an interview with BBC Radio 4's Today programme, Sir Nick said: "It can't have been anything when the message was sent in transit because that's end-to-end encrypted on WhatsApp.
+
+  "We're as sure as you can be that the technology of end-to-end encryption cannot... be hacked into."
+
+  But cyber-security researchers have pointed out that security flaws in WhatsApp's software have previously been discovered.
+
+  Two significant problems were disclosed in 2019.
+
+  One let hackers remotely install surveillance software on phones just by initiating a voice call, even if the recipient did not answer.
+
+  Another let surveillance tools be deployed by sending the recipient an infected MP4 video clip.
+
+  Sir Nick told the BBC: "If someone sends you a malicious email, it only comes to life when you open it."
+
+  However, some of the most significant vulnerabilities in WhatsApp let hackers install their malware without the recipient doing anything at all.
+
+  Alex Stamos, who was Facebook's chief security officer for three years until August 2018, later tweeted that it had not been proven that Mohammed bin Salman's account was involved in the hack, and the media should not make assumptions.
+
+  But he added: "Clegg is right that WhatsApp messages are end-to-end encrypted, he's just applying that fact to the wrong issue... Nick needs some better staff briefings on this issue. Not reasonable to expect him to have this expertise."
+
+  Facebook told the BBC it had nothing to add to Sir Nick's comments.

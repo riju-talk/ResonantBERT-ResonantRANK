@@ -1,0 +1,69 @@
+id: bbc_2024_1770
+title: Should we fear an attack of the voice clones? - BBC News
+date: '2024-02-24'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-68074257
+content: |-
+  Audio deepfakes are easy to make, hard to detect, and getting more convincing, experts say.
+
+  "It's important that you save your vote for the November election," the recorded message told prospective voters last month, ahead of a New Hampshire Democratic primary election. It sounded a lot like the President.
+
+  But votes don't need to be saved, and the voice was not Joe Biden but likely a convincing AI clone.
+
+  The incident has turned fears about AI-powered audio-fakery up to fever pitch - and the technology is getting more powerful, as I learned when I approached a cybersecurity company about the issue.
+
+  We set-up a call, which went like this:
+
+  "Hey, Chris, this is Rafe Pilling from Secureworks. I'm returning your call about a potential interview. How's it going?"
+
+  I said it was going well.
+
+  "Great to hear, Chris," Mr Pilling said. "I appreciate you reaching out. I understand you are interested in voice-cloning techniques. Is that correct?"
+
+  Yes, I replied. I'm concerned about malicious uses of the technology.
+
+  "Absolutely, Chris. I share your concern. Let's find time for the interview," he replied.
+
+  But this was not the real Mr Pilling. It was a demonstration laid on by Secureworks of an AI system capable of calling me and responding to my reactions. It also had a stab at imitating Mr Pilling's voice.
+
+  Listen to the voice-cloned call on the latest episode of Tech Life on BBC Sounds.
+
+  "I sound a little bit like a drunk Australian, but that was pretty impressive," the actual Mr Pilling said, as the demonstration ended. It wasn't completely convincing. There were pauses before answers that might have screamed "robot!" to the wary.
+
+  The calls were made using a freely available commercial platform that claims it has the capacity to send "millions" of phone calls per day, using human sounding AI agents.
+
+  In its marketing it suggests potential uses include call centres and surveys.
+
+  Mr Pilling's colleague, Ben Jacob had used the tech as an example - not because the firm behind the product is accused of doing anything wrong. It isn't. But to show the capability of the new generation of systems. And while its strong suit was conversation, not impersonation, another system Mr Jacob demonstrated produced credible copies of voices, based on only small snippets of audio pulled from YouTube.
+
+  From a security perspective, Mr Pilling sees the ability of systems to deploy thousands of these kinds of conversational AI's rapidly as a significant, worrying development. Voice cloning is the icing on the cake, he tells me.
+
+  Currently phone scammers have to hire armies of cheap labour to run a mini call centre, or just spend a lot of time on the phone themselves. AI could change all that.
+
+  If so it would reflect the impact of AI more generally.
+
+  "The key thing we're seeing with these AI technologies is the ability to improve the efficiency and scale of existing operations," he says.
+
+  With major elections in the UK, US and India due this year, there are also concerns audio deepfakes - the name for the kind of sophisticated fake voices AI can create - could be used to generate misinformation aimed at manipulating the democratic outcomes.
+
+  Senior British politicians have been subject to audio deepfakes as have politicians in other nations including Slovakia and Argentina. The National Cyber Security centre has explicitly warned of the threats AI fakes pose to the next UK election.
+
+  Lorena Martinez who works for a firm working to counter online misinformation, Logically Facts, told the BBC that not only were audio deepfakes becoming more common, they are also more challenging to verify than AI images.
+
+  "If someone wants to mask an audio deepfake, they can and there are fewer technology solutions and tools at the disposal of fact-checkers," she said.
+
+  Mr Pilling adds that by the time the fake is exposed, it has often already been widely circulated.
+
+  Ms Martinez, who had a stint at Twitter tackling misinformation, argues that in a year when over half the world's population will head to the polls, social media firms must do more and should strengthen teams fighting disinformation.
+
+  She also called on developers of the voice cloning tech to "think about how their tools could be corrupted" before they launch them instead of "reacting to their misuse, which is what we've seen with AI chatbots".
+
+  The Electoral Commission, the UK's election watchdog, told me that emerging uses of AI "prompt clear concerns about what voters can and cannot trust in what they see, hear and read at the time of elections".
+
+  It says it has teamed up with other watchdogs to try to understand the opportunities and the challenges of AI.
+
+  But Sam Jeffers co-founder of Who Targets Me, which monitors political advertising, argues it is important to remember that democratic processes in the UK are pretty robust.
+
+  He says we should guard against the danger of too much cynicism too - that deepfakes lead us to disbelieve reputable information.
+
+  "We have to be careful to avoid a situation where rather than warning people about dangers of AI, we inadvertently cause people to lose faith in things they can trust," Mr Jeffries says.

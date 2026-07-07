@@ -1,0 +1,47 @@
+id: bbc_2021_13146
+title: Hackers had second go at Sepa during cyber attack - BBC News
+date: '2021-10-27'
+section: Scotland
+url: http://www.bbc.co.uk/news/uk-scotland-59054590
+content: |-
+  The attack "displayed significant stealth and malicious sophistication", a review finds.
+
+  Hackers responsible for a cyber attack on Scotland's environmental watchdog tried to sabotage efforts to fix the problem, a new report has revealed.
+
+  The Scottish Environment Protection Agency (Sepa) had more than 4,000 digital files stolen in the incident.
+
+  A review said the Christmas Eve attack displayed "significant stealth and malicious sophistication".
+
+  But it has also been revealed Sepa's cyber incident response plan was inaccessible during the incident.
+
+  This was because the report - along with the watchdog's disaster recovery plan - was stored on the servers affected by the attack and there was no offline version or hard copy available, according to independent consultants Azets.
+
+  Azets also found staff initially responded to the attack at about 00:01 on 24 December but attempts to escalate the problem to other Sepa officials were not successful until about 08:00.
+
+  The hackers made attempts to "compromise Sepa systems as the team endeavoured to recover and restore back-ups", a separate review found.
+
+  But a Police Scotland review said Sepa "was not and is not a poorly protected organisation".
+
+  Sepa rejected a ransom demand for the attack, which was claimed by the Conti ransomware group, and the stolen files were then released on the internet.
+
+  The public body said it had been "the victim of a hideous, internationally orchestrated crime" and added that a series of reviews it commissioned "make it clear we were well protected but that no cyber security regime can be 100% secure".
+
+  One of the reviews, by the Scottish Business Resilience Centre, said there were three copies of Sepa's data stored at two separate locations, with one copy stored offline.
+
+  The report states the "design of the network meant that both sites were affected" but sections of this part of the document are redacted so it is not clear how this happened.
+
+  Sepa has restored the majority of its key services, such as flooding forecasting, since the cyber attack and is now building new IT systems to run them.
+
+  The organisation's chief executive Terry A'Hearn said: "The majority of organisations hit by cyberattacks around the world do not publicise much about the attack and that is their right.
+
+  "We know we have taken an unusual approach, but we are convinced it is the right thing for us to do.
+
+  "We are publishing as much as we can of the reviews so that as many organisations as possible can use our experience to better protect themselves from this growing scourge of cybercrime."
+
+  Sepa chief executive Terry A'Hearn said a "number of learnings have been identified that will help Sepa further improve its cyber security"
+
+  Det Insp Michael McCullagh, a cyber crime specialist, said: "Police Scotland has been consistently clear that Sepa was not and is not a poorly protected organisation.
+
+  "The organisation had a strong culture of resilience, governance, incident and emergency management and worked effectively with Police Scotland and others.
+
+  "Recent attacks against Sepa, the Irish Health Service and wider public, private and third sector organisations are a reminder of the growing threat of international cyber-crime and that no system can be 100% secure."

@@ -1,0 +1,57 @@
+id: bbc_2021_7526
+title: DeepMind uses AI to tackle neglected deadly diseases - BBC News
+date: '2021-06-23'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-57582183
+content: |-
+  The company’s technology maps out the shape of proteins, an otherwise costly and time-consuming process.
+
+  The technology will study Chagas disease, which is transmitted by assassin bugs
+
+  Artificial intelligence is to be used to tackle the most deadly parasitic diseases in the developing world, tech company DeepMind has announced.
+
+  The London-based Alphabet-owned lab will work with the Drugs for Neglected Diseases initiative (DNDI) to treat Chagas disease and Leishmaniasis.
+
+  But last year, DeepMind's AlphaFold program was able to achieve the same accuracy in a matter of days.
+
+  Many diseases are linked to the roles of proteins in:
+
+  And knowing the 3D structure of a protein is important in developing treatments for, among others, cancer, dementia and infectious diseases.
+
+  A DeepMind model of a protein from the Legionnaire's disease bacteria (Casp-14)
+
+  "We’ve been excited by the potential for this technology to help fill in some of the gaps in our understanding of biology and accelerate scientific research to enable new, effective treatments for diseases,” DeepMind AI-for-science head Pushmeet Kohli said.
+
+  And the company wanted to focus on "underserved" and "neglected" areas.
+
+  “We hope AlphaFold will have a real-world impact on our understanding of disease and drug discovery for communities who are in great need of treatments," he said.
+
+  Chagas disease and Leishmaniasis affect up to 23 million people worldwide.
+
+  “Patients affected by neglected diseases like Leishmaniasis and Chagas disease rely on outdated treatments that are sometimes toxic, have serious side-effects, and are often not fit for purpose,” DNDi discovery lead Ben Perry said.
+
+  And he hopes the partnership will lead to the discovery of drugs that will be easy to take orally.
+
+  “AI can be a game-changer - by predicting protein structures for previously unsolvable protein structures, AlphaFold opens new research horizons," Mr Perry said.
+
+  “It is heartening to see powerful cutting-edge drug discovery technologies enabling work on some of the world’s most neglected diseases.”
+
+  Prof Dame Janet Thornton, of the European Bioinformatics Institute, told BBC News: "Most new drugs in recent years have been developed using protein-structural data as one part of the process.
+
+  "There are, however, many other aspects which need to be taken into account, which, due to lack of data, may not be amenable to AI approaches."
+
+  But the predictions would be "particularly valuable" for pathogens with unknown protein structures, including some neglected diseases.
+
+  "Developing new AI approaches for designing such drugs is a new challenge but one to which the new AI techniques can be applied and this holds out great hope for the future," Dame Janet added.
+
+  DeepMind has been criticised in recent years, after data from its health division was being transferred to its parent company, Google.
+
+  And as a result, some partners withdrew from its Streams app, which helps doctors and nurses in some NHS hospitals monitor patients with kidney conditions.
+
+  But last year, the AI program was used to map some Sars-Cov-2 virus proteins.
+
+  And virologists used this information to better understand how the virus behaved.
+
+  DeepMind will also be publishing a peer-reviewed paper detailing the workings of its system, providing free access to AlphaFold for the scientific community.
+
+  And it plans to collaborate on tackling other diseases in future.

@@ -1,0 +1,49 @@
+id: bbc_2021_6917
+title: 'Crackonosh: How hackers are using gamers to become crypto-rich - BBC News'
+date: '2021-06-25'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-57601631
+content: |-
+  Crackonosh malware, which mines for cryptocurrency, is being hidden in free versions of popular games.
+
+  Gamers are being duped into helping hackers become rich, after downloading games laced with hidden malware.
+
+  Versions of Grand Theft Auto V, NBA 2K19, and Pro Evolution Soccer 2018 are being given away free in forums.
+
+  But hidden inside the code of these games is a piece of crypto-mining malware called Crackonosh, which secretly generates digital money once the game has been downloaded.
+
+  Criminals have made more than $2m (£1.4m) with the scam, researchers say.
+
+  GTA V is one of the titles being given away free - with hidden malware
+
+  The researchers, at Avast, say the "cracked" games are spreading Crackonosh fast and the cyber-security software company is now detecting about 800 cases on computers every day.
+
+  And Avast detects malicious software on devices only where its antivirus is installed, so the true impact of Crackonosh is likely to be far higher.
+
+  So far, the malware has been found in more than a dozen countries, including:
+
+  When Crackonosh is installed, it takes actions to protect itself including:
+
+  And the cryptocurrency mining programme it then runs in the background, without the owner knowing, can:
+
+  "Crackonosh shows that trying to get games for free can get you something you didn't expect - malware" Christopher Budd, from Avast, said.
+
+  "And we can see that this is highly profitable for the malware authors."
+
+  Tracking the hackers' digital wallets has revealed the scam has yielded over $2m in the cryptocurrency Monero, Avast says.
+
+  And the company believes the malware's creator may be Czech, hence the name, Crackonosh, which means "mountain spirit" in Czech folklore.
+
+  This video can not be played To play this video you need to enable JavaScript in your browser. The cheat hackers "ruining" gaming for others
+
+  In March, researchers at Cisco-Talos found malware inside cheat software for multiple games.
+
+  And earlier this month, another fledgling hacking campaign targeting gamers using the Steam platform was discovered by a team at G Data Software.
+
+  In its latest cyber-threat report, cyber-security company Akamai says it has detected a 340% increase in attacks on both gaming brands and gamers alike since 2019.
+
+  Many of the cyber-attacks involved gaming accounts being stolen for their high value in-game items, which are then sold on hacking forums.
+
+  "Criminals are targeting gamers at an increasing pace," Akamai security researcher Steve Ragan said.
+
+  "Gamers are a demographic known for spending money on their hobby and they're highly engaged, making them a consistent resource for the criminal economy to mine."

@@ -1,0 +1,49 @@
+id: bbc_2019_9684
+title: WhatsApp flaw 'puts words in your mouth' - BBC News
+date: '2019-08-08'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-49273606
+content: |-
+  A tool has been released that makes it possible to alter how some messages appear on Facebook-owned WhatsApp.
+
+  A newly-released tool that exploits a vulnerability in Facebook’s WhatsApp allows you to "put words in people’s mouths", researchers say.
+
+  A team from cybersecurity firm Checkpoint has demonstrated how the tool can be used to alter the text within quoted messages, making it look as if a person had said something they did not.
+
+  Researcher Oded Vanunu told the BBC the tool made it possible for “malicious actors” to manipulate conversations on the platform.
+
+  Facebook would not provide a comment on the issue.
+
+  The tool was demonstrated at Black Hat, a cyber-security conference in Las Vegas, as a follow up to a research paper published by Checkpoint last year.
+
+  “It’s a vulnerability that allows a malicious user to create fake news and create fraud,” Mr Vanunu explained.
+
+  The tool makes it possible to manipulate WhatsApp’s quoting feature to make it look like someone had written something they had not.
+
+  “You can completely change what someone says,” Mr Vanunu said. "You can completely manipulate every character in the quote.”
+
+  The tool also allows an attacker to change how the sender of the message is identified, making it possible to attribute a comment to a different source.
+
+  A third issue highlighted by researchers has been successfully fixed by Facebook. That flaw could trick users into believing they were sending a private message to one person, when in fact their reply went to a more public group.
+
+  But Mr Vanunu said Facebook had told them the other issues could not be resolved due to “infrastructure limitations” on WhatsApp.
+
+  In particular, the encryption technology used by WhatsApp made it extremely difficult - perhaps impossible - for the company to monitor and verify the authenticity of messages being sent by users. Other potential measures to stop the problems highlighted could result in trade-offs in the usability of the app, researchers were told.
+
+  When asked by the BBC why his team would release a tool that made it easier for others to exploit the vulnerability, Mr Vanunu defended the move, saying he hoped it would provoke discussion.
+
+  “[WhatsApp] serves 30% of the global population. It's our responsibility. There is a big problem with fake news and manipulation. It's infrastructure that serves more than 1.5 billion users.
+
+  "We cannot like put it aside and say: 'Okay, this is not happening.’"
+
+  The spread of misinformation on WhatsApp has been a major cause of concern, particularly in countries such as India and Brazil, where misinformation has lead to instances of violence, and in some cases, death.
+
+  WhatsApp made changes to its platform in an effort to reduce the spread of misinformation, such as limiting the number of times a message could be forwarded.
+
+  "We carefully reviewed this issue a year ago and it is false to suggest there is a vulnerability with the security we provide on WhatsApp," it said.
+
+  "The scenario described here is merely the mobile equivalent of altering replies in an email thread to make it look like something a person didn't write.
+
+  "We need to be mindful that addressing concerns raised by these researchers could make WhatsApp less private - such as storing information about the origin of messages."
+
+  Do you have more information about this or any other technology story? You can reach Dave directly and securely through encrypted messaging app Signal on: +1 (628) 400-7370

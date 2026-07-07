@@ -1,0 +1,71 @@
+id: bbc_2017_11053
+title: Can we teach robots ethics? - BBC News
+date: '2017-10-16'
+section: Magazine
+url: http://www.bbc.co.uk/news/magazine-41504285
+content: |-
+  We are not used to the idea of machines making ethical decisions, but the day when they will routinely do this - by themselves - is fast approaching. So how, asks the BBC's David Edmonds, will we teach them to do the right thing?
+
+  The car arrives at your home bang on schedule at 8am to take you to work. You climb into the back seat and remove your electronic reading device from your briefcase to scan the news. There has never been trouble on the journey before: there's usually little congestion. But today something unusual and terrible occurs: two children, wrestling playfully on a grassy bank, roll on to the road in front of you. There's no time to brake. But if the car skidded to the left it would hit an oncoming motorbike.
+
+  Neither outcome is good, but which is least bad?
+
+  The year is 2027, and there's something else you should know. The car has no driver.
+
+  Dr Amy Rimmer believes self-driving cars will save lives and cut down on emissions
+
+  I'm in the passenger seat and Dr Amy Rimmer is sitting behind the steering wheel.
+
+  Amy pushes a button on a screen, and, without her touching any more controls, the car drives us smoothly down a road, stopping at a traffic light, before signalling, turning a sharp left, navigating a roundabout and pulling gently into a lay-by.
+
+  The journey's nerve-jangling for about five minutes. After that, it already seems humdrum. Amy, a 29-year-old with a Cambridge University PhD, is the lead engineer on the Jaguar Land Rover autonomous car. She is responsible for what the car sensors see, and how the car then responds.
+
+  She says that this car, or something similar, will be on our roads in a decade.
+
+  Many technical issues still need to be overcome. But one obstacle for the driverless car - which may delay its appearance - is not merely mechanical, or electronic, but moral.
+
+  The dilemma prompted by the children who roll in front of the car is a variation on the famous (or notorious) "trolley problem" in philosophy. A train (or tram, or trolley) is hurtling down a track. It's out of control. The brakes have failed. But disaster lies ahead - five people are tied to the track. If you do nothing, they'll all be killed. But you can flick the points and redirect the train down a side-track - so saving the five. The bad news is that there's one man on that side-track and diverting the train will kill him. What should you do?
+
+  This question has been put to millions of people around the world. Most believe you should divert the train.
+
+  But now take another variation of the problem. A runaway train is hurtling towards five people. This time you are standing on a footbridge overlooking the track, next to a man with a very bulky rucksack. The only way to save the five is to push Rucksack Man to his death: the rucksack will block the path of the train. Once again it's a choice between one life and five, but most people believe that Rucksack Man should not be killed.
+
+  This puzzle has been around for decades, and still divides philosophers. Utilitarians, who believe that we should act so as to maximise happiness, or well-being, think our intuitions are wrong about Rucksack Man. Rucksack Man should be sacrificed: we should save the five lives.
+
+  Trolley-type dilemmas are wildly unrealistic. Nonetheless, in the future there may be a few occasions when the driverless car does have to make a choice - which way to swerve, who to harm, or who to risk harming? These questions raise many more. What kind of ethics should we programme into the car? How should we value the life of the driver compared to bystanders or passengers in other cars? Would you buy a car that was prepared to sacrifice its driver to spare the lives of pedestrians? If so, you're unusual.
+
+  Then there's the thorny matter of who's going to make these ethical decisions. Will the government decide how cars make choices? Or the manufacturer? Or will it be you, the consumer? Will you be able to walk into a showroom and select the car's ethics as you would its colour? "I'd like to purchase a Porsche utilitarian 'kill-one-to-save-five' convertible in blue please..."
+
+  Ron Arkin became interested in such questions when he attended a conference on robot ethics in 2004. He listened as one delegate was discussing the best bullet to kill people - fat and slow, or small and fast? Arkin felt he had to make a choice "whether or not to step up and take responsibility for the technology that we're creating". Since then, he's devoted his career to working on the ethics of autonomous weapons.
+
+  There have been calls for a ban on autonomous weapons, but Arkin takes the opposite view: if we can create weapons which make it less likely that civilians will be killed, we must do so. "I don't support war. But if we are foolish enough to continue killing ourselves - over God knows what - I believe the innocent in the battle space need to be better protected," he says.
+
+  Like driverless cars, autonomous weapons are not science fiction. There are already weapons that operate without being fully controlled by humans. Missiles exist which can change course if they are confronted by an enemy counter-attack, for example. Arkin's approach is sometimes called "top-down". That is, he thinks we can programme robots with something akin to the Geneva Convention war rules - prohibiting, for example, the deliberate killing of civilians. Even this is a horrendously complex challenge: the robot will have to distinguish between the enemy combatant wielding a knife to kill, and the surgeon holding a knife he's using to save the injured.
+
+  An alternative way to approach these problems involves what is known as "machine learning".
+
+  Susan Anderson is a philosopher, Michael Anderson a computer scientist. As well as being married, they're professional collaborators. The best way to teach a robot ethics, they believe, is to first programme in certain principles ("avoid suffering", "promote happiness"), and then have the machine learn from particular scenarios how to apply the principles to new situations.
+
+  A humanoid robot developed by Aldebaran Robotics interacts with residents at a care home
+
+  Take carebots - robots designed to assist the sick and elderly, by bringing food or a book, or by turning on the lights or the TV. The carebot industry is expected to burgeon in the next decade. Like autonomous weapons and driverless cars, carebots will have choices to make. Suppose a carebot is faced with a patient who refuses to take his or her medication. That might be all right for a few hours, and the patient's autonomy is a value we would want to respect. But there will come a time when help needs to be sought, because the patient's life may be in danger.
+
+  After processing a series of dilemmas by applying its initial principles, the Andersons believe that the robot would become clearer about how it should act. Humans could even learn from it. "I feel it would make more ethically correct decisions than a typical human," says Susan. Neither Anderson is fazed by the prospect of being cared for by a carebot. "Much rather a robot than the embarrassment of being changed by a human," says Michael.
+
+  However machine learning throws up problems of its own. One is that the machine may learn the wrong lessons. To give a related example, machines that learn language from mimicking humans have been shown to import various biases. Male and female names have different associations. The machine may come to believe that a John or Fred is more suitable to be a scientist than a Joanna or Fiona. We would need to be alert to these biases, and to try to combat them.
+
+  A yet more fundamental challenge is that if the machine evolves through a learning process we may be unable to predict how it will behave in the future; we may not even understand how it reaches its decisions. This is an unsettling possibility, especially if robots are making crucial choices about our lives. A partial solution might be to insist that if things do go wrong, we have a way to audit the code - a way of scrutinising what's happened. Since it would be both silly and unsatisfactory to hold the robot responsible for an action (what's the point of punishing a robot?), a further judgement would have to be made about who was morally and legally culpable for a robot's bad actions.
+
+  One big advantage of robots is that they will behave consistently. They will operate in the same way in similar situations. The autonomous weapon won't make bad choices because it is angry. The autonomous car won't get drunk, or tired, it won't shout at the kids on the back seat. Around the world, more than a million people are killed in car accidents each year - most by human error. Reducing those numbers is a big prize.
+
+  Quite how much we should value consistency is an interesting issue, though. If robot judges provide consistent sentences for convicted criminals, this seems to be a powerful reason to delegate the sentencing role. But would nothing be lost in removing the human contact between judge and accused? Prof John Tasioulas at King's College London believes there is value in messy human relations. "Do we really want a system of sentencing that mechanically churns out a uniform answer in response to the agonising conflict of values often involved? Something of real significance is lost when we eliminate the personal integrity and responsibility of a human decision-maker," he argues.
+
+  Amy Rimmer is excited about the prospect of the driverless car. It's not just the lives saved. The car will reduce congestion and emissions and will be "one of the few things you will be able to buy that will give you time". What would it do in our trolley conundrum? Crash into two kids, or veer in front of an oncoming motorbike? Jaguar Land Rover hasn't yet considered such questions but Amy is not convinced that matters: "I don't have to answer that question to pass a driving test, and I'm allowed to drive. So why would we dictate that the car has to have an answer to these unlikely scenarios before we're allow to get the benefits from it?"
+
+  That's an excellent question. If driverless cars save life overall why not allow them on to the road before we resolve what they should do in very rare circumstances? Ultimately, though, we'd better hope that our machines can be ethically programmed - because, like it or not, in the future more and more decisions that are currently taken by humans will be delegated to robots.
+
+  There are certainly reasons to worry. We may not fully understand why a robot has made a particular decision. And we need to ensure that the robot does not absorb and compound our prejudices. But there's also a potential upside. The robot may turn out to be better at some ethical decisions than we are. It may even make us better people.
+
+  Illustrations are From Would You Kill The Fat Man? By David Edmonds. Princeton University Press, 2014
+
+  Join the conversation - find us on Facebook, Instagram, Snapchat and Twitter.

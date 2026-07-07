@@ -1,0 +1,73 @@
+id: bbc_2019_9444
+title: Biostar security software 'leaked a million fingerprints' - BBC News
+date: '2019-08-14'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-49343774
+content: |-
+  Biometric security software Biostar 2 was found to have exposed sensitive user data online.
+
+  Biostar 2 is used by thousands of companies around the world
+
+  More than a million fingerprints and other sensitive data have been exposed online by a biometric security firm, researchers say.
+
+  Researchers working with cyber-security firm VPNMentor say they accessed data from a security tool called Biostar 2.
+
+  It is used by thousands of companies worldwide, including the UK's Metropolitan Police, to control access to specific parts of secure facilities.
+
+  Suprema, the firm that offers Biostar 2, said it was addressing the issue.
+
+  "If there has been any definite threat on our products and/or services, we will take immediate actions and make appropriate announcements to protect our customers' valuable businesses and assets," a company spokesman told the Guardian.
+
+  According to VPNMentor, the exposed data, discovered on 5 August, was made private on 13 August.
+
+  It is not clear how long it was accessible.
+
+  As well as fingerprint records, the researchers say they found photographs of people, facial recognition data, names, addresses, passwords, employment history and records of when they had accessed secure areas.
+
+  Since news of the data exposure broke, some have questioned the extent to which real fingerprint data was made available.
+
+  However, the cyber-security researchers say they stand by their research.
+
+  Suprema said in a statement to the BBC it was aware of reports of the breach and was taking them "very seriously".
+
+  "[Suprema] is investigating the allegations in the press reports and will liaise with any appropriate third parties and/or individuals as necessary.
+
+  "At this stage, it cannot make any further comment but will, if appropriate, issue a further press statement in due course, including corrections of any erroneous assertions in the reports to date."
+
+  Among the UK organisations directly affected by the breach was Tile Mountain, a homeware retailer.
+
+  Biostar 2 was only used at the company's head office in Stoke on Trent, IT director Colin Hampson said.
+
+  He said that since 26 February 2018 Tile Mountain had not been an "active client" of Suprema's and had instead stored biometric data on its own secure internal servers.
+
+  "Despite Tile Mountain not being an active client of Suprema it is concerning that no contact was made to inform us that data may have been compromised - this could potentially have prevented Tile Mountain from carrying out its obligations under GDPR [General Data Protection Regulation]," he added.
+
+  "It's crazy, just crazy," Noam Rotem, one of the researchers who found the data, told the BBC.
+
+  He pointed out that biometric information such as fingerprints could never be made private again once lost.
+
+  He said he and his colleagues had had difficulty when trying to report the exposed data to Suprema.
+
+  "We started calling all of the offices one by one and had to deal with people just hanging up the phone," he said.
+
+  In total, 23 gigabytes of data containing nearly 30 million records were found exposed online.
+
+  "This could be used in a wide range of criminal activities that would be disastrous for both the businesses and organisations affected, as well as their employees or clients," said VPNMentor in a blog about the discovery.
+
+  Among the leaked data were facial recognition records and photographs of people
+
+  The data leak was "horrendous", according to Simon Birchall, managing director for Timeware, a British firm that installs Suprema fingerprint readers.
+
+  Mr Birchall said Timeware had developed its own software for the devices and did not provide Biostar 2 to clients.
+
+  "It looks like someone has taken the standard Biostar 2 product and installed it on an open network," he told the BBC. "It's just silly what they've done."
+
+  Mr Rotem told the BBC that a number of British companies had been affected.
+
+  However, he was not able to confirm their names because he and his team did not download all the data they found in order to limit the privacy implications of the breach.
+
+  A spokesman for the Metropolitan Police told the BBC that the force was now checking whether it was one of the affected organisations.
+
+  Among other firms whose data was discovered were:
+
+  The UK Information Commissioner's Office said it was aware of reports about Biostar 2 and would be making enquiries.

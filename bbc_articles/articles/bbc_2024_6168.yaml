@@ -1,0 +1,81 @@
+id: bbc_2024_6168
+title: Tackling deepfakes 'has turned into an arms race' - BBC News
+date: '2024-03-28'
+section: Business
+url: http://www.bbc.co.uk/news/business-68549609
+content: |-
+  The battle against fake images, video and audio is becoming ever harder as the tech improves.
+
+  Louise Bruder says that while AI can be used to fight AI-created deepfakes, human checkers will always still be needed
+
+  Louise Bruder never forgets a face. Which is not only a handy skill at parties, but it has helped her carve out a career.
+
+  She has the fabulous job title of super-recogniser, and her work at UK digital ID firm Yoti involves comparing the photos on an identity document with an uploaded selfie, to determine if it is the same person.
+
+  But Yoti, in common with other ID firms, faces a new threat - spotting so-called deepfakes. These are fake images created using AI-powered software.
+
+  Louise tells me that she hasn't yet been asked to assess deepfakes as part of her day job, but the firm is well aware of the threat. And so, it is actively working on technology that will help spot them.
+
+  Putting her skills to the test with the BBC's own Deepfake Quiz, she scored seven out of eight. "There's a deadness in people's eyes that really means they don't look real," says Louise.
+
+  Ben Colman is the boss of Reality Defender, a US firm that aims to provide technology to spot deepfakes, and he thinks Louise may struggle soon to tell real from fake.
+
+  Ben Colman warns that deepfake technology is getting ever more sophisticated
+
+  "I'd say that in the last nine months it's become next to impossible for even the best experts to tell real versus AI generated. We need a software solution to do this," he says.
+
+  Mr Colman differentiates between really sophisticated deepfakes, which may be deployed by a nation state to create disinformation, and what he calls "cheapfakes", whereby criminals use off-the-shelf AI software.
+
+  Worryingly, even the cheap fakes "are still good enough to fool people, particularly within images and audio," he says. Video, though "is still a little more challenging, and requires a lot more computation".
+
+  The solution his firm offers can scan and flag AI representation in an image, video or audio. Clients include the Taiwanese government, Nato, media organisations and large banks.
+
+  While it is video or image deepfakes that more often get the headlines, audio-only scams are also growing. For example criminals sending voice recordings using a person's voice to say things like "Mum, I've lost my phone, please pay money to this account now".
+
+  Collecting voice clips from someone's account social media or YouTube is an easy job, and just a few seconds of audio is enough to clone the voice and use it to create sentences the person never said.
+
+  Some off the shelf software even allows users to "dial up" stress levels in a voice, a technique that has been used to fool parents in real cases where parents believed their child had been kidnapped.
+
+  Siwei Lyu is a professor at the University of Buffalo in the US who has studied deepfakes for many years, with the ultimate goal of developing algorithms to help automatically identify and expose them.
+
+  The algorithms are trained to spot tiny differences - eyes that might not be quite looking in the right direction or, in the case of an artificially created voice, a lack of evidence of breath.
+
+  Prof Lyu thinks there needs to be a degree of urgency to solving the problem, warning that video conferencing may be the next target for criminals.
+
+  "Not far in the future you could be plugged into a Zoom call, and you think you are talking to me, but it might be a virtual version of me. Somebody might use my image and create that as a deepfake presence in the zoom call."
+
+  Deepfakes also have the potential to cause widespread societal disruption. Last year, a fake image of an explosion near the Pentagon went viral on social media, as did fake pictures of Donald Trump in handcuffs.
+
+  And in January, the New Hampshire Department of Justice was forced to release a statement saying that a recorded audio of Joe Biden telling residents not to vote in the state primary election was a deepfake.
+
+  Sigurdur Arnason runs a music creation platform in Iceland. Before Christmas he was asked by the Icelandic National Broadcasting Service to create a video music skit using a deepfake of a beloved dead Icelandic comedian called Hemmi Gunn for a show that aired on New Year's Eve.
+
+  "We thought it would be a fun project," he says. "We asked permission from the comedian's family and we created our own in-house AI models."
+
+  The skit did more than amuse, though.
+
+  "It sent shockwaves through the whole country," says Mr Arnason. "All of the radio, online news publications and TV were all talking about it. Some family members were not happy because it was so real. Politicians started talking about AI regulation."
+
+  The creation of a deepfake version of Icelandic comedian Hemmi Gunn (centre) created a storm in his country
+
+  It is important that politicians and the general public have such conversations and debates, thinks Christopher Doss, a researcher at think tank Rand Corporation.
+
+  He recently conducted a study into deepfakes which revealed that the more humans are exposed to deepfakes, the less likely they are to correctly identify them.
+
+  And he worries that using AI tools to fight the threat of AI creations could be a flawed approach.
+
+  "It's just going to set up a kind of arms race between those who are trying to detect it, and those who are trying to evade detection," he says. "The algorithm will figure out some artefact in the current deepfake landscape, and then the creators will shore up their weaknesses and improve their methods a little bit."
+
+  For him, grappling with the problem properly will involve training people to be more critical about the content they are consuming, including viewing everything with "a healthy scepticism", and double-checking sources.
+
+  That could mean teaching children about how to spot deepfakes from an early age. "The biggest challenge, and the one I don't have a solution for, is how to teach the general adult population," he says.
+
+  Christopher Doss says members of the public need to become more aware of deepfakes
+
+  Mr Colman, from Reality Defender, thinks the onus should be on companies to build solutions for spotting deepfakes, not consumers. "My mother is not responsible for identifying anti-virus issues," he points out. And he doesn't think she should be responsible for spotting deepfakes either.
+
+  "Social media and online sharing platforms are taking the approach that if we're not required to do it, we will do the bare minimum, and pass the buck on to consumers and let them flag things," he says. "The problem with that is it's like putting the toothpaste back in the tube.
+
+  "People only flag things when they've been seen a million times and it's already too late."
+
+  Back at Yoti, Louise Bruder says that no matter how good AI gets at fighting deepfakes, there will always be a need for human checkers like herself. "Providing a human check is a requirement for many businesses... and we don't expect that to change as it gives businesses extra confidence."

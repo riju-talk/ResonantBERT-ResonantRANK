@@ -1,0 +1,88 @@
+id: bbc_2020_5927
+title: Apple and Google release marks 'watershed moment' for contact-tracing apps
+  - BBC News
+date: '2020-05-20'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-52740131
+content: |-
+  Tech firms say 22 countries and some US states have requested access to their contact-tracing system.
+
+  Apple and Google have released a software tool that will make it possible for nations to release coronavirus contact-tracing apps that adopt the firms' privacy-centric model.
+
+  It offers developers access to added Bluetooth functionality to solve a problem existing apps have of iPhones sometimes failing to detect each other.
+
+  Android and iOS device owners will have to carry out system upgrades.
+
+  But some countries - including the UK - are pursuing a different approach.
+
+  "The release of these APIs [application programming interfaces] along with the operating-system updates will be a watershed moment for the development and adoption of proximity-tracing apps," said Marcel Salathé, an epidemiologist at the Swiss research institute EPFL.
+
+  He added that apps that adopted the protocol should be able to be made "interoperable" - meaning that citizens can continue to be contact-traced as they cross from one region and/or country to another. That could potentially help reduce travel restrictions imposed because of the virus - at least for those using the apps involved.
+
+  Apple and Google said public health agencies from 22 countries and some US states had already asked to test the system.
+
+  The app was not "a silver bullet" - but "user adoption is key to success and we believe that these strong privacy protections are also the best way to encourage use".
+
+  Contact-tracing apps are designed to automatically log when two people come into proximity to each other for a significant amount of time.
+
+  If one is later diagnosed with the coronavirus, the other can be given an alert, which might suggest they self-isolate and/or request a medical test of their own.
+
+  But the authorities believe adoption has been hampered by two factors:
+
+  In theory, the new system should address both these issues.
+
+  Its "decentralised" approach locates contact-matching on devices themselves rather than a centrally controlled computer server.
+
+  And this aims to cut the risk of either hackers or the authorities using the database of who met whom and for how long for other purposes.
+
+  But the UK's NHS and its counterparts in France, Norway and India say the centralised approach gives them greater insight, making it easier to tweak the risk model that decides who receives which type of alert.
+
+  Apps that adopt Apple and Google's API can customise it within certain limits.
+
+  But they will not be able to log, for example, a phone's global positioning system (GPS) coordinates.
+
+  "Not collecting some kinds of data, such as location, is a policy decision, not an engineering one," technology consultant Benedict Evans said.
+
+  "But Apple-Google have to build something for every phone on Earth, [potentially] including China and Iran, and think about how it could be abused.
+
+  "How much you need the extra data and whether it's worth the privacy risks is a matter of opinion."
+
+  Austria was the first country to roll out a decentralised contact-tracing app.
+
+  Stopp Corona, operated by the Red Cross, has been downloaded more than 600,000 times.
+
+  And its developers, Accenture, now intend to build in Apple and Google's API for a 10 June update so iPhone-users no longer have to bring the app on-screen for it to work effectively.
+
+  Austria's Stopp Corona app is set to be among the first to introduce the Apple-Google model to the public
+
+  But Stopp Corona currently gives users the option of manually controlling when matches occur - by pressing an on-screen button to trigger a Bluetooth "handshake" .
+
+  And this is not currently possible within the Apple-Google model.
+
+  So the developers plan to switch to using ultrasonic audio pings in this situation.
+
+  Apple and Google's API is also currently incompatible with the way Stopp Corona triggers different types of notification.
+
+  The app first serves a yellow alert if a contact self-diagnoses as having the virus and then follows up with a red or green alert depending on whether a medical test confirms it.
+
+  And the developers are working with Apple and Google to try to retain this functionality.
+
+  "There's really good collaboration on both sides," Christian Winhelhofer, the Accenture executive involved, told BBC News.
+
+  "They're really interested in working on solutions that fit our needs."
+
+  Germany's forthcoming Corona-Warn-App is also set to adopt the Apple-Google protocol.
+
+  But its developers have complained handsets not in use are limited to listening out for a Bluetooth signal only once every five minutes for a duration of about four seconds.
+
+  This video can not be played To play this video you need to enable JavaScript in your browser. WATCH: What is contact tracing and how does it work?
+
+  So, in theory, a couple hugging for three minutes, for example, might not be logged, while another merely brushing past each other at the right time would be.
+
+  Apple and Google are aware of this issue.
+
+  By contrast, the NHS's app listens out for a match roughly once every eight seconds.
+
+  The NHS has also developed its own workaround to the iPhone Bluetooth issue.
+
+  But it is still exploring the Apple-Google system as a back-up plan.

@@ -1,0 +1,39 @@
+id: bbc_2018_8349
+title: Abuse inquiry fined £200,000 for email data breach - BBC News
+date: '2018-07-18'
+section: UK
+url: http://www.bbc.co.uk/news/uk-44872880
+content: |-
+  A mass email using the "to" field instead of the "bcc" field identified possible abuse victims.
+
+  The Independent Inquiry into Child Sexual Abuse has been fined £200,000 after sending a mass email that identified possible abuse victims, the Information Commissioner's Office says.
+
+  An inquiry staff member emailed 90 people using the "to" field instead of the "bcc" field - allowing recipients to see each other's addresses, it said.
+
+  The ICO said the incident last year was a breach of the Data Protection Act.
+
+  The inquiry said it had apologised and reviewed its data-handling.
+
+  Twenty-two complaints were received about the breach and one person told the ICO he was "very distressed" by it.
+
+  The inquiry, which covers England and Wales, was set up in 2014 with the aim to investigate claims against local authorities, religious organisations, the armed forces and public and private institutions - and people in the public eye.
+
+  An inquiry staff member first sent a blind carbon copy (bcc) email on 27 February 2017 to 90 inquiry participants telling them about a public hearing, the ICO said.
+
+  After noticing an error in the email, a correction was sent but email addresses were entered into the "to" field instead, revealing the addresses of the recipients.
+
+  Fifty-two of the email addresses contained full names or had a full name label attached.
+
+  The inquiry was alerted to the breach by a recipient who entered two further email addresses into the "to" field, before clicking on "reply all".
+
+  It then sent three emails asking those who had received the email to delete it and not to circulate it further.
+
+  Steve Eckersley, the ICO's director of investigations, said the breach "placed vulnerable people at risk" and called this "concerning".
+
+  "IICSA should and could have done more to ensure this did not happen," he said.
+
+  "People's email addresses can be searched via social networks and search engines, so the risk that they could be identified was significant."
+
+  In a statement, the inquiry said it took its data protection obligations "very seriously" and has apologised to those affected.
+
+  "After a wide-ranging review by external experts, we have amended our handling processes for personal data to ensure they are robust and the risk of a further breach is minimised," it said.

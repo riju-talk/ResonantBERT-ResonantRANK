@@ -1,0 +1,57 @@
+id: bbc_2017_8819
+title: What government wants from tech in the fight against terror - BBC News
+date: '2017-09-21'
+section: UK
+url: http://www.bbc.co.uk/news/uk-41338197
+content: |-
+  The prime minister wants tech companies to do more to tackle extremist content. They say it's not that easy.
+
+  The prime minister wants technology companies to do more to tackle extremist content on the web. They say it's not as straightforward as it might sound.
+
+  As so-called Islamic State faces defeat in the battlefield of the Middle East, British security officials know the online battle will increasingly take centre-stage.
+
+  IS has shown its ability to reach out to people online and radicalise, recruit and even instruct them on how to carry out acts of violence. A report from the think tank Policy Exchange said the UK was the world's fifth biggest audience for extremist material.
+
+  The companies say they are acting on this problem. Facebook says it has begun to use artificial intelligence to spot images, videos and text related to terrorism as well as clusters of fake accounts. Meanwhile, Twitter says it suspended 299,649 accounts in the first six months of this year - 75% of these before their first tweet.
+
+  The companies are now sharing databases of suspicious material, and they have set up the Global Internet Forum to bring together the major players on the issue. They stress that the challenge remains immense when so much material is being uploaded.
+
+  Theresa May in New York, where she is addressing the UN General Assembly
+
+  "It is a computer science challenge when you are dealing with the scale and scope of the internet and the number of different accounts that are at issue," says Kent Walker, general counsel at Google, speaking in advance of the UN meeting where he is representing the Global Internet Forum.
+
+  But Theresa May wants internet companies to go "further and faster", including developing new technology to stop extremist material from appearing on the web in the first place, or taking it down within an hour or two of appearing (the period in which it is more widely disseminated).
+
+  Much of the talk has been about taking down content, but officials in London say they want the companies to tackle a broader problem - the presence of extremist groups on their platforms.
+
+  The concern is over the ability of groups such as IS to not just upload propaganda but to use social media to engage directly with people and communicate with them.
+
+  For instance, someone may find material on a site and then be directed to another channel (perhaps encrypted) where they will find a call to carry out acts of violence and perhaps even instructions on how to do it.
+
+  Officials believe the companies could do more to deny extremist groups any presence on the platforms by focusing not just on content but also on the actors using the platforms.
+
+  They believe technology companies could look at the metadata of users to spot potential extremist actors and then either exclude them or quarantine any material they try to upload so it can be reviewed.
+
+  Such actions, they argue, are similar to the work to keep not just paedophile content but paedophile groups off the web.
+
+  Companies have been resistant about going down this path.
+
+  They say they do not want to have the "signals intelligence" work of government outsourced to them.
+
+  They have been sensitive about accusations of spying on their users on behalf of government since the Edward Snowden revelations of 2013 revealed the way in which the US National Security Agency (NSA) obtained material from companies including Microsoft, Yahoo and Facebook.
+
+  British officials argue in turn that technology companies already analyse metadata in order to search for botnets (networks designed to infect computers and deliver spam).
+
+  They say systems determine that a certain type of account in a certain country, exhibiting a certain pattern of behaviour, is likely to be being used in a botnet and therefore should be either blocked or reviewed. The same type of technology could be used for extremist actors, they maintain.
+
+  Another problem for technology companies is that they are criticised when their automated tools remove the wrong material. For instance, there have been complaints that videos about the conflict in Syria have been removed from sites that document war crimes or analyse what is going on.
+
+  There are also fears that tools might eliminate content that relates to legitimate news but features imagery from propaganda videos. "We have thousands of people on behalf of all the different companies who are working to train and improve the quality of our machine learning," says Mr Walker.
+
+  "The challenge is that while machine learning is a powerful tool, it is still relatively early in its evolution. We need the ability to identify the problematic material and remove it while being able to separate the wheat from the chaff. We need feedback from trusted government sources and our users."
+
+  For the companies, another challenge is their own global presence. They fear that bowing too far to demands to remove extremist content or blocking actors will lead to an avalanche of requests from governments who each define such content in different ways.
+
+  A further problem is that the big companies of Silicon Valley are not the only players. The company Telegram in particular has been criticised for not doing more. It has positioned itself as keeping its distance from governments and their demands for information. This problem may grow as more and more companies set up outside the US and UK and see resisting pressure from governments as a way of differentiating themselves from the big players in Silicon Valley.
+
+  Technology companies point to the amount of staff they are now putting in to review material, but government officials say they are still not putting their best engineering minds on the issue - for instance, the developers who come up with highly profitable techniques for targeting ads. Companies often say that technology can solve any problem. And government wants to see if they can prove it.

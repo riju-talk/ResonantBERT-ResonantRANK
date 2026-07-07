@@ -1,0 +1,39 @@
+id: bbc_2021_10139
+title: Apple to scan iPhones for child sex abuse images - BBC News
+date: '2021-08-05'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-58109748
+content: |-
+  Apple announces it will implement a system to scan US iPhones for images of child sexual abuse.
+
+  Apple has announced details of a system to find child sexual abuse material (CSAM) on US customers' devices.
+
+  Before an image is stored onto iCloud Photos, the technology will search for matches of already known CSAM.
+
+  Apple said that if a match is found a human reviewer will then assess and report the user to law enforcement.
+
+  However there are privacy concerns that the technology could be expanded to scan phones for prohibited content or even political speech.
+
+  Experts worry that the technology could be used by authoritarian governments to spy on its citizens.
+
+  Apple said that new versions of iOS and iPadOS - due to be released later this year - will have "new applications of cryptography to help limit the spread of CSAM online, while designing for user privacy".
+
+  The system works by comparing pictures to a database of known child sexual abuse images compiled by the US National Center for Missing and Exploited Children (NCMEC) and other child safety organisations.
+
+  Those images are translated into "hashes", numerical codes that can be "matched" to an image on an Apple device.
+
+  Apple says the technology will also catch edited but similar versions of original images.
+
+  "Before an image is stored in iCloud Photos, an on-device matching process is performed for that image against the known CSAM hashes," Apple said.
+
+  The company claimed the system had an "extremely high level of accuracy and ensures less than a one in one trillion chance per year of incorrectly flagging a given account".
+
+  Apple says that it will manually review each report to confirm there is a match. It can then take steps to disable a user's account and report to law enforcement.
+
+  The company says that the new technology offers "significant" privacy benefits over existing techniques - as Apple only learns about users' photos if they have a collection of known CSAM in their iCloud Photos account.
+
+  However some privacy experts have voiced concerns.
+
+  "Regardless of what Apple's long term plans are, they've sent a very clear signal. In their (very influential) opinion, it is safe to build systems that scan users' phones for prohibited content," Matthew Green, a security researcher at Johns Hopkins University, said.
+
+  "Whether they turn out to be right or wrong on that point hardly matters. This will break the dam — governments will demand it from everyone."

@@ -1,0 +1,65 @@
+id: bbc_2020_5717
+title: 'Coronavirus: Security flaws found in NHS contact-tracing app - BBC News'
+date: '2020-05-19'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-52725810
+content: |-
+  The UK's National Cyber Security Centre acknowledges problems identified by an independent report.
+
+  Wide-ranging security flaws have been flagged in the Covid-19 contact-tracing app being piloted in the Isle of Wight.
+
+  The security researchers involved have warned the problems pose risks to users' privacy and could be abused to prevent contagion alerts being sent.
+
+  GCHQ's National Cyber Security Centre (NCSC) told the BBC it was already aware of most of the issues raised and is in the process of addressing them.
+
+  But the researchers suggest a more fundamental rethink is required.
+
+  Specifically, they call for new legal protections to prevent officials using the data for purposes other than identifying those at risk of being infected, or holding on to it indefinitely.
+
+  In addition, they suggest the NHS considers shifting from its current "centralised" model - where contact-matching happens on a computer server - to a "decentralised" version - where the matching instead happens on people's phones.
+
+  "There can still be bugs and security vulnerabilities in either the decentralised or the centralised models," said Thinking Cybersecurity chief executive Dr Vanessa Teague.
+
+  "But the big difference is that a decentralised solution wouldn't have a central server with the recent face-to-face contacts of every infected person.
+
+  "So there's a much lower risk of that database being leaked or abused."
+
+  Health Secretary Matt Hancock said on Monday a new law "is not needed because the Data Protection Act will do the job".
+
+  And NHSX - the health service's digital innovation unit - has said using the centralised model will both make it easier to improve the app over time and trigger alerts based on people's self-diagnosed symptoms rather than just medical test results.
+
+  This video can not be played To play this video you need to enable JavaScript in your browser. Watch: What is contact tracing and how does it work?
+
+  The researchers detail seven different problems they found with the app.
+
+  "The risks overall are varied," Dr Chris Culnane, the second author of the report, told BBC News.
+
+  "In terms of the registration issues, it's fairly low risk because it would require an attack against a well protected server, which we don't think is particularly likely.
+
+  "But the risk about the unencrypted data is higher, because if someone was to get access to your phone, then they might be able to learn some additional information because of what is stored on that."
+
+  NCSC technical director Ian Levy blogged thanking the two researchers for their work and promising to address the issues they identified.
+
+  But he said it might take several releases of the app before all the problems were addressed.
+
+  "Everything reported to the team will be properly triaged (although this is taking longer than normal)," he wrote.
+
+  An NCSC spokesman said: "It was always hoped that measures such as releasing the code and explaining decisions behind the app would generate meaningful discussion with the security and privacy community.
+
+  "We look forward to continuing to work with security and cryptography researchers to make the app the best it can be."
+
+  Isle of Wight residents are testing the NHS Covid-19 app ahead of a planned national rollout
+
+  But Dr Culnane said politicians also needed to revisit the issue.
+
+  "I have confidence that they will fix the technical issues," he said.
+
+  "But there are broader issues around the lack of legislation protecting use of this data [including the fact] there's no strict limit on when the data has to be deleted.
+
+  "That's in contrast to Australia, which has very strict limits about deleting its app data at the end of the crisis."
+
+  Meanwhile, Harriet Harman, who chairs the Parliament's Human Rights Committee, announced she was seeking permission to introduce a private member's bill to limit who could use data gathered by the app and how and create a watchdog to deal with related complaints from the public.
+
+  "I personally would download the app myself, even if I'm apprehensive about what the data would be used for," the Labour MP told BBC News.
+
+  "But the view of my committee was that this app should not go ahead unless [the government] is willing to put in place the privacy protections."

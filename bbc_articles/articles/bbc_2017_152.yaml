@@ -1,0 +1,79 @@
+id: bbc_2017_152
+title: Can your voice reveal whether you have an illness? - BBC News
+date: '2017-01-17'
+section: Business
+url: http://www.bbc.co.uk/news/business-38637257
+content: "Our voices can activate gadgets and authenticate ourselves to banks. But\
+  \ can they tell if we're ill?\n\nOur voices can tell us more than we think\n\nWe\
+  \ can use them to sing, shout and whisper sweet nothings. We can use them to activate\
+  \ gadgets and prove who we are to banks.\n\nAnd now researchers believe they can\
+  \ also reveal whether we're getting ill.\n\nA US start-up called Canary Speech is\
+  \ developing a way of analysing conversations using machine learning to test for\
+  \ a number of neurological and cognitive diseases, ranging from Parkinson's to dementia.\n\
+  \nThe project was born out of a painful personal experience for the firm's co-founder\
+  \ Henry O'Connell.\n\n\"It has been my pleasure to have as a friend for nearly 30\
+  \ years a dear gentleman who was diagnosed six years ago with Parkinson's disease,\"\
+  \ says Mr O'Connell.\n\n\"My friend was told when the diagnosis was finally made\
+  \ that it was likely that he had been suffering from Parkinson's for over 10 years.\"\
+  \n\nAs with so many diseases, early diagnosis can play a crucial role in effectively\
+  \ managing the condition, but recent research highlights the difficulties in correctly\
+  \ diagnosing it, with doctors often struggling to distinguish the symptoms.\n\n\
+  And the longer the condition goes undiagnosed, the more severe the symptoms become.\n\
+  \n\"During the years before his diagnosis was accurately made, my friend, suffering\
+  \ from muscle and apparent nerve-related pain, was treated in several medical facilities,\"\
+  \ says Mr O'Connell.\n\n\"The muscle and nerve-related pain were directly associated\
+  \ with a progressing Parkinson's illness. Because it went undiagnosed, proper treatment\
+  \ was delayed and his Parkinson's progressed potentially more rapidly than it would\
+  \ have under proper diagnosis and treatment.\"\n\nCanary Speech developed algorithms\
+  \ after examining the speech patterns of patients with particular conditions, including\
+  \ Alzheimer's, dementia and Parkinson's.\n\nThis enabled them to spot a number of\
+  \ tell-tale signs both pre and post-diagnosis, including the kinds of words used,\
+  \ their phrasing, and the overall quality of speech.\n\nFor instance, one symptom\
+  \ of the disease is a softening of the voice - something than can be easily overlooked\
+  \ by those close to us. But Canary Speech's software is capable of picking up such\
+  \ small changes in speech patterns.\n\nFellow co-founder Jeff Adams was previously\
+  \ chief executive at Yap, the company bought by Amazon and whose technology subsequently\
+  \ formed the core of the tech giant's voice-activated Echo speaker.\n\nSome studies\
+  \ suggest our speech patterns can give an early indication of Alzheimer's disease\n\
+  \nThe overall goal is to be able to spot the onset of these conditions considerably\
+  \ sooner than is currently possible. In initial trials, the software was used to\
+  \ provide real-time analysis of conversations between patients and their clinicians.\n\
+  \nAs with so many machine learning-based technologies, it will improve as it gains\
+  \ access to more data to train the algorithms that underpin it.\n\nAnd as more voice-activated\
+  \ devices come on to the market and digital conversations are recorded, the opportunities\
+  \ to analyse all this data will also increase.\n\nSome researchers have analysed\
+  \ conversations between patients and drug and alcohol counsellors, for example,\
+  \ to assess the degree of empathy the therapists were displaying.\n\n\"Machine learning\
+  \ and artificial intelligence has a major role to play in healthcare,\" says Tony\
+  \ Young, national clinical lead for innovation at NHS England.\n\n\"You only have\
+  \ to look at the rapid advancements made in the last two years in the translation\
+  \ space. Machine learning won't replace clinicians, but it will help them do things\
+  \ that no humans could previously do.\"\n\nIt is easy to see how such technology\
+  \ could be applied to teaching and training scenarios.\n\nVoice analysis is also\
+  \ being used in commercial settings.\n\nFor instance, tech start-up Cogito, which\
+  \ emerged from Massachusetts Institute of Technology, analyses the conversations\
+  \ taking place between customer service staff and customers.\n\nThey monitor interactions\
+  \ in real time. Their machine learning software compares the conversation with its\
+  \ database of successful calls from the past.\n\nThe team believes that it can provide\
+  \ staff with real-time feedback on how the conversation is going, together with\
+  \ advice on how to guide things in a better direction - what it calls \"emotional\
+  \ intelligence\".\n\nCogito's software gives real-time tips to customer service\
+  \ staff as they talk to customers\n\nThese tips can include altering one's tone\
+  \ or cadence to mirror that of the customer, or gauging the emotions on display\
+  \ to try to calm the conversation down.\n\nIt's even capable of alerting the supervisor\
+  \ if it thinks that greater authority would help the conversation reach a more positive\
+  \ conclusion. The advice uses the same kind of behavioural economics used so famously\
+  \ by the UK government's Behavioural Insights Team, also known as the Nudge Unit.\n\
+  \nEarly customers of Cogito's product, including Humana, Zurich and CareFirst BlueCross,\
+  \ report an increase in customer satisfaction of around 20%.\n\nAs the internet\
+  \ of things spreads its tentacles throughout our lives, voice analysis will undoubtedly\
+  \ be added to other biometric ways of authenticating ourselves in a growing number\
+  \ of situations.\n\nGoogle's Project Abacus, for example, is dedicated to killing\
+  \ passwords, given that 70% of us apparently forget them every month.\n\nIt plans\
+  \ to use our speech patterns - not just what we say but how we say it - in conjunction\
+  \ with other behavioural data, such as how we type, to build up a more reliable\
+  \ picture of our identity. Our smartphones will know who we are just by the way\
+  \ we use them.\n\nThe big - silent - elephant in the room is how all this monitoring\
+  \ and analysis of our voices will impact upon our right to privacy.\n\nFollow Technology\
+  \ of Business editor Matthew Wall on Twitter and Facebook\n\nClick here for more\
+  \ Technology of Business features\x7F"

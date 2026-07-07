@@ -1,0 +1,139 @@
+id: bbc_2020_6744
+title: Apple Mac computers make jump to its own chips - BBC News
+date: '2020-06-23'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-53142989
+content: |-
+  The firm will now custom-design the chips that power its future desktop and laptop computers.
+
+  Tim Cook said it was a "historic day for the Mac"
+
+  Apple has confirmed it will transition its Mac laptop and desktop computers to its own ARM-based processors.
+
+  The move means that Macs will run on the same type of chips as the firm's iPhones and iPads, rather than Intel's.
+
+  Intel had faced problems manufacturing its own designs, leading it to issue a public apology to computer-makers.
+
+  Apple's challenge will be to carry off the transition smoothly and convince third-party developers to update their apps accordingly.
+
+  "We expect to ship our first Mac with Apple silicon by the end of the year," said chief executive Tim Cook, adding that it would likely be two years before its full product line had made the jump.
+
+  The firm said the move would allow it to offer new features and improved performance as well as making it easier for developers to "write and optimise software for the entire Apple ecosystem".
+
+  The announcement was made at Apple's annual Worldwide Developers Conference (WWDC).
+
+  "Apple's motivations for doing this include reducing its dependence on Intel, maximizing its silicon investment, boosting performance and giving itself more flexibility and agility when it comes to future products," commented Geoff Blaber from the consultancy CCS Insight.
+
+  "Embracing ARM and making its hardware more consistent across the iPhone, iPad and Mac ranges is a strategic necessity, but there will be inevitable bumps along the road."
+
+  MacOS was shown running on the current iPad Pro chip, but the new computers will have processors of their own
+
+  Apple said it had already developed native versions of several of its own apps, including Final Cut Pro X and Logic Pro. iPhone and iPad apps will also be able to be run on the computers.
+
+  Apple said that Microsoft was working on an optimised version of Office, and Adobe was developing a version of Photoshop.
+
+  Other developers should be able to recompile their apps to get a version running "in just a matter of days," said the company's software chief Craig Federighi. He added that old apps would automatically be translated at point of installation to run, although they would not work as well.
+
+  To mark the significance of the move, MacOS will move to version 11. Since 2001, it had only moved from 10.0 to 10.15.
+
+  Apple successfully made the switch from IBM-Motorola's PowerPC processors to Intel's x86 family in 2006.
+
+  However, some software was never updated and cannot easily be run on today's Mac computers. Apple dropped support for running older software under emulation in the 2011 release of its Mac operating system.
+
+  Microsoft already allows Windows 10 to be run on both Intel and ARM-based processors and looks set to continue supporting both chip architectures.
+
+  Apple has not stated how long it will do the same.
+
+  This Twitter post cannot be displayed in your browser. Please enable Javascript or try a different browser. View original content on Twitter The BBC is not responsible for the content of external sites. Skip twitter post by Ian Fogg This article contains content provided by Twitter. We ask for your permission before anything is loaded, as they may be using cookies and other technologies. You may want to read Twitter’s cookie policy, external and privacy policy, external before accepting. To view this content choose ‘accept and continue’. The BBC is not responsible for the content of external sites.
+
+  As a result, some people considering buying one of its laptop or desktop computers may decide to postpone a purchase until its first ARM-based computers go on sale.
+
+  This could hit sales both at Apple and the development studios that make software for the platform.
+
+  ARM-based chips are based on the designs of the UK-based company, which is headquartered in Cambridge. Other companies then adapt these to add capabilities of their own.
+
+  Samsung, Qualcomm and Huawei are among the many other companies to do so.
+
+  Apple is the fourth-largest PC vendor, according to market research firm Gartner, coming behind Lenovo, HP, and Dell.
+
+  The company has said that it has more than 100 million active Mac users. Back in June 2005, when it first announced the move to Intel chips, the figure was about 12.5 million.
+
+  "Apple is approximately 4.5% of the laptop market and 2.6% of the desktop market, so the financial impact to Intel will not be significant," commented Gartner's Jon Erensen.
+
+  "However, this transition... could give momentum to Microsoft's current efforts to run Windows on Qualcomm's Snapdragon processors."
+
+  The new version of MacOS, "Big Sur", was shown off with design tweaks
+
+  Existing Mac owners will see changes to the next MacOS operating system - called Big Sur - which Apple said marked its biggest redesign to date.
+
+  The best way to describe a processor is the brain of the computer.
+
+  Hardly surprising then that the processor in your computer is kind of important. Changing it is no small thing - and Apple hasn't decided this lightly.
+
+  The big question though - and the one that if you're reading this you're probably more interested in - is what will this do for Macs in general?
+
+  The prevailing view in Silicon Valley is moving to Apple silicon will make for more powerful Macs.
+
+  Bringing it in-house could create cheaper processors - so in theory you could have cheaper Macs (that's if Apple wanted to pass on savings to the consumer).
+
+  The first is that Apple still has Intel-based Macs yet to come out. Will people simply wait for Apple's new processor to go live before choosing to buy a new computer?
+
+  And - considering how well Mac products sell there will be a nervousness about changing a formula that has worked very well for Apple for the last 15 years.
+
+  Other announcements at WWDC included the ability to use an iPhone as a substitute for a car key by transmitting an NFC (near-field communication) signal to unlock doors and start the engine.
+
+  This will initially be limited to some new BMWs, but the firm said it intended to expand to other models in time.
+
+  This Twitter post cannot be displayed in your browser. Please enable Javascript or try a different browser. View original content on Twitter The BBC is not responsible for the content of external sites. Skip twitter post 2 by Carolina Milanesi This article contains content provided by Twitter. We ask for your permission before anything is loaded, as they may be using cookies and other technologies. You may want to read Twitter’s cookie policy, external and privacy policy, external before accepting. To view this content choose ‘accept and continue’. The BBC is not responsible for the content of external sites.
+
+  App developers will also have to provide more information about the data they gather about users, so that Apple can display a summary to them before they install the software.
+
+  This Twitter post cannot be displayed in your browser. Please enable Javascript or try a different browser. View original content on Twitter The BBC is not responsible for the content of external sites. Skip twitter post 3 by Ben Bajarin This article contains content provided by Twitter. We ask for your permission before anything is loaded, as they may be using cookies and other technologies. You may want to read Twitter’s cookie policy, external and privacy policy, external before accepting. To view this content choose ‘accept and continue’. The BBC is not responsible for the content of external sites.
+
+  One of the biggest changes to the iPhone's iOS14 operating system will be a shake-up of the home screen.
+
+  Apps can now be automatically organised into folders containing:
+
+  In addition, the firm is updating its "widgets" - blocks that display a stripped-down, small app window - so that they can be placed among the icons for other programs. Examples included weather forecasts, news briefings, and calendar meetings. Android already has something similar.
+
+  Another Android-like new feature is the introduction of App Clips, which allow part of a program to be downloaded quickly. These must be less than 10 megabytes in size and will be able to be triggered via an NFC-transmission or by scanning a QR code.
+
+  Suggested uses included the ability to order a drink in a cafe or to pay for a car-parking space.
+
+  "App Clips" are lightweight apps that can be launched easily, without installing, for immediate functionality
+
+  Apple is also releasing a new app called Translate that carries out language translations offline, offering an alternative to Google Translate.
+
+  It will support 11 languages to begin with including English, Mandarin, French, German, and Arabic.
+
+  This Twitter post cannot be displayed in your browser. Please enable Javascript or try a different browser. View original content on Twitter The BBC is not responsible for the content of external sites. Skip twitter post 4 by Wayne Lam This article contains content provided by Twitter. We ask for your permission before anything is loaded, as they may be using cookies and other technologies. You may want to read Twitter’s cookie policy, external and privacy policy, external before accepting. To view this content choose ‘accept and continue’. The BBC is not responsible for the content of external sites.
+
+  For the first time, users will be able to set third-party email and web browser apps as the default in iOS, rather than Apple's own software.
+
+  The UK and Ireland will be among countries given access to an overhauled version of its Maps app, which provides more detailed views of roads and paths than before - as well as new cycling directions and routes for electric cars that pass charging stations.
+
+  And its MeMoji cartoon-like characters now feature new styling options, including the addition of protective face masks.
+
+  Apple's tablet operating system iPadOS will also benefit from several enhancements to its Pencil stylus.
+
+  The next version of WatchOS adds sleep-tracking functionality to the firm's smartwatch - which will be based on a user's movements in bed.
+
+  It also adds the ability to determine when the owner is washing their hands, in order to confirm whether they have done so for long enough to help protect against Covid-19.
+
+  This Twitter post cannot be displayed in your browser. Please enable Javascript or try a different browser. View original content on Twitter The BBC is not responsible for the content of external sites. Skip twitter post 5 by Ben Wood This article contains content provided by Twitter. We ask for your permission before anything is loaded, as they may be using cookies and other technologies. You may want to read Twitter’s cookie policy, external and privacy policy, external before accepting. To view this content choose ‘accept and continue’. The BBC is not responsible for the content of external sites.
+
+  This Twitter post cannot be displayed in your browser. Please enable Javascript or try a different browser. View original content on Twitter The BBC is not responsible for the content of external sites. Skip twitter post 6 by Vincent Thielke This article contains content provided by Twitter. We ask for your permission before anything is loaded, as they may be using cookies and other technologies. You may want to read Twitter’s cookie policy, external and privacy policy, external before accepting. To view this content choose ‘accept and continue’. The BBC is not responsible for the content of external sites.
+
+  In addition, the wearable will allow third-party "curated" watch faces to be shared and installed. The Activity app - which is now renamed Fitness - will track calories used for various dance styles.
+
+  Apple Watch receives new customisation options - and the ability to share customised watch faces
+
+  Apple's AirPod Pro earphones will gain spatial audio to recreate a cinema-style surround sound experience. They will also automatically switch between a user's Apple devices as the owner moves from one to another.
+
+  And the firm's Apple TV set-top box will soon allow compatible third-party video doorbells to live-stream footage of visitors to television screens, while iOS 14 will make it possible to use facial recognition to identify them.
+
+  The company said Homekit-compatible security cameras will now offer facial recognition when viewed on an Apple TV
+
+  This will only work with members of the owner's family and friends, who need to be tagged in advance.
+
+  It has also emerged that Apple TV's YouTube app will play clips in 4K for the first time, ending a stand-off with Google over the video-encoding technology involved.

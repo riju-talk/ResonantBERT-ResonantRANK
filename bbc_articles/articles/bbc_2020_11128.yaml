@@ -1,0 +1,43 @@
+id: bbc_2020_11128
+title: NHS Covid app updated to 'fix' phantom messages - BBC News
+date: '2020-10-13'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-54522438
+content: |-
+  People will still see alerts but will now get a follow-up message telling them to ignore it.
+
+  The NHS Covid-19 app has been updated to fix an issue with confusing alerts that pop up suggesting exposure to the virus and then disappear.
+
+  Users have complained that the notifications are scary and confusing.
+
+  In fact, the messages are a default privacy notification from either Apple or Google, which provide the underlying contact-tracing technology.
+
+  The alerts will still appear, but now a follow-up message from the government will tell people to ignore them.
+
+  NHS Covid-19 is targeted at users living in England and Wales.
+
+  Among other functions, the software is designed to warn users if they have recently been in close proximity to someone later diagnosed with the virus for long enough for there to be a high risk of contagion. If this is the case, it instructs the handset owner to go into self-isolation.
+
+  Scotland and Northern Ireland have apps of their own, which have not experienced the "phantom alert" problem.
+
+  The update, which became available on Monday night for iOS and Android phones, seeks to reassure users over the vanishing notifications.
+
+  Typical messages read: "Possible Covid-19 exposure. Someone you were near reported having Covid-19. Exposure date, duration and signal strength have been saved."
+
+  When users click on the notifications they disappear, and when they open the app, there is nothing to be seen and no new advice.
+
+  The new message urges people not to worry or to take any action
+
+  Now anyone receiving the alert will also get a second message which will say: "Covid-19 Exposure Check Complete. Don't worry, we have assessed your risk and there is no need to take action at this time. Please continue to stay alert and follow the latest advice on social distancing."
+
+  The Department of Health explained that these messages were "default privacy notifications from Apple and Google, who provide the underlying framework on which this and many other countries' Bluetooth contact tracing apps are based."
+
+  It added that the only messages that matter are the ones inside the app, particularly those advising people that they have been in contact with someone infected with coronavirus and need to self-isolate.
+
+  The update to the app also introduces support for two more languages, Polish and Somali.
+
+  The team behind the app, which has been downloaded more than 16 million times, is working on a more substantial update which will involve moving to version two of the Apple-Google framework.
+
+  This could stop the confusing notifications appearing altogether but will also improve the way the app uses Bluetooth to measure distance between two phones.
+
+  The Alan Turing Institute, which advises the app team, has been working on ways to refine this proximity measurement.

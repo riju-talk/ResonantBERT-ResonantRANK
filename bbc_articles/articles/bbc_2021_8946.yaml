@@ -1,0 +1,63 @@
+id: bbc_2021_8946
+title: 'Covid in Scotland: Shelf isolation and the United Pingdom - BBC News'
+date: '2021-07-23'
+section: Scotland business
+url: http://www.bbc.co.uk/news/uk-scotland-scotland-business-57926755
+content: |-
+  Why is there a much lower "ping rate" in Scotland than in the rest of the United Kingdom?
+
+  The "United Pingdom" can get as technologically diverse as its politics.
+
+  Scotland seems to be avoiding the huge hit to business from the NHS Covid app in England, sending vast numbers of "pings" that tell people they have to self-isolate.
+
+  In only one week this month, England had 520,000 pings of the contact-tracing app. Entire business critical teams are off work.
+
+  More than a 10th of workers in Sunderland's Nissan plant are off. It's affecting the teams that make sea ports function.
+
+  Around 900 workers at Nissan's Sunderland plant were sent home after being told to self-isolate
+
+  Warehouse workers are decimated. The existing difficulties with a big shortage of lorry drivers, due to Brexit and a backlog of driver tests, are being made much worse.
+
+  Businesses are being forced to close, cut shifts or reduce opening hours. Goods are not being picked up on schedule, and deliveries are being delayed. That could soon begin to affect fuel supplies to petrol stations.
+
+  The knock-on effect of disruption in warehouses and supply chains is affecting the supply of goods into other parts of the UK, with fresh food the first to become obvious.
+
+  Yet the root problem of the contact-tracing app - doing its job assiduously, we have to assume, rather than simply going rogue - is not affecting Scotland to anything like the same extent.
+
+  Why? I've been trying to find out.
+
+  Since its launch last September, the Protect Scotland app has had fewer than 60,000 notification "pings" in total, which should be for those within two metres of an infected person for at least 15 minutes.
+
+  That could be explained by different patterns of infection. And although Scottish infections have very recently been falling while English ones rise, the patterns have not been so different that they could be the only explanation.
+
+  A further reason may be that the NHS England app is combined with a code scanner with which people can register their presence in a restaurant or pub. The Scottish app lacks that incentive to download it, and to keep it active.
+
+  Figures show around half of those who originally downloaded the Scottish app no longer have it active. There is no equivalent figure for the English app.
+
+  In England, any positive Covid test will be automatically registered through the app
+
+  Asked at a media briefing earlier this week why there are far fewer app pings, the deputy chief medical officer, Nicola Steedman, explained the software is more complex in the English app, but no less sensitive.
+
+  While the difference may reflect the falling number of infections in Scotland, she also suggested it has to to do with those asked to key in a code to say they have had a positive test.
+
+  In England, if you book a Covid test through the app, any positive result will be automatically registered.
+
+  In Scotland, it requires the affected person to do that. It is anonymous, so there is no penalty for failing to do so, but Dr Steedman called on people to help the test and protect system by doing so.
+
+  Larry Breen is head of health and life sciences at NearForm, the Irish company that designed the Protect Scotland app.
+
+  The Irish software firm provides a similar service to Northern Ireland, the Republic of Ireland, Jersey, Gibraltar, New Jersey, New York, Philadelphia and Delaware.
+
+  He can explain how his system works, but isn't able to say how the English one is different. He confirms, however, that it is more complex than "deployed in the marketplace elsewhere".
+
+  Bluetooth technology can be set to register every connection as you walk down the street
+
+  The technology depends on Bluetooth connections with other smart phones in proximity.
+
+  As you walk down the street, it can be set to register everyone you pass within, say, five metres. That would create a very high level of connection.
+
+  So different variables can be set, primarily those of distance and time. Scotland and England are both supposed to be set to the same: up to two metres proximity for 15 minutes.
+
+  Is there any way of knowing the non-compliance rate of those Scots being pinged with a positive infection, and then failing to register that with the system? No.
+
+  The Scottish app is "privacy-preserving first". It's completely anonymised. It is possible to see what happens on the app, but obviously impossible to tell when and where it's being ignored.

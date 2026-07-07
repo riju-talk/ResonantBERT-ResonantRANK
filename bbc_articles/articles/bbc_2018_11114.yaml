@@ -1,0 +1,58 @@
+id: bbc_2018_11114
+title: 'British Airways: Suspect code that hacked fliers ''found'' - BBC News'
+date: '2018-09-11'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-45481976
+content: |-
+  The code, found lurking on the British Airways website, may be how hackers stole data on 380,000 transactions.
+
+  A cyber-security firm has said it found malicious code injected into the British Airways website, which could be the cause of a recent data breach that affected 380,000 transactions.
+
+  A RiskIQ researcher analysed code from BA's website and app around the time when the breach began, in late August.
+
+  He claimed to have discovered evidence of a "skimming" script designed to steal financial data from online payment forms.
+
+  BA said it was unable to comment.
+
+  A very similar attack, by a group dubbed Magecart, affected the Ticketmaster website recently, which RiskIQ said it also analysed in depth.
+
+  The company said the code found on the BA site was very similar, but appeared to have been modified to suit the way the airline's site had been designed.
+
+  "This particular skimmer is very much attuned to how British Airway's payment page is set up, which tells us that the attackers carefully considered how to target this site instead of blindly injecting the regular Magecart skimmer," the researcher wrote in a report on the findings.
+
+  "The infrastructure used in this attack was set up with British Airways in mind and purposely targeted scripts that would blend in with normal payment processing to avoid detection."
+
+  Hacks like this make use of an increasingly common phenomenon, in which large websites embed multiple pieces of code from other sources or third-party suppliers.
+
+  Such code may be needed to do specific jobs, such as authorise a payment or present ads to the user. But malicious code can be slipped in instead - this is known as a supply chain attack.
+
+  In BA's case, hackers stole names, email addresses and credit card details - including the long number, expiry date and the three-digit CVV security code.
+
+  "As this is a criminal investigation, we are unable to comment on speculation," said BA in a statement.
+
+  A spokesman for the UK's National Crime Agency said it was aware of the RiskIQ report but would not be commenting at this time.
+
+  RiskIQ said the malicious script consisted of just 22 lines of code. It worked by grabbing data from BA's online payment form and then sending it to the hackers' server once a customer hit the "submit" button.
+
+  The cyber-security firm added that the attackers had apparently been able to gather data from mobile app users as well because the same script was found loaded into the app on a page describing government taxes and carrier charges.
+
+  "The page [in the app] is built with the same... components as the real website, meaning design and functionality-wise, it's a total match," the RiskIQ report noted.
+
+  This video can not be played To play this video you need to enable JavaScript in your browser. British Airways' chairman and CEO says affected customers will be 100% compensated
+
+  RiskIQ recommended that BA customers affected by the breach get a new debit or credit card from their bank.
+
+  The firm pointed out that whoever was behind the attack had apparently decided to target specific brands and that more breaches of a similar nature were likely.
+
+  "There is a very clear emerging risk where the weakest link in payment processes is being actively targeted," cyber-security expert Kevin Beaumont told the BBC.
+
+  "And that weakest link in the chain is often by placing older systems or third-party code into the payment chain."
+
+  Andrew Dwyer, a cyber-security researcher at the University of Oxford added that the attackers appeared to have gone to "extraordinary lengths" to tailor their code to the BA site.
+
+  According to RiskIQ, they also acquired a Secure Socket Layer (SSL) certificate - which suggests to web browsers, not always accurately, that a web page is safe to use.
+
+  If this was indeed how the attack worked, he added, there are ways of preventing third-party code taking data from sensitive web pages.
+
+  "BA should have been able to see this," he told the BBC.
+  • None How did hackers get into British Airways?

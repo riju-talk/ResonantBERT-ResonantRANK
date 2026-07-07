@@ -1,0 +1,68 @@
+id: bbc_2020_14704
+title: Amazon's Panorama box lets firms check if staff follow coronavirus rules -
+  BBC News
+date: '2020-12-02'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-55158319
+content: |-
+  AWS Panorama adds a range of employee monitoring powers to existing workplace camera systems.
+
+  The system can be used to check if workers are wearing masks and are staying far enough away from each other
+
+  Amazon plans to sell companies a way to detect when staff are not wearing face masks or socially distancing.
+
+  Beyond the pandemic, the system could also be used to track compliance of other workplace rules or to monitor the public - for example, to check the number of customers queuing in a store.
+
+  It involves retrofitting a box to existing security cameras that can then draw on off-the-shelf AI apps.
+
+  Remote working has already led to an increase in the use of software that checks up on employees, but Amazon's new solution is focused on tracking people and products in factories, shops and other traditional workplaces.
+
+  Amazon refutes the characterisation of its new product as a surveillance tool.
+
+  A spokeswoman told the BBC it was designed to improve industrial operations and workplace safety, and that how it is used is up to customers.
+
+  "For example, AWS Panorama does not include any pre-packaged facial recognition capabilities," she said.
+
+  All its machine learning functions can happen on the device "and [relevant data] never has to leave the customer's facility", she added.
+
+  The AWS Panorama appliance plugs into internet protocol (IP) cameras - a standard type of digital video camera used by a huge range of companies on their sites.
+
+  The technology can be added on to existing CCTV hardware
+
+  It can automate inspection tasks, such as detecting manufacturing defects or tracking the movement of barcodes and labels.
+
+  But the tool can also be applied to people.
+
+  For example, in a retail shop, it could count the number of customers, track their movements and check the length of queues, Amazon has suggested.
+
+  In a factory or other workplace, the same tech can be used to monitor employees "and get notified immediately about any potential issues or unsafe situations so you can take pre-emptive action", the company said.
+
+  In the promotional material for the product, Fender guitars says it uses the product to "track how long it takes for an associate to complete each task in the assembly of a guitar".
+
+  The Financial Times reports that AWS Panorama can detect vehicles bring driven in places they are not supposed to be. Some major companies are already trialling the system, including Siemens and Deloitte, the FT added.
+
+  The AWS Panorama Appliance boxes need to be installed on the same network as the cameras they are linked to
+
+  It is still, however, in preview, and not yet widely available.
+
+  The Trades Union Congress (TUC), the umbrella group for UK unions, this week published its report into the use of AI-powered tools used by employers.
+
+  "The announcement of this new monitoring tool is another example of how this revolution at work is picking up pace," said policy officer Mary Towers.
+
+  But she warned that it must not gloss over workers' needs.
+
+  This video can not be played To play this video you need to enable JavaScript in your browser. Is your boss spying on you as you work from home?
+
+  "In our report, we warn about the potentially negative effects that intrusive technology of this type can have on workers' well-being, right to privacy, data protection rights and the right not be discriminated against."
+
+  Polling suggested that workers were already concerned about CCTV cameras being used to monitor performance when they were supposed to have been installed for security, she said.
+
+  Silkie Carlo, director of privacy group Big Brother Watch, said automated monitoring of workplaces "rarely results in benefits for employees".
+
+  "It's a great shame that social distancing has been leapt on by Amazon as yet another excuse for data collection and surveillance," she said.
+
+  Amazon has already faced scrutiny over how its warehouse employees are monitored. In September, a report from a US research group said Amazon used extensive worker surveillance to limit union organising activity. And the company has clashed with some of its employees who have accused it treating them "like robots".
+
+  This week, Microsoft apologised for allowing individuals' activity to be monitored by their employers through a "productivity score" designed to give high-level oversights.
+
+  After an outcry, Microsoft removed individual user names from the product.

@@ -1,0 +1,49 @@
+id: bbc_2019_936
+title: 'CES 2019: IBM''s hourly weather reports will cover entire Earth - BBC News'
+date: '2019-01-09'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-46790221
+content: |-
+  Technology giant IBM's supercomputers power the new forecasting system that covers the entire planet.
+
+  The novel tool produces more finely-grained weather reports
+
+  A weather forecasting system that can provide hourly updates for any location on the planet has been announced by technology giant IBM.
+
+  Currently in many African, Asian and South American countries, weather reports may be available only every six to 12 hours and only for broad patches of land up to 15km (9.3 miles) wide.
+
+  But IBM's new tool provides reports down to more specific, 3km-wide areas.
+
+  The company says it can even predict individual thunderstorms.
+
+  The tool, announced at the CES tech show in Las Vegas and launched in partnership with The Weather Channel, uses supercomputers to crunch data from hundreds of millions of sensors around the globe.
+
+  "The scale is almost incomprehensible to people - from a compute and complexity point of view," Cameron Clayton, at IBM, told BBC News.
+
+  "A farmer in Kansas has really good weather [forecasts] today but a farmer in Kenya only gets a weather forecast once, maybe twice, a day - they'll now get it hourly."
+
+  Mr Clayton said the Global High-Resolution Atmospheric Forecasting System (Graf) had been designed to gather data from a wide variety of sensors - including millions of smartphones equipped with atmospheric pressure sensors.
+
+  Graf relies on data from around the world - much of it supplied by individuals whose smartphones measure atmospheric pressure
+
+  Tracking changes in pressure is crucial in meteorology, the study of weather processes and forecasting.
+
+  But besides this crowdsourced data from members of the public, Graf will also analyse information from thousands of commercial flights.
+
+  Instruments on planes measure weather conditions and phenomena such as turbulence.
+
+  In the future, as weather sensors crop up in additional devices and vehicles, manufacturers will have the option of sharing yet more data with IBM to improve Graf.
+
+  IBM is clearly interested in consolidating its position within the weather forecasting industry, according to Brandon Purcell, an analyst at market research company Forrester. IBM acquired The Weather Company, which runs The Weather Channel, in 2016.
+
+  "They really haven't made the best use of their acquisition of The Weather Company until now - this seems like a step in the right direction," he said.
+
+  Farmers in many parts of the world have long had to rely on infrequently updated weather reports
+
+  Mr Purcell pointed out that gaining access to lots of data could greatly improve the accuracy of forecasts and might put IBM ahead of its rivals in the space.
+
+  He added that, having served as a Peace Corps volunteer in sub-Saharan Africa, he could personally vouch for the fact that more frequent weather updates could be transformative in the region.
+
+  "That would resonate to me - the fact that you could get really high-resolution data to farmers who haven't had access to good weather forecasts. That's potentially huge," he said.
+
+  Read and watch all our CES coverage at bbc.com/ces2019

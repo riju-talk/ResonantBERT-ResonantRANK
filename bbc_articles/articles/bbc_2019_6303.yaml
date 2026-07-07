@@ -1,0 +1,53 @@
+id: bbc_2019_6303
+title: GozNym cyber-crime gang which stole millions busted - BBC News
+date: '2019-05-16'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-48294788
+content: |-
+  Prosecutions are announced in four countries over the scam, which hit thousands of bank accounts.
+
+  An international crime gang which used malware to steal $100m (£77m) from more than 40,000 victims has been dismantled.
+
+  A complex police operation conducted investigations in the US, Bulgaria, Germany, Georgia, Moldova and Ukraine.
+
+  The gang infected computers with GozNym malware, which captured online banking details to access bank accounts.
+
+  The gang was put together from criminals who advertised their skills on online forums.
+
+  The details of the operation were revealed at the headquarters of the European police agency Europol in The Hague.
+
+  It said that the investigation was unprecedented, especially in terms of cross-border co-operation.
+
+  Ten members of the network have been charged in Pittsburgh, US on a range of offences, including stealing money and laundering those funds using US and foreign bank accounts.
+
+  Five Russian nationals remain on the run, including one who developed the GozNym malware and oversaw its development and management, including leasing it to other cyber-criminals.
+
+  Various other gang members now face prosecution in other countries, including:
+
+  Among the victims were small businesses, law firms, international corporations and non-profit organisations.
+
+  Europol said it was a great example of cross-border co-operation
+
+  One of the things that the operation has highlighted is how common the selling of nefarious cyber-skills has become, says Prof Alan Woodward, a computer scientist from University of Surrey.
+
+  "The developers of this malware advertised their 'product' so that other criminals could use their service to conduct banking fraud.
+
+  "What is known as 'crime as a service' has been a growing feature in recent years, allowing organised crime gangs to switch from their traditional haunts of drugs to much more lucrative cyber-crime."
+
+  It is a hybrid of two other pieces of malware, Nymaim and Gozi.
+
+  The first of these is what is known as a "dropper", software that is designed to sneak other malware on to a device and install it. Up until 2015, Nymaim was used primarily to get ransomware on to devices.
+
+  Gozi has been around since 2007. Over the years it has resurfaced with new techniques, all aimed at stealing financial information. It was used in concerted attacks on US banks.
+
+  Combining the two created what one expert called a "double-headed monster".
+
+  Scott Brady said the case represented a "milestone" in the fight against international cybercrime
+
+  Unsuspecting citizens thought they were clicking a simple link - instead they gave hackers access to their most intimate details.
+
+  US attorney for the Western District of Pennsylvania, Scott Brady stood alongside prosecutors and cyber-crime fighters from five other nations inside Europol's high security headquarters, to announce the takedown of what he described as a "global conspiracy".
+
+  The suspected ringleader used GozNym malware and contracted different cyber-crime services - hard to detect bulletproof hosting platforms, money mules and spammers - to control more than 41,000 computers and enable cyber-thieves to steal and whitewash an estimated $100m from victims' bank accounts.
+
+  Gang members in four countries have been charged - a coup for cyber-crime fighters who say the discovery of this sophisticated scam demonstrates the borderless nature of cyber-crime and need for cross border co-operation to detect and disrupt these networks.

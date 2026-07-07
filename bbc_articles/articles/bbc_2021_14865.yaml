@@ -1,0 +1,41 @@
+id: bbc_2021_14865
+title: Six million Sky routers had serious security flaw - BBC News
+date: '2021-11-19'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-59332840
+content: |-
+  The issue, which could have let hackers take over home networks, took 18 months to fix, researchers say.
+
+  Six models of Sky router needed to be fixed because of a software bug that could have been exploited by hackers
+
+  About six million Sky routers had a significant software bug that could have allowed hackers to take over home networks, a security company has revealed.
+
+  The problem has been fixed - but researchers say it took Sky 18 months to address.
+
+  The vulnerability could have affected anyone who had not changed the router's default admin password.
+
+  Sky said an update at such scale took time.
+
+  "We take the safety and security of our customers very seriously," Sky said.
+
+  "After being alerted to the risk, we began work on finding a remedy for the problem and we can confirm that a fix has been delivered to all Sky-manufactured products."
+
+  Although, these last two devices came with a randomly generated admin password, which would have made it harder for a hacker to exploit.
+
+  In addition, about 1% of routers issued by Sky are not made by the company itself. The relatively few customers who have one of those can now ask for it to be replaced free of charge.
+
+  The flaw in software code, found by researcher Raf Fini, from Pen Test Partners, would have allowed a hacker to reconfigure a home router simply by directing the user to a malicious website via a phishing email.
+
+  And then they could "take over someone's online life", stealing passwords for banking and other websites, Pen Test Partner's Ken Munro told BBC News.
+
+  There was no evidence the flaw had been exploited but the delay fixing it was baffling, he said.
+
+  "While the coronavirus pandemic put many internet service providers under pressure, as people moved to working from home, taking well over a year to fix an easily exploited security flaw simply isn't acceptable," he said.
+
+  Anyone with a router should change passwords from the ones set by default, Mr Munro added.
+
+  Earlier this year, BBC News discovered an insecure Vodafone router with a default password may have allowed a stranger to take over a couple's wi-fi and use it to upload illegal images of child abuse to the internet.
+
+  The couple faced a police investigation that caused massive disruption to their lives and led to mental health problems.
+
+  In May, consumer watchdog Which? warned millions of routers that had missed several years of critical security updates, making them ripe for exploitation by hackers, remained in use in the UK.

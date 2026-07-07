@@ -1,0 +1,35 @@
+id: bbc_2019_1823
+title: Apple to pay teenager who found FaceTime bug - BBC News
+date: '2019-02-08'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-47169462
+content: |-
+  The flaw let iPhone owners eavesdrop on people they called via the FaceTime video-chat system.
+
+  The FaceTime problem emerged when teenagers were planning Fortnite strategies
+
+  A US teenager who discovered a security flaw in Apple's FaceTime video-calling system has been given a bug bounty.
+
+  Apple has not revealed the exact amount it is giving 14-year-old Grant Thompson but it is believed to include money to help pay for his education.
+
+  The teenager found a bug that meant he could briefly eavesdrop on recipients to a group FaceTime call.
+
+  The reward comes as one security researcher refused to tell Apple about a bug because no bounty was on offer.
+
+  Information about the bug first emerged in late January and revealed that some Apple users could secretly listen to people they called via FaceTime even if the recipient did not accept the call.
+
+  Apple deemed it so serious that it disabled the group FaceTime feature while it investigated and produced a fix.
+
+  News reports about the problem initially said it was just being discussed on social media and did not credit any individual with its discovery.
+
+  Later, it emerged that Apple had been warned about it earlier in January by Grant and his mother. The teenager uncovered the problem when using FaceTime to talk about strategies for the Fortnite game with friends.
+
+  Mrs Thompson sent several emails and other messages to Apple warning about the vulnerability but initially got no response.
+
+  Now, Apple has credited Grant, who's from Catalina, in Arizona, with finding the flaw. News about his reward came on the day that Apple issued a software update that fixed the bug.
+
+  Apple's bug bounty policy has led one security researcher to withhold details on a password-stealing vulnerability in the MacOS operating system.
+
+  German bug hunter Linus Henze said he would not release details of the problem to Apple until it included MacOS in its bounty programme. Currently Apple only pays for bugs found in the iOS operating system for phones. In addition, security experts have to be invited to take part in the programme that pays up to $200,000 (£154,300) for the most serious bugs.
+
+  "My motivation is to get Apple to create a bug bounty program. I think that this is the best for both Apple and researchers," he told tech news site the Register.

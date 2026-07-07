@@ -1,0 +1,19 @@
+id: bbc_2024_17870
+title: 'Ticketmaster hack: Customers told to sign up to security service - BBC News'
+date: '2024-07-09'
+section: Technology
+url: http://www.bbc.co.uk/news/articles/c729e3qr48qo
+content: |-
+  Ticketmaster customers have been advised to sign up to a cyber security service after a hack in May.
+
+  Ticketmaster warns customers to take action after hack
+
+  Ticketmaster is part of one of the largest events company in the world
+
+  Ticketmaster customers in North America have been sent emails warning them to take action after the company was hacked in May. Emails were sent overnight to Canadian customers, urging them to “be vigilant and take steps to protect against identity theft and fraud." The company has not commented on the notification process - however similar emails have reportedly been sent to victims in the US and Mexico. The personal details of 560 million Ticketmaster customers worldwide were stolen in the hack - with cyber criminals then attempting to sell that information online.
+
+  Ticketmaster has not responded to the BBC asking it why it has taken so long to warn customers of the risks they face. Previous news of the breach came from the hackers themselves, followed by a notice from Ticketmaster to its shareholders. Ticketmaster confirmed that hackers had stolen names and basic contact details, without specifying which types of information had been obtained. Hackers also stole encrypted credit card details, but the company has not responded to a BBC request for more information on how secure that encryption is.
+
+  According to the email seen by the BBC, the firm is urging customers to monitor their online accounts, including bank account statements, for any suspicious activity. The company advises Canadian customers to sign up for identity monitoring services, which Ticketmaster is paying for. “Identity monitoring will look out for your personal data on the dark web and provide you with alerts for 1 year from the date of enrolment if your personally identifiable information is found online,” the company said. Ticketmaster suggests people watch out for any suspicious-looking emails that look like they are from the company. When a data breach happens it can sometimes lead to secondary hacking or fraud attempts by other criminals who use your details to trick you into sending them money or downloading malicious software. However, that is rare and there is little evidence that this happens at scale.
+
+  The group responsible for the Ticketmaster hack is called ShinyHunters - it posted an advert on a hacking forum on 28th May offering the data of 560m customers. The gang is asking for $500,000 (£390,000) for the data and it is not clear if they have sold the tranche. After days of investigation, it was revealed that the hackers had taken data from Ticketmaster by stealing login details from Snowflake, the company it uses for its cloud storage account. It then emerged that more 160 other Snowflake clients had been targeted in the same way - with huge amounts of private and corporate data being stolen. Banking group Santander is one of those affected - 30m of its customers in Chile, Spain and Uruguay were hacked. Cyber security firm Mandiant - which investigated the attacks - says Snowflake itself was not breached. Mandiant says ShinyHunters, or whichever hackers carried out the wider attacks, obtained the login details from each client company directly. Ticketmaster’s owner Live Nation has previously only confirmed the hack via a notice to shareholders filed to the US Securities and Exchange Commission. It acknowledged "unauthorised activity" on its database but said the hack would have no material impact on its business. Ticketmaster did not respond to multiple requests for comment from journalists before and since the filing.

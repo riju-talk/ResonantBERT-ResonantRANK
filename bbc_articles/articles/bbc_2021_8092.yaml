@@ -1,0 +1,61 @@
+id: bbc_2021_8092
+title: Swedish Coop supermarkets shut due to US ransomware cyber-attack - BBC News
+date: '2021-07-03'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-57707530
+content: |-
+  Some 500 stores are forced to close due to the ripple effects of a major cyber attack in the US.
+
+  Some 500 Coop supermarket stores in Sweden have been forced to close due to an ongoing "colossal" cyber-attack affecting organisations around the world.
+
+  Coop Sweden says it closed more than half of its 800 stores on Friday after point-of-sale tills and self-service checkouts stopped working.
+
+  The supermarket was not itself targeted by hackers - but is one of a growing number of organisations affected by an attack on a large software supplier the company uses indirectly.
+
+  Cyber researchers say about 200 businesses have been hit by this "colossal" ransomware attack, which had mainly affected the US.
+
+  Cyber-security firm Huntress Labs said the hack targeted Florida-based IT company Kaseya before spreading through corporate networks that use its software. The firm believes the Russia-linked REvil ransomware gang was responsible.
+
+  Kaseya said in a statement on its own website that it was investigating a "potential attack".
+
+  A sign on one of the shut Coop shops in Sweden says the company has been hit by "a large IT disturbance"
+
+  A spokeswoman for Coop Sweden told the BBC: "We first noticed problems in a small number of stores on Friday evening around 6:30pm so we closed those stores early. Then overnight we realised it was much bigger and we took the decision not to open most of our stores this morning so that our teams could work out how to fix it.
+
+  "The whole paying system at our tills and our self-service checkouts stopped working so we need time to reboot the system."
+
+  It's understood that Coop doesn't use Kesaya directly on its systems but that one of their software providers does.
+
+  The case highlights the growing concern in the cyber-security world about so-called supply chain attacks where hackers are able to claim multiple victims by attacking their supplier.
+
+  The US Cybersecurity and Infrastructure Agency, a federal body, said in a statement that it was taking action to address the attack and urging users of the Kesaya software to shut it down.
+
+  The UK's National Cyber Security Centre said: "We are aware of a cyber incident involving Kaseya, and we are working to fully understand its impact.
+
+  "Ransomware is a growing, global cyber threat, and all organisations should take immediate steps to limit risk and follow our advice on how to put in place robust defences to protect their networks."
+
+  The cyber-breach looks to have been timed for maximum disruption as it emerged on Friday afternoon when companies across the US were clocking off for the long Independence Day weekend.
+
+  Kaseya is urging customers that use its VSA tool to immediately shut down their servers.
+
+  Kaseya said in its statement that a "small number" of companies had been affected, though Huntress Labs said the number was greater than 200.
+
+  It is not clear what specific companies have been affected, and a Kaseya representative contacted by the BBC declined to give details.
+
+  Kaseya's website says it has a presence in more than 10 countries and over 10,000 customers.
+
+  "This is a colossal and devastating supply chain attack," Huntress Labs' senior security researcher John Hammond said in an email.
+
+  At a summit in Geneva last month, US President Joe Biden said he told Russian President Vladimir Putin he had a responsibility to rein in such cyber-attacks.
+
+  Mr Biden said he gave Mr Putin a list of 16 critical infrastructure sectors, from energy to water, that should not be subject to hacking.
+
+  REvil - also known as Sodinokibi - is one of the most prolific and profitable cyber-criminal groups in the world.
+
+  The gang was blamed by the FBI for a hack in May that paralysed operations at JBS - the world's largest meat supplier.
+
+  The group sometimes threatens to post stolen documents on its website - known as the "Happy Blog" - if victims don't comply with its demands.
+
+  REvil was also linked to a co-ordinated attack on nearly two dozen local governments in the US state of Texas in 2019.
+
+  This video can not be played To play this video you need to enable JavaScript in your browser.

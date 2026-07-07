@@ -1,0 +1,89 @@
+id: bbc_2020_4955
+title: 'Coronavirus: NHS reveals source code behind contact-tracing app - BBC News'
+date: '2020-05-07'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-52579547
+content: |-
+  More than 40,000 people have downloaded the contact tracing app so far, ahead of a wider release.
+
+  The NHS is running an awareness campaign to promote the app
+
+  The NHS has released the source code behind its coronavirus contact-tracing app.
+
+  More than 40,000 people have installed the smartphone software so far.
+
+  The health service is targeting the Isle of Wight only, at this stage, but it says this is the first stage of the app's rollout - not a test.
+
+  Tests carried out on behalf of BBC News confirm the developers have found a way to work round restrictions Apple places on the use of Bluetooth in iPhones.
+
+  In a related development, Health Secretary Matt Hancock has announced that Baroness Dido Harding will head up the wider test, track and trace programme.
+
+  The appointment has surprised some given that when she was chief executive of TalkTalk, the internet provider suffered a major data breach and failed to properly notify affected customers.
+
+  The NHS Covid-19 app is designed to use people's smartphones to keep track of when they come close to each other and for how long, by sending wireless Bluetooth signals.
+
+  About a third of over-16s living on the Isle of Wight have downloaded the NHS Covid-19 app so far
+
+  If one of them falls ill, they can anonymously trigger an upload of the records so alerts can be cascaded to others they might have infected, asking them to self-isolate, if deemed necessary, potentially before they have any symptoms but are still highly contagious.
+
+  Along with other measures, including manual contact tracing, this may allow lockdown measures to be eased without causing another spike in cases.
+
+  NHSX, the health service's digital innovation unit, has opted for a centralised system to power the app, so the contact-matching process happens on a UK-based computer server rather than individuals' smartphones.
+
+  And there has been a lot of speculation this decision would mean the app was doomed to work badly on iPhones.
+
+  Apple limits the extent to which third-party apps can use Bluetooth when they are off-screen and running in the background, although it has promised to relax this rule for contact-tracing apps that use a decentralised system it is co-developing with Google.
+
+  And Singapore and Australia have signalled they will switch from centralised to decentralised apps, for that reason.
+
+  But NHSX had said it had come up with its own solution.
+
+  And preliminary tests by a cyber-security company suggest it has succeeded.
+
+  Pen Test Partners installed the app on a handful of "jailbroken" iPhones - altered to allow them to monitor activity normally hidden from users.
+
+  A cyber-security team analysed when Bluetooth "handshakes" were made between the devices it tested
+
+  "When first placed in proximity to each other, the phones would start to 'beacon' over Bluetooth at either eight- or 16-second intervals," co-founder Ken Munro said.
+
+  "Others had expressed concern about the app not being effective when 'backgrounded'.
+
+  "Our tests showed that this did not appear to affect the beaconing, whether the phones had encountered each other for the first time or subsequently been physically moved out and then back into range."
+
+  A second company, Reincubate, found the app would sometimes "go quiet" when run undisturbed in the background for more than 90 minutes but suggested this should not be too big an issue in real-world conditions.
+
+  "A number of reasonable factors can trigger this window being extended, including other use of Bluetooth, the presence of Android devices and the effectiveness of notifications [asking the user to reopen the app]," it blogged.
+
+  "In our tests, the iOS devices we've run the app on have continued to keep the background service running overnight."
+
+  There will be further scrutiny of the app now the source code has been published to Github, allowing others to see how the workarounds were achieved.
+
+  This Twitter post cannot be displayed in your browser. Please enable Javascript or try a different browser. View original content on Twitter The BBC is not responsible for the content of external sites. Skip twitter post by NHSX This article contains content provided by Twitter. We ask for your permission before anything is loaded, as they may be using cookies and other technologies. You may want to read Twitter’s cookie policy, external and privacy policy, external before accepting. To view this content choose ‘accept and continue’. The BBC is not responsible for the content of external sites.
+
+  Earlier this week, the Joint Human Rights Committee heard evidence that despite the app anonymising users' identities, they could in theory be re-identified, which might allow the authorities - or even hackers - to reveal people's social circles for other purposes.
+
+  And the committee said a new watchdog should be created to oversee use of the app and the measures taken to keep the data safe.
+
+  Harriet Harman, who chairs the committee, said: "Assurances from ministers about privacy are not enough.
+
+  "There must be robust legal protection for individuals about what that data will be used for, who will have access to it, and how it will be safeguarded from hacking."
+
+  Critics say a decentralised approach - where contact-matching happens on handsets - would better protect users' privacy.
+
+  And BBC News has been told members of an ethics group advising NHSX on the app are calling for it to better explain the advantages of a centralised system.
+
+  Oxford University's Prof Christophe Fraser has been advising NHSX and other health authorities on their contact-tracing apps
+
+  Prof Christophe Fraser- an epidemiologist advising NHSX - told BBC News the two main benefits were:
+
+  But he added talks were continuing with Apple and Google.
+
+  And analysis of how the app was being used in the Isle of Wight would inform decisions on how best to proceed.
+
+  "There's been a lot of discussion of privacy, and rightly so," he said.
+
+  "But there is also your ability to save lives.
+
+  "And there is the ability not to be quarantining millions of people.
+
+  "Figuring out how we can find the optimal system that trades off these different requirements is a bit of an open question at this stage."

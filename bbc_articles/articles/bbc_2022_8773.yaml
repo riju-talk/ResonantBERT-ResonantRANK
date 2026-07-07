@@ -1,0 +1,35 @@
+id: bbc_2022_8773
+title: Google rules blocked children's diabetes app - BBC News
+date: '2022-07-25'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-62184812
+content: |-
+  An NHS-recommended app says Google will not permit it to send text message alerts about glucose levels.
+
+  An NHS-recommended app for managing Type 1 diabetes says Google won't let it send text message alerts to the parents of young children using it, via the app.
+
+  For two years Google blocked it from the Play Store as it argued that the text service was not a "core function".
+
+  The app, CamAps FX, can transmit alerts via bluetooth but only to a device that's very close by.
+
+  It is now on Google's app store - but the texts have to be sent separately.
+
+  Camdiab, the firm behind it, is having to send the messages via a cloud service and pay for each one individually.
+
+  About 400,000 people in the UK have type 1 diabetes, a condition where the body can't produce insulin, the hormone which regulates blood sugar levels.
+
+  The texts are designed to alert parents if their children's glucose levels are outside of normal ranges.
+
+  Google said it doesn't allow any apps, other than the designated text message app on a device, to send SMS messages.
+
+  Originally, as a result of this, the app was only available on Android devices via the Amazon app store.
+
+  "Quite often we see people with a young child on the app sending texts to two, three or four adults - to grandmas and others," Professor Roman Hovorka from Cambridge University told me .
+
+  "It's highly popular. People really appreciate it."
+
+  CamAps FX spent 15 years in development by experts at Cambridge University and was the first system of its kind to be recommended by the NHS for use by children from the age of one, and pregnant people.
+
+  That system is known as an artificial pancreas - the app works in tandem with a glucose monitor and an insulin pump. This means it can both monitor glucose levels and administer the right amount of insulin using the pump, and the app uses artificial intelligence to predict how much of it will be required.
+
+  It is a hybrid closed loop system, meaning that the child's carer still has to administer insulin at mealtimes, but at all other times the algorithm works by itself.

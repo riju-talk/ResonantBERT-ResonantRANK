@@ -1,0 +1,65 @@
+id: bbc_2023_14642
+title: Government denies U-turn on encrypted messaging row - BBC News
+date: '2023-09-06'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-66716502
+content: |-
+  The government states that the tech tools for accessing private messages don't yet exist.
+
+  This video can not be played To play this video you need to enable JavaScript in your browser.
+
+  The government has denied it is changing plans to force messaging apps to access users' private messages if requested by the regulator Ofcom.
+
+  There has been a stand-off between the UK government and tech firms over a clause in the Online Safety Bill relating to encrypted messages.
+
+  These are messages that can only be seen by the sender and recipient.
+
+  The Bill states that if there are concerns about child abuse content, tech companies might have to access it.
+
+  But platforms like WhatsApp, Signal and iMessage say they cannot access or view anybody's messages without destroying existing privacy protections for all users, and have threatened to leave the UK rather than compromise message security.
+
+  The debate has raged for several months and for some it has turned into an argument about privacy versus the protection of children. The government insists it is possible to have both.
+
+  The Online Safety Bill is due to become law in autumn and cleared its final stage in the House of Lords on Wednesday before returning to the commons.
+
+  The government has denied that its position has changed. In a statement in the House of Lords, the minister, Lord Parkinson, clarified that if the technology to access messages without breaking their security did not exist, then Ofcom would have the power to ask companies to develop the ability to identify and remove illegal child sexual abuse content on their platforms.
+
+  Indeed, the Bill already stated that the regulator Ofcom would only ask tech firms to access messages once "feasible technology" had been developed which would specifically only target child abuse content and not break encryption.
+
+  The government has tasked tech firms with inventing these tools.
+
+  "As has always been the case, as a last resort, on a case-by-case basis and only when stringent privacy safeguards have been met, [the Bill] will enable Ofcom to direct companies to either use, or make best efforts to develop or source, technology to identify and remove illegal child sexual abuse content - which we know can be developed," said a government spokesperson.
+
+  Some security experts suggest such tech tools may never exist, and the tech firms themselves say it is not possible.
+
+  Head of WhatsApp, Will Cathcart, posted on X Wednesday that "the fact remains that scanning everyone's messages would destroy privacy as we know it".
+
+  Meredith Whittaker, president of encrypted messaging app Signal, has previously said it was "magical thinking" to believe we can have privacy "but only for the good guys".
+
+  She told the BBC that the firm welcomed the latest clarification which was "a good start to incorporating the voices of human rights defenders into the final stages.
+
+  "We hope to see more progress over the next days, ideally making stronger commitments in the text of the bill," said Ms Whittaker.
+
+  Prof Ciaran Martin, former head of the National Cyber Security Centre, said in reaction to the minister's clarification that in practical terms this meant the powers to access private messages would not be deployed: "The government is still technically taking the power but is placing so many conditions on its use it cannot to my mind ever be used."
+
+  But some campaign groups warned nothing had changed. Index on Censorship told the BBC that the Bill was "still a threat to encryption and as such puts at risk everyone from journalists working with whistleblowers to ordinary citizens talking in private.
+
+  "We need to see amendments urgently to protect our right to free speech online," it added.
+
+  And Matthew Hodgson, who runs the British-based messaging platform Element, said "all 'until it's technically feasible' means is opening the door to scanning in future rather than scanning today."
+
+  It was merely "kicking the can down the road" in his view.
+
+  The Internet Watch Foundation - which finds, flags, and removes images and videos of child sexual abuse from the web said that in its opinion it was already technically feasible to scan encrypted messaging systems while preserving privacy.
+
+  "As far as we can see, the Government's position on this has not changed", it said.
+
+  "We know technologies exist, now, which can do this - with no more invasion of privacy than a virus guard or spam filter".
+
+  Another view is that this is an attempt at a last-minute diplomatic resolution in which neither the tech firms nor the government lose face: the government says it knew all along that the tech did not exist and removes immediate pressure from the tech firms to invent it, and the tech firms claim a victory for privacy.
+
+  Currently, the two most viable tech solutions are to either break the encryption - which would leave a backdoor open to any bad actors who found it - or introduce software which scans content on a device. It is called client-side scanning and has been dubbed "the spy in your pocket" by critics.
+
+  Children's charities like the NSPCC have described encrypted messaging as the "front line" of child abuse because of privacy settings.
+
+  But privacy campaigners say everybody has a right to privacy protection.

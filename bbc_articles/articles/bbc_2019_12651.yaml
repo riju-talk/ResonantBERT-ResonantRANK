@@ -1,0 +1,39 @@
+id: bbc_2019_12651
+title: Google claims 'quantum supremacy' for computer - BBC News
+date: '2019-10-24'
+section: Science & Environment
+url: http://www.bbc.co.uk/news/science-environment-50154993
+content: |-
+  The company claims a quantum computer has surpassed conventional devices for the first time.
+
+  Google says an advanced computer has achieved "quantum supremacy" for the first time, surpassing the performance of conventional devices.
+
+  The technology giant's Sycamore quantum processor was able to perform a specific task in 200 seconds that would take the world's best supercomputer 10,000 years to complete.
+
+  Scientists have been working on quantum computers for decades because they promise much faster speeds.
+
+  In classical computers, the unit of information is called a "bit" and can have a value of either 1 or 0. But its equivalent in a quantum system - the qubit (quantum bit) - can be both 1 and 0 at the same time.
+
+  This phenomenon opens the door for multiple calculations to be performed simultaneously. But the qubits need to be synchronised using a quantum effect known as entanglement, which Albert Einstein termed "spooky action at a distance".
+
+  However, scientists have struggled to build working devices with enough qubits to make them competitive with conventional types of computer.
+
+  Sycamore contains 54 qubits, although one of them did not work, so the device ran on 53 qubits.
+
+  In their Nature paper, John Martinis of Google, in Mountain View, and colleagues set the processor a random sampling task - where it produces a set of numbers that has a truly random distribution.
+
+  Sycamore was able to complete the task in three minutes and 20 seconds. By contrast, the researchers claim in their paper that Summit, the world's best supercomputer, would take 10,000 years to complete the task.
+
+  "It's an impressive device and certainly an impressive milestone. We're still decades away from an actual quantum computer that would be able to solve problems we're interested in," Prof Jonathan Oppenheim, from UCL, who was not involved with the latest study, told BBC News.
+
+  "It's an interesting test, it shows they have a lot of control over their device, it shows that they have low error rates. But it's nowhere near the kind of precision we would need to have a full-scale quantum computer."
+
+  IBM, which has been working on quantum computers of its own, questioned some of Google's figures.
+
+  "We argue that an ideal simulation of the same task can be performed on a classical system in 2.5 days and with far greater fidelity," IBM researchers Edwin Pednault, John Gunnels, and Jay Gambetta said in a blog post.
+
+  "This is in fact a conservative, worst-case estimate, and we expect that with additional refinements the classical cost of the simulation can be further reduced."
+
+  They also queried Google's definition of quantum supremacy and said it had the potential to mislead.
+
+  "First because... by its strictest definition the goal has not been met. But more fundamentally, because quantum computers will never reign 'supreme' over classical computers, but will rather work in concert with them, since each have their unique strengths."

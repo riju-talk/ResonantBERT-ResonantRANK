@@ -1,0 +1,39 @@
+id: bbc_2019_604
+title: Email error 'like handing over your keys' - BBC News
+date: '2019-01-08'
+section: Business
+url: http://www.bbc.co.uk/news/business-46757755
+content: |-
+  A stranger's financial details were visible as he entered the wrong email when signing up to a credit service.
+
+  An expert has warned that errors made when signing up to online services could mean people are "handing over the keys to their digital life".
+
+  Prof Alan Woodward, from the University of Surrey, said valuable data was being put at risk by people inputting the wrong email address.
+
+  Such an error allowed BBC News to see details of a stranger's credit report.
+
+  The personal details, listed on credit scoring site ClearScore, were accessed by someone of the same name.
+
+  In this case, it appears that somebody applied to sign up to the credit service, but entered a slightly incorrect email address, which doubles as the account's username.
+
+  An email was then sent to the actual owner of that email address, who had the same name. That person was then able to change the password, access the account and see a range of personal details.
+
+  This included date of birth, previous addresses and - most significantly - historical information of a host of previous applications for credit, such as loans and betting.
+
+  Such information would be extremely valuable to a fraudster, who could use it to apply for loans and other financial services in the stranger's name.
+
+  After being alerted to the case, a ClearScore spokesman said: "When something like this happens, ClearScore makes the worst-case assumption that it is fraud and locks everything down."
+
+  The website carries a reminder at the sign-up stage urging the applicant to ensure the correct email address is used. There is also information on the site about staying safe from fraud.
+
+  Prof Woodward said that a great deal of attention was paid to choosing secure passwords for web-based services and regularly changing them.
+
+  However, he said that email addresses were an important gateway to people's digital information and should always be entered with care.
+
+  "An email address is the key to your digital life," he said, pointing out that dots and underscores could easily be missed when entering an email address in a hurry.
+
+  He said that online services should use two-factor authentication - such as a code to a mobile phone - and ensure that applicants entered their email correctly twice to cut out mistakes.
+
+  Banks are also being urged to find other ways to check a customer's identity.
+
+  It is impossible to tell how often errors lead to details being revealed, but the similarities between email addresses - which may only differ with a dot or a dash - make mistakes a regular occurrence.

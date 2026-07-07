@@ -1,0 +1,29 @@
+id: bbc_2019_532
+title: Twitter warns that private tweets were public for years - BBC News
+date: '2019-01-18'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-46918859
+content: |-
+  A security flaw meant many private messages were readable for years said Twitter.
+
+  Twitter said it did not know how many people had their private messages exposed
+
+  Private tweets sent by users of Twitter's Android app could have been exposed publicly for years.
+
+  Twitter said it had discovered a security flaw which meant "protected" tweets became public when some changes were made to accounts.
+
+  Anyone who updated the email address linked to their account between November 2014 and January 2019 could have had messages exposed, it said.
+
+  Twitter said it had started to let affected users know about the bug.
+
+  It added that it had turned the protections back on for Android users who had inadvertently switched them off.
+
+  Twitter said it was also issuing a public notice about the error because it could not confirm the exact number of accounts that had been affected and wanted to reach those it could not identify by an internal investigation.
+
+  "We're very sorry this happened and we're conducting a full review to help prevent this from happening again," it said.
+
+  It encouraged users to check their privacy settings to make sure they reflected their preferences.
+
+  Twitter said it fixed the flaw on 14 January and would share more information if it became available.
+
+  Anyone who used Twitter via an Apple device or through the web would not have been caught out by the bug.

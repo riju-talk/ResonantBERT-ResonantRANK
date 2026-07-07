@@ -1,0 +1,63 @@
+id: bbc_2019_8180
+title: Anaesthetic devices 'vulnerable to hackers' - BBC News
+date: '2019-07-10'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-48935111
+content: |-
+  The machines, which have been used by the NHS, were recently found to have a security vulnerability.
+
+  The problem affects anaesthetic machines used in many hospitals around the world
+
+  A type of anaesthetic machine that has been used in NHS hospitals can be hacked and controlled from afar if left accessible on a hospital computer network, a cyber-security company says.
+
+  A successful attacker would be able to change the amount of anaesthetic delivered to a patient, CyberMDX said.
+
+  Alarms designed to alert anaesthetists to any danger could also be silenced.
+
+  GE Healthcare, which makes the machines, said there was no "direct patient risk".
+
+  But CyberMDX's research suggested the Aespire and Aestiva 7100 and 7900 devices could be targeted by hackers if left accessible on hospital computer networks.
+
+  And analysis by BBC News found multiple references online to the Aespire and Aestiva machines being used in NHS Hospitals.
+
+  Nottingham University Hospitals (NUH) NHS Trust confirmed to the BBC that "a small number" of the devices were currently in use at its facilities, but were being phased out.
+
+  "None of the anaesthetic machines are connected to the internet or the NUH network so there is very little risk around these machines within NUH," a spokesman told the BBC.
+
+  NHS Digital said it could not confirm the extent to which the machines were still in use across the NHS.
+
+  "We are currently assessing the volume of these particular anaesthetic machines in use across England and we will be sharing any subsequent advice with trusts in the coming days," a spokeswoman said.
+
+  Elad Luz, head of research at CyberMDX, said he was aware of hospitals in the US and Asia that also used the devices.
+
+  GE Healthcare said it was satisfied a cyber-attack would "not introduce clinical hazard or patient risk".
+
+  It said this was because anaesthetic devices were "attended" by anaesthetists and would be monitored for any errors.
+
+  The company told BBC News it did not plan to release any security updates for the anaesthetic machines but hospitals should use secure network protocols to protect them from would-be hackers.
+
+  Cyber-security expert Ken Munro agreed that medical devices should be isolated within computer networks but added: "It's not, frankly, the case in many hospital networks."
+
+  And he said GE Healthcare should bear some responsibility for the issue.
+
+  "GE absolutely have a part to play in this and they absolutely should be building devices with strong security," Mr Munro added.
+
+  GE Healthcare has responded to the reports of a problem with its machines
+
+  A malicious hacker may try to gain access to a hospital's network, locate one of the machines and then adjust its settings, said Prof Harold Thimbleby, an expert in medical device cyber-security, at Swansea University.
+
+  And he gave the example of WannaCry, a ransomware outbreak that spread through NHS computer networks in 2017, to illustrate how an attack could unfold.
+
+  "As with WannaCry, a phishing attack can gain access and then an attacker can do what they like," he told BBC News.
+
+  "Given the worldwide profile of WannaCry, it is amazing vulnerabilities like this are still around."
+
+  The likelihood of harm being caused to a patient through any hacking of the devices was "incredibly small" said Dr Helgi Johannsson, consultant anaesthetist and Royal College of Anaesthetists Council Member.
+
+  "Patients should be reassured that their anaesthetist will be monitoring them constantly, and will have received many years of training to rectify immediately the situation of a device failure."
+
+  A spokeswoman for the UK's Medicines and Healthcare products Regulatory Agency said reports of the cyber-security vulnerability were now part of an "ongoing area of investigation".
+
+  "Patient safety is our highest priority and where necessary we will take action to protect public health," she added.
+
+  The US Department of Homeland Security's Industrial Control Systems Cyber Emergency Response Team (ICS-CERT) has published an advisory notice about the vulnerability.

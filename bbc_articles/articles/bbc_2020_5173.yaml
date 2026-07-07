@@ -1,0 +1,90 @@
+id: bbc_2020_5173
+title: 'Coronavirus: UK contact-tracing app is ready for Isle of Wight downloads -
+  BBC News'
+date: '2020-05-04'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-52532435
+content: |-
+  Isle of Wight council staff and healthcare workers will be invited to start testing app on Tuesday.
+
+  A test version of the NHS's coronavirus contact-tracing app has been published to Apple and Google's app stores.
+
+  Council staff and healthcare workers on the Isle of Wight will be invited to install it on Tuesday, ahead of a wider roll-out on the island on Thursday.
+
+  Project chiefs have said their so-called "centralised" approach gives them advantages over a rival scheme advocated by the US tech giants and some privacy experts.
+
+  But fresh concerns have been raised.
+
+  The Information Commissioner's Office has declared that "as a general rule, a decentralised approach" would better follow its principle that organisations should minimise the amount of personal data they collect.
+
+  The House of Commons' Human Rights Select Committee also discussed fears about plans to extend the app to record location data.
+
+  "There is an inherent risk that if you create a system that can be added to incrementally, you could do so in a way that is very privacy invasive," cautioned law professor Orla Lynskey.
+
+  This video can not be played To play this video you need to enable JavaScript in your browser. Matt Hancock said Isle of Wight residents using the app "will be saving lives"
+
+  But NHSX - the health service's digital innovation unit - has stressed that:
+
+  "Please download the app to protect the NHS and save lives," Health Secretary Matt Hancock urged Isle of Wight residents.
+
+  "By downloading the app, you're protecting your own health, you're protecting the health of your loved ones, and the health of the community."
+
+  The NHS Covid-19 app is intended to supplement medical tests and contact-tracing interviews carried out by humans, in order to prevent a resurgence of Covid-19 when lockdown measures are eased.
+
+  This video can not be played To play this video you need to enable JavaScript in your browser. WATCH: What is contact tracing and how does it work?
+
+  It works by using Bluetooth signals to detect when two people's smartphones are close to each other. If one person later registers themselves as being infected, an alert can be sent to others judged to be at high risk of contagion. This might be based on the fact they were exposed to the same person for a long period of time or that there had been multiple instances of them being in the vicinity of different people.
+
+  The trial on the Isle of Wight will help NHSX test how well the system works in practice, as well as judge how willing a population is to install and use the software. It follows a smaller experiment on an RAF base.
+
+  Although the app is live, it is effectively hidden on the iOS and Android marketplaces, and residents will need to follow a set of instructions to install it.
+
+  Users will be asked to enter the first part of their postcode but not their name or other personal details
+
+  While in theory there is nothing to prevent the details being shared and used by others elsewhere, NHSX hopes this will not happen as it could confuse the feedback it receives.
+
+  Ahead of the trial, NHSX chief Matthew Gould acknowledged that there would "inevitably be unintended consequences" and that "if we think there is a better way of doing what we need to do, we won't hesitate to change".
+
+  But he added that if citizens "want to carry on saving lives, protecting the NHS and get the country back on its feet, then downloading the app is one way they can do that".
+
+  NHSX's app will send back details of the logged Bluetooth "handshakes" to a UK-based computer server to do the contact matching, rather carrying out the process on the handsets themselves.
+
+  Apple, Google and hundreds of privacy advocates have raised concerns that this risks hackers or even the state itself being able to re-identify anonymised users, and thus learn details about their social circles.
+
+  But NHSX has consulted ethicists and GCHQ's National Cyber Security Centre (NCSC) on the matter, and believes safeguards are in place to minimise the risk of this happening.
+
+  Furthermore, it believes any such concerns are outweighed by the benefits of adopting a centralised approach.
+
+  It says a centralised app will let it:
+
+  NHSX believes another major benefit is that its app can make use of people self-diagnosing themselves before they obtain test results.
+
+  The app will allow people to self-diagnose themselves by answering a series of questions
+
+  This would only be possible, Mr Gould explained, because NHSX could spot "anomalous patterns of activity" indicating that people were lying to the app for malicious reasons.
+
+  But the DP3T group - which promotes the decentralised approach - believes this claim is misleading.
+
+  "I have not seen any evidence that this would do anything but spot very large-scale and quite clumsy attacks," explained Prof Michael Veale.
+
+  "The only way to make sure that people can be held to account for submitting false reports is to identify them [which takes you down] a slippery slope."
+
+  Another criticism of NHSX's approach is that it puts the UK at odds with Ireland, Germany, Switzerland and a growing list of other nations, which are pursuing decentralised apps.
+
+  The fear is that UK citizens may face tougher restrictions on international travel if its system is not interoperable with others.
+
+  Mr Gould said that NHSX was "talking to a range of countries [to] make sure that systems can talk to each other," adding that France and Japan were among others developing centralised apps.
+
+  But Prof Veale warned that any attempt to try to join up the two systems risked "the worst of both worlds".
+
+  "I don't think it's just a mater of political will. It would be a matter of sacrificing the privacy-by-design within both systems."
+
+  The Isle of Wight's Green Party - which has nine locally-elected councillors - has also expressed its doubts.
+
+  "The Isle of Wight has a significantly older and more vulnerable population [and] the island's one hospital could be overwhelmed if... people feel they do no need to stick to lockdown measures due to the rolling out of this app," it said.
+
+  But the government's coordinator for testing said the island was "well-equipped" to cope.
+
+  "It's quite a large population and there is a benefit in the fact that travel on and off the island is relatively restricted - the ferries are there, but they're running relatively infrequently," added Public Health England's Prof John Newton.
+
+  "So it is an ideal place to look at the epidemiology and see the impact."

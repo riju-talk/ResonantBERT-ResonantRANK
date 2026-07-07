@@ -1,0 +1,53 @@
+id: bbc_2021_7293
+title: Websites begin to work again after major breakage - BBC News
+date: '2021-06-08'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-57399628
+content: |-
+  Cloud computing provider Fastly, which was behind the problems, said it was implementing a fix.
+
+  A major outage has affected a number of high profile websites including Amazon, Reddit and Twitch.
+
+  The UK government website - gov.uk - was also down as were the Financial Times, the Guardian and the New York Times.
+
+  Cloud computing provider Fastly, which underpins a lot of websites, said it was behind the problems.
+
+  The firm said there had been issues with its global content delivery network (CDN) which it was fixing.
+
+  In a statement, it said: "We identified a service configuration that triggered disruption across our POPs (points of presence) globally and have disabled that configuration."
+
+  A POP allows content to be sent from globally distributed servers that are close to the end user.
+
+  The issues began at around 11:00 BST and lasted for an hour. Other affected websites included CNN and streaming sites Twitch and Hulu. The outage also broke some parts of other services, including Twitter's emojis.
+
+  Websites were also beginning to be restored, after around an hour of downtime.
+
+  Fastly runs what is known as an "edge cloud", which is designed to speed up loading times for websites, as well as protect them from denial-of-service attacks and help them when traffic is peaking.
+
+  It currently looks as if the problems were localised, meaning specific locations across Europe and the US were affected.
+
+  Similar problems have also affected Amazon Web Services and Cloudflare in the past, two other huge cloud computing firms.
+
+  Some websites managed to find workarounds to the problem, with tech site The Verge taking to Google Docs to publish its news, but forgetting to limit those who could write on it, leading to a series of amusing edits and tweets.
+
+  The hashtag "InternetOutage" was soon trending on social media as more and more broken websites were discovered.
+
+  This Twitter post cannot be displayed in your browser. Please enable Javascript or try a different browser. View original content on Twitter The BBC is not responsible for the content of external sites. Skip twitter post by Dan Hett This article contains content provided by Twitter. We ask for your permission before anything is loaded, as they may be using cookies and other technologies. You may want to read Twitter’s cookie policy, external and privacy policy, external before accepting. To view this content choose ‘accept and continue’. The BBC is not responsible for the content of external sites.
+
+  The disruption has led some to question the wisdom of having so much internet infrastructure in the hands of a few companies.
+
+  Jake Moore, a cyber-specialist at security firm ESET said: "This highlights the importance and significance of these vast hosting companies and what they represent."
+
+  Adam Smith, a software testing expert with the BCS, the Chartered Institute for IT, said outages with content delivery networks "highlight the growing ecosystem of complex and coupled components that are involved in delivering internet services".
+
+  "Because of this, outages are increasingly hitting multiple sites and services at the same time."
+
+  Stephen Gilderdale, senior director at Dell Technologies, said such outages were bound to occur occasionally but that they would be rare and brief.
+
+  "Cloud providers build in redundancies for such events to give their users secure access to replicated copies of data.
+
+  "In most cases, services are only affected for a short time, and data is easily retrievable. Far from being a cause of concern, it shows the resilience of the network that it can recover so quickly."
+
+  It is estimated that even an hour's worth of downtime could cost companies up to $250,000 (£176,000), and some lawyers think there could be compensation claims.
+
+  "Liability for loss of service will probably be covered by the service level agreement with customers of paid-for cloud services but the agreements will typically not cover all losses sustained," said Prof Rebecca Parry of Nottingham Law School.

@@ -1,0 +1,47 @@
+id: bbc_2018_1038
+title: Data-stealing spyware 'traced to Lebanon' - BBC News
+date: '2018-01-19'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-42746772
+content: |-
+  Nation-state malware dubbed Dark Caracal uncovered by security researchers.
+
+  Malware in messaging apps has been stealing data from activists, lawyers and military personnel
+
+  A security bug that has infected thousands of smartphones has been uncovered by campaign group the Electronic Frontier Foundation (EFF).
+
+  Working with mobile security firm Lookout, researchers discovered that malware in fake messaging designed to look like WhatsApp and Signal had stolen gigabytes of data.
+
+  Researchers say they traced the malware to a Lebanese government building.
+
+  The threat, dubbed Dark Caracal by the researchers, looks as if it could come from a nation state and appears to use shared infrastructure linked to other nation-state hackers, the report said.
+
+  The malware takes advantage of known exploits and targets mainly Android phones.
+
+  Data was traced back to a server in a building belonging to the Lebanese General Security Directorate in Beirut, according to researchers.
+
+  "Based on the available evidence, it is likely that the GDGS is associated with or directly supporting the actors behind Dark Caracal," the report said.
+
+  "People in the US, Canada, Germany, Lebanon, and France have been hit by Dark Caracal. Targets include military personnel, activists, journalists, and lawyers, and the types of stolen data range from call records and audio recordings to documents and photos," said EFF director of cybersecurity Eva Galperin.
+
+  "This is a very large, global campaign, focused on mobile devices. Mobile is the future of spying, because phones are full of so much data about a person's day-to-day life."
+
+  Mike Murray, vice-president of security intelligence at Lookout said: "Dark Caracal is part of a trend we've seen mounting over the past year whereby traditional advanced persistent threat actors are moving toward using mobile as a primary target platform."
+
+  In a statement published on the Lookout blog, Google said it was confident that the infected apps were not downloaded from its Play Store.
+
+  "Google has identified the apps associated with this actor, none of the apps were on the Google Play Store. Google Play Protect has been updated to protect user devices from these apps and is in the process of removing them from all affected devices."
+
+  The researchers believe Dark Caracal has been operating since 2012 but it has been hard to track because of the diversity of seemingly unrelated espionage campaigns originating from the same domain names.
+
+  Over the years Dark Caracal's work has been repeatedly misattributed to other cybercrime groups, the researchers said.
+
+  In November, Afghanistan moved to ban WhatsApp and Telegram as a way to stop insurgent groups from using encrypted messaging. And in December, Iran moved to restrict use of the apps after a series of anti-establishment protests.
+
+  Use of an app that can steal data would give nation states much more information than simply banning them, said Prof Alan Woodward, a cybersecurity expert at the University of Surrey.
+
+  "It is always hard to prove that a nation state is involved. During the Cold War, countries made use of mercenaries and that's what we are seeing online now."
+
+  He said it was unclear where the infected apps had been downloaded from.
+
+  "Google is saying that they were not downloaded from there but it is difficult to know where else they came from. It may be that people are getting suckered into something that looks like an official site. People need to be careful what they are downloading."

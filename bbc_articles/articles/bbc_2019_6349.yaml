@@ -1,0 +1,47 @@
+id: bbc_2019_6349
+title: Vodafone denies Huawei Italy security risk - BBC News
+date: '2019-05-20'
+section: Business
+url: http://www.bbc.co.uk/news/business-48103430
+content: |-
+  Vulnerabilities in Italy could have given the Chinese firm access to people's home networks.
+
+  Vodafone has denied a report saying issues found in equipment supplied to it by Huawei in Italy in 2011 and 2012 could have allowed unauthorised access to its fixed-line network there.
+
+  A Bloomberg report said that Vodafone spotted security flaws in software that could have given Huawei unauthorised access to Italian homes and businesses.
+
+  The US refuses to use Huawei equipment for security reasons.
+
+  However, reports suggest the UK may let the firm help build its 5G network.
+
+  This is despite the US wanting the UK and its other allies in the "Five Eyes" intelligence grouping - Canada, Australia and New Zealand - to exclude the company.
+
+  Australia and New Zealand have already blocked telecoms companies from using Huawei equipment in 5G networks, while Canada is reviewing its relationship with the Chinese telecoms firm.
+
+  In a statement, Vodafone said: "The issues in Italy identified in the Bloomberg story were all resolved and date back to 2011 and 2012.
+
+  "The 'backdoor' that Bloomberg refers to is Telnet, which is a protocol that is commonly used by many vendors in the industry for performing diagnostic functions. It would not have been accessible from the internet.
+
+  "Bloomberg is incorrect in saying that this 'could have given Huawei unauthorised access to the carrier's fixed-line network in Italy'.
+
+  "In addition, we have no evidence of any unauthorised access. This was nothing more than a failure to remove a diagnostic function after development.
+
+  "The issues were identified by independent security testing, initiated by Vodafone as part of our routine security measures, and fixed at the time by Huawei."
+
+  A Huawei spokesperson said: 'We were made aware of historical vulnerabilities in 2011 and 2012 and they were addressed at the time.
+
+  "Software vulnerabilities are an industry-wide challenge. Like every ICT [information and communications technology] vendor, we have a well-established public notification and patching process, and when a vulnerability is identified, we work closely with our partners to take the appropriate corrective action."
+
+  Several European telecoms operators are considering removing Huawei's equipment from their networks.
+
+  But the firm's cyber-security chief, John Suffolk, has described the firm as "the most open [and] transparent company in the world".
+
+  In January, Vodafone "paused" the deployment of Huawei equipment in its core networks in Europe until Western governments resolved their security concerns about the company.
+
+  Huawei has been accused of being a potential security risk and of being controlled by the Chinese government - allegations it has always firmly denied.
+
+  With the introduction of the 5G network in the UK approaching, telecoms operators say the way it would work, in a highly integrated system alongside 4G, means that excluding Huawei is not realistic without significant cost and delay,
+
+  That would include potentially removing existing hardware, leading to the UK falling behind other countries.
+
+  The company is the world's third-largest supplier of mobile phones, behind Samsung and Apple.

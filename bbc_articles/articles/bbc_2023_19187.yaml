@@ -1,0 +1,55 @@
+id: bbc_2023_19187
+title: Booking.com hackers increase attacks on customers - BBC News
+date: '2023-12-01'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-67583486
+content: |-
+  Researchers say cyber-criminals are offering big sums for hotels' log-in details to target holidaymakers.
+
+  Hackers are increasing their attacks on Booking.com customers by posting adverts on dark web forums asking for help finding victims.
+
+  Cyber-criminals are offering up to $2,000 (£1,600) for login details of hotels as they continue to target the people who are staying with them.
+
+  Since at least March, customers have been tricked into sending money to cyber-criminals.
+
+  New research shows the sneaky tactics being used by the unknown hackers.
+
+  Booking.com is one of the largest websites for holidaymakers, but customers from the UK, Indonesia, Singapore, Greece, Italy, Portugal, the US and Netherlands have complained online about being victims of fraud through the website.
+
+  Cyber-security experts say Booking.com itself has not been hacked, but criminals have devised ways to get into the administration portals of individual hotels which use the service.
+
+  A Booking.com spokesman said the company is aware that some of its accommodation partners are being targeted by hackers "using a host of known cyber-fraud tactics".
+
+  Hackers on darknet forums are advertising ways to increase attacks on Booking.com customers
+
+  Researchers at cyber-security company Secureworks say hackers are first tricking hotel staff into downloading a malicious piece of software called Vidar Infostealer.
+
+  They do this by sending an email to the hotel pretending to be a former guest who has left their passport in their room.
+
+  Criminals then send a Google Drive link to the staff saying that it contains an image of the passport. Instead the link downloads malware on to staff computers and automatically searches the hotel computers for Booking.com access.
+
+  Then the hackers log into the Booking.com portal allowing them to see all customers who currently have room or holiday reservations. The hackers then message customers from the official app and are able to trick people into paying money to them instead of the hotel.
+
+  Hackers appear to be making so much money in their attacks that they are now offering to pay thousands to criminals who share access to hotel portals.
+
+  "The scam is working and it's paying serious dividends," says Rafe Pilling, director of threat intelligence for Secureworks Counter Threat Unit.
+
+  "The demand for credentials is likely so popular because it's seeing a high success rate, with emails targeting genuine customers and appearing to come from a trusted source. It's social engineering at its best," he said.
+
+  Lucy Buckley was contacted through the Booking.com app in September by hackers using broken English, who convinced her to send them £200. She says they pretended to staff at the Paris hotel where she had booked a room, saying that she must pay the money or her reservation would be lost.
+
+  After she sent the money, the real hotel staff informed her they had no knowledge of the payment. Acting quickly, she managed to get a refund from her bank, which revealed her money had been sent to an account in Moldova.
+
+  A Booking.com spokesman said: "While this breach was not on Booking.com, we understand the seriousness for those impacted, which is why our teams work diligently to support our partners in securing their systems as quickly as possible and helping any potentially impacted customers accordingly, including with recovering any lost funds."
+
+  Cyber-security expert and podcaster Graham Cluley was also nearly tricked into sending money to hackers.
+
+  He says Booking.com hotels should implement multi-factor authentication to make it harder for criminals to log in illegally.
+
+  "Booking.com has started displaying a warning message on the bottom of chat windows, but they could be doing much more than this. For instance, not allowing any links to be included in chat which go to websites that are less than a few days old would prevent freshly-made fake sites being used to trick customers into paying," he said.
+
+  Are you affected by the issues raised in this story? Share your experiences by emailing haveyoursay@bbc.co.uk.
+
+  Please include a contact number if you are willing to speak to a BBC journalist. You can also get in touch in the following ways:
+
+  If you are reading this page and can't see the form you will need to visit the mobile version of the BBC website to submit your question or comment or you can email us at HaveYourSay@bbc.co.uk. Please include your name, age and location with any submission.

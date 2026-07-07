@@ -1,0 +1,61 @@
+id: bbc_2023_8447
+title: BBC, BA and Boots issued with ultimatum by cyber gang Clop - BBC News
+date: '2023-06-07'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-65829726
+content: |-
+  The group warns personal details of 100,000 staff will be published if employers do not get in touch.
+
+  A prolific cyber crime gang thought to be based in Russia has issued an ultimatum to victims of a hack that has hit organisations around the world.
+
+  The Clop group posted a notice on the dark web warning firms affected by the MOVEit hack to email them before 14 June or stolen data will be published.
+
+  More than 100,000 staff at the BBC, British Airways and Boots have been told payroll data may have been taken.
+
+  Employers are being urged not to pay up if the hackers demand a ransom.
+
+  Cyber security research previously suggested Clop could be responsible for the hack which was first announced last week.
+
+  The criminals found a way to break into a piece of popular business software called MOVEit and were then able to use that access to get into the databases of potentially hundreds of other companies.
+
+  Analysts at Microsoft said on Monday they believed Clop was to blame, based on the techniques used in the hack.
+
+  It has now been confirmed in a long blog post written in broken English.
+
+  The post, seen by the BBC, reads: "This is announcement to educate companies who use Progress MOVEit product that chance is that we download a lot of your data as part of exceptional exploit."
+
+  The post goes on to urge victim organisations to send an email to the gang to begin a negotiation on the crew's darknet portal.
+
+  This is an unusual tactic as normally ransom demands are emailed to victim organisations by the hackers, but here they are demanding that victims get in touch. This could be because Clop itself can't keep up with the scale of the hack which is still being processed around the world.
+
+  "My take is that they just have so much data that it is difficult for them to get on top of it all. They're betting that if you know then you will contact them," says SOS Intelligence CEO Amir Hadžipasić.
+
+  MOVEit is supplied by Progress Software in the US for many businesses to securely move files around company systems. Payroll services provider Zellis, which is based in the UK, was one of its users.
+
+  Zellis has confirmed that eight UK organisations have had data stolen as a result, including home addresses, national insurance numbers and, in some cases, bank details. Not all firms have had the same data exposed.
+
+  Zellis customers which has been breached include:
+
+  Nova Scotia Government and the University of Rochester is also warning staff that data may have been stolen through the MOVEit vulnerability.
+
+  Advice from experts is for individuals not to panic, and for organisations to carry out security checks issued by authorities like the Cyber Security and Infrastructure Authority in the US.
+
+  Clop claims on its leak site that it has deleted any data from government, city or police services.
+
+  "Do not worry, we erased your data you do not need to contact us. We have no interest to expose such information," it reads.
+
+  However, researchers say the criminals are not to be trusted.
+
+  "Clop's claim to have deleted information relating to public sector organisations should be taken with a pinch of salt. If the information has monetary value or could be used for phishing, it's unlikely that they will simply have disposed it," said Brett Callow, threat researcher from Emsisoft.
+
+  Cyber security experts have long tracked the exploits of Clop, which is thought to be based in Russia as it mainly operates on Russian speaking forums.
+
+  Russia has long been accused of being a safe haven to ransomware gangs - which it denies.
+
+  However, Clop runs as a "ransomware as a service" group, which means hackers can rent their tools to carry out attacks from anywhere.
+
+  In 2021, alleged Clop hackers were arrested in Ukraine in a joint operation between Ukraine, US and South Korea.
+
+  At the time, authorities claimed to have taken down the group which they said was responsible for extorting $500m from victims around the world.
+
+  But Clop has continued to be a persistent threat.

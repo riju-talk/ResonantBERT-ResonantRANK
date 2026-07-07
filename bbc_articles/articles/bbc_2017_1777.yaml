@@ -1,0 +1,95 @@
+id: bbc_2017_1777
+title: Can a 'superpower force field' protect us from hackers? - BBC News
+date: '2017-02-03'
+section: Business
+url: http://www.bbc.co.uk/news/business-38829663
+content: |-
+  As the number of cyber-attacks escalates, can a new approach to security help keep us safe?
+
+  Can virtual software be as effective as virtual superheroes?
+
+  In the Disney Pixar animation The Incredibles, the daughter in the family of superheroes, Violet, has a particular superpower.
+
+  She can create a protective force field around herself - an impenetrable bubble. She can also make herself invisible.
+
+  Businesses trying to ward off millions of dangerous cyber-attacks in an increasingly connected world probably wish they had the same superpower.
+
+  Well, perhaps now, they do.
+
+  A cybersecurity firm called Bromium reckons its technology can protect laptop and desktop users in large organisations against malware hidden in email attachments and compromised websites.
+
+  It does this through a process called micro-virtualisation.
+
+  Every time you open a document or visit a website, Bromium creates a mini protected virtual environment for each task - like a series of Violet's bubbles.
+
+  Even if you've clicked on an email link containing a virus, there's nowhere for that malware to go because it is isolated within its bubble. It cannot infect the rest of the machine or penetrate the corporate network.
+
+  Violet's forcefield can protect anyone inside from attack. Can software do the same thing?
+
+  Bromium co-founder and president Ian Pratt, who sold his first company XenSource to Citrix for $500m (£398m) in 2007, says it has taken his firm six years to perfect the product.
+
+  "This is by far the hardest thing I've done by miles," he tells the BBC.
+
+  One helpful development was when the big computer chip designers, such as Intel and Arm, began producing chips that had virtualisation capability built in to them.
+
+  "We've created a billion virtual machines since we started - no bad stuff has ever escaped from one of them," says Mr Pratt.
+
+  The technology has proved popular with intelligence services and other government agencies, he says.
+
+  Bromium co-founder Simon Crosby says trying to detect the bad guy "always fails"
+
+  "The US intelligence services tend to compartmentalise data from secret sources using separate banks of computers. Now, using virtualisation, they can keep secret data separate and secure virtually on one computer," he says.
+
+  One computer can have 50 virtual machines (VMs) running at the same time without much loss in performance speed, he says, although a typical user will have five to 10 running concurrently.
+
+  It is this ability to create VMs instantly without much drain on the computer processor's resources that is one of the product's main advantages, he believes.
+
+  At the World Economic Forum's recent Davos summit, a cybersecurity roundtable discussion revealed that the biggest banks can now expect up to two billion cyber-attacks a year; retailers, a mere 200 million.
+
+  And recent research from IT consultancy Capgemini finds that only 21% of financial service organisations are "highly confident" they could detect a data breach.
+
+  Unfortunately, despite all the latest firewalls and antivirus software, it is we humans who are the weakest link in any organisation's security defences.
+
+  Despite all the warnings, we still click on email links and attachments, download software to enable us to watch that cute kitten video, and visit websites we probably shouldn't - even while at work.
+
+  Virtualisation is one defence against such attacks.
+
+  How many of us have visited websites we shouldn't have, even at work?
+
+  Prof Giovanni Vigna is a director of the University of California in Santa Barbara's cybersecurity centre and co-founder of malware detection company, Lastline.
+
+  He says: "Virtualisation is a very effective way of containing the effects of an attack because it isolates the bad stuff, and that's awesome," he says.
+
+  But it is not a "silver bullet", he warns.
+
+  "It won't prevent users from giving away sensitive security data in targeted spear phishing attacks," he says.
+
+  This is where staff are hoodwinked into giving away security details because hackers have collated enough personal details to make an email or document look entirely official and convincing.
+
+  This type of manipulation - called social engineering - is still "very effective", says Prof Vigna. "It's difficult to protect against human stupidity."
+
+  Bromium's Ian Pratt accepts that this is a limitation of virtualisation, but he maintains: "In 80% of cases hackers are gaining access to enterprise networks through staff clicking on dodgy links.
+
+  "Our system limits the damage that can be caused. We're trying to make these attacks far more expensive to execute."
+
+  Traditional anti-virus (AV) software works by identifying malware signatures and adding them to the huge database. Once a known signature has been detected it can then quarantine and delete the suspect program.
+
+  The problem with this approach, however, is that it's reactive and does nothing to prevent previously unknown attacks made by new forms of malware, many of which can evolve within an infected system and evade the AV software.
+
+  One cybersecurity firm trying to tackle this issue is Invincea, which describes its X product as "machine learning next-generation antivirus".
+
+  It aims to detect and stop malware without relying on signatures. It learns how suspect programs look and behave when compared to legitimate programs and other known forms of malware. And if a suspect file exceeds a risk threshold it is quarantined or deleted.
+
+  The deluxe version of Invincea's product also ensures that all links and attachments are opened in a virtual isolated environment - its own version of Violet's bubble.
+
+  "Invincea is a major competitor to Bromium," says Prof Vigna. "The advantage is that it works on CPUs [central processing units] that don't support micro-virtualisation, so it can be used in organisations with older computers."
+
+  Microsoft has also been exploring the benefits of virtualisation. Its next major Windows 10 update will enable users to run the Edge browser within a protected virtual machine environment.
+
+  Prof Alan Woodward from the University of Surrey's computer science department thinks the tech giant could go further.
+
+  "Virtualisation is a neat idea," he says. "Lots of people are taking it very seriously. My personal suspicion is that someone like Microsoft may well try to build it into their operating system [OS] directly."
+
+  Although we have much better malware detection systems these days, we - "the squidgy bit in the chair", as Prof Woodward calls us - remain the most vulnerable point in this cybersecurity warfare.
+
+  Can we develop a version of Violet's bubble to protect us from ourselves?

@@ -1,0 +1,17 @@
+id: bbc_2024_15999
+title: 'Crowdstrike: Global cyber agencies warn about scammers - BBC News'
+date: '2024-07-20'
+section: Technology
+url: http://www.bbc.co.uk/news/articles/cq5xy12pynyo
+content: |-
+  Agencies in the UK and Australia are warning people to be vigilante to fake emails, calls and websites.
+
+  Scam warning as fake emails and websites target users after outage
+
+  Cyber-security experts and agencies around the world are warning people about a wave of opportunistic hacking attempts linked to the IT outage. Although there is no evidence that the CrowdStrike outage was caused by malicious activity, some bad actors are attempting to take advantage. Cyber agencies in the UK and Australia are warning people to be vigilant to fake emails, calls and websites that pretend to be official. And CrowdStrike head George Kurtz encouraged users to make sure they were speaking to official representatives from the company before downloading fixes.
+
+  Thousands of flights were cancelled across the world due to the mass outage
+
+  "We know that adversaries and bad actors will try to exploit events like this," he said in a blog post, external. "Our blog and technical support will continue to be the official channels for the latest updates." His words were echoed by cybersecurity expert Troy Hunt, who runs the well-known Have I Been Pwned security website. “An incident like this that has commanded so many headlines and has people worried is a gift to scammers," he said. Mr Hunt was responding to a warning from the Australian Signals Directorate (known as the ASD, the equivalent of the UK's GCHQ or the US's National Security Agency) which issued an alert about hackers sending out bogus software fixes claiming to be from CrowdStrike. "Alert! We understand a number of malicious websites and unofficial code are being released claiming to help entities recover," the notice reads. The agency is urging IT responders to only use CrowdStrike's website to source information and help. The ASD warning follows calls from the UK's National Cyber Security Centre (NCSC) on Friday for people to be hyper vigilant of suspicious emails or calls that pretend to be CrowdStrike or Microsoft help. "An increase in phishing referencing this outage has already been observed, as opportunistic malicious actors seek to take advantage of the situation," the agency said.
+
+  Whenever there is a major news event, especially one linked to technology, hackers respond by tweaking their existing methods to take into account the fear and uncertainty. We saw the same with the Covid-19 pandemic when hackers adjusted their phishing email attacks to offer information about the virus and even pretend to have an antidote in order to hack people and organisations. Because the IT outage has been a global news story we are seeing hackers capitalise. According to researchers at Secureworks, there has already been a sharp rise in CrowdStrike-themed domain registrations – hackers registering new websites made to look official and potentially trick IT managers or members of the public into downloading malicious software or handing over private details. The advice is mainly for IT managers who are the ones being affected by this as they try to get their organisations back online. But individuals too might be targeted, so experts are warning to be cautious and only act on information from the official CrowdStrike channels.

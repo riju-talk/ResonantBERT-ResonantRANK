@@ -1,0 +1,41 @@
+id: bbc_2018_4077
+title: Hotel door locks worldwide were vulnerable to hack - BBC News
+date: '2018-04-25'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-43896360
+content: |-
+  Cyber-security researchers found a way to unlock rooms across the world without leaving a trace.
+
+  The hack could be used to access restricted floors as well as locked rooms
+
+  Millions of electronic door locks fitted to hotel rooms worldwide have been found to be vulnerable to a hack.
+
+  Researchers say flaws they found in the equipment's software meant they could create "master keys" that opened the rooms without leaving an activity log.
+
+  The F-Secure team said it had worked with the locks' maker over the past year to create a fix.
+
+  But the Swedish manufacturer is playing down the risk to those hotels that have yet to install an update.
+
+  "Vision Software is a 20-year-old product, which has been compromised after 12 years and thousands of hours of intensive work by two employees at F-Secure," said a spokeswoman for the company, Assa Abloy.
+
+  "These old locks represent only a small fraction [of the those in use] and are being rapidly replaced with new technology."
+
+  She added that hotels had begun deploying the fix two months ago.
+
+  "Digital devices and software of all kinds, are vulnerable to hacking. However, it would take a big team of skilled specialists years to try to repeat this."
+
+  Assa Abloy's locks are used by some of the world's biggest hotel chains - including Intercontinental, Hyatt, Radisson and Sheraton - although it has not disclosed which properties still use a compromised version of the Vision by VingCard system.
+
+  The F-Secure researchers said they began their inquiry after a colleague's laptop was stolen from a hotel room without the thief leaving behind any sign of unauthorised access.
+
+  "We wanted to find out if it's possible to bypass the electronic lock without leaving a trace," explained Timo Hirvonen, describing the Ghost In The Locks exploit.
+
+  "Only after we thoroughly understood how it was designed were we able to identify seemingly innocuous shortcomings [and] come up with a method for creating master keys."
+
+  He added that data scanned from any discarded VingCard could be used to mount the attack, even if the card's access privileges had long expired or had been used to open a garage or other parts of the targeted hotel rather than a bedroom.
+
+  The hack can also be applied to access other areas of a hotel - including sending a lift to a VIP floor of a property - if it is protected by the same system.
+
+  F-Secure has confirmed it will not be sharing the hardware and software tools it used to demonstrate its attack with others.
+
+  The BBC is not responsible for the content of external sites.

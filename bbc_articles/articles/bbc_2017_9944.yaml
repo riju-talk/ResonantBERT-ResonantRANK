@@ -1,0 +1,89 @@
+id: bbc_2017_9944
+title: Manchester police still relies on Windows XP - BBC News
+date: '2017-09-20'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-41306321
+content: |-
+  More than 20% of Greater Manchester Police's PCs run on the operating system, posing a hack risk.
+
+  Windows XP dates back to October 2001 and was replaced by Vista five years later
+
+  England's second biggest police force has revealed that more than one in five of its computers were still running Windows XP as of July.
+
+  Greater Manchester Police told the BBC that 1,518 of its PCs ran the ageing operating system, representing 20.3% of all the office computers it used.
+
+  Microsoft ended nearly all support for the operating system in 2014. Experts say its use could pose a hacking risk.
+
+  The figure was disclosed as part of a wider Freedom of Information request.
+
+  "Even if security vulnerabilities are identified in XP, Microsoft won't distribute patches in the same way it does for later releases of Windows," said Dr Steven Murdoch, a cyber-security expert at University College London.
+
+  "So, if the [police's] Windows XP computers are exposed to the public internet, then that would be a serious concern.
+
+  "If they are isolated, that would be less of a worry - but the problem is still that if something gets into a secure network, it might then spread. That is what happened in the NHS with the recent Wannacry outbreak."
+
+  The NHS and other organisations were hit by the Wannacry attack four months ago
+
+  In May, ransomware malware known as Wannacry caused havoc to the National Health Service's computer systems.
+
+  Infected computers' files were digitally scrambled making them inaccessible, while staff were told to switch off other PCs to stop the infection from spreading.
+
+  Operations and other appointments had to be cancelled as a consequence.
+
+  Greater Manchester Police said it was reducing its reliance on XP "continually".
+
+  "The remaining XP machines are still in place due to complex technical requirements from a small number of externally provided highly specialised applications," a spokeswoman told the BBC.
+
+  "Work is well advanced to mitigate each of these special requirements within this calendar year, typically through the replacement or removal of the software applications in question."
+
+  Most of the UK's police forces refused to disclose their numbers in response to the Freedom of Information request, citing security concerns.
+
+  Several suggested revealing a large figure might lead them to become a target, while revealing a low tally could put others at greater risk of attack.
+
+  However, eight forces that had fewer than 10 PCs using XP were willing to confirm the fact.
+
+  Of the other forces that shared their numbers:
+
+  The UK's biggest force - London's Metropolitan Police Service - was among those that refused to share an up-to-date figure.
+
+  But in June it said about 10,000 of its desktop computers were still running XP.
+
+  "Disclosing further information would reveal potential weaknesses and vulnerability," the force's information manager, Paul Mayger, said.
+
+  "This would be damaging as criminals/terrorists would gain a greater understanding of the MPS's systems, enabling them to take steps to counter them."
+
+  Microsoft says computers that still use XP should not be considered "secure"
+
+  The Met had, however, answered a Freedom of Information request on the subject in October 2015, when it said 35,640 of its desktop and laptop computers were running XP.
+
+  The BBC has appealed against its refusal to provide an update.
+
+  Police Scotland was among those to refuse to provide any numbers at all.
+
+  "The requested information could be used by a hostile party to plan and execute an attack," said Colette McGloan, its lead disclosure officer.
+
+  "Such attacks could take the form of data theft, denial of service or other deliberate disruptions."
+
+  Cumbria Police indicated the Wannacry attack had caused it to refuse the request.
+
+  "Taking into account the recent cyber-attacks within the United Kingdom, no information... which may aid cyber-attacks should be disclosed," said disclosure and compliance officer Sarah Pearce.
+
+  "The more information disclosed over time will give a more detailed account of the ICT [information and communications technology] infrastructure of not only a force area but also the country as a whole."
+
+  However, one computer security expert took issue with these excuses.
+
+  "We should be praising police forces that have made good progress in upgrading to a newer operating system and calling those who haven't to account," said Ken Munro from Pen Test Partners.
+
+  "Surely it's in everyone's interests for us not to have an incident with the police like we did with the NHS, where we only discover the scale of the problem after an attack."
+
+  Dr Murdoch said it would not be difficult for skilled attackers to identify vulnerable systems anyway.
+
+  "There is probably not much harm in disclosure, since if someone can get access to the computers, it's relatively easy to work out which ones are running Windows XP," he said.
+
+  "There are standard toolkits that adversaries use to run all the exploits they are aware of, and if anything works, then they will go with that."
+
+  Manchester's police force says it is trying to reduce its reliance on Windows XP
+
+  For its part, Greater Manchester Police said that it saw no problem in complying with the request.
+
+  "The decision to share the figures on this has been made as the simple numerical response would not pose a significant increase to our organisational risks," said a spokeswoman.

@@ -1,0 +1,67 @@
+id: bbc_2018_9883
+title: Google is irresponsible claims Fortnite's chief in bug row - BBC News
+date: '2018-08-27'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-45320672
+content: |-
+  Epic Games' chief criticises Google's security team for refusing to wait before revealing a bug.
+
+  Android devices have to use Epic's own installer rather than the Google Play store to get the game
+
+  The leader of the firm behind the hit game Fortnite has accused Google of being "irresponsible" in the way it revealed a flaw affecting the Android version of the title.
+
+  On Friday, Google made public that hackers could hijack the game's installation software to load malware.
+
+  The installer is needed because Epic Games has bypassed Google's app store to avoid giving it a cut of sales.
+
+  Epic's chief executive said Google should have delayed sharing the news.
+
+  "We asked Google to hold the disclosure until the update was more widely installed," tweeted Tim Sweeney.
+
+  "They refused, creating an unnecessary risk for Android users in order to score cheap PR points."
+
+  Epic Games released a "beta version" of Fortnite for Android earlier this month
+
+  Google has been criticised in the past by Microsoft for sharing details of vulnerabilities in the Windows-maker's products before they had been addressed.
+
+  The Android developer's security team has also caught out Apple and Samsung in a similar manner.
+
+  But in this case, one independent cyber-security expert said Epic was responsible for getting into this situation.
+
+  "People will argue until the cows come home the a period is either too long or not long enough depending on which side you're on," commented Troy Hunt.
+
+  "I'm still surprised Epic didn't put it in the Play Store to begin with - and yes, I get the financial incentive."
+
+  Google's terms dictate that Epic would have had to have handed over 30% of its in-game fees.
+
+  The developer has, however, agreed to such terms on Apple's equivalent app store since iPhones are restricted from adding software from elsewhere.
+
+  According to Google's documentation, its security team shared a screen recording with Epic on 15 August demonstrating a way to fool the games' Android installer into loading malware.
+
+  Epic responded two days later saying that it was distributing a fix after "working around the clock" to create it.
+
+  Google released a video showing how a fake version of Fortnite might be installed
+
+  "We would like to request the full 90 days before disclosing this issue so our users have time to patch their devices," the games company added.
+
+  Google's disclosure rules state that it reveals details of bugs to the public 90 days after reporting them to the developers responsible if they have not been tackled, but only waits one week after a patch is made "broadly available".
+
+  As such, it rejected the request.
+
+  Mr Sweeney has said he is grateful that Google audited his firm's software and notified it of the flaw.
+
+  But he denied suggestions that the tech giant had acted in users' interests by refusing to keep the matter private until mid-November.
+
+  This Twitter post cannot be displayed in your browser. Please enable Javascript or try a different browser. View original content on Twitter The BBC is not responsible for the content of external sites. Skip twitter post by Tim Sweeney This article contains content provided by Twitter. We ask for your permission before anything is loaded, as they may be using cookies and other technologies. You may want to read Twitter’s cookie policy, external and privacy policy, external before accepting. To view this content choose ‘accept and continue’. The BBC is not responsible for the content of external sites.
+
+  "Epic Games' decision to bypass the Google app store shows that when security conflicts with commercial interests, often the commercial interests win but at the cost of the public's safety online," commented Professor Steven Murdoch, a security researcher at University College London.
+
+  "Security is no longer just the result of people making good technical decisions, but also that the complex commercial structures in place work for, and not against, better online security."
+
+  Users who protect their accounts will be given access to one of Fortnite's dances
+
+  In a separate development, Epic has announced an incentive for all Fortnite players to activate two-factor authentication to reduce the risk of their accounts being stolen.
+
+  This requires gamers to enter a code sent to their phone or email address in addition to their password when signing in.
+
+  Those that adopt the practice can use the game's Boogiedown dance moves.

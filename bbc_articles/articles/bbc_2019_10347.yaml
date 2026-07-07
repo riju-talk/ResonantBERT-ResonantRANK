@@ -1,0 +1,40 @@
+id: bbc_2019_10347
+title: AI may help to spot heart problems - BBC News
+date: '2019-08-02'
+section: Health
+url: http://www.bbc.co.uk/news/health-49170285
+content: |-
+  Computer modelling used to spot irregular heartbeats even after heart rate has returned to normal.
+
+  A new way of identifying a common condition that causes the heart to beat irregularly may have been discovered by artificial intelligence.
+
+  Atrial fibrillation affects one million people in the UK and increases the risk of stroke and long-term heart problems.
+
+  It is relatively simple to diagnose when the heart is beating irregularly, but not when it returns to normal.
+
+  Computer modelling at the Mayo Clinic in the US may have identified signs that indicate previous abnormalities.
+
+  Researchers said it was still early days, but believe the system could lead to earlier and easier detection of the problem and, therefore, ensure patients get the right treatment, saving lives.
+
+  The findings are published in The Lancet.
+
+  Currently where these tests - known as electrocardiograms - do not find abnormal rhythms, doctors can ask the patient to undergo longer-term heart monitoring.
+
+  But instead the computer modelling was asked to look out for what doctors believe are subtle signs of past irregular rhythms, including scarring of the heart, that are unable to be spotted by the human eye from test results.
+
+  The computer modelling analysed tests carried out on nearly 181,000 patients between 1993 and 2017.
+
+  They were all patients who had had normal test results at first.
+
+  The modelling correctly identified the subsequent diagnosis from the normal test results in 83% of cases.
+
+  Dr Paul Friedman, from the Mayo Clinic, said it showed real potential: "It is like looking at the ocean now and being able to tell that there were big waves yesterday."
+
+  But the team said the modelling now needed to be tested further to see if it could be deployed on the frontline.
+
+  Prof Tim Chico, an expert in cardiology at the University of Sheffield, described the findings as "very important".
+
+  "This AI-based approach could provide a revolutionary advance, although it's important to note that this research is still in the early stages and we need to see replicated results, and how the algorithm responds when tested on the general population."
+  • None Do you know your heart age?
+
+  The BBC is not responsible for the content of external sites.

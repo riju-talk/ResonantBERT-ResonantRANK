@@ -1,0 +1,75 @@
+id: bbc_2024_5344
+title: NHS AI test spots tiny cancers missed by doctors - BBC News
+date: '2024-03-21'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-68607059
+content: |-
+  An AI tool called Mia found missed breast cancer symptoms in the scans of 11 women during an NHS test.
+
+  AI tool Mia circles two areas of concern on a mammogram scan
+
+  An AI tool tested by the NHS successfully identified tiny signs of breast cancer in 11 women which had been missed by human doctors.
+
+  The tool, called Mia, was piloted alongside NHS clinicians and analysed the mammograms of over 10,000 women.
+
+  Most of them were cancer-free, but it successfully flagged all of those with symptoms, as well as an extra 11 the doctors did not identify.
+
+  At their earliest stages, cancers can be extremely small and hard to spot.
+
+  The BBC saw Mia in action at NHS Grampian, where we were shown tumours that were practically invisible to the human eye. But, depending on their type, they can grow and spread rapidly.
+
+  Barbara was one of the 11 patients whose cancer was flagged by Mia but had not been spotted on her scan when it was studied by the hospital radiologists.
+
+  Barbara had her tumour caught early by AI
+
+  Because her 6mm tumour was caught so early she had an operation but only needed five days of radiotherapy. Breast cancer patients with tumours which are smaller than 15mm when discovered have a 90% survival rate over the following five years.
+
+  Barbara said she was pleased the treatment was much less invasive than that of her sister and mother, who had previously also battled the disease.
+
+  She told me she met a relative who expressed sympathy that Barbara had "the Big C".
+
+  "I said, 'it's not a big C, it's a very little one'," she said.
+
+  Without the AI tool's assistance, Barbara's cancer would potentially not have been spotted until her next routine mammogram three years later. She had not experienced any noticeable symptoms.
+
+  Because it works instantly, tools like Mia also have the potential to reduce the waiting time for results from 14 days down to three, claims its developer Kheiron.
+
+  None of the cases in the trial were analysed by Mia alone - each had a human review as well. Currently two radiologists look at each individual scan, but the hope is that one of them could one day be replaced by the tool, effectively halving the workload for each pair.
+
+  Of the 10,889 women who participated in the trial, only 81 did not want the AI tool to review their scans, said Dr Gerald Lip, clinical director of breast screening in the north east of Scotland and the doctor who led the project.
+
+  AI tools are generally pretty good at spotting symptoms of a specific disease, if they are trained on enough data to enable them to be identified. This means feeding the programme with as many different anonymised images of those symptoms as possible, from as diverse a range of people as possible.
+
+  Getting hold of this data can be difficult because of patient confidentiality and privacy concerns.
+
+  Sarah Kerruish, Chief Strategy Officer of Kheiron Medical, said it took six years to build and train Mia, which is run on cloud computing power from Microsoft, and it was trained on "millions" of mammograms from "women all over the world".
+
+  "I think the most important thing I've learned is that when you're developing AI for a healthcare situation, you have to build in inclusivity from day one," she said.
+
+  Breast cancer doctors look at around 5,000 breast scans per year on average, and can view 100 in a single session.
+
+  "There is an element of fatigue," said Dr Lip.
+
+  "You get disruptions, someone's coming in, someone's chatting in the background. There are lots of things that can probably throw you off your regular routine as well. And in those days when you have been distracted, you go, 'how on earth did I miss that?' It does happen."
+
+  Dr Gerald Lip ran the evaluation of the AI tool at NHS Grampian
+
+  I asked him whether he was worried that tools like Mia might one day take away his job altogether.
+
+  He said he believed the tech could one day free him up to spend more time with patients.
+
+  "I see Mia as a friend and an augmentation to my practice," Dr Lip said.
+
+  Mia isn't perfect. It had no access to any patient history so, for example, it would flag cysts which had already been identified by previous scans and designated harmless.
+
+  Also, because of current health regulation, the machine learning element of the AI tool was disabled - so it could not learn on the job, and evolve during its use. Every time it was updated it had to undergo a new review.
+
+  The Mia trial is just one early test, by one product in one location. The University of Aberdeen independently validated the research, but the results of the evaluation have not yet been peer reviewed. The Royal College of Radiologists say the tech has potential.
+
+  "These results are encouraging and help to highlight the exciting potential AI presents for diagnostics. There is no question that real-life clinical radiologists are essential and irreplaceable, but a clinical radiologist using insights from validated AI tools will increasingly be a formidable force in patient care." said Dr Katharine Halliday, President of the Royal College of Radiologists.
+
+  Dr Julie Sharp, head of health information at Cancer Research UK said the increasing number of cancer cases diagnosed each year meant technological innovation would be "vital" to help improve NHS services and reduce pressure on its staff.
+
+  "More research will be needed to find the best ways to use this technology to improve outcomes for cancer patients," she added.
+
+  There are other healthcare-related AI trials going on around the UK, including an AI tool by a firm called Presymptom Health which is analysing blood samples looking for signs of sepsis before symptoms emerge - but many are still in early stages without published results.

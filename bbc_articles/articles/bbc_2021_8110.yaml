@@ -1,0 +1,53 @@
+id: bbc_2021_8110
+title: US companies hit by 'colossal' cyber-attack - BBC News
+date: '2021-07-03'
+section: US & Canada
+url: http://www.bbc.co.uk/news/world-us-canada-57703836
+content: |-
+  A cyber-security firm says it believes the Russia-linked REvil ransomware gang is responsible.
+
+  About 200 US businesses have been hit by a "colossal" ransomware attack, according to a cyber-security firm.
+
+  Huntress Labs said the hack targeted Florida-based IT company Kaseya before spreading through corporate networks that use its software.
+
+  Kaseya said in a statement on its own website that it was investigating a "potential attack".
+
+  Huntress Labs said it believed the Russia-linked REvil ransomware gang was responsible.
+
+  The US Cybersecurity and Infrastructure Agency, a federal agency, said in a statement that it was taking action to address the attack.
+
+  The cyber-breach emerged on Friday afternoon as companies across the US were clocking off for the long Independence Day weekend.
+
+  The two big things that are keeping cyber-security professionals up at night lately are ransomware attacks and supply chain attacks. This latest incident combines both nightmares into one big Independence Holiday weekend-ruining event for hundreds of US IT teams.
+
+  Ransomware is the scourge of the internet. Multiple organised criminal gangs are constantly attempting to gain access to computer networks to hold them hostage. The rate of attack is relentless but it can take a lot of time and effort on the criminals part to successfully hijack one victim's computer system.
+
+  In this latest incident the hackers showed that by going after the software supplier of multiple organisations they can pop dozens, perhaps hundreds of victims in one go. We've seen horrendous supply chain attacks in the past but this one has the potential to be the biggest incident involving ransomware yet.
+
+  It shows that ransomware gangs are thinking creatively about how to have the most impact possible and command the biggest ransom possible.
+
+  Kaseya said one of its applications that runs corporate servers, desktop computers and network devices might have been compromised in the attack.
+
+  The company said it was urging customers that use its VSA tool to immediately shut down their servers.
+
+  Kaseya said in its statement that a "small number" of companies had been affected, though Huntress Labs said the number was greater than 200.
+
+  It is not clear what specific companies have been affected and a Kaseya representative contacted by the BBC declined to give details.
+
+  Kaseya's website says it has a presence in over 10 countries and more than 10,000 customers.
+
+  This video can not be played To play this video you need to enable JavaScript in your browser.
+
+  "This is a colossal and devastating supply chain attack," Huntress Labs' senior security researcher John Hammond said in an email to Reuters news agency.
+
+  At a summit in Geneva last month, US President Joe Biden said he told Russian President Vladimir Putin he had a responsibility to rein in such cyber-attacks.
+
+  Mr Biden said he gave Mr Putin a list of 16 critical infrastructure sectors, from energy to water, that should not be subject to hacking.
+
+  REvil - also known as Sodinokibi - is one of the most prolific and profitable cyber-criminal groups in the world.
+
+  The gang was blamed by the FBI for a hack in May that paralysed operations at JBS - the world's largest meat supplier.
+
+  The group sometimes threatens to post stolen documents on its website - known as the "Happy Blog" - if victims don't comply with its demands.
+
+  REvil was also linked to a co-ordinated attack on nearly two dozen local governments in Texas in 2019.

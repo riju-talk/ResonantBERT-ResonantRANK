@@ -1,0 +1,57 @@
+id: bbc_2023_9570
+title: 'MOVEit hack: BBC, BA and Boots among cyber attack victims - BBC News'
+date: '2023-06-06'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-65814104
+content: |-
+  Staff at multiple organisations are warned of a payroll data breach after an IT supplier is hacked.
+
+  The BBC, British Airways, Boots and Aer Lingus are among a growing number of organisations affected by a mass hack.
+
+  Staff have been warned personal data including national insurance numbers and in some cases bank details may have been stolen.
+
+  The cyber criminals broke into a prominent piece of software to gain access to multiple companies in one go.
+
+  There are no reports of ransom demands being sought or money stolen.
+
+  In the UK, the payroll services provider Zellis is one of the companies affected and it said data from eight of its client firms had been stolen.
+
+  It would not reveal names, but organisations are independently issuing warnings to staff.
+
+  In an email to employees, the BBC said data stolen included staff ID numbers, dates of birth, home addresses and national insurance numbers.
+
+  Staff at British Airways have been warned that some may have had bank details stolen.
+
+  The UK's National Cyber Security Centre said it was monitoring the situation and urged organisations using the compromised software to carry out security updates.
+
+  The hack was first disclosed last week when US company Progress Software said hackers had found a way to break into its MOVEit Transfer tool. MOVEit is software designed to move sensitive files securely and is popular around the world with most of its customers in the US.
+
+  Progress Software said it alerted its customers as soon as the hack was discovered and quickly released a downloadable security update.
+
+  A spokesperson said the firm is working with police to "combat increasingly sophisticated and persistent cybercriminals intent on maliciously exploiting vulnerabilities in widely used software products".
+
+  The US Cybersecurity and Infrastructure Security Agency issued a warning on Thursday to firms that use MOVEit, instructing them to download a security patch to stop further breaches.
+
+  But security researcher Kevin Beaumont said internet scans revealed thousands of company databases could still be vulnerable as many affected firms are yet to install the fix.
+
+  "Early indications are there are a large number of prominent organisations impacted," he said.
+
+  Experts said it is likely the cyber criminals will attempt to extort money from organisations rather than individuals.
+
+  No ransom demands have been made public yet but it is expected cyber criminals will begin emailing affected organisations to demand payment.
+
+  They will likely threaten to publish the stolen data online for other hackers to pick through.
+
+  Victim organisations are reminding staff to be vigilant of any suspicious emails that could lead to further cyber attacks.
+
+  Although no official attribution has been made, Microsoft said it believed the criminals responsible are linked to the notorious Cl0p ransomware group, thought to be based in Russia.
+
+  In a blog post the US tech giant said it was attributing attacks to Lace Tempest, known for ransomware operations and running the Cl0p extortion website where victim data is published. The company said the hackers responsible have used similar techniques in the past to steal data and extort victims.
+
+  "This latest round of attacks is another reminder of the importance of supply chain security," said John Shier, from cyber security company Sophos.
+
+  "While Cl0p has been linked to this active exploitation it is probable that other threat groups are prepared to use this vulnerability as well," he added.
+
+  The National Crime Agency told the BBC that it was aware that a number of UK-based organisations had been "impacted by a cyber incident", as a result of a previously unknown security flaw relating to MOVEit Transfer.
+
+  The NCA added it was "working with partners to support those organisations and understand the full impact on the UK".

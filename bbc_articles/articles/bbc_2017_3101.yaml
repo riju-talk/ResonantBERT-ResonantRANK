@@ -1,0 +1,31 @@
+id: bbc_2017_3101
+title: NHS staff trigger Google cyber-defences - BBC News
+date: '2017-02-02'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-38826821
+content: |-
+  NHS staff using Google's search engine triggers one of its cybersecurity defences.
+
+  NHS staff using Google's search engine has triggered one of its cybersecurity defences.
+
+  NHS Digital confirmed so many NHS staff use the search engine that it had started asking them to take a quiz to verify they were "not a robot".
+
+  News site the Register reported one NHS Trust had told staff to "use Bing" instead.
+
+  Google indicated its systems were designed to spot unusual traffic and were working as intended.
+
+  Detecting suspicious traffic from one network can help defeat potential cyber-attacks, such as attempts to try to overwhelm a website.
+
+  The BBC understands Google is not deliberately singling out NHS traffic.
+
+  A Google spokeswoman said: "Our systems are simply checking that searches are being carried out by humans and not by robots in order to keep web users safe. Once a user has filled out the Captcha [security check], they can continue to use Google as normal."
+
+  The NHS is one of the biggest employers in the world, with more than a million members of staff.
+
+  An email sent by an NHS system administrator suggested the number of staff using the search engine was "causing Google to think it is suffering from a cyber-attack".
+
+  NHS Digital told the Register: "We are aware of the current issue concerning NHS IP addresses which occasionally results in users being directed to a simple verification form when accessing Google.
+
+  "We are currently in discussion with Google as to how we can help them to resolve the issue."
+
+  NHS Digital was unable to suggest what NHS staff may be searching for using Google.

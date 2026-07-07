@@ -1,0 +1,57 @@
+id: bbc_2021_3473
+title: 'Exchange email hack: Hundreds of UK firms compromised - BBC News'
+date: '2021-03-11'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-56365372
+content: |-
+  Hackers linked to China have found footholds inside hundreds of companies after a mass hack.
+
+  Hundreds of UK companies have been compromised as part of a global campaign linked to Chinese hackers.
+
+  Cyber-security firm Eset said more than 500 email servers in the UK may have been hacked, and many companies are not aware they are victims of the attack.
+
+  It comes as governments around the world warn organisations to secure their systems.
+
+  But some experts fear it may be too late, as at least 10 hacking teams are capitalising on the chaos.
+
+  The UK's National Cyber Security Centre has joined US authorities in issuing warnings about the hack, but says it is still assessing the situation for UK businesses.
+
+  Meanwhile, the Norwegian cyber-authority is actively scanning for at-risk companies in the country and warning them directly.
+
+  The hacking campaign was first announced by Microsoft on 2 March and blamed on a Chinese government-backed hacking group called Hafnium.
+
+  Microsoft said the group was using four never-before-seen hacking techniques to infiltrate the email systems of US companies.
+
+  The attackers targeted the popular email system Microsoft Exchange Server, used by large corporations and public bodies across the world.
+
+  Microsoft released software updates for the so called "zero-day" exploits and urged customers to install them to protect themselves.
+
+  However, the hacking has escalated from straightforward espionage to crisis levels, with some reports estimating tens of thousands of organisations could be affected.
+
+  According to cyber-security researchers at Eset, as many as 10 different hacking groups are now actively using the zero-days exploits to target companies in 115 different countries.
+
+  Cyber-researchers at FireEye also confirmed they had detected multiple groups, likely to be based in China, using the exploit in different waves.
+
+  "As always, it is complex but it is very likely that Hafnium gifted these 'zero days' to government-sanctioned groups to actively use the flaws once they were rumbled," Jake Moore at Eset said.
+
+  "The race is now on for all of those affected to patch immediately and then painstakingly check for any recent compromises and make sure no webshells are installed on the servers."
+
+  This video can not be played To play this video you need to enable JavaScript in your browser. Watch: The factory brought to its knees by ransomware hackers
+
+  A webshell is a piece of computer code that can act like a backdoor into a computer network.
+
+  Once installed, hackers have a foothold in a network and can either steal or spy on email messages, or use the access to launch more crippling cyber-attacks.
+
+  Globally, Eset says it has detected the backdoors on 5,000 separate servers - and more than 500 of them are in the UK.
+
+  Cyber-security responders are racing to find out which companies have been hacked, and remove the webshells to kick the hackers out of their systems.
+
+  CyberGuard Technologies says it is dealing with 42 separate cases where hackers have installed webshells, with the number rising by the hour.
+
+  The companies range from financial institutions, manufacturing and retail.
+
+  Sean Tickle, head of CyberGuard, said: "It's widespread and very much a case of hackers hosing their attacks at as many targets as they can before companies can secure their systems.
+
+  "It only takes someone to alter this approach to drop a more malicious malware package and we're going to see some real hurt for the companies that fall behind.
+
+  "There's already rumblings that these shells are being used, and I think we're going to see mass ransomware attacks happen as a second wave of this."

@@ -1,0 +1,51 @@
+id: bbc_2017_6161
+title: Router hack risk 'not limited to Virgin Media' - BBC News
+date: '2017-06-23'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-40382877
+content: |-
+  A weakness in some Virgin Media routers also affects routers by other providers, experts warn.
+
+  A weakness that left thousands of Virgin Media routers vulnerable to attack also affects devices by other providers, security experts suggest.
+
+  Virgin Media's Super Hub 2 was criticised for using short default passwords that could easily be cracked by attackers.
+
+  But experts raised concerns that older routers provided by BT, Sky, TalkTalk and others were also at risk.
+
+  They recommend users change their router password from the default.
+
+  This video can not be played To play this video you need to enable JavaScript in your browser.
+
+  "It's a bit unfair that Virgin Media has been singled out here. They made a mistake - but so have many other internet service providers," said Ken Munro from security firm Pen Test Partners.
+
+  "This problem has been known about for years, yet still ISPs [internet service providers] issue routers with weak passwords and consumers don't know that they should change them."
+
+  The weakness in Virgin Media's Super Hub 2 was highlighted in an investigation by consumer group Which?
+
+  The company has since advised customers using default network and router passwords to update them immediately.
+
+  However, a BT spokeswoman told the BBC: "We are not impacted by the hub issues affecting Virgin Media."
+
+  Other providers have yet to comment.
+
+  Many routers are sent to customers with a default wi-fi password already set up.
+
+  Some use a long password with mixture of upper and lower-case letters, numbers and sometimes symbols.
+
+  But others use short passwords with a limited selection of characters, and many follow a pattern than can be identified by attackers.
+
+  The Virgin Media Super Hub 2 used passwords that were just eight characters long, and used only lower-case letters.
+
+  That gives cyber-criminals a framework to help them crack passwords quickly, using a dedicated computer.
+
+  "Because the default wi-fi password formats are known, it's not difficult to crack them," said Mr Munro.
+
+  Once an attacker has access to your wi-fi network, they can seek out further vulnerabilities.
+
+  Default passwords that follow patterns are easier to crack
+
+  Mr Munro said the problem was well-known, but the Which? investigation had reignited discussion.
+
+  "It has popped up again because attention has been drawn to the fact that very few people change their wi-fi password from the one written on the router," he told the BBC.
+
+  Experts recommend that people change the default wi-fi password and router's admin password, using long and complex passwords to make life more difficult for attackers.

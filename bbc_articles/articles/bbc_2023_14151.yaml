@@ -1,0 +1,57 @@
+id: bbc_2023_14151
+title: Electoral Commission failed basic security test before hack - BBC News
+date: '2023-09-05'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-66709556
+content: |-
+  Whistleblower tells the BBC the election watchdog failed the government-backed Cyber Essentials test.
+
+  The Electoral Commission has confirmed it failed a basic cyber-security test around the same time hackers gained entry to the organisation.
+
+  A whistleblower told the BBC that the Commission was given an automatic fail during a Cyber Essentials audit.
+
+  Last month the Commission revealed that "hostile actors" accessed its emails and potentially the data of 40 million voters.
+
+  A spokeswoman said the Commission had still not passed the basic test.
+
+  In August the election watchdog announced hackers broke into their IT systems in August 2021 and had access to sensitive data until they were discovered and removed in October 2022.
+
+  The unnamed attackers accessed Electoral Commission email correspondence and could have viewed databases containing the names and addresses of 40 million registered voters, including millions of those not on public registers.
+
+  It's not yet been revealed who carried out the intrusion or how the commission was breached.
+
+  But now a whistleblower has revealed that in the same month that hackers were breaking into the organisation, the Commission was told by cyber-security auditors that it was not compliant with the Cyber Essentials scheme - a system backed by the government to help organisations achieve minimum best practice in cyber-security.
+
+  Cyber Essentials is voluntary but widely used by organisations as a way to show customers they are security-aware.
+
+  The government requires all suppliers bidding for contracts involving the handling of certain sensitive and personal information to hold an up-to-date Cyber Essentials certificate.
+
+  But the Commission failed in multiple areas when it tried to get certified in 2021.
+
+  A spokeswoman for the Commission admitted the failings but claims they weren't linked to the cyber-attack that impacted email servers.
+
+  One of the reasons it failed the test was that about 200 staff laptops were running obsolete and potentially insecure software.
+
+  The Commission was urged to update the Windows 10 Enterprise operating system, which had fallen out of date for security updates months earlier.
+
+  Auditors also issued the failure because staff were using old iPhones no longer supported by Apple to receive security updates.
+
+  The National Cyber Security Centre (NCSC), which backs the Cyber Essentials scheme, advises all organisations to keep software up to date "to prevent known vulnerabilities from being exploited" by hackers.
+
+  Cyber-security consultant Daniel Card has helped many organisations become Cyber Essentials compliant and says it is too early to determine whether or not the failures highlighted in the audit allowed hackers to get in.
+
+  "Early indications are that the hackers managed to get into the email servers a different way, but there's a chance that the chain of attack may have included one or more of these poorly-secured devices," he said.
+
+  Regardless of whether or not the hackers did "it builds a picture of a weak posture and a probable failure to govern and manage", he added.
+
+  The NCSC promotes Cyber Essentials certification, saying that "vulnerability to basic attacks can mark you out as a target for more in-depth unwanted attention from cyber-criminals and others".
+
+  The UK's Information Commissioner's Office, which has passed Cyber Essentials and Cyber Essentials Plus, said it was investigating the cyber-attack as a matter of urgency.
+
+  When the hack was announced, the Electoral Commission said that the data hacked from the full electoral register was "largely in the public domain".
+
+  However, less than half the data on the open register, which can be purchased, is publicly available, so the hackers would have accessed data belonging to tens of millions of people who opted out of the public list.
+
+  The Electoral Commission said it did not apply for Cyber Essentials in 2022.
+
+  "We are always working to improve our cyber-security and systems and draw on the expertise of the National Cyber Security Centre - as many public bodies do - to continue to develop and progress protections against cyber-threats," it said in a statement.

@@ -1,0 +1,81 @@
+id: bbc_2017_7759
+title: NHS cyber-defender Marcus Hutchins to appear in US court - BBC News
+date: '2017-08-03'
+section: Technology
+url: http://www.bbc.co.uk/news/uk-england-40820837
+content: |-
+  Marcus Hutchins, who was praised for stalling the WannaCry attack, is now accused of creating malware.
+
+  Marcus Hutchins wanted to remain anonymous after the WannaCry outbreak, but his identity was revealed
+
+  British cyber-security researcher Marcus Hutchins will appear in court in Las Vegas later charged in a US cyber-crime case.
+
+  The 23-year-old has been accused of involvement with Kronos - a piece of malware used to steal banking logins from victims' computers.
+
+  Mr Hutchins, from Ilfracombe in Devon, came to prominence after he stalled the WannaCry cyber-attack which hit the NHS in May.
+
+  The FBI arrested him on Wednesday.
+
+  The UK's National Cyber Security Centre has said it was aware of the situation with fellow cyber-security researchers expressing surprise at the indictment.
+
+  WannaCry spread rapidly through computer systems around the world, in an unprecedented outbreak that began on 12 May.
+
+  Shortly afterwards, Mr Hutchins was thrust into the limelight after he found a way to stop it from spreading.
+
+  He had been in Las Vegas attending the Black Hat and Def Con cyber-security conferences, but activity on his Twitter feed - usually highly active - ceased two days ago.
+
+  "Marcus Hutchins... a citizen and resident of the United Kingdom, was arrested in the United States on 2 August, 2017, in Las Vegas, Nevada, after a grand jury in the Eastern District of Wisconsin returned a six-count indictment against Hutchins for his role in creating and distributing the Kronos banking Trojan," the US Department of Justice (DoJ) said in a statement.
+
+  "The charges against Hutchins, and for which he was arrested, relate to alleged conduct that occurred between in or around July 2014 and July 2015."
+
+  It is not known where Mr Hutchins is being held in custody.
+
+  Kronos is malware that is designed to steal banking login and other financial data from infected computers.
+
+  The DoJ's indictment is dated 12 July, before Mr Hutchins arrived in the US.
+
+  It alleges that he created and sold Kronos on internet forums, including the AlphaBay dark web market, which was recently shut down after an international law enforcement operation.
+
+  His mother, Janet Hutchins, said it was "hugely unlikely" that her son was involved, saying he had spent "enormous amounts of time and even his free time" stopping attacks like these.
+
+  A second defendant is also included in the indictment, but their name has not been made public.
+
+  Mr Hutchins tweeted about Kronos shortly after it was reported in the press: "Anyone got a Kronos sample?" he wrote.
+
+  People, who work with Mr Hutchins investigating malware, have said "it looks like the US justice system has made a huge mistake".
+
+  He was arrested while at an airport, his colleagues say, and has not been allowed visitors.
+
+  Digital rights groups have said they are "deeply concerned" by Mr Hutchin's situation.
+
+  A spokesman for the UK's National Cyber Security Centre said: "This is a law enforcement matter and it would be inappropriate to comment further."
+
+  The DoJ has said Mr Hutchins' case was investigated by the FBI's cyber-crime unit in Milwaukee, Wisconsin.
+
+  The British Consulate in Los Angeles said it is in contact with the local authorities in Las Vegas and was providing support to his family.
+
+  The AlphaBay dark web market went offline earlier this month
+
+  US cyber-attorney Tor Ekeland said Mr Hutchins could face "40 years in jail" if found guilty but admitted the case had not named any victims.
+
+  Speaking on Radio 4's Today, he said alleging that writing software of this type is potentially illegal is "highly problematic" for the information security industry.
+
+  "I can think of a number of examples of legitimate software that would potentially be a felony under this theory of prosecution."
+
+  This video can not be played To play this video you need to enable JavaScript in your browser.
+
+  Kronos is a type of malware known as a Trojan, meaning it disguises itself as legitimate software. It is thought to be named after a mythological creature.
+
+  Kronos first came to light in July 2014, when it was advertised on a Russian underground forum for $7,000 (£5,330) - a relatively high figure at the time.
+
+  It was marketed as way to steal logins for banking websites and other financial data.
+
+  Its vendor boasted it could evade existing anti-virus software and said it worked with the latest versions of Internet Explorer, Firefox and Chrome web browsers. In an unusual step, the developer promised free upgrades and bug fixes and the option of a $1,000 one week trial.
+
+  After much publicity it faded from view until October 2015, when IBM researchers reported that Kronos had been spotted in attacks on UK and Indian bank websites.
+
+  Kronos then struck again in May 2016, when the cyber-security firm Proofpoint reported it had been used to target customers of Canadian financial institutions.
+
+  In November Proofpoint reported it had spotted the Trojan being distributed via emails sent to organisations involved in the financial services, hospitality, higher education and healthcare industries.
+
+  The messages contained attachments and links that claimed to be related to Microsoft Sharepoint documents, but in fact led victims' computers to be infected with other malware, including a credit card number-stealing tool.

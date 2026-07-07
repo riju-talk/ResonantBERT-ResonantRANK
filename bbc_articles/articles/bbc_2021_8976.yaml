@@ -1,0 +1,51 @@
+id: bbc_2021_8976
+title: Ransomware key to unlock customer data from REvil attack - BBC News
+date: '2021-07-23'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-57946117
+content: |-
+  The gang behind the attack had previously asked for $70m to access the stolen files.
+
+  A computer key that can unlock the files of hundreds of companies which were hacked in a large-scale cyber-attack has been obtained.
+
+  US IT firm Kaseya - which was the first to be targeted earlier this month - said it got the key from a “trusted third party”.
+
+  Ransomware is malicious software that steals computer data and scrambles it so the victim cannot gain access.
+
+  The hackers then ask for payment in return for releasing the files.
+
+  Kaseya’s decryptor key will allow customers to retrieve missing files, without paying the ransom.
+
+  This video can not be played To play this video you need to enable JavaScript in your browser.
+
+  The company’s spokeswoman Dana Liedholm declined to answer whether Kaseya had paid for access to the key.
+
+  She told tech blog Bleeping Computer that the firm was actively helping customers restore their files.
+
+  The "supply chain" attack initially targeted Kaseya, before spreading through corporate networks which use its software.
+
+  Kaseya estimated that between 800 and 1,500 businesses were affected, including 500 Swedish Coop supermarkets and 11 schools in New Zealand.
+
+  After the attack at the beginning of July, criminal ransomware gang REvil demanded $70m worth of Bitcoin in return for a key that would unlock the stolen files.
+
+  But members of the group disappeared from the internet in the days following the incident, leaving companies with no way of retrieving the data until now.
+
+  Who is the mystery gifter?
+
+  That’s the big question in the cyber-security world at the moment.
+
+  But really it is irrelevant for two reasons.
+
+  Firstly, giving away the key now is far too late for most of the victims of this massive ransomware attack.
+
+  The most desperate companies would have paid the gang already to get their operations back online, and others would hopefully be on their way to recovering by now without the help of the criminals.
+
+  Secondly, the mystery gifter was most probably linked to - or working with - the criminals directly.
+
+  It seems improbable that a well-run and experienced cyber-crime group like REvil would have accidentally leaked its most prized possession, or had it taken by some sort of secret law enforcement operation.
+
+  I’m told by a hacker who claims to be a part of the inner circle that it was "a trusted partner" who gave the key away on behalf of the group’s leader, who calls himself Unknown.
+
+  My contact says it’s all part of "a new beginning".
+
+  So while some are calling this the end of the REvil group, it could well be the start of something else.

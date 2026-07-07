@@ -1,0 +1,51 @@
+id: bbc_2023_9112
+title: AI cuts treatment time for cancer radiotherapy - BBC News
+date: '2023-06-27'
+section: Health
+url: http://www.bbc.co.uk/news/health-65988768
+content: |-
+  The technology will be offered at cost price to all NHS trusts in England, following successful pilot studies.
+
+  Head and neck cancers require bespoke masks to help target treatment
+
+  A new type of artificial-intelligence technology that cuts the time cancer patients must wait before starting radiotherapy is to be offered at cost price to all NHS trusts in England.
+
+  It helps doctors calculate where to direct the therapeutic radiation beams, to kill cancerous cells while sparing as many healthy ones as possible.
+
+  Researchers at Addenbrooke's Hospital trained the AI program with Microsoft.
+
+  It has been a decade in the making, they say.
+
+  For each patient, doctors typically spend between 25 minutes and two hours working through about 100 scan cross-sections, carefully "contouring" or outlining bones and organs. But the AI program works two and a half times quicker, the researchers say.
+
+  When treating the prostate gland, for example, medics want to avoid damage to the nearby bladder or rectum, which could leave patients with lifelong continence issues.
+
+  "That can get so bad that a patient's life becomes dominated by that," Dr Raj Jena, at Addenbrooke's Hospital, Cambridge, who has been leading the work for treating patients with head, neck and prostate cancers told BBC's Two's Newsnight programme.
+
+  "I know patients where they've got a map of the cities that they're going to, so they know where all the loos are."
+
+  Dr Jena worked with Microsoft to train a program called InnerEye on data from previous patients.
+
+  The NHS Artificial Intelligence Laboratory then gave Addenbrooke's £500,000 to fund the necessary safety checks and evaluations.
+
+  And the program is now being given to a manufacturer that has agreed to allow other NHS trusts to access the cloud-based technology at cost price.
+
+  The government has been investing in AI projects across the NHS - but this is the first NHS-developed AI program released as a medical-imaging device.
+
+  Doctors still check each of the contours drawn by the AI program.
+
+  But the researchers say it is about 90% accurate, with clinicians approving its work without any corrections about two-thirds of the time.
+
+  "Our consultant colleagues preferred to start with the work of the AI than even the work of their consulting colleagues," Dr Jena said.
+
+  Royal College of Radiologists president Dr Katharine Halliday said: "We are very excited about the potential of AI in replacing some processes and procedures, including within diagnostics and cancer therapy.
+
+  "AI has the capability of speeding up the diagnostic process, helping doctors catch disease earlier and giving patients the best possible chance of recovery.
+
+  "Clinical radiologists interpret complex scans and guide treatment or surgery - there is no question that real-life clinical radiologists are essential and irreplaceable.
+
+  "However, a clinical radiologist with the data, insight and accuracy of AI is, and will increasingly be, a formidable force in patient care.
+
+  "While AI shows great promise and will certainly help free up time for a workforce under strain, it cannot replace highly trained and skilled professionals."
+
+  The BBC is not responsible for the content of external sites.

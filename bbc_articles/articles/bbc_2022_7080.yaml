@@ -1,0 +1,49 @@
+id: bbc_2022_7080
+title: Strava app flaw revealed runs of Israeli officials at secret bases - BBC News
+date: '2022-06-21'
+section: Middle East
+url: http://www.bbc.co.uk/news/world-middle-east-61879383
+content: |-
+  A vulnerability in the fitness app allowed Israeli officials' movements to be tracked, a group says.
+
+  FakeReporter said the Strava data identified a running track at an Israeli military intelligence facility in Moshav Ora
+
+  A security vulnerability in the fitness app Strava allowed suspicious figures to identify and track security personnel working at secretive bases in Israel, a disinformation watchdog says.
+
+  FakeReporter found that by uploading fake running "segments" a user could learn the identities and past routes of others active in the area, even if they had the strongest privacy settings.
+
+  Information about 100 individuals who exercised at six bases was viewable.
+
+  Strava said it had addressed the issue.
+
+  The Israeli military said it was "aware of the evolving threats in cyberspace".
+
+  "In order to handle these threats, and in light of previous events such as the one mentioned, the rules and regulations are regularly reiterated and reinforced among those serving in sensitive positions," it added.
+
+  This is not the first time that Strava's tracking features have sparked such security concerns.
+
+  In 2018, the company published a global "heatmap" that revealed the exercise routes of people at military bases around the world, including US facilities in Syria and Afghanistan.
+
+  San Francisco-based Strava is used by more than 95 million people in 195 countries.
+
+  Its app takes data, including GPS co-ordinates, from a person's mobile phone or wearable fitness device to track their exercise activity.
+
+  People are able to upload their running and cycling times and compare their performances with others who followed the same routes.
+
+  FakeReporter, an Israeli group that combats malicious online activity, reported that a suspicious user named "Ez Shehl" had exploited these functions to upload fake GPS data to create route segments inside secret facilities associated with Israel's military, the Mossad intelligence agency and the Shin Bet internal security service.
+
+  The segments featured straight GPS lines, no times, and unrealistic pacing, such as covering 500m in 0 seconds.
+
+  One segment revealed the data of users who ran at the Mossad intelligence agency's headquarters in Tel Aviv, according to FakeReporter
+
+  The timings and personal details - including photos, home addresses and the identities of family members - of other users who ran the same segments were subsequently revealed on the Strava scoreboard, even if they had their accounts set to "private".
+
+  A senior defence official identified as "N" was one of at least 100 Israeli individuals affected by the vulnerability, according to FakeReporter. It posted screenshots showing runs from their home and inside various air force bases in Israel, as well as runs in Ukraine.
+
+  FakeReporter said it had told Israeli authorities about the security breach as soon as it became aware and that it had contacted Strava after receiving their approval.
+
+  "Despite past revelations, it does not appear that Israeli security agencies have caught up," Achiya Schatz, the watchdog's director, said in a statement. "Although Strava made significant updates to its privacy settings, confused users might still be exposed publicly, even if their profiles were set to 'private'."
+
+  "By exploiting the capability to upload engineered files, revealing the details of users anywhere in the world, hostile elements have taken one alarming step closer to exploiting a popular app in order to harm the security of citizens and countries alike."
+
+  Strava told Israel's Haaretz newspaper: "We take matters of privacy very seriously and have addressed the reported issues."

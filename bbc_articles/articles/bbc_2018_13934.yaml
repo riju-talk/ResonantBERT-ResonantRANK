@@ -1,0 +1,59 @@
+id: bbc_2018_13934
+title: Vision Direct hack puts customers' money at risk - BBC News
+date: '2018-11-19'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-46261209
+content: |-
+  Contact lens retailer says more than 16,000 customers' were at risk of data theft.
+
+  Vision Direct says anyone who entered personal details into its site over a six day period could have been exposed
+
+  Vision Direct says a hack attack has exposed thousands of its customers' personal data including payment card numbers, expiry dates and CVV codes.
+
+  The contact lens retailer said anyone who had entered their details into its site between 3 and 8 November could be affected.
+
+  It added that it had identified 16,300 people as being at risk.
+
+  It said a fake Google Analytics script placed within its websites' code was the apparent cause.
+
+  The company's UK site was involved as well as local versions for Ireland, the Netherlands, France, Spain, Italy and Belgium.
+
+  A spokeswoman for Vision Direct told the BBC that 6,600 customers were believed to have had details including financial data compromised, while a further 9,700 people had had personal data but not card details exposed.
+
+  "This particular breach is known as Shoplift and was already known to our technology team, who installed a patch provided by our web platform provider to prevent this form of malware," she added.
+
+  "Unfortunately, this current incident appears to be a derivative against which the patch proved ineffective. We are continuing to investigate the breach and have made numerous steps to ensure this does not happen again."
+
+  One expert said the involvement of card security codes made the breach particularly serious.
+
+  "Being able to provide the CVV number usually indicates that you have the card in your hand when making a purchase," commented cyber-security researcher Scott Helme.
+
+  "Now the attackers have the full card details including the CVV number, these checks carry less value."
+
+  Vision Direct describes itself as Europe's biggest online seller of contact lenses and eye care products.
+
+  A statement on its site says that anyone who updated their details during the stated period, or had an order or update submitted on their behalf by its customer services team, should contact their banks and/or credit card providers.
+
+  "The personal information was compromised when it was being entered into the site and includes full name, billing address, email address, password, telephone number and payment card information, including card number, expiry date and CVV," said the alert.
+
+  "We understand that this incident will cause concern and inconvenience to our customers. We are contacting all affected customers to apologise."
+
+  It added that customers who had used PayPal during the period might have had their names and addresses accessed, but said their payment details should still be safe.
+
+  Cyber-security experts believe the firm's website was compromised by fake code
+
+  Vision Direct's site had previously said that all card payments made to its service were "totally secure" and that it had never once heard of a case of them being misused.
+
+  Vision Direct was acquired by the French firm Essilor International two years ago.
+
+  It says it has contacted the UK's data watchdog as well as Google to tell them about the hack.
+
+  "We will compensate any customers who have suffered financial loss as a result of this breach," a spokeswoman added.
+
+  It is not clear how the fake script was placed on Vision Direct's sites.
+
+  A spokesman for UK Finance said that affected customers should be protected against this and other cases of unauthorised fraud on their debit and credit cards.
+
+  "Card issuers already have advanced fraud screening systems in place to detect and stop any suspicious transactions," he explained.
+
+  "The finance industry has previously called for new powers on information sharing to allow banks to share data to detect and better prevent financial crime, particularly when it is the result of a data breach in another sector."

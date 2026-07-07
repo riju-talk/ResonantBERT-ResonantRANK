@@ -1,0 +1,81 @@
+id: bbc_2018_5017
+title: UK satellite makes HD colour movies of Earth - BBC News
+date: '2018-04-16'
+section: Science & Environment
+url: http://www.bbc.co.uk/news/science-environment-43775440
+content: |-
+  The Carbonite-2 spacecraft can resolve moving cars, lorries, boats and planes from a height of 505km.
+
+  This video can not be played To play this video you need to enable JavaScript in your browser. Moving cars, lorries, boats and planes - seen from an altitude of 505km
+
+  A British spacecraft is now routinely making movies of the Earth’s surface.
+
+  Carbonite-2 was built by Surrey Satellite Technology Limited (SSTL) in Guildford and launched in January.
+
+  It is the forerunner of a network of spacecraft that will be sent up in the years ahead to be operated by Earth-i, an analytics firm also of Guildford.
+
+  Carbonite's short clips are the first high-definition, full-colour videos to be delivered from orbit by a commercial satellite on a regular basis.
+
+  The sequences have a resolution of one metre, which means the movement of cars, lorries, boats and planes is easily discerned.
+
+  To mark the end of the satellite's commissioning phase, SSTL has released a number of videos that have been prepared with Earth-i.
+
+  These include views of Dubai Airport, Buenos Aires, Puerto Antofagasta, Rio de Janeiro, Diego Garcia and Mumbai Airport.
+
+  Andrew Cawthorne, the director of Earth observation at SSTL, told BBC News: "We've made now coming up to 500 videos. We have an automated chain, which we had to fine-tune during commissioning, but now the files come down off the spacecraft and pop out a few minutes later.
+
+  "The way this satellite works is that it has to point at a target and hold its gaze, even though it's flying overhead at several km per second. The longest video we've made so far is 60 seconds, and I think the accuracy of the pointing speaks for itself."
+
+  Earth observation has long made use of great swathes of still imagery, and at much higher resolution than Carbonite can provide. But video brings some additional capabilities.
+
+  For example, seeing movement within a scene helps with interpretation.
+
+  If there are transient clouds crossing the target, having video increases the chances of getting a clear view.
+
+  Analytics experts can also use the multiple frames in the sequence to make 3D models of the ground, or to "stack" those frames, one on top of the other, to synthesise a more resolved image, down to 60cm in Carbonite's case.
+
+  Carbonite was conceived as a model for a quick-build, ultra-low-cost satellite
+
+  The satellite was designed by SSTL to be small (100kg), low cost and quick to assemble. To that end, it incorporates the sorts of components one would normally find in high-volume consumer electronics.
+
+  This puts Carbonite-2 at the centre of the emerging trend that is dubbed "new space".
+
+  A growing number of start-ups, many with their roots in the IT sector, are exploiting the cheaper technologies to challenge "old" practices in the established space sector.
+
+  One key innovation they are promoting is high-repeat imagery. That is, acquiring views of the same scene several times a day. This makes detecting "change", and the causes of change, in an Earth scene much more straightforward.
+
+  But achieving this requires flying a whole train of satellites, and Earth-i plans to loft at least 15 Carbonites into a constellation it will call Vivid-i.
+
+  The first five of these platforms have been contracted from SSTL and should be ready for launch at the end of 2019.
+
+  A video's multiple frames enable 3D models of the surface to be constructed
+
+  "[Carbonite-2] is delivering the world's first commercially available colour video from space. This is a big thing for the UK," said Richard Blain, CEO of Earth-i.
+
+  "People might say, 'well, so what?' But this is a new paradigm in space data. One very simple, easy-to-understand example: if you take a still image of a wind farm, you can't tell if the blades are turning. If you take a video, you will know not only which turbines are turning but how fast. At that point, you can start to calculate outputs, and that kind of information is of interest to energy traders."
+
+  Earth-i describes some of the analysis that can be done using video in this explainer.
+
+  Many of the new-space constellations that are coming online are American.
+
+  Earth-i will be a prominent European challenger, as will Iceye, a Finnish start-up that launched the first of its network of radar imagers on the very same rocket that orbited Carbonite-2.
+
+  Space officials on this side of the Atlantic are keen to help these companies mature and grow their markets.
+
+  Josef Aschbacher is the director of Earth observation at the European Space Agency. He told BBC News: "Earth-i don't need us to build their satellites; they have their own supplier in SSTL for that. But Esa can help them get their data well understood, calibrated and 'certified' as being of good quality, and then introduce them into a large market.
+
+  "Esa has access to a lot of users of Earth observation data [within the European Union's Copernicus Earth observation user community], and many of them will be interested in the movies because they're an added new type of information."
+
+  This video can not be played To play this video you need to enable JavaScript in your browser. Josef Aschbacher: It's not all Silicon Valley; Europe has its "new space" companies as well
+
+  Another major potential customer for future Vivid-i products is the British military.
+
+  It is now working with Carbonite-2's still and moving pictures to assess how they could be best used by the armed forces.
+
+  The MoD has a future vision of video being beamed directly into the cockpit of fighter jets, to help improve the situational awareness of UK pilots.
+
+  Air Vice Marshal "Rocky" Rochelle, Chief of Staff (Capability) for the Royal Air Force, said: “I’m delighted to see how Carbonite-2 has progressed through commissioning; the images and video captures have been of high quality and will be of great utility to defence.
+
+  "We are excited to see what this capability demonstrator will teach us about how we can use small satellites, as a single platform and as a future constellation."
+
+  The RAF will be tasking Carbonite-2 to assess the value of its video products for pilots

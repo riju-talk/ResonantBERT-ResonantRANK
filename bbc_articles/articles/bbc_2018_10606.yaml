@@ -1,0 +1,42 @@
+id: bbc_2018_10606
+title: BBC solves World Cup streaming delay - BBC News
+date: '2018-09-13'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-45499784
+content: |-
+  Hearing neighbours cheering goals that you have not seen yet may soon be a thing of the past.
+
+  Live streams of the World Cup online were delayed
+
+  The BBC says it has worked out how to eliminate "streaming lag", which causes live TV to be delayed by several seconds when watched online.
+
+  Many online viewers of football's World Cup in the summer heard neighbours cheering goals they had not yet seen happen, because the online stream was a few seconds behind the TV broadcast.
+
+  BBC Research & Development said it has now managed to "eliminate" the delay.
+
+  However, its software is not ready to be rolled out to the public yet.
+
+  Live TV watched online is often behind by several seconds because it takes longer to reliably send video over the internet than to broadcast it.
+
+  The issue has also affected Amazon's broadcast of the US Open tennis tournament. Analysts from streaming firm Phenix said the online broadcast was often up to 45 seconds behind the TV transmission.
+
+  When video is streamed online it is broken up into small packets, which are reassembled by the recipient's device.
+
+  If each segment is very short, processing them becomes inefficient. However, if they are too long, there is more of a delay between the TV broadcast and online stream.
+
+  The BBC said it found ways to create smaller segments that can be passed through the system more quickly. It said viewers of the resulting online streams would see action "at the same time as they would see it if they were watching on TV".
+
+  France went on to win the World Cup in 2018
+
+  "With sport, it's irritating if you're watching something that is 20 or 40 seconds behind live TV," said Jake Bickerton, technology editor at the industry magazine Broadcast.
+
+  "The BBC also did trials at the World Cup streaming 4K [ultra high-definition] HDR content. Not only was there a delay, but consumers had to have really good broadband at home.
+
+  "It isn't going to be simple to get something compressed to a point where it can get to viewers at home through broadband very quickly. If the BBC is able to reduce latency, then it's a great thing going forward."
+
+  The innovation will be on show at the International Broadcasting Convention, which starts on Thursday in the Netherlands.
+
+  However, the BBC said it would need the co-operation of the whole broadcasting industry to get the system up and running.
+
+  It suggested the technology may be available by the time of the next World Cup in 2022, and could be delivered to existing equipment with a software update.
+  • None BBC streams sport in 4K HDR for first time

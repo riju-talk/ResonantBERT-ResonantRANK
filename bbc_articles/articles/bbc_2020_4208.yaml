@@ -1,0 +1,85 @@
+id: bbc_2020_4208
+title: 'Coronavirus: Apple and Google team up to contact trace Covid-19 - BBC News'
+date: '2020-04-11'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-52246319
+content: |-
+  The companies plan to add contact tracing to their operating systems so no extra apps are needed.
+
+  This video can not be played To play this video you need to enable JavaScript in your browser. WATCH: What is contact tracing and how does it work?
+
+  Apple and Google are jointly developing technology to alert people if they have recently come into contact with others found to be infected with coronavirus.
+
+  They hope to initially help third-party contact-tracing apps run efficiently.
+
+  But ultimately, they aim to do away with the need to download dedicated apps, to encourage the practice.
+
+  The two companies believe their approach - designed to keep users, whose participation would be voluntary, anonymous - addresses privacy concerns.
+
+  Their contact-tracing method would work by using a smartphone's Bluetooth signals to determine to whom the owner had recently been in proximity for long enough to have established contagion a risk.
+
+  If one of those people later tested positive for the Covid-19 virus, a warning would be sent to the original handset owner.
+
+  No GPS location data or personal information would be recorded.
+
+  "Privacy, transparency and consent are of utmost importance in this effort and we look forward to building this functionality in consultation with interested stakeholders," Apple and Google said in a joint statement.
+
+  "We will openly publish information about our work for others to analyse."
+
+  President Trump said his administration needed time to consider the development.
+
+  "It's very interesting, but a lot of people worry about it in terms of a person's freedom," he said during a White House press conference.
+
+  "We're going to take... a very strong look at it, and we'll let you know pretty soon."
+
+  The European Union's Data Protection Supervisor sounded more positive, saying: "The initiative will require further assessment, however, after a quick look it seems to tick the right boxes as regards user choice, data protection by design and pan-European interoperability."
+
+  But others have noted that the success of the venture may depend on getting enough people tested.
+
+  Apple is the developer of iOS. Google is the company behind Android. The two operating systems power the vast majority of smartphones in use.
+
+  Some countries - including Singapore, Israel, South Korea and Poland - are already using people's handsets to issue coronavirus contagion alerts.
+
+  Other health authorities - including the UK, France and Germany - are working on initiatives of their own. And some municipal governments in the US are reportedly about to adopt a third-party app.
+
+  The two technology giants aim to bring coherence to all this by allowing existing third-party apps to be retrofitted to include their solution.
+
+  This would make the apps interoperable, so contact tracing would continue to work as people travelled overseas and came into contact with people using a different tool.
+
+  Apple and Google have been working on the effort for about two weeks but have not externally revealed their plans until Friday.
+
+  If successful, the scheme could help countries relax lockdowns and border restrictions.
+
+  The companies aim to release a software building-block - known as an API (application programming interface) - by mid-May.
+
+  This would allow others' apps to run on the same basis.
+
+  Records of the digital IDs involved would be stored on remote computer servers but the companies say these could not be used to unmask a specific individual's true identity.
+
+  Furthermore, the contact-matching process would take place on the phones rather than centrally.
+
+  This would make it possible for someone to be told they should go into quarantine, without anyone else being notified.
+
+  The two companies have released details of the cryptography specifications they plan to use to safeguard privacy, and details of the role Bluetooth will play.
+
+  They hope this will convince activists their approach can be trusted.
+
+  Apple and Google say another benefit of their solution is developers would not risk the iOS and Android versions of their apps becoming incompatible because of a buggy update.
+
+  In addition, they believe it would be less taxing on battery life than current contact-tracing systems.
+
+  Phase two of the initiative involves building contact-tracing capabilities into the iOS and Android operating systems. Users could then switch the capability on and off again without having to download an app at all.
+
+  Approved third-party apps would still be able to interact with the facility if desired.
+
+  The facility would be delivered via a future system software update. But the companies have yet to say when this would occur.
+
+  "This is a more robust solution," they say, suggesting there would be wider adoption if users did not have to download additional software for themselves.
+
+  It also provides the companies with the ability to easily disable tracing on a regional basis when the pandemic ends.
+
+  While Apple and Google hope others will see benefits of adopting their approach, this is not guaranteed.
+
+  An independent effort - the Pan-European Privacy-Preserving Proximity Tracing (PEPP-PT) initiative - revealed its own attempt to deliver a privacy-centric solution on 1 April.
+
+  About 130 technologists and scientists are involved and the group has already made contact with several European governments.

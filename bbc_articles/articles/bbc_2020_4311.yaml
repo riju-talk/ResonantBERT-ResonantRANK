@@ -1,0 +1,77 @@
+id: bbc_2020_4311
+title: 'Coronavirus: NHS contact-tracing app is tested at RAF base - BBC News'
+date: '2020-04-23'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-52381103
+content: |-
+  Air force personnel have been testing a prototype app in a simulated shopping exercise.
+
+  A test version of the app told users deemed to be at risk to go home by the most direct route
+
+  The NHS is testing its forthcoming Covid-19 contact-tracing app at a Royal Air Force base in North Yorkshire.
+
+  It works by using Bluetooth signals to log when smartphone owners are close to each other - so if someone develops Covid-19 symptoms, an alert can be sent to other users they may have infected.
+
+  In its current state, it tells users either: "You're OK now," or: "You need to isolate yourself and stay at home."
+
+  The health secretary for England said the trials "are going well".
+
+  "The more people who sign up for this new app when it goes live, the better informed our response will be and the better we can therefore protect the NHS," Matt Hancock told the House of Commons.
+
+  He added the software would be used in conjunction with medical tests and manual contact tracing by humans.
+
+  But some experts say the government may be putting too much faith in technology.
+
+  "We don't need fancy expensive apps where people are going to be exposed to issues of data privacy," Newcastle University Centre for Excellence in Regulatory Science director Prof Allyson Pollock told BBC News.
+
+  "We should be following... a low-tech model, using people and telephone [interviews].
+
+  "Clinical observation, we found in China and Singapore and Korea, is actually more efficient and gives many more positives."
+
+  The NHS hopes to release the app by mid-May, although a final decision on timing will be taken by the government.
+
+  RAF Leeming was chosen to host the trial of an early "alpha" version of the software because it has past experience of testing apps and other new processes on behalf of the military.
+
+  It set up a scenario designed to simulate people's experience of going shopping, using Bluetooth LE (low energy) signals to log when two phones were near to each other.
+
+  NHSX tested the app at an RAF base in the north of England
+
+  One of these phones would then be used to record the fact the user had become "infected", in the experiment, causing a cascade of warnings to be sent to other handsets that had earlier been in range.
+
+  "We still have to apply the rules [on] social distancing as we carry it out," said Gp Capt Blythe Crawford.
+
+  "So therefore we've set up a scenario whereby people will leave their phones on a table simulating that it's in a shopping arcade, for example, whilst other people might walk past looking in the shop window and their phone happens to pick up it's in proximity to another one."
+
+  The on-screen warning for those deemed to be at risk says: "If you're on public transport, go home by the most direct route [and] stay at least 2m [6.6ft] away from people if you can... find a room where you can close the door [and] avoid touching people, surfaces and objects."
+
+  There are plans for a more realistic follow-up "beta test" at a later date - possibly in a remote community, where its use would be voluntary - by which time the text will have been changed.
+
+  The tool has been developed by the health service's digital innovation unit, NHSX.
+
+  The prototype app tells users their identity has been anonymised
+
+  It has said the alerts will be sent "anonymously", so users will not be told who triggered a warning.
+
+  NHSX has also promised to publish its key security and privacy designs as well as the app's source code, so experts in the field can help ensure it is "world class".
+
+  The division is working with Apple and Google on the project but has yet to confirm whether it will adopt their protocols.
+
+  The two companies are pressing developers to adopt a "decentralised approach", whereby it would be impossible for either specific users or those they had come into contact with to be identified by the authorities or any other external party.
+
+  In any case, NHSX believes its system already prevents it from being able to identify users until they request a swab test.
+
+  NHSX also believes it has found a way to ensure its software continues to work in the background on iOS devices.
+
+  If true, this would avoid a problem that has limited take-up of a similar app in Singapore.
+
+  Epidemiologists have said 80% of smartphone owners need to use the app if it is to suppress, rather than just slow, the spread of the virus after lockdown measures are relaxed.
+
+  But as about 12% of smartphones in active use in the UK do not support the Bluetooth LE standard required, the target figure will actually be higher.
+
+  And the government is examining ways to increase involvement.
+
+  The Comarch LifeWristband is currently being trialled in Sofia as a means to track people placed into home quarantine
+
+  One option under consideration is to provide low-cost wearable Bluetooth devices to those without a compatible handset.
+
+  A similar scheme is already being trialled in Bulgaria to keep track of people quarantined during the coronavirus pandemic.

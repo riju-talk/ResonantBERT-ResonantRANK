@@ -1,0 +1,35 @@
+id: bbc_2020_11209
+title: iPhone 12 launch causes NHS Covid-19 app confusion - BBC News
+date: '2020-10-25'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-54675352
+content: |-
+  Some owners of Apple's new phones get an error message when trying to run the contact-tracing app.
+
+  Some owners of the iPhone 12 and iPhone 12 Pro handsets have reported being shown an error message when trying to use the NHS Covid-19 app.
+
+  Apple's devices - which were released on Friday - can in fact run England and Wales' contact-tracing software.
+
+  But the issue arises if apps are transferred from an older iPhone via an iCloud Backup data transfer, which is common practice.
+
+  This can easily be addressed by making a change within the Settings menu.
+
+  When users install the app from scratch, they are prompted to give the required permission.
+
+  But in what appears to be an oversight, when Apple transfers apps over, the phone does not ask owners to enable the permission and it is not obvious that it needs to be done.
+
+  As a result, the app cannot enable the Bluetooth-based matching functionality it needs to work.
+
+  The requirement is designed to protect user's privacy.
+
+  However, the alert shown by the app suggested other factors might be at play.
+
+  And to confuse matters further, when questioned about the matter the app's official Twitter account responded by highlighting that the iPhone 12 was not among devices checked for compatibility with the software.
+
+  Some users had got round the problem by deleting the app and then downloading it again from the App Store, which triggered the exposure notification permission request.
+
+  However, this technique results in all information previously stored by the app on the phone being wiped, including places the user had checked in to.
+
+  About 18 million people have installed the NHS Covid-19 app so far. In addition to contact tracing, it is also used to log visits to restaurants and other leisure facilities, as well as to check symptoms and order a coronavirus test.
+
+  The BBC revealed last week that Huawei is also working with NHS Test and Trace officials to try and get the app working on some of its newer phones.

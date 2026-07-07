@@ -1,0 +1,93 @@
+id: bbc_2017_6451
+title: '''How foul-mouthed hackers messed up my life'' - BBC News'
+date: '2017-06-16'
+section: Business
+url: http://www.bbc.co.uk/news/business-40281353
+content: |-
+  A security weakness in Gary Berman's home network may have lost him a $400,000 contract.
+
+  Gary Berman believes the hackers were disgruntled former employees
+
+  As our "smart" homes fill up with internet-connected devices, the risk grows that hackers will find weak points in our networks, steal our data and hijack our lives. What should we be doing about it?
+
+  It's not normally a good idea to sign off your Powerpoint presentation pitching for work with an expletive.
+
+  But this is what Gary Berman did - albeit unknowingly.
+
+  Hackers had broken in to his home network via an internet-connected printer and sabotaged his files. Instead of signing off with "thank you", the hackers changed the first word to something offensive.
+
+  Unsurprisingly Gary, a Miami-based marketing entrepreneur, didn't win the $400,000 contract he was pitching for.
+
+  "Who would think your printer could be used as an access point to your networks?" he tells the BBC.
+
+  The trouble began last year when he noticed strange things happening: files went missing from his computer; his Facebook picture was changed; and texts from his daughter didn't reach him or arrived changed.
+
+  "Nobody believed me," says Gary. "My wife and my brother thought I had lost my mind. They scheduled an appointment with a psychiatrist for me."
+
+  Is that snazzy smart coffee maker actually a weak point in your home network?
+
+  But he built up a body of evidence and called in a professional cybersecurity firm. It found that his email addresses had been compromised, his phone records hacked and altered, and an entire virtual internet interface created.
+
+  "All my communications were going through a man-in-the-middle unauthorised server," he explains.
+
+  The cybersecurity firm changed and strengthened all the passwords for any connected devices on his home network and installed the latest generation firewall.
+
+  Now Gary puts his alarming experience to good use as a victim's advocate, volunteering for the Institute of Responsible Online and Cell Phone Communication (IROC2), a non-profit organisation educating children about cyber safety and security.
+
+  "I know I'm not alone," he says.
+
+  The risk of cyber-attack is growing along with the number of connected gadgets in the home - from thermostats to light bulbs, music systems to security cameras.
+
+  While controlling your heating and lighting remotely with a smartphone might be convenient, if you're not switched-on to the security implications you could end up paying a high price for this convenience.
+
+  "Consumers understand if they purchase a product or service from a high-end brand, that product will have most likely been well-engineered and be relatively secure," says Michael Philpott of consultancy Ovum's smart home research team.
+
+  "But at the same time they probably don't fully understand the consequences and potential risks of introducing other, cheaper products into their homes."
+
+  Indeed, Symantec's latest internet security threat report finds that 40% of people are not "sufficiently aware" of the threats, and 79% say they have not even read a news article on the subject.
+
+  Yet poor security can have serious consequences, as Gary Berman discovered.
+
+  The UK's National Cyber Security Centre has demonstrated how a connected doll could be hacked and used to open remote control door locks.
+
+  And poorly secured security cameras have been hijacked to carry out web attacks.
+
+  The number of connected devices in our homes is growing fast
+
+  Brian Geisel, chief executive of US internet of things (IoT) firm Geisel Software, argues that when it comes to the connected home, we are in similar position to the early days of laptop computers, when "virus scanners were just starting to emerge and home firewalls weren't even on the radar yet".
+
+  "IoT is in the same situation, where individuals with malicious intent are now acting faster than companies and consumers," he says.
+
+  It doesn't help that there are few internationally agreed security standards for these devices or that the tech giants - Google, Apple, Amazon, Samsung - are fighting to dominate the home market with their own systems.
+
+  So what should we be doing about it?
+
+  The standard advice is to change all the default usernames and passwords on our connected devices and make sure the firmware has been updated to the latest versions.
+
+  "Just the simple step of changing that default username and password - to anything else - is a huge step in the right direction," Mr Geisel says.
+
+  "Obviously, it's much better if you use a good password [a mix of upper and lower case letters, numbers and symbols] and have different passwords on different devices, but just getting a baseline of security is hugely important."
+
+  Mr Geisel also advises being behind a firewall at all times.
+
+  But for many non-technical people this is easier said than done. Even remembering passwords is difficult enough, which is why a password manager can be a good idea.
+
+  Smart firewall: Cujo's "eyes" open when it detects suspect activity on your home network
+
+  These services generate and store strong passwords for each online device and account that you access. All you need to remember is your master password. Providers include LastPass, Dashlane, Sticky Password and LogMeOnce.
+
+  But Craig Spiezle, head of the Online Trust Alliance (OTA) at the Internet Society, says: "Expecting a home user to be a security expert is not reasonable.
+
+  "This is where we see the promise of 'dashboards' that can control all of the devices and alert users when a device may no longer be secure or is no longer being supported."
+
+  This means handing over your home network security to a trusted third party, either plugging in an extra box to your wi-fi router or replacing it with a security company's own router.
+
+  Earlier this year, Symantec and Intel announced they were entering this market, joining existing providers such as BitDefender, Cujo, Home Halo, Eero, Idappcom, Trend Micro and others.
+
+  Typically, you can monitor your network via an app and also set parental controls to block access to certain devices or websites completely or within time limits you set.
+
+  But such guardians come at a price, typically £100 to £300 for the hardware, and often annual subscriptions on top.
+
+  If this is beyond your budget, you should at least consider encrypting important files and storing them on a separate hard drive that isn't wi-fi enabled, or at least keeping them in a password-protected folder.
+
+  Your home may be getting smarter; just make sure it's also getting safer.

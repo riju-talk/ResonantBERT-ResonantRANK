@@ -1,0 +1,38 @@
+id: bbc_2018_1336
+title: Tesla investigates claims of crypto-currency hack - BBC News
+date: '2018-02-21'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-43140005
+content: |-
+  The company says that only internally used engineering test cars have been affected.
+
+  Tesla has confirmed that its cloud computing platform has been compromised by hackers.
+
+  RedLock, the company that alerted it to the breach, believes the attackers may have done this to mine crypto-currency - an attack known as crypto-jacking.
+
+  Tesla said it had addressed the vulnerability "within hours" and that no customer data had been stolen.
+
+  A spokeswoman added that the effects of the hack seemed to be limited to internally used engineering test cars.
+
+  "Our initial investigation found no indication that customer privacy or vehicle safety or security was compromised in any way," she said.
+
+  RedLock said that Tesla's log-in credentials were stored on a system that was not password-protected.
+
+  Crypto-currency mining is the process for creating new digital coins by solving complex mathematical problems. It uses large amounts of computer processing power and therefore racks up large electricity bills.
+
+  Hackers can save money by installing software on other people's computers to mine coins without their knowledge or consent. This is known as crypto-jacking.
+
+  Crypto-jacking is becoming more widespread, especially as the value of digital currencies such as Bitcoin continues to rise. Hackers have compromised services offered by Starbucks, YouTube and the UK's Information Commissioner's Office.
+
+  According to RedLock, the hackers discovered log-in details to Tesla's Amazon Web Services environment on a Kubernetes console - a system originally designed by Google to manage applications. The console was reportedly not password-protected.
+
+  The value of the crypto-currency that the hackers mined using stolen power is unknown.
+
+  According to a report in Fortune, Tesla paid RedLock $3,133.70 (£2,243.73) for uncovering the security flaw.
+
+  The researchers said that the hackers used "sophisticated evasion measures" to avoid detection, such as keeping their use of computing power low and masking their Internet Protocol (IP) address with CloudFlare's content delivery network service.
+
+  In a report published last year, RedLock said that 53% of organisations using cloud storage services such as Amazon had accidentally exposed these to the public, with "hundreds" leaking credentials through services such as Kubernetes.
+
+  The firm uncovered a similar attack on British insurance company Aviva in October 2017.
+  • None Lessons from the Cryptojacking Attack at Tesla The BBC is not responsible for the content of external sites.

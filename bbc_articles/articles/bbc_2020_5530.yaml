@@ -1,0 +1,77 @@
+id: bbc_2020_5530
+title: Google spotlights more suspected Oculus VR gadget-scam ads - BBC News
+date: '2020-05-15'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-52668164
+content: |-
+  Some large ads at the top of its results were for sites it now believes were stealing users' cash.
+
+  Fresh evidence that scam stores are exploiting Google's Shopping service to appear at the top of its search results has been discovered by the BBC.
+
+  Two sites offering hard-to-find gadgets at a discount were found to be using bogus checkout facilities that encourage customers to pay via a direct bank transfer.
+
+  This prevents users from recovering funds if they have second thoughts.
+
+  One officer who spent years investigating online crime told the BBC that the tech firm could introduce checks to better deter fraudsters, if it made this a priority.
+
+  Google believes the sites were indeed engaged in fraudulent behaviour and told the BBC it had removed the ads involved.
+
+  It said it would now make unspecified changes to its automated and human-based review processes.
+
+  "Our priority is to protect our users, and we continue to update our enforcement policies and technologies to target fraudulent and bad actors," a spokeswoman said.
+
+  "In 2019, our team took down approximately 2.7 billion bad ads."
+
+  Both Techziox.com and Shopzeal.co.uk went offline after the BBC contacted them. They did not respond to requests for comment.
+
+  On Thursday, Techziox was the highest-ranked store for several Oculus-related searches
+
+  The sites had earlier run ads for Oculus virtual-reality headsets, which are sold out or priced at a premium on most other sites.
+
+  The two stores claimed to have the products in stock and priced them at 15-23% below the norm.
+
+  In some cases, the ads took up most of the screen when viewed on a smartphone, increasing their chance of being clicked.
+
+  This mirrored the tactics of an earlier suspected scam site - MyTechDomestic - which also placed ads for Oculus headsets and was flagged to Google earlier this week.
+
+  But while MyTechDomestic only presented shoppers a way to pay by bank transfer, Techziox and Shopzeal both appear to provide an option to use a credit card.
+
+  If selected, the tool asks for the card's details including its CVV security code, and displays a "Powered by Stripe" logo - referring to a California-based internet payment processor.
+
+  However, Stripe told the BBC that the box was not linked to its system and it did not handle payments for the sites.
+
+  A credit-card payment tool did not process the details via Stripe, as indicated
+
+  An independent security researcher, who tracks scam sites, confirmed that the sites' code indicated the card details were instead sent to the stores' operators.
+
+  In any case, when users tried to use the service, it brought up an error message saying: "Unfortunately, this payment method is not possible for new customers. Please choose another payment method."
+
+  The only other choice was bank transfer, and both Techziox and Shopzeal presented details of the same account at a Swindon-based bank.
+
+  This is a common tactic used by scam sites to obtain funds.
+
+  In previous cases, the police have said scammers use personal accounts belonging to individuals who are either complicit or have been coerced into sharing their bank details, and the money is typically withdrawn straight away over the counter or via cash machines.
+
+  The two sites were both built using Wordpress's web-publishing software, looked similar and listed the same team members alongside email addresses that did not work.
+
+  Google places Shopping ads at the top of some desktop searches - in this case Techziox came second
+
+  However, they gave different residential addresses as their respective headquarters - one in Southampton the other in Huddersfield - and used different domain registrars.
+
+  They also provided different VAT numbers. In both cases, HM Revenue and Customs said the details were invalid.
+
+  Techziox appears to have been in operation for longer, and had been accused of being "straight-up scammers" by users of Trustpilot's review site.
+
+  One customer, Nicky Jones, told the BBC her 15-year-old daughter attempted to buy an Oculus Quest after saving for a long time and doing jobs to earn the cash.
+
+  "My daughter searched online and this company came up, so we purchased the item. I sent emails to the company and I had no emails back," she said.
+
+  "The most upsetting thing is we have lost £329. I would never take this money from my daughter, so I have lost the money. [It's] upsetting how people can do this and get away with this. It's wrong."
+
+  Attempts to pay by credit card brought up a warning notice directing users to use a bank transfer option instead
+
+  A security blogger who anonymously tracks electronics goods scams said: "It's horrendous. This is the first time I've seen them use Google Shopping. Previously it was just Adwords."
+
+  Google Shopping lets advertisers use images as well as words and is typically more prominent, he noted.
+
+  Scam sites can be "difficult to identify," he added. "But maybe Google shouldn't allow a website that's been registered in the last two months to be one of its Shopping results, if it wants to provide a trustworthy customer experience."

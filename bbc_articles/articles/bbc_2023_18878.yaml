@@ -1,0 +1,71 @@
+id: bbc_2023_18878
+title: Google admits AI viral video was edited to look better - BBC News
+date: '2023-12-08'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-67650807
+content: |-
+  Instead of the AI responding to voice and video, it was fed text prompts and still images.
+
+  A video showcasing the capabilities of Google's artificial intelligence (AI) model which seemed too good to be true might just be that.
+
+  The Gemini demo, which has 1.6m views on YouTube, shows a remarkable back-and-forth where an AI responds in real time to spoken-word prompts and video.
+
+  In the video's description, Google said all was not as it seemed - it had sped up responses for the sake of the demo.
+
+  But it has also admitted the AI was not responding to voice or video at all.
+
+  In a blog post published at the same time as the demo, Google reveals how the video was actually made.
+
+  Subsequently, as first reported by Bloomberg Opinion, Google confirmed to the BBC it was in fact made by prompting the AI by "using still image frames from the footage, and prompting via text".
+
+  "Our Hands on with Gemini demo video shows real prompts and outputs from Gemini," said a Google spokesperson.
+
+  "We made it to showcase the range of Gemini's capabilities and to inspire developers."
+
+  In the video, a person asks a series of questions to Google's AI while showing objects on the screen.
+
+  For example, at one point the demonstrator holds up a rubber duck and asks Gemini if it will float.
+
+  Initially, it is unsure what material it is made of, but after the person squeezes it - and remarks this causes a squeaking sound - the AI correctly identifies the object.
+
+  This YouTube post cannot be displayed in your browser. Please enable Javascript or try a different browser. View original content on YouTube The BBC is not responsible for the content of external sites. YouTube content may contain adverts. Skip youtube video by Google This article contains content provided by Google YouTube. We ask for your permission before anything is loaded, as they may be using cookies and other technologies. You may want to read Google’s cookie policy, external and privacy policy, external before accepting. To view this content choose ‘accept and continue’. The BBC is not responsible for the content of external sites. YouTube content may contain adverts.
+
+  However, what appears to happen in the video at first glance is very different from what actually happened to generate the prompts.
+
+  The AI was actually shown a still image of the duck, and asked what material it was made of. It was then fed a text prompt explaining that the duck makes a squeaking noise when squeezed, resulting in the correct identification.
+
+  In another impressive moment, the person performs a cups and balls routine - a magic trick where a ball is hidden underneath one of three moving cups - and the AI is able to determine where it moved to.
+
+  But again, as the AI was not responding to a video, this was actually achieved by showing it a series of still images.
+
+  In its blog post, Google explained that in fact it told the AI where a ball was underneath three cups, and showed it images which represent cups being swapped.
+
+  It's not quite the same as AI responding to a live video
+
+  Google clarified that the demo was created by capturing footage from the video, in order to "test Gemini's capabilities on a wide range of challenges".
+
+  While sequences were shortened and stills were used, the voiceover from the video is taken directly from the written prompts fed into Gemini.
+
+  But there is another element of the video which further stretches the truth.
+
+  At one point, the user places down a world map, and asks the AI: "Based on what you see, come up with a game idea... and use emojis."
+
+  The AI responds by apparently inventing a game called "guess the country", in which it gives clues (such as a kangaroo and koala) and responds to a correct guess of the user pointing at a country (in this case, Australia).
+
+  The guess-the-country game as showcased in the demo
+
+  But in fact, according to Google's blog, the AI did not invent this game at all.
+
+  Instead, the AI was given the following instructions: "Let's play a game. Think of a country and give me a clue. The clue must be specific enough that there is only one correct country. I will try pointing at the country on a map," the prompt read.
+
+  The user then gave the AI examples of a correct and incorrect answer.
+
+  After this point, Gemini was able to generate clues, and identify whether the user was pointing to the correct country or not from stills of a map.
+
+  It is impressive - but it is not the same as claiming the AI invented the game.
+
+  Google's AI model is impressive regardless of its use of still images and text-based prompts - but those facts mean its capabilities are very similar to that of OpenAI's GPT-4.
+
+  And it is noteworthy that the video was released just two weeks after a period of unprecedented chaos in the AI space, following Sam Altman's dramatic firing - and rehiring - as CEO of OpenAI.
+
+  It is unclear which of the two is more advanced - but Google may already be playing catch-up after Mr Altman told the Financial Times that the firm is working on the next version of its AI.

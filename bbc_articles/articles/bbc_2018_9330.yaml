@@ -1,0 +1,55 @@
+id: bbc_2018_9330
+title: Malicious faxes leave firms 'open' to cyber-attack - BBC News
+date: '2018-08-13'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-45083774
+content: |-
+  Hackers can send booby-trapped faxes to gain access a computer network, researchers warn.
+
+  A demo showed a malicious fax being used to take over a fax machine and display an image
+
+  Booby-trapped image data sent by fax can let malicious hackers sneak into corporate networks, security researchers have found.
+
+  Since many companies use fax machines that are also printers and photocopiers, they often have a connection to the internal network.
+
+  The malicious images exploit protocols established in the 1980s that define the format of fax messages.
+
+  The research was presented at the Def Con hacker conference in Las Vegas.
+
+  The two researchers said millions of companies could be at risk because they currently did little to secure fax lines.
+
+  "Fax has no security measures built in - absolutely nothing," security researcher Yaniv Balmas, from Check Point software, told the BBC.
+
+  Mr Balmas uncovered the security holes in the fax protocols with the help of colleague Eyal Itkin and said they were "surprised" by the extent to which fax was still used.
+
+  "There seems to be a lot of organisations, government agencies, banks and others that are still using fax," said Mr Balmas.
+
+  He added that there were historical and legal reasons why the ageing technology was still so prevalent.
+
+  "Fax is still considered as visual evidence in court but an email is not," he said. "That's why some government agencies require you to send a fax."
+
+  England's NHS is known to be a big user of fax machines. About 9,000 of them were recently found to still be in use in the service.
+
+  Gaining control of the machine that handles faxes, copying and printing can give attackers a foothold on a vulnerable network. They could then use this access to explore and attack the larger organisation, said Mr Balmas.
+
+  The weakness emerges in the protocols that define the way the data making up fax messages should be prepared.
+
+  "The protocols we use for fax were standardised in the 1980s and have not been changed since," Mr Balmas said.
+
+  Doctors are using old-fashioned fax machines to communicate
+
+  This weakness let the pair craft an image that harboured a malicious payload.
+
+  For their test case, the payload used was a software exploit known as Eternal Blue, which was behind the massive WannaCry attack last year.
+
+  The fax protocols were poorly worded, which had led to them being interpreted in different ways by different manufacturers, said Mr Balmas.
+
+  And this had contributed to the vulnerabilities in the fax system.
+
+  In particular, the researchers found problems with the way the protocols were used in some multi-purpose printers made by HP that are widely used in the business world.
+
+  HP has now issued a patch for its printers, which will close the loopholes found by the pair.
+
+  But, said Mr Balmas, because fax numbers were very widely shared, they could be an easy-to-find attack route for malicious hackers who targeted different machines.
+
+  So far, there is no evidence that malicious hackers are using the booby-trapped images to penetrate otherwise well defended networks.

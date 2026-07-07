@@ -1,0 +1,69 @@
+id: bbc_2019_9029
+title: Airport email scam thwarted by UK's cyber-defender NCSC - BBC News
+date: '2019-07-16'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-48990724
+content: |-
+  GCHQ's National Cyber Security Centre reveals it blocked 200,000 messages lying about a refund.
+
+  NCSC staff protect the UK from cyber-attacks from their office in central London
+
+  An attempt to defraud thousands of people using a bogus email from a UK airport was one of a range of cyber-attacks prevented last year.
+
+  The scam used a fake gov.uk address, but the messages were prevented from ever reaching their intended recipients.
+
+  The details were revealed by GCHQ's National Cyber Security Centre in an annual report.
+
+  In all, NCSC disclosed it had stopped 140,000 separate phishing attacks.
+
+  This refers to the attempted online theft of bank details and other sensitive information by impersonating a trustworthy person or organisation.
+
+  In addition, the agency said it had taken down 190,000 fraudulent sites.
+
+  This often happened quickly. The centre said that 64% of illegal sites were offline within 24 hours of being discovered and 99.3% eventually went dark.
+
+  This is the second time NCSC has published a progress report for its Active Cyber Defence programme. The effort - which uses a mix of automated processes to defeat internet-based threats to the UK - was launched in late-2016.
+
+  One focus is to take down malware and phishing sites. This is normally done by finding out who hosts the websites involved and then telling them that their clients are running a criminal operation. Most providers take down the pages quickly, although there are some exceptions.
+
+  NCSC has not shared the name of the airport the fraudsters attempted to impersonate last August.
+
+  But it did say that the failed scheme involved sending 200,000 emails to members of the public asking them to pay a fee in order to receive a larger refund.
+
+  Had the intended victims paid the sum, they would have got nothing in return.
+
+  The security centre also took the criminals' real email address offline to ensure they could not receive any replies.
+
+  Another success was an apparent reduction in the number of attacks in which fraudsters had posed as HM Revenue and Customs.
+
+  Scammers often pretend to offer individuals tax refunds if victims provide bank accounts and a facilitation payment.
+
+  At the start of January 2016, HMRC was the 16th most popular disguise used in phishing emails.
+
+  By the end of 2019, a series of new measures had reduced its global ranking to 146th.
+
+  Efforts were also made to prevent 1.4 million employees in the public sector from visiting malicious sites.
+
+  This involved a service known as PDNS (protective domain name system), which effectively refuses to query the internet's address book when appropriate.
+
+  So, for example, if a user typed in a web address whose domain name had previously been linked to illegal activity - eg dodgysite.com - the service would refuse to provide the related internet protocol address - eg 216.58.111.789 - required to connect to its computer servers.
+
+  NCSC said that PDNS had handled a total of 68.7 billion queries in 2018, of which it had blocked 57.4 million.
+
+  The PDNS system prevents connections to computer servers that are known to host ransomware, phishing attacks and malicious sites
+
+  This included frustrating 450,000 queries related to WannaCry - the malware that took down parts of the NHS in 2018.
+
+  A further 230,000 queries were obstructed relating to another piece of malware called BadRabbit.
+
+  The system even found evidence of attempts to spread the Conficker worm, which was released as far back as 2008.
+
+  NCSC added that BT has been working on its own version of PDNS, and is blocking an average of 110 million malicious connections per month.
+
+  Other incidents flagged by the report included:
+
+  In the future, the NCSC said it wanted to do more to map the UK's use of the internet, in a piece of research it calls the Internet Weather Centre.
+
+  The aim is to understand questions like what are the most commonly used cloud services, and then use that knowledge to understand related vulnerabilities.
+
+  It also wants to do more work to allow public sector users to scan and check how their infrastructure is exposed to the net to spot potential risks.

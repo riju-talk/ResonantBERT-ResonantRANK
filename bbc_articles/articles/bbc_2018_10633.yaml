@@ -1,0 +1,49 @@
+id: bbc_2018_10633
+title: 'British Airways breach: How did hackers get in? - BBC News'
+date: '2018-09-07'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-45446529
+content: |-
+  The airline has said how hackers accessed customer data, but there are a variety of possible methods.
+
+  It isn't clear how hackers boarded BA's website and app - but cyber-security experts have some suggestions
+
+  British Airways has revealed that hackers managed to breach its website and app, stealing data from many thousands of customers in the process.
+
+  But how was this possible?
+
+  BA has not revealed any technical details about the breach, but cyber-security experts have some suggestions of possible methods used.
+
+  Names, email addresses and credit card details including card numbers, expiry dates and three-digit CVV codes were stolen by the hackers.
+
+  At first glance, the firm's statement appears to give no details about the hack, but by "reading between the lines", it is possible to infer some potential attack routes, says cyber-security expert Prof Alan Woodward at the University of Surrey.
+
+  Take BA's specification of the exact times and dates between which the attack occurred - 22:58 BST, 21 August 2018 until 21:45 BST, 5 September 2018 inclusive.
+
+  "They very carefully worded the statement to say anybody who made a card payment between those two dates is at risk," says Prof Woodward.
+
+  "It looks very much like the details were nabbed at the point of entry - someone managed to get a script on to the website."
+
+  This means that as customers typed in their credit card details, a piece of malicious code on the BA website or app may have been furtively extracting those details and sending them to someone else.
+
+  Prof Woodward points out that this is an increasing problem for websites that embed code from third-party suppliers - it's known as a supply chain attack.
+
+  Third parties may supply code to run payment authorisation, present ads or allow users to log into external services, for example.
+
+  Popular events ticketing website Ticketmaster was hit with a data breach earlier this year
+
+  Such an attack appeared to affect Ticketmaster recently, after an on-site customer service chatbot was labelled as the potential cause of a breach affecting up to 40,000 UK users.
+
+  Without further details, there is no way of knowing for sure if something similar has happened to BA. Prof Woodward points out it may just as easily have been a company insider who tampered with the website and app's code for malicious purposes.
+
+  Because CVV data, the three-digit security code on credit and debit cards, was also taken in the attack, it is indeed likely the details were lifted live, according to Robert Pritchard, a former cyber-security researcher at GCHQ and founder of private firm The Cyber Security Expert.
+
+  This Twitter post cannot be displayed in your browser. Please enable Javascript or try a different browser. View original content on Twitter The BBC is not responsible for the content of external sites. Skip twitter post by Andrew Dwyer This article contains content provided by Twitter. We ask for your permission before anything is loaded, as they may be using cookies and other technologies. You may want to read Twitter’s cookie policy, external and privacy policy, external before accepting. To view this content choose ‘accept and continue’. The BBC is not responsible for the content of external sites.
+
+  This is because CVV codes are not meant to be stored by companies, though they may be processed at payment time.
+
+  "This means it was either a direct compromise of their... booking site, or compromise of a third party provider," he told the BBC.
+
+  Prof Woodward added that private firms using third party code on their websites and apps must continually vet such products, to ensure weak points in security don't emerge.
+
+  "You can put the strongest lock you like on the front door," he said, "but if the builders have left a ladder up to a window, where do you think the burglars will go?"

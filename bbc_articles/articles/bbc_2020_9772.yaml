@@ -1,0 +1,47 @@
+id: bbc_2020_9772
+title: Twitter investigates racial bias in image previews - BBC News
+date: '2020-09-21'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-54234822
+content: |-
+  After users highlight problems, Twitter says more work on racial bias in algorithms is needed.
+
+  One user found that Twitter seemed to favour showing Mitch McConnell's face over Barack Obama's
+
+  Twitter is investigating after users discovered its picture-cropping algorithm sometimes prefers white faces to black ones.
+
+  Users noticed when two photos - one of a black face the other of a white one - were in the same post, Twitter often showed only the white face on mobile.
+
+  Twitter said it had tested for racial and gender bias during the algorithm's development.
+
+  But it added: "It's clear that we've got more analysis to do."
+
+  Twitter's chief technology officer, Parag Agrawal, tweeted: "We did analysis on our model when we shipped it - but [it] needs continuous improvement.
+
+  "Love this public, open, and rigorous test - and eager to learn from this."
+
+  The latest controversy began when university manager Colin Madland, from Vancouver, was troubleshooting a colleague's head vanishing when using videoconference app Zoom.
+
+  The software was apparently mistakenly identifying the black man's head as part of the background and removing it.
+
+  But when Mr Madland posted about the topic on Twitter, he found his face - and not his colleague's - was consistently chosen as the preview on mobile apps, even if he flipped the order of the images.
+
+  His discovery prompted a range of other experiments by users, which, for example, suggested:
+
+  Twitter's chief design officer, Dantley Davis, found editing out Mr Madland's facial hair and glasses seemed to correct the problem - "because of the contrast with his skin".
+
+  Responding to criticism, he tweeted: "I know you think it's fun to dunk on me - but I'm as irritated about this as everyone else. However, I'm in a position to fix it and I will.
+
+  "It's 100% our fault. No-one should say otherwise."
+
+  Zehan Wang, a research engineering lead and co-founder of the neural networks company Magic Pony, which has been acquired by Twitter, said tests on the algorithm in 2017, using pairs of faces belonging to different ethnicities, had found "no significant bias between ethnicities (or genders)" - but Twitter would now review that study.
+
+  "There are many questions that will need time to dig into," he said.
+
+  "More details will be shared after internal teams have had a chance to look at it."
+
+  Late last year, a US government study suggested facial-recognition algorithms were much less accurate at identifying black and Asian faces than white ones.
+
+  In the UK, police officers last year raised concerns about algorithms "amplifying" prejudices and called for clearer guidelines on using the technology.
+
+  And, in June this year, similar concerns led IBM to announce it would no longer offer facial-recognition software for "mass surveillance or racial profiling".

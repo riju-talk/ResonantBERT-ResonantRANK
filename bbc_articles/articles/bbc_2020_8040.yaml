@@ -1,0 +1,61 @@
+id: bbc_2020_8040
+title: 'Blackbaud Hack: Universities lose data to ransomware attack - BBC News'
+date: '2020-07-23'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-53516413
+content: |-
+  At least seven UK universities and one in Canada were affected by attack on a cloud computing provider.
+
+  The University of York is one of those institutions affected
+
+  At least 10 universities in the UK, US and Canada have had data stolen about students and/or alumni after hackers attacked a cloud computing provider.
+
+  Human Rights Watch and the children's mental health charity, Young Minds, have also confirmed they were affected.
+
+  The hack targeted Blackbaud, one of the world's largest providers of education administration, fundraising, and financial management software.
+
+  The US-based company's systems were hacked in May.
+
+  It has been criticised for not disclosing this externally until July and for having paid the hackers an undisclosed ransom.
+
+  In some cases, the data was limited to that of former students, who had been asked to financially support the establishments they had graduated from. But in others it extended to staff, existing students and other supporters.
+
+  The institutions the BBC has confirmed have been affected are:
+
+  All the institutions are sending letters and emails apologising to those on the compromised databases.
+
+  In some cases, the stolen data included phone numbers, donation history and events attended. Credit card and other payment details do not appear to have been exposed.
+
+  Blackbaud, whose headquarters are based in South Carolina, declined to provide a complete lists of those impacted, saying it wanted to "respect the privacy of our customers".
+
+  "The majority of our customers were not part of this incident," the company claimed.
+
+  It referred the BBC to a statement on its website: "In May of 2020, we discovered and stopped a ransomware attack. Prior to our locking the cyber-criminal out, the cyber-criminal removed a copy of a subset of data from our self-hosted environment."
+
+  The statement goes on to say Blackbaud paid the ransom demand. Doing so is not illegal, but goes against the advice of numerous law enforcement agencies, including the FBI, NCA and Europol.
+
+  Blackbaud added that it had been given "confirmation that the copy [of data] they removed had been destroyed".
+
+  Several Blackbaud clients listed on its site have confirmed they were not affected, including:
+
+  "My main concern is how reassuring - impossibly so, in my opinion - Blackbaud were to the university about what the hackers have obtained," commented Rhys Morgan, a cyber-security specialist and former student at Oxford Brookes University, whose data was involved.
+
+  "They told my university that there is 'no reason to believe that the stolen data was or will be misused'.
+
+  "I can't feel reassured by this at all. How can they possibly know what the attackers will do with that information?"
+
+  Oxford Brookes University is among those contacting students about the hack
+
+  Blackbaud has said it is working with law enforcement and third party investigators to monitor whether or not the data is being circulated or sold on the dark web, for example.
+
+  Barrister blogger Matthew Scott was also sent an email about the hack.
+
+  "I doubt that my university has many details that aren't pretty easily available, but I am more concerned about giving in to the blackmail and blithely accepting the word of the blackmailer that all the data has now been destroyed," he told the BBC.
+
+  Under General Data Protection Regulation (GDPR), companies must report a significant breach to data authorities within 72 hours of learning of an incident - or face potential fines.
+
+  The UK's Information Commissioner's Office [ICO], as well as the Canadian data authorities, were informed about the breach last weekend - weeks after Blackbaud discovered the hack.
+
+  An ICO spokeswoman said: "Blackbaud has reported an incident affecting multiple data controllers to the ICO. We will be making enquiries to both Blackbaud and the respective controllers, and encourage all affected controllers to evaluate whether they need to report the incident to the ICO individually."
+
+  Leeds University said, in a statement: "We want to reassure our alumni that, since being informed by Blackbaud of this incident, we have been working tirelessly to investigate what has happened, in order to accurately inform those affected. No action is required by our alumni community at this time, although, as ever, we recommend that everyone remains vigilant."

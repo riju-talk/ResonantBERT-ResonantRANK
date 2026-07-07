@@ -1,0 +1,47 @@
+id: bbc_2020_7896
+title: Garmin begins recovery from ransomware attack - BBC News
+date: '2020-07-27'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-53553576
+content: |-
+  The fitness-tracking gadget-maker has confirmed that it was the victim of a cyber-attack.
+
+  The American GPS and fitness-tracker company Garmin is dealing with the aftermath of a ransomware attack, the BBC has confirmed.
+
+  Owners of its products had been unable to use its services since Thursday.
+
+  However, some of its online tools are now being provided in a "limited" state, according to its online dashboard.
+
+  Garmin has said it was "the victim of a cyber-attack that encrypted some of our systems".
+
+  But the statement it released avoided any reference to a ransom demand.
+
+  "Many of our online services were interrupted including website functions, customer support, customer-facing applications, and company communications," it said.
+
+  "We have no indication that any customer data, including payment information from Garmin Pay, was accessed, lost or stolen."
+
+  The firm added that it expected all its systems to return to normal operation within a few days, but warned that there might be a "backlog" of user data to process.
+
+  It is not known if the firm paid the blackmailers, but a source told the BBC it was in the "final stage of recovery".
+
+  The BBC's cyber reporter Joe Tidy said the malware involved was Wasted Locker - a program that scrambles the target's data, and was first detected in the wild around April. Victims are typically contacted after their computers are infected, and told they must transfer funds if they want to return the files to their original state.
+
+  Some customers have already reported that Garmin's services appear to be "partially" working again.
+
+  Earlier reports claimed that the company had been asked to pay $10m (£7.79m) to get its systems back online.
+
+  Pilots who use flyGarmin were unable to download up-to-date aviation databases, which aviation regulators such as the FAA require pilots to have, before they can fly.
+
+  Customers were also unable to log into Garmin Connect to record and analyse their health and fitness data.
+
+  There have been many high-profile attacks in recent months, but few victims have been as tight-lipped as Garmin.
+
+  Even now, despite confirmation from many different sources across different newsrooms, the company is choosing not to admit it was ransomware.
+
+  The big question is whether or not the company paid the blackmailer what is likely to be a multi-million dollar demand.
+
+  It seems the company has somehow got the decryption key it needs to start bringing services back online.
+
+  As well as customers and shareholders, the US authorities will be very keen to know what happened.
+
+  Members of Evil Corp, the criminal group that's suspected of being behind the hack, were indicted in 2019 by the US Treasury.

@@ -1,0 +1,88 @@
+id: bbc_2020_6484
+title: UK virus-tracing app switches to Apple-Google model - BBC News
+date: '2020-06-18'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-53095336
+content: |-
+  Government now intends to launch an app in the autumn but it may still lack contact-tracing tech.
+
+  In a major U-turn, the UK is ditching the way its current coronavirus-tracing app works and shifting to a model based on technology provided by Apple and Google.
+
+  The Apple-Google design has been promoted as being more privacy-focused.
+
+  However, it means epidemiologists will have access to less data.
+
+  The government now intends to launch an app in the autumn, however it says the product may not involve contact tracing at that point.
+
+  Instead the software may be limited to enabling users to report their symptoms and order a test.
+
+  Baroness Dido Harding - who heads up the wider Test and Trace programme - will only give the green light to actually deploying the Apple-Google technology if she judges it to be fit for purpose, which she does not believe is the case at present. It is possible this may never happen.
+
+  Germany, Italy and Denmark are among other countries to have switched from a so-called "centralised" approach to a "decentralised" one.
+
+  The NHS has been testing both systems against each other, over the course of the past month.
+
+  The centralised version trialled on the Isle of Wight worked well at assessing the distance between two users, but was poor at recognising Apple's iPhones.
+
+  Specifically, the software registered about 75% of nearby Android handsets but only 4% of iPhones.
+
+  By contrast, the Apple-Google model logged 99% of both Android mobiles and iPhones. But its distance calculations were weaker.
+
+  In some instances, it could not differentiate between a phone in a user's pocket 1m (3.3ft) away and a phone in a user's hand 3m (9.8ft) away.
+
+  At the Downing Street briefing, Health Secretary Matt Hancock suggested the original plan might have worked had it not been for Apple's restrictions on third-party apps' use of Bluetooth.
+
+  Mr Hancock said he would not recommend use of a contact-tracing app "unless I'm confident in it"
+
+  "Apple software prevents iPhones being used effectively for contact tracing unless you're using Apple's own technology," he said.
+
+  "Our app won't work because Apple won't change that system... and their app can't measure distance well enough to a standard that we are satisfied with.
+
+  "What matters is what works. Because what works will save lives."
+
+  Baroness Harding added: "What we've done in really rigorously testing both our own Covid-19 app and the Google-Apple version is demonstrate that none of them are working sufficiently well enough to be actually reliable to determine whether any of us should self-isolate for two weeks [and] that's true across the world."
+
+  In response, Google noted that it and Apple had developed an application programming interface - a set of functions and procedures for others to build on - rather than a fully-fledged app.
+
+  "We have developed an Exposure Notification API with Apple based on consultation with public health experts around the world, including in the UK, to ensure that our efforts are useful to authorities as they build their own apps to limit the spread of Covid-19, while ensuring privacy and security are central to the design," added a spokeswoman.
+
+  The latest developments come a day after the BBC revealed that a former Apple executive, Simon Thompson, was taking charge of the late-running project as part of Baroness Harding's team.
+
+  Contact-tracing apps are designed to help prevent a second wave of the coronavirus.
+
+  They work by logging when two people have been in close proximity to each other for a substantial period of time.
+
+  If one of the users is later diagnosed as having the disease, an alert can be sent to others they have recently been close to, telling them that they should also get tested and/or self-isolate.
+
+  The UK's previous "centralised" design carried out the contact-matches on a remote server.
+
+  The Apple-Google model carries the process out on the handsets themselves, making it more difficult for the authorities or potentially hackers to de-anonymise the records and use them for other means.
+
+  One advantage of the switch - if deployed - is that the NHS Covid-19 app would be able to overcome a limitation of iPhones and carry out Bluetooth "handshakes" when the software is running in the background.
+
+  Another is that it should be easier to make the app compatible with other countries' counterparts, which are based on the same system - including the Republic of Ireland and Germany.
+
+  Earlier in the week, the European Commission said that France - which had adopted a centralised app - would face challenges in this regard.
+
+  "This is a welcome, if a heavily and unnecessarily delayed, move," commented Dr Michael Veale from the DP3T group, which promotes the decentralised model.
+
+  "The Google-Apple system in a way is home-grown: originating with research at a large consortium of universities led by Switzerland and including UCL in the UK."
+
+  He added that developers should be able to adapt code already being used by Germany and Switzerland if required.
+
+  If Baroness Harding decides the Apple-Google tech is never good enough to roll out, then another alternative might be a system based on wearable tech.
+
+  Singapore recently ordered 300,000 dongles to test as an alternative. Rather than uploading data over the internet, users will physically hand them over if they test positive for the virus, allowing recent contacts to be flagged.
+
+  Baroness Harding's team is monitoring it and other innovations, but for now intends to focus on manual contact tracing carried out by humans.
+
+  While the government is still set to launch an app of some kind across England, health is a devolved issue.
+
+  As a consequence, Northern Ireland, Scotland and Wales have still to commit to the initiative.
+
+  "We will continue to work with the UK government to gather the information we need on data integration, technical information and overall timescales before making any decisions on whether or not to support its use," a spokesman for the Scottish government told the BBC.
+
+  A spokeswoman for the Northern Ireland Executive added: "People in Northern Ireland already have access to a symptom checker and advice app called Covid-19 NI, which more than 50,000 have downloaded and use regularly. This helps people to improve access to information, particularly when they have been advised to self-isolate."
+
+  This video can not be played To play this video you need to enable JavaScript in your browser. WATCH: What is contact tracing and how does it work?
+  • None What is contact tracing and how does it work? Video, 00:03:37What is contact tracing and how does it work?

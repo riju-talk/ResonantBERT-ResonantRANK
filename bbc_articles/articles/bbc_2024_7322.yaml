@@ -1,0 +1,83 @@
+id: bbc_2024_7322
+title: How AI is helping to prevent future power cuts - BBC News
+date: '2024-04-11'
+section: Business
+url: http://www.bbc.co.uk/news/business-68768314
+content: |-
+  Artificial intelligence software is being used to predict electricity demand and supply.
+
+  Aseef Raihan was one of millions of Texans hit by power cuts in 2021
+
+  Amid ever increasing demand for electricity, artificial intelligence (AI) is now being used to help prevent power cuts.
+
+  "I woke up in the middle of the night very, very cold," remembers Aseef Raihan. "I pulled out my military sleeping bag, and slept in that overnight for warmth.
+
+  "In the morning I figured out that the power was definitely not on."
+
+  Mr Raihan is describing the scene back in February 2021 when he was stationed in San Antonio, Texas, while serving in the US Air Force.
+
+  That month the state was blasted by winter storm Uri. As temperatures plummeted to -19C, Texans sought to keep warm, sending the demand for electricity sky high.
+
+  At the same time, Texas' electricity grid started to unravel. Wind turbines froze over, snow covered solar panels, and a nuclear reactor had to be taken offline as a precaution.
+
+  With not enough electricity to go around, the power went off for more than 4.5 million homes and businesses, first for hours, and then for days on end.
+
+  "Without power, the heating wasn't working at all. And you couldn't use the electric stove or microwave for food," recalls Mr Raihan.
+
+  In the end it took more than two weeks for the Texan power grid to return to normal.
+
+  Back in February 2021 Texan power firms had to race to fix facilities and lines damaged by extremely cold weather
+
+  The storm revealed the fragility of the systems we take for granted to deliver us electricity around the clock.
+
+  And while not all countries have winters as severe as they can be in North America, demand for electricity is ever increasing around the world. From charging electric cars, to more homes getting air conditioning installed, we are using more and more power in our daily lives.
+
+  This comes at the same time as countries are increasingly moving towards renewable sources of energy, which are more variable in the amount of energy they generate. If the wind doesn't blow, and the sun doesn't shine, then electricity production drops.
+
+  All this led to UK Energy Secretary Claire Coutinho warning last month that the country could face blackouts in the future without new gas powered power stations as "back up".
+
+  Another way to make energy systems more resilient is by adding huge batteries to the grid.
+
+  The thinking goes that when there is electricity going spare, batteries can charge up, and then release electricity later when there is more demand for power.
+
+  This is an approach that has been taken in Texas.
+
+  "Since the storm we built over five gigawatts of battery storage capacity in Texas in three years, which is really an incredible pace," says Dr Michael Webber, professor of energy resources at the University of Texas at Austin. That much energy, he says, is about "four large nuclear power plants".
+
+  Power firms in Texas and other US states are building energy storage facilities full of rows and rows of batteries
+
+  However, for such batteries to be really useful, they need to know the best time to charge, and the best time to discharge. That means making complex predictions about how much electricity is going to be needed in the future.
+
+  "The main thing that makes the biggest difference is weather and electricity demand," says Gavin McCormick, founder of the tech start-up WattTime.
+
+  His Oakland, California-based company makes AI software that predicts electricity supply and demand in a given area or region. This information can then tell batteries when to charge and discharge.
+
+  The same information can also be used in homes to help people use mains electricity more cheaply.
+
+  "So if you had an electric vehicle that you need to be ready in eight hours, but it only takes two or three hours to charge, what it can do is it can find the five minute periods all night where there's surplus energy, or maybe there's clean energy," Mr McCormick says.
+
+  "It will charge in little spurts at all the best times and still be ready by morning."
+
+  The AI can make these predictions by analysing weather patterns, holiday dates, work schedules, and even when the football is on. "Everybody gets up and makes a cup of tea at halftime," Mr McCormick says.
+
+  Another company using AI to predict electricity demand is Danish firm Electricity Maps. It focuses its AI on forecasting weather patterns like cloud cover, wind strength, temperature and rainfall.
+
+  This information is used to better understand how much electricity will be generated from wind turbines or solar panels.
+
+  "If you can predict quite accurately in advance how much wind you're going to have in the system, you can plan ahead." says Olivier Corradi, the company's founder.
+
+  "One example is Google, where we're providing them forecasts of how clean the grid is going to be in the next couple of hours. They can use that in their data centres to change the time at which they're consuming electricity "
+
+  AI is also now being used to protect the physical infrastructure that carries electricity to our homes.
+
+  One company, Buzz Solutions, uses AI to scan through imagery of electricity cables, pylons and substations, identifying signs of damage such as broken parts or rust.
+
+  The system also identifies when trees and other greenery are growing too close to power lines.
+
+  Not only can this prevent power outages from damaged lines, but it can also reduce the risk of wildfires, which can be caused from power lines coming into contact with trees as happened in California in recent years.
+
+  The tech can also spot and automatically report to power firm staff another major cause of power outages - wildlife.
+
+  "A lot of times surprisingly, animals get into substations like squirrels and rodents, and they get electrocuted," says Buzz Solutions co-founder Vikhyat Chaudhry.
+
+  "Their electrocution sometimes leads to a massive explosion at the substation. Our AI that's deployed at substations, one of the things that they're detecting is animal intrusions including raccoons and squirrels."

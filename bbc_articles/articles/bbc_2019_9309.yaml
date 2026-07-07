@@ -1,0 +1,69 @@
+id: bbc_2019_9309
+title: Europe launches second EDRS space laser satellite - BBC News
+date: '2019-08-07'
+section: Science & Environment
+url: http://www.bbc.co.uk/news/science-environment-49240745
+content: |-
+  Optical links will pull pictures and data from other spacecraft and then speed them to the ground.
+
+  The system will now comprise two nodes in the sky - with a third to follow before 2025
+
+  Europe has launched the second satellite in its space laser telecommunications network.
+
+  It will use optical beams to pull pictures and data from other spacecraft and then speed that information to the ground.
+
+  EDRS-C, as it is known, was sent into orbit on Tuesday by an Ariane-5 rocket from the Kourou spaceport in French Guiana.
+
+  It joins the first node in the network, EDRS-A, which was put up in 2016.
+
+  That spacecraft was positioned over Central Africa to service Europe.
+
+  The new satellite will sit slightly to the east, where it will provide additional capacity.
+
+  The European Data Relay System is a joint venture between the European Space Agency and aerospace giant Airbus.
+
+  It is used predominantly by the European Union's Sentinel-1 and Sentinel-2 Earth observation spacecraft. These platforms take images of the planet's surface.
+
+  Rapid retrieval of space images is important for emergency response
+
+  Ordinarily, such satellites would have to wait until they pass over a radio receiving dish on the ground before downloading their pictures, which could mean a delay of over an hour as they circle the globe.
+
+  But the Sentinels were equipped to connect with the EDRS satellites' 1.8-gigabit laser links.
+
+  The relay platforms orbit much higher in the sky - some 36,000km in altitude - and always have visibility of a radio antenna on the ground.
+
+  The capability has particular relevance in the realm of natural disasters, such as major floods or big earthquakes.
+
+  Information about the scale of these emergencies can be put in the hands of first responders much faster than would normally be the case.
+
+  "We have demonstrated that it's possible to get a Sentinel image on the ground and ready to use after just 15 minutes of it being acquired," Magali Vaissiere, the director of telecoms at Esa, told BBC News.
+
+  "The launch of EDRS-C brings additional capacity to the network, obviously, but it also provides redundancy, a back-up, which you need in an operational system."
+
+  Between a third and a half of all image data from Sentinels 1 and 2 is now routed through EDRS, and usage is certain to expand with the second node now in orbit.
+
+  There are plans to use the relay system to regularly pull data to the ground from the European Columbus science laboratory on the space station. Future Earth observation satellites are also actively being planned with EDRS in mind, including the EU's next batch of Sentinels and Airbus's Pléiades Neo satellites which will take Earth images at 30cm resolution. Airbus says airborne reconnaissance could make use of the laser links, too.
+
+  A third node, EDRS-D, should be launched over the Asia-Pacific region before 2025.
+
+  Esa wants to see optical technology play a much bigger role in space communications.
+
+  Telecoms satellites that rely solely on radio frequency transmissions are being left behind by the performance of terrestrial fibre networks.
+
+  In time, this is going to put significant constraints on applications that include TV broadcasting and the services carrying the messages of connected devices (the so-called Internet of Things).
+
+  It is why the space agency will propose to Europe's research ministers in November that they fund the R&D necessary to break the "bottleneck in the sky".
+
+  Esa's High Throughput Optical Network (HyDRON) project envisages laser links, not just between satellites but between spacecraft and the ground.
+
+  This brings certain challenges, including the issue of how to manage light transmissions through a turbulent - and often cloudy - atmosphere.
+
+  However, if the technologies can be mastered they should permit terabit-per-second connections.
+
+  "We have shown with EDRS that we have some leadership in Europe in these technologies, and one of the strategic lines we have defined for [the ministerial meeting] will be dedicated to optical uses so that we strengthen that leadership," the Esa telecoms director said.
+
+  The 3-tonne EDRS-C satellite also hosts a Ka-band radio frequency payload for the London-based Avanti telecommunications company.
+
+  Avanti calls the payload Hylas-3 and will be using it to deliver broadband and other data services to markets in Europe, the Middle East and Africa.
+
+  Jonathan.Amos-INTERNET@bbc.co.uk and follow me on Twitter: @BBCAmos

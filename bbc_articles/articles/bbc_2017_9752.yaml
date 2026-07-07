@@ -1,0 +1,61 @@
+id: bbc_2017_9752
+title: Apple's iOS 11 kills old 32-bit iPhone and iPad apps - BBC News
+date: '2017-09-19'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-41319675
+content: |-
+  Apple's latest mobile operating system will not launch several ageing educational apps and games.
+
+  Many of the affected apps are games and educational titles
+
+  Owners of iPhones and iPads who install the latest version of Apple's mobile operating system will find that some older apps will stop working.
+
+  The move will generally affect apps that have not been updated in the past two years.
+
+  Although many will have been abandoned by their developers, owners will still use some of them frequently.
+
+  It is a consequence of iOS 11 being restricted to running apps written in what is known as 64-bit code.
+
+  The number signifies how much data a processor can handle at once - the larger the figure, the faster a computer can potentially operate.
+
+  Dropping support for 32-bit software lets Apple streamline its operating system and helps it run more quickly since it no longer needs to load software libraries to make sense of the older programs.
+
+  Apple has explained in the past that it is relatively easy for app-makers to reversion their products, and its App Store has rejected updates that lack 64-bit support since June 2015.
+
+  Even so, the move bucks a general trend for operating systems to support legacy software for longer periods of time.
+
+  "Two years is a very short period for something to become obsolete, even in the technology world where things move very fast," said Prof Alan Woodward, from the University of Surrey's computing department.
+
+  "What most vendors have done so far - and Microsoft is the biggest example of this - is to keep as many things as compatible as possible for as long as possible.
+
+  "It wouldn't have taken a huge amount of work for iOS 11 to have continued supporting 32-bit, so it's difficult not to conclude that Apple is really trying to force the pace and make people move on."
+
+  The iOS 11 update became available to download earlier in the day.
+
+  Apple has made it possible to check which apps will stop working before iOS 11 is installed
+
+  Many of the affected apps are by independent developers who have shifted focus to other projects. However, the list also contains software from more established publishers, including:
+
+  Some of these products were still on sale in the App Store at time of writing.
+
+  IPhone and iPad owners can find out which, if any, products they will lose access to by going into their devices' Settings menu, clicking the About button and then tapping the Applications subheading.
+
+  There are, however, benefits to installing iOS 11.
+
+  Users of iOS 11 will be presented with a revamped App Store
+
+  "Of course, you don't have to upgrade to iOS 11, and in theory you could say people have a choice," said Prof Woodward.
+
+  "But in practice users are bound to go up to the new version, assuming their products support it."
+
+  The number of bits in relation to a microprocessor affects the size of the numbers that can be handled by its registers - the tiny bits of memory on the processing chip itself. Those numbers are then used to address Ram (random-access memory).
+
+  In the case of 32-bit architecture, the amount of memory than can be addressed is two to the power of 32, in other words 4.3 billion values.
+
+  In the case of 64-bit architecture the processor can theoretically address 18,400,000 trillion values.
+
+  As a result, operating systems written for 32-bit chips can only access up to 4GB of Ram, but those written for 64-bit processors can, in theory, support up to 16 billion gigabytes of Ram.
+
+  If a program has been written to take advantage of a 64-bit operating system, it should mean the processor can access data that is in this larger memory rather than retrieving it from flash storage or a hard disk, which can speed up the whole processing chain.
+
+  However, including more Ram also makes equipment more expensive and power-hungry. None of Apple's iOS products to date has included more than 4GB of Ram.

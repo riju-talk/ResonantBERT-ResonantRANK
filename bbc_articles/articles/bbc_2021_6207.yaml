@@ -1,0 +1,106 @@
+id: bbc_2021_6207
+title: '''Did weak wi-fi password lead the police to our door?'' - BBC News'
+date: '2021-05-23'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-57156799
+content: |-
+  A young family had their computers and phones seized after, it seems, their router was hacked.
+
+  After a year of lockdowns, home schooling and a bout of Covid, Kate and Matthew (not their real names) were hoping for better times as 2021 dawned.
+
+  Instead, one January morning, there came a knock on the door from the police who were investigating a very serious crime, involving images of child abuse being posted online.
+
+  The couple insisted they had nothing to do with it.
+
+  But the next few months were "utter hell" as they attempted to clear their names.
+
+  And it was only when the case was dropped in March, with no further action, that they realised the most likely explanation for the false accusation was their wi-fi router - and its factory-set password.
+
+  Back in January, there was confusion and shock when three police officers and three detectives banged on the door of their London flat with a search warrant.
+
+  "They took everything: our desktop computer, both our laptops, our mobile phones, a laptop I had borrowed, even old mobile phones that were lying around in drawers," said Kate.
+
+  Their children, aged five and seven, were allowed to keep their tablets.
+
+  The police later told the couple that four photos depicting category B child abuse - the second-most-serious kind - had been uploaded to an online chat site a year ago.
+
+  Information passed to the National Crime Agency suggested it had come from their IP address.
+
+  The couple were at a loss to explain how it had happened. As far as they were aware, no-one else had access to their wi-fi at the time.
+
+  They were told their devices would need to be checked for evidence and would be returned in "a few days" - but it was the middle of March when they finally got them all back.
+
+  Managing without devices posed many problems for the couple during lockdown
+
+  That presented practical problems: Kate and Matthew were working from home and their children were home-schooling.
+
+  "We had no way of contacting anyone other than from the landline," said Kate, who works as a private tutor.
+
+  At the time, England was in the middle of a lockdown. Non-essential shops were shut, so there was no chance to pop out and buy new gadgets.
+
+  But it soon became apparent that the case was going to have a far greater impact on their lives.
+
+  The police needed to unlock Matthew's work laptop, which was encrypted. He had to tell his boss about the case in order to get the decryption key.
+
+  And the police had also informed social services and the children's school about the investigation, meaning Kate was suspended from her role as a governor there.
+
+  When their children went back to school in March, the couple were told they were not allowed on the premises other than to drop their children off.
+
+  It took a toll on their mental health.
+
+  "What got to me was the not-knowing, and as the weeks went on I got more anxious," said Matthew, who was signed off work with stress.
+
+  Kate is more blunt about the trauma: "It was months of hell. And during it, we both had suicidal thoughts."
+
+  The couple live in a block of flats, meaning their wi-fi could have been accessed by a neighbour or someone sitting in a car outside
+
+  In February, a conversation with a friend who worked in cyber-security alerted them to the possibility that their router, supplied by their broadband provider Vodafone, might hold clues to what had happened.
+
+  They had not changed the default passwords for either the router itself or the admin webpage, leaving it susceptible to brute force attacks.
+
+  "We think of ourselves as competent users but we are not IT experts," said Matthew. "No-one told us to change the password and the setting up of the router didn't require us to go on to the admin menu, so we didn't."
+
+  "It came with a password, so we plugged it in and didn't touch anything."
+
+  Ken Munro, a security consultant with Pen Test Partners, told the BBC that it can take "a matter of minutes" for criminals to piggyback on insecure wireless connections.
+
+  "First, a hacker would need to 'crack' the wi-fi password - and if that hasn't been changed from the one written on a sticker on the side of the router, and the router is more than a year or two old - then it would take a matter of minutes to crack it," he said
+
+  That would allow the hacker on to a private individual's home network - although they would have to be within about 20 metres of the house.
+
+  "Second, to do anything particularly sinister on the home network, the hacker will need to change the router configuration. That needs the router admin password," explained Mr Munro.
+
+  The couple's router had an insecure wi-fi password, which may have been accessed by a criminal
+
+  "Most people don't even know the router has an admin password, let alone change it from the one written on the side of the router.
+
+  "So what I guess has happened here, is that the hacker has cracked the wi-fi password and then made changes to the router configuration, so their illicit activities on the internet appear to be coming from the innocent party."
+
+  In March, when the couple's devices were returned and the case closed, the police officer assigned to liaise with them seemed to corroborate that unauthorised use of their wi-fi was to blame.
+
+  But it couldn't be proved.
+
+  The couple submitted a subject access request to Vodafone, to see if they could find evidence that there had been unauthorised use of their wi-fi.
+
+  The case remains on file, including on their children's school records, and they want closure.
+
+  Vodafone told them that it did not have a record of their internet activity. It has not responded to the BBC's request for comment.
+
+  The router was several years old. The HHG2500 model in question has been highlighted as having a weak default password in a recent report by Which? into security issues around older routers.
+
+  The problem is industry-wide, points out Mr Munro.
+
+  "Internet service providers have started to improve matters to make these attacks harder, by putting unique passwords on each router. However, it will take years for all of the offending routers to be replaced," he said.
+
+  Doing so costs money - which could be another reason it has taken so long, he adds.
+
+  The government plans to ban default passwords being pre-set on devices, as part of upcoming legislation covering smart devices.
+
+  Kate Bevan, Which? computing editor, said the new laws needed to be introduced "as soon as possible, and backed by strong enforcement".
+
+  Meanwhile, internet service providers needed to "encourage their customers to upgrade devices that pose security risks" and consumers should set "strong, unique passwords" for their routers.
+
+  For Kate and Matthew, it has been a tough learning curve.
+
+  "It was devastating for us. And because there's no evidence about how this took place, whoever is responsible for this awful crime totally got away with it."
+  • None Millions at risk of hacking from old routers

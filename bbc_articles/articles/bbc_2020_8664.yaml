@@ -1,0 +1,73 @@
+id: bbc_2020_8664
+title: 'Coronavirus: England''s contact tracing app trial gets under way - BBC News'
+date: '2020-08-13'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-53765240
+content: |-
+  It will serve self-isolation alerts based on logs of who the user was recently in close contact with.
+
+  A trial of the English coronavirus app is getting under way.
+
+  It will be limited to residents in the Isle of Wight, the London Borough of Newham and NHS volunteer responders to begin with.
+
+  The app will be available in Apple and Google's online stores, but users will need to enter a code to activate it.
+
+  The software will tell users to self-isolate for a fortnight if the app detects they have been close to someone else diagnosed with the virus.
+
+  Baroness Dido Harding - who heads up the wider Test and Trace initiative - had earlier voiced concern about implementing the automated contact-tracing feature because of fears many people who had been falsely flagged might be told to go into quarantine.
+
+  The app has several other functions, including:
+
+  It initially works in five languages, with plans to add more soon.
+
+  The app will allow people to see their local risk level and log when they have been to a venue
+
+  The contact-tracing element of the software is based on Google and Apple's privacy-centric system.
+
+  The developers acknowledge there are still issues with measuring the distance between handsets, meaning some people will be incorrectly logged as being at high risk.
+
+  Official social distancing guidance says that two people should not be within 2m (6.6ft) of each other for 15 minutes or more.
+
+  But when trying to detect this, lab tests indicate:
+
+  However, if the boundary is set at 5m, the accuracy rates radically improve.
+
+  Then the handsets detect each other in more than 99% of all cases, regardless of whether iPhones or Android devices were involved.
+
+  This is not useful in practice, but indicates the flaw that caused the original NHS Covid-19 app to be cancelled has been solved. That product often failed to detect cases involving two iPhones because of restrictions imposed on third-party software by Apple.
+
+  The pilot is underway on the Isle of Wight and will extend to Newham next week
+
+  The team behind the new app acknowledges more work needs to be done to reduce the number of false positives and false negatives that occur at 2m, but is optimistic they can achieve this.
+
+  Part of the problem at present is that Apple and Google refuse to share the raw Bluetooth signal data involved.
+
+  While the two show no signs of backing down, they will shortly release a new version of their tool that should improve matters.
+
+  This development has also been welcomed by those involved with Switzerland's SwissCovid app.
+
+  "While the updated Google/Apple exposure notification API [application programming interface] still aggregates and shuffles data for privacy reasons, it will expose more information needed by the app to compute exposure more precisely," explained Prof Mathias Payer from the EPFL university in Lausanne.
+
+  The pilot comes at time when clusters of people testing positive have led to local lockdowns, and major changes are being made to the way England's manual contact-tracing system is run.
+
+  Test and Trace officials say the motivation for the app is to give "maximum freedom at minimum risk", but acknowledge it is not a "silver bullet".
+
+  "By launching an app that supports our integrated localised approach to NHS Test and Trace, anyone with a smartphone will be able to find out if they are at risk of having caught the virus, quickly and easily order a test, and access the right guidance and advice," said Baroness Harding.
+
+  Those involved in the trial must enter a code to begin, and will then be told if they should self-isolate and for how long - based on when their symptoms started
+
+  However, she is not yet ready to say when a national rollout could occur.
+
+  An academic who had served as an ethical advisor to the original scrapped app was positive about the fact that the trial was not limited to the Isle of Wight this time.
+
+  "This time it's a more diverse area - and not just one full of older white people - because it was clear that before very little could be gained from analysis of the demographics" said Prof Lillian Edwards.
+
+  But she added that the government still had a "battle to persuade people" to install the software.
+
+  "The evidence from Italy is that people aren't installing their Immuni contact-tracing app, but they might when the number of infections rises again."
+
+  Another public health expert was even more sceptical.
+
+  "Even if they have got it working, the app is unlikely to make a difference," said Prof Allyson Pollock from Newcastle University.
+
+  "The issue is not just the contact tracing but the ability to get people to isolate and quarantine. And that means financial support needs to be provided by the government."

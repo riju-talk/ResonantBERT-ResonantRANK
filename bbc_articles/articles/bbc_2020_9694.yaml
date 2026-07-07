@@ -1,0 +1,79 @@
+id: bbc_2020_9694
+title: 'A-levels: Ofqual''s ''cheating'' algorithm under review - BBC News'
+date: '2020-08-20'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-53836453
+content: |-
+  Those implementing it "did not understand what the maths they had typed in meant", one expert says.
+
+  Many students were unhappy with the results given to them by the algorithm
+
+  The national statistics regulator is stepping in to review the algorithm used by Ofqual to decide A-level grades for students who could not sit exams.
+
+  One expert said the process was fundamentally flawed and the algorithm chosen by the exam watchdog essentially "cheated".
+
+  Amid a public outcry, the government decided not to use the data it generated to determine student grades.
+
+  It raises questions about the oversight of algorithms used in society.
+
+  The results produced by the algorithm left many students unhappy, led to widespread protests and was eventually ditched by the government in favour of teacher-led assessments.
+
+  The Office for Statistics Regulation (OSR) said that it would now conduct an urgent review of the approach taken by Ofqual.
+
+  "The review will seek to highlight learning from the challenges faced through these unprecedented circumstances," it said.
+
+  Tom Haines, a lecturer in machine learning at the University of Bath, has studied the documentation released by Ofqual outlining how the algorithm was designed.
+
+  "Many mistakes were made at many different levels. This included technical mistakes where people implementing the concepts did not understand what the maths they had typed in meant," he said.
+
+  Ofqual tested 11 algorithms to see how well they could work out the 2019 A-level results
+
+  As part of the process, Ofqual tested 11 different algorithms, tasking them with predicting the grades for the 2019 exams and comparing the predictions to the actual results to see which produced the most accurate results.
+
+  But according to Mr Haines: "They did it wrong and they actually gave the algorithms the 2019 results - so the algorithm they ultimately selected was the one that was essentially the best at cheating."
+
+  There was, he said, a need for far greater oversight of the process by which algorithms make decisions.
+
+  "A few hundred years ago, people put up a bridge and just hoped it worked. We don't do that any more, we check, we validate. The same has to be true for algorithms. We are still back at that few hundred years ago stage and we need to realise that these algorithms are man-made artefacts, and if we don't look for problems there will be consequences."
+
+  In response, Ofqual told the BBC: "Throughout the process, we have had an expert advisory group in place, first meeting them in early April.
+
+  "The group includes independent members drawn from the statistical and assessment communities. The advisory group provided advice, guidance, insight and expertise as we developed the detail of our standardisation approach."
+
+  The Royal Statistical Society (RSS) had offered the assistance of two of its senior statisticians to Ofqual, chief executive Stian Westlake told the BBC.
+
+  "Ofqual said that they would only consider them if they signed an onerous non-disclosure agreement which would have effectively banned them from talking about anything they had learned from the process for up to five years," he said.
+
+  "Given transparency and openness are core values for the RSS, we felt we couldn't say yes."
+
+  This video can not be played To play this video you need to enable JavaScript in your browser. Roger Taylor: "It simply has not been an acceptable experience for young people"
+
+  Ofqual's chairman Roger Taylor is also chairman of the UK's Centre for Data Ethics and Innovation, a body set up by government to provide advice of the governance of data-driven technologies.
+
+  It confirmed to the BBC that it was not invited to review the algorithm or the processes that led to its creation, saying that it was not its job "to audit organisations' algorithms".
+
+  Mr Haines said: "It feels like these bodies are created by companies and governments because they feel they should have them, but they aren't given actual power.
+
+  "It is a symbolic gesture and we need to realise that ethics is not something you apply at the end of any process, it is something you apply throughout."
+
+  The RSS welcomed the OSR review and said it hoped lessons would be learned from the fiasco.
+
+  "The process and the algorithm were a failure," said Mr Westlake.
+
+  "There were technical failings, but also the choices made when it was designed and the constructs it operated under.
+
+  "It had to balance grade inflation with individual unfairness, and while there was little grade inflation there was an awful lot of disappointed people and it created a manifest sense of injustice.
+
+  "That is not a statistical problem, that is a choice about how you build the algorithm."
+
+  Algorithms are used at all levels of society, ranging from very basic ones to complex examples that utilise artificial intelligence.
+
+  "Most algorithms are entirely reasonable, straightforward and well-defined," said Mr Haines - but he warned that as they got more complex in design, society needed to pause to consider what it wanted from them.
+
+  "How do we handle algorithms that are making decisions and don't make the ones we assume they will? How do we protect against that?"
+
+  And some things should never be left to an algorithm to determine, he said.
+
+  "No other country did what we did with exams. They either figured out how to run exams or had essays that they took averages for. Ultimately the point of exams is for students to determine their future and you can't achieve that with an algorithm.
+
+  "Some problems just need a human being."

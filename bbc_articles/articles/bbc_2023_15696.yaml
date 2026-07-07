@@ -1,0 +1,47 @@
+id: bbc_2023_15696
+title: Face search company Clearview AI overturns UK privacy fine - BBC News
+date: '2023-10-18'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-67133157
+content: |-
+  Controversial firm, which acts as a search engine for faces, wins appeal against a watchdog.
+
+  A company which enables its clients to search a database of billions of images scraped from the internet for matches to a particular face has won an appeal against the UK's privacy watchdog.
+
+  Last year, Clearview AI was fined more than £7.5m by the Information Commissioner's Office (ICO) for unlawfully storing facial images.
+
+  Jack Mulcaire, Clearview AI's lawyer, said the firm was "pleased".
+
+  The ICO said it would "take stock" of the judgement.
+
+  Clearview AI offers its clients a system that works like a search engine for faces - users upload a photo and it finds matches in a database of billions of images it has collected.
+
+  It then provides links to where matching images appear online.
+
+  In March, Clearview's founder Hoan Ton-That told the BBC it had run nearly a million searches for US police, helping them to solve a range of crimes, including murders.
+
+  He also revealed its database contained 30 billion images scraped from the internet.
+
+  Critics argue that law enforcement's use of Clearview's technology puts everyone into a "perpetual police line-up".
+
+  And prior to the ICO's action, now ruled unlawful, France, Italy and Australia had also taken action against the firm.
+
+  This video can not be played To play this video you need to enable JavaScript in your browser.
+
+  In the past Clearview AI had commercial customers, but since a 2020 settlement in a case brought by US civil liberties campaigners, the firm now only accepts clients who carry out criminal law enforcement or national security functions.
+
+  Clearview does not have UK or EU clients, but its customers are based in the US and in other countries including Panama, Brazil, Mexico, and the Dominican Republic, Tuesday's judgement revealed.
+
+  In simple terms, Clearview succeeded in appealing against the ICO's fine and enforcement action because it was used solely by law enforcement bodies outside the UK.
+
+  The three-member tribunal at the First-tier Tribunal, which heard the appeal, concluded that although Clearview did carry out data processing related to monitoring the behaviour of people in the UK, the ICO "did not have jurisdiction" to take enforcement action or issue a fine.
+
+  Explaining the decision James Castro-Edwards, data privacy lawyer from Arnold & Porter told the BBC that, "Clearview only provided services to non-UK/EU law enforcement or national security bodies and their contractors."
+
+  "UK data protection law (UK GDPR) provides that acts of foreign governments fall outside its scope; it is not for one government to seek to bind or control the activities of another sovereign state".
+
+  In response to the judgement, the ICO said that it would carefully consider next steps but added: "It is important to note that this judgement does not remove the ICO's ability to act against companies based internationally who process data of people in the UK, particularly businesses scraping data of people in the UK, and instead covers a specific exemption around foreign law enforcement."
+
+  Will Richmond-Coggan, a data protection partner at law firm Freeths, agreed, arguing that even though the appeal was allowed, the decision underlined that scraping large volumes of publicly available data was an activity to which UK data protection rules could apply.
+
+  "The appeal turned exclusively on the fact that Clearview's customers were overseas national security and law enforcement bodies, and so shouldn't be relied on as granting a blanket permission for such scraping activities more generally."

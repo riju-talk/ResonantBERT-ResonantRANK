@@ -1,0 +1,65 @@
+id: bbc_2018_922
+title: 'CES 2018: Intel to make flawed chips safe in a week - BBC News'
+date: '2018-01-09'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-42616474
+content: |-
+  The chip maker's boss addressed the Meltdown and Spectre bugs at CES in Las Vegas.
+
+  Intel's chief executive took a few minutes to address news of flaws in the firm's chips at CES
+
+  Intel's chief executive has said software fixes to address the recently discovered Meltdown and Spectre bugs in microchips would be released in the next few days.
+
+  Brian Krzanich was speaking at the beginning of his keynote speech at the CES trade show event in Las Vegas.
+
+  He said 90% of processors and products from the past five years would be patched "within a week".
+
+  Intel has faced scrutiny after details of the flaws emerged last week.
+
+  Meltdown and Spectre are unusual in that they are both problems with a fundamental component inside modern computers - the central processing unit (CPU).
+
+  They allow attackers to potentially access sensitive data held in the chip's memory that would otherwise be off limits.
+
+  Mr Krzanich took a moment at the beginning of his address at the tech fair to refer to the design issues discovered by researchers on some Intel, ARM and AMD chips.
+
+  However, he did not apologise on his firm's behalf for what he described as an industry-wide problem.
+
+  "Before we start I want to take a moment to thank the industry for coming together," he told attendees.
+
+  "Security is job number one for Intel and our industry, so the primary focus of our decisions and discussions have been to keep our customer's data safe."
+
+  He added that there had to date been no confirmed cases in which customer data had been accessed via exploits designed to take advantage of the flaws.
+
+  And he reiterated advice that users should apply security updates as soon as possible to protect themselves from malicious hackers.
+
+  "It's clear this is not just an Intel problem," said Geoff Blaber, an analyst from CCS Insight who was at the keynote.
+
+  "At least Intel and others have been able to respond in a reasonably efficient manner."
+
+  Intel, like rivals IBM and Google, has been working on a quantum computing test chip
+
+  Mr Krzanich used the rest of his time on stage to explore new technologies that use Intel's products - including "volumetric" video capture that maps a scene or sports field in 3D, so the viewer can watch from practically any angle they choose.
+
+  There was also reference to the company's work in experimental computing architectures, including quantum computing.
+
+  In quantum computing, qubits - which can have a state of either zero or one simultaneously - take over from traditional bits.
+
+  Intel has developed a 49-qubit chip, Mr Krzanich announced, putting the firm on a par with rivals IBM and Google, which have been working on chips at a similar scale.
+
+  The Volocopter 'flying taxi' took to the air and travelled a few feet across the stage while tethered
+
+  It is thought that millions of qubits will be needed for a quantum computer to offer revolutionary processing capabilities, however.
+
+  There was also discussion of how Intel's tech is being built into self-driving cars.
+
+  Its chip-making rival Nvidia had boasted earlier in the week that it was working with more than 320 partners on self-drive vehicles, including Uber and VW.
+
+  Intel also showed off the experimental Volocopter "flying taxi" - which briefly flew on stage, behind a protective barrier.
+
+  Finally, the keynote closed with a light show powered by 100 Shooting Star Mini drones that did not rely on GPS for navigation - something Mr Krzanich said was an official Guinness World Record.
+
+  "It's an excellent showcase for the technology and it does give the brand a boost - it's a very effective marketing exercise," said Mr Blaber.
+
+  "It was an exhausting two hour [event] but it goes to show, that's how many fronts Intel is working on."
+
+  The BBC is not responsible for the content of external sites.

@@ -1,0 +1,87 @@
+id: bbc_2020_1229
+title: Artificial intelligence 'did not miss a single urgent case' - BBC News
+date: '2020-01-02'
+section: Health
+url: http://www.bbc.co.uk/news/health-44924948
+content: |-
+  A machine has learned how to read complex eye scans and detect many types of disease, research has found.
+
+  Elaine Manna had her sight saved at Moorfields Eye hospital in London
+
+  Artificial intelligence can diagnose eye disease as accurately as some leading experts, research suggests.
+
+  A study by Moorfields Eye Hospital in London and the Google company DeepMind found that a machine could learn to read complex eye scans and detect more than 50 eye conditions.
+
+  Doctors hope artificial intelligence could soon play a major role in helping to identify patients who need urgent treatment.
+
+  They hope it will also reduce delays.
+
+  A team at DeepMind, based in London, created an algorithm, or mathematical set of rules, to enable a computer to analyse optical coherence tomography (OCT), a high resolution 3D scan of the back of the eye.
+
+  Thousands of scans were used to train the machine how to read the scans.
+
+  Then, artificial intelligence was pitted against humans.
+
+  The computer was asked to give a diagnosis in the cases of 1,000 patients whose clinical outcomes were already known.
+
+  The same scans were shown to eight clinicians - four leading ophthalmologists and four optometrists.
+
+  Each was asked to make one of four referrals: urgent, semi-urgent, routine and observation only.
+
+  Artificial intelligence performed as well as two of the world's leading retina specialists, with an error rate of only 5.5%.
+
+  Crucially, the algorithm did not miss a single urgent case.
+
+  The results, published in the journal Nature Medicine, were described as "jaw-dropping" by Dr Pearse Keane, consultant ophthalmologist, who is leading the research at Moorfields Eye Hospital.
+
+  He told the BBC: "I think this will make most eye specialists gasp because we have shown this algorithm is as good as the world's leading experts in interpreting these scans."
+
+  Artificial intelligence was able to identify serious conditions such as wet age-related macular degeneration (AMD), which can lead to blindness unless treated quickly.
+
+  Dr Keane said the huge number of patients awaiting assessment was a "massive problem".
+
+  He said: "Every eye doctor has seen patients go blind due to delays in referral; AI should help us to flag those urgent cases and get them treated early."
+
+  Dr Dominic King, medical director, DeepMind Health, explained how his team trained artificial intelligence to read eye scans: "We used two neural networks, which are complex mathematical systems which mimic the way the brain operates, and inputted thousands of eye scans.
+
+  "They divided the eye into anatomical areas and were able to classify whether disease was present."
+
+  Some previous attempts at using AI have led to what's known as a "black box" problem - where the reasoning behind the computer analysis is hidden.
+
+  By contrast, the DeepMind algorithm provides a visual map of where the disease is, allowing clinicians to check how the AI has come to its decision, which is crucial if doctors and patients are to have confidence in its diagnoses.
+
+  So how soon could AI be used to diagnose patient scans in hospital?
+
+  Dr Keane said: "We really want to get this into clinical use within two to three years but cannot until we have done a major real-time trial to confirm these exciting findings.
+
+  He said the evidence suggests AI will ease the burden on clinicians, enabling them to prioritise the more urgent cases.
+
+  Elaine Manna lost her sight in her left eye 18 years ago.
+
+  In 2013, her vision began deteriorating in her right eye and an OCT scan revealed she needed urgent treatment for wet AMD, which occurs when abnormal blood vessels grow under the retina.
+
+  She now has regular injections which stop the vessels growing or bleeding.
+
+  Elaine told me: "I was devastated when I lost sight in my left eye, so my remaining vision is precious."
+
+  She said the research findings were "absolutely brilliant", adding: "People will have their sight saved because of artificial intelligence, because doctors will be able to intervene sooner."
+
+  AI may also be able to interpret mammograms as part of screening for breast cancer
+
+  DeepMind is also doing research with Imperial College London to see if AI can learn how to interpret mammograms, and improve the accuracy of breast cancer screening.
+
+  The company also has a project with University College London Hospitals (UCLH) to examine whether AI can differentiate between cancerous and healthy tissue on CT and MRI scans.
+
+  This might help doctors speed up the planning of radiotherapy treatment, which can take up to eight hours in the case of very complex cancers.
+
+  Within a few years it seems highly likely that artificial intelligence will play a key role in the diagnosis of disease, which should free up clinicians to spend more time with patients.
+
+  But there will be some who will be unhappy about their health details being shared with a tech giant like Google.
+
+  Dr Dominic King, from DeepMind, said: "Patients have an absolute right to know how, where and who is processing their data. We have a best in class security system; data is protected and encrypted at all times."
+
+  The Royal Free Hospital in north London was criticised in 2017 for sharing 1.6 million patient data records with DeepMind.
+
+  The controversy related to an app DeepMind developed to identify patients at risk of kidney disease.
+
+  The Information Commission ruled that the hospital had not done enough to safeguard patient data.

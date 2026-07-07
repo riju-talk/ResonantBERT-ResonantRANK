@@ -1,0 +1,39 @@
+id: bbc_2020_13434
+title: NHS Covid-19 app suffers 'blue screen' glitch - BBC News
+date: '2020-11-16'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-54958785
+content: |-
+  Many users report the iPhone version of the contact-tracing app gets "stuck" on launch.
+
+  Users reported the app getting "stuck" at the logo screen when launched
+
+  The NHS Covid-19 app has stopped working for many iPhone owners, who are unable to get it to launch.
+
+  Users report being stuck at a blue loading screen with the contact-tracing app's logo - but nothing else happens.
+
+  The NHS has published a workaround for the problem in its help files, but has not said what caused the problem or when it will be fixed.
+
+  Apple does not believe the problem is at its end, since it has not seen the issue arise in other countries' apps.
+
+  Many different nations use the same underlying technology, which is designed by Apple and Google, to notify users if they were recently near to someone who subsequently tested positive for the virus.
+
+  Some users have deleted and reinstalled the app to fix the fault, but that deletes useful information - this includes a log of venues the user has checked into via QR barcode scans.
+
+  The NHS's workaround instead asks users to reset their iPhone's location and privacy settings. It also recommends users have the most up-to-date version of Apple's iOS operating system downloaded and installed.
+
+  But carrying out the reset prevents all apps on the handset from using the device's location until they are granted permission again.
+
+  Some users have said they fixed the problem by force-quitting the app - which can be done by flicking the frozen screen up and off the display - and then re-launching it.
+
+  The problem first emerged last week, but complaints became more frequent over the weekend and into Monday.
+
+  The cause, however, remains unclear.
+
+  In a statement, the Department of Health and Social Care said it was aware of the issue.
+
+  "The app is still scanning, even if the screen appears blue," it said.
+
+  "There are simple steps iPhone users can take to resolve this issue, which are set out on the app's website, and work is underway to identify the cause.
+
+  "Users experiencing this issue should make sure their Apple iOS is updated to the latest version of the software."

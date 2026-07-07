@@ -1,0 +1,65 @@
+id: bbc_2023_6846
+title: 'Meta: Facebook owner fined €1.2bn for mishandling data - BBC News'
+date: '2023-05-22'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-65669839
+content: |-
+  The dispute is over Facebook's transfer of European data to US servers.
+
+  Facebook's owner, Meta, has been fined €1.2bn (£1bn) for mishandling people's data when transferring it between Europe and the United States.
+
+  Issued by Ireland's Data Protection Commission (DPC), it is the largest fine imposed under the EU's General Data Protection Regulation privacy law.
+
+  GDPR sets out rules companies must follow to transfer user data outside of the EU.
+
+  Meta says it will appeal against the "unjustified and unnecessary" ruling.
+
+  At the crux of this decision is the use of standard contractual clauses (SCCs) to move European Union data to the US.
+
+  These legal contracts, prepared by the European Commission, contain safeguards to ensure personal data continues to be protected when transferred outside Europe.
+
+  But there are concerns these data flows still expose Europeans to the US's weaker privacy laws - and US intelligence could access the data.
+
+  This decision does not affect Facebook in the UK. The Information Commissioner's Office told the BBC that the decision "does not apply in the UK" but said it had "noted the decision and will review the details in due course".
+
+  Most large companies have complex webs of data transfers - which can include email addresses, phone numbers and financial information - to overseas recipients, many of which depend on SCCs.
+
+  And Meta says their broad use makes the fine unfair.
+
+  Facebook president Nick Clegg said: "We are therefore disappointed to have been singled out when using the same legal mechanism as thousands of other companies looking to provide services in Europe.
+
+  "This decision is flawed, unjustified and sets a dangerous precedent for the countless other companies transferring data between the EU and US."
+
+  But privacy groups have welcomed that precedent.
+
+  Caitlin Fennessy, of the International Association of Privacy Professionals, said: "The size of this record-breaking fine is matched by the significance of the signal it sends.
+
+  "Today's decision signals that companies have a whole lot of risk on the table."
+
+  It could make EU companies demand US partners stored data within Europe - or switch to domestic alternatives, she added.
+
+  In 2013, former US National Security Agency contractor Edward Snowden disclosed American authorities had repeatedly accessed people's information via technology companies such as Facebook and Google.
+
+  And Austrian privacy campaigner Max Schrems filed a legal challenge against Facebook for failing to protect his privacy rights, setting off a decade-long battle over the legality of moving EU data to the US.
+
+  Europe's highest court, the European Court of Justice (ECJ), has repeatedly said Washington has insufficient checks in place to protect Europeans' information.
+
+  And in 2020, the ECJ, ruled an EU-to-US data transfer agreement invalid.
+
+  But the ECJ left the door open for companies to use SCCs, saying the transfer of data to any other third country was valid as long as it ensured an "adequate level of data protection".
+
+  It is that test Meta has been found to have failed.
+
+  Asked about the €1.2bn fine, Mr Schrems said he was "happy to see this decision after 10 years of litigation" but it could have been much higher.
+
+  "Unless US surveillance laws get fixed, Meta will have to fundamentally restructure its systems," he added.
+
+  Despite the record-breaking size of the fine, experts have said they think Meta's privacy practices will not change.
+
+  "A billion-euro parking ticket is of no consequence to a company that earns many more billions by parking illegally," Johnny Ryan, a senior fellow at the Irish Council for Civil Liberties.
+
+  The US recently updated its internal legal protections to give the EU greater assurances American intelligence agencies would follow new rules governing such data access.
+
+  In 2021, Amazon was fined for similarly flouting the EU's privacy standard.
+
+  Ireland's DPC has also fined WhatsApp, another Meta-owned business, for breaching stringent regulations relating to the transparency of data shared with its other subsidiaries.

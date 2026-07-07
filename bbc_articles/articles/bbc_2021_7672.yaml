@@ -1,0 +1,34 @@
+id: bbc_2021_7672
+title: One Fastly customer triggered internet meltdown - BBC News
+date: '2021-06-09'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-57413224
+content: |-
+  The unnamed customer was not to blame but changing settings triggered a software bug, Fastly says.
+
+  One customer changing their settings had set in motion a major internet blackout, Fastly said
+
+  A major internet blackout that hit many high-profile websites on Tuesday has been blamed on a software bug.
+
+  Fastly, the cloud-computing company responsible for the issues, said the bug had been triggered when one of its customers had changed their settings.
+
+  The outage has raised questions about relying on a handful of companies to run the vast infrastructure that underpins the internet.
+
+  Fastly apologised and said the problem should have been anticipated.
+
+  The outage, which lasted about an hour, hit some popular websites such as Amazon, Reddit, the Guardian and the New York Times.
+
+  Fastly senior engineering executive Nick Rockwell said: "This outage was broad and severe - and we're truly sorry for the impact to our customers and everyone who relies on them."
+
+  The problem had been spotted and rectified within 50 minutes, Fastly said
+
+  The company operates servers at strategic points around the world to help customers move and store content close to their end users.
+
+  But a customer quite legitimately changing their settings had exposed a bug in a software update issued to customers in mid-May, causing "85% of our network to return errors", it said.
+
+  Engineers had worked out the cause of the problem about 40 minutes after websites had gone offline at about 11:00 BST, Fastly said.
+
+  "Within 49 minutes, 95% of our network was operating as normal," it said.
+
+  The company has deployed a bug fix across its network and promised a "post mortem of the processes and practices we followed during this incident" and to "figure out why we didn't detect the bug during our software quality assurance and testing processes".
+  • None Websites begin to work again after major breakage

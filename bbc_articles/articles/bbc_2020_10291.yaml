@@ -1,0 +1,43 @@
+id: bbc_2020_10291
+title: Police launch homicide inquiry after German hospital hack - BBC News
+date: '2020-09-18'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-54204356
+content: |-
+  Woman dies being transferred from German hospital which is hit by hackers.
+
+  The woman was transferred to another hospital during the cyber-attack
+
+  German police have launched a homicide investigation after a woman died during a cyber-attack on a hospital.
+
+  Hackers disabled computer systems at Düsseldorf University Hospital and the patient died while doctors attempted to transfer her to another hospital.
+
+  Cologne prosecutors officially launched a negligent homicide case this morning saying hackers could be blamed.
+
+  One expert said, if confirmed, it would be the first known case of a life being lost as a result of a hack.
+
+  The ransomware attack hit the hospital on the night of 9 September, scrambling data and making computer systems inoperable.
+
+  Such attacks are one of the most serious threats in cyber-security with dozens of high profile attacks so far this year. The attackers can demand large payments in cryptocurrency Bitcoin in exchange for a software key that unlocks IT systems.
+
+  The female patient, from Düsseldorf, was due to have scheduled life-saving treatment and was transferred to another hospital in Wuppertal which is roughly 19 miles (30km) away.
+
+  Some local reports suggest the hackers did not intend to attack the hospital and in fact were trying to target a different university. Once the hackers had realised their mistake it is reported they gave the hospital the decryption key without demanding payment before disappearing.
+
+  Detectives have brought in cyber-security experts to ascertain whether there is a link between the hack and the patient's death, with the hospital also likely to be investigated.
+
+  Germany's national cyber-security authority says it is on site at the hospital helping the hospital's IT staff rebuild systems.
+
+  Its president Arne Schönbohm said hackers took advantage of a well-known vulnerability in a piece of VPN (virtual private network) software developed by Citrix, and warned other organisations to protect themselves from the flaw.
+
+  "We warned of the vulnerability as early as January and pointed out the consequences of its exploitation. Attackers gain access to the internal networks and systems and can still paralyse them months later.
+
+  "I can only stress that such warnings should not be ignored or postponed, but need appropriate measures immediately. The incident shows once again how seriously this risk must be taken."
+
+  Former chief executive of the UK's National Cyber Security Centre Ciaran Martin said: "If confirmed, this tragedy would be the first known case of a death directly linked to a cyber-attack. It is not surprising that the cause of this is a ransomware attack by criminals rather than an attack by a nation state or terrorists.
+
+  "Although the purpose of ransomware is to make money, it stops systems working. So if you attack a hospital, then things like this are likely to happen. There were a few near misses across Europe earlier in the year and this looks, sadly, like the worst might have come to pass."
+
+  Last month, technology giant Garmin is understood to have paid hackers a multi-million pound sum after its IT and production systems were taken offline in a ransomware attack.
+
+  Law enforcement agencies encourage victims not to pay ransoms arguing it fuels organised cyber-crime operations.

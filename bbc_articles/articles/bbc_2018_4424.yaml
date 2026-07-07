@@ -1,0 +1,71 @@
+id: bbc_2018_4424
+title: Facebook seeks facial recognition consent in EU and Canada - BBC News
+date: '2018-04-18'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-43797128
+content: |-
+  Amid a privacy crisis, Facebook asks permission to expand use of facial recognition technology.
+
+  Facebook says its face-matching tech is a way for users to learn if they are in a photo even if not tagged
+
+  Facebook has started asking European and Canadian users to let it use facial recognition technology to identify them in photos and videos.
+
+  Facebook originally began face-matching users outside Canada in 2011, but stopped doing so for EU citizens the following year after protests from regulators and privacy campaigners.
+
+  The new request is one of several opt-in permissions being rolled out in advance of a new data privacy law.
+
+  The move is likely to be controversial.
+
+  The company is currently embroiled in a privacy scandal related to the use of its members' personal information by the political consultancy Cambridge Analytica.
+
+  The social network is also facing a class-action lawsuit in the US for deploying the facial recognition technology there without users' explicit consent.
+
+  "Biometric identification and tracking across the billions of photos on the platform exacerbates serious privacy risks to users," commented Silkie Carlo, director of UK civil liberties group Big Brother Watch.
+
+  "Facebook now has a duty to prove it has learned how to respect the law, not to prove it can take its surveillance capabilities to new depths."
+
+  Users outside the EU and Canada will be prompted to review a similar set of privacy controls in the coming months, but they will continue to be subject to facial recognition unless they opt out of the system.
+
+  The facial recognition facility works by assigning each user a unique number called a template. This is calculated by analysing the way they look in their profile photograph and other images they have already been identified in.
+
+  Untagged faces are then represented in a similar manner and compared to the database of templates.
+
+  When a match is found, Facebook prompts both the person posting an image and the people appearing in it to apply the relevant name tags. In addition, it uses the tech to detect when a scammer is attempting to use a stolen photo as their profile picture.
+
+  It also helps Facebook to offer new "friends" suggestions.
+
+  When new connections are made, users have more reason to spend longer on Facebook's app and website.
+
+  This lets the firm show them more adverts while also helping it learn more about their interests, which in turn lets it better target future ads.
+
+  The new settings are being deployed ahead of the EU's General Data Protection Regulation (GDPR), which comes into force on 25 May.
+
+  The law tightens existing privacy rules, forbids the use of pre-ticked boxes for consent, and increases the amount organisations can be fined for non-compliance.
+
+  Users can either agree to face recognition with a single button press or click through other pages to be given the choice of refusing
+
+  Under the new system, users click a single button saying "accept and continue" to turn on face recognition, but have to delve deeper into the "manage data setting" options to confirm they want it turned off.
+
+  As has previously been the case, Facebook will not include under-18s in its face-matching database. And it has said that if users opt in but subsequently change their minds, it will delete their face templates, making further matches impossible.
+
+  Even so, the data watchdog involved has yet to sign off on the proposal.
+
+  "There are a number of outstanding issues on which we await further responses from Facebook," Ireland's data protection commissioner told the BBC.
+
+  "In particular, the Irish DPC is querying the technology around facial recognition and whether Facebook needs to scan all faces - ie those without consent as well - to use the facial recognition technology.
+
+  "The issue of compliance of this feature with GDPR is therefore not settled at this point."
+
+  Facebook will initially present the new settings pages to EU citizens before rolling versions out worldwide
+
+  Facebook will also be asking for the following consent to meet its new obligations:
+
+  Under GDPR, children are also afforded added protections, which the EU's members can decide to limit to those under 13 or extend to those under 16.
+
+  Facebook already bans under-13s from being members.
+
+  But in affected countries, it will now ask under-16s for the permission of a parent or guardian to:
+
+  To do this, the firm will either require them to send a permission request via Facebook itself or provide an email address that the older party can be reached at.
+
+  In the case of the latter, the company has confirmed that it will rely on the youngsters to provide an accurate address and does not plan its own identity checks.

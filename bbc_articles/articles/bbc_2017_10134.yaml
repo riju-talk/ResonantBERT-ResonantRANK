@@ -1,0 +1,131 @@
+id: bbc_2017_10134
+title: How do you build the next-generation internet? - BBC News
+date: '2017-10-13'
+section: Science & Environment
+url: http://www.bbc.co.uk/news/science-environment-41570933
+content: |-
+  What will it take to build the ultra-fast internet of the future?
+
+  Scientists are now developing an ultra-fast quantum internet that will be partly based on light
+
+  Imagine super-fast computers that can solve problems much quicker than machines today. These "quantum computers" are being developed in laboratories around the world. But scientists have already taken the next step, and are thinking about a light-based quantum internet that will have to be just as fast.
+
+  It's not easy to develop technology for a device that hasn't technically been invented yet, but quantum communications is an attractive field of research because the technology will enable us to send messages that are much more secure.
+
+  There are several problems that will need to be solved in order to make a quantum internet possible:
+
+  A quantum computer is a machine that is able to crack very tough computation problems with incredible speed - beyond that of today's "classical" computers.
+
+  In conventional computers, the unit of information is called a "bit" and can have a value of either 1 or 0. But its equivalent in a quantum system - the qubit (quantum bit) - can be both 1 and 0 at the same time. This phenomenon opens the door for multiple calculations to be performed simultaneously.
+
+  However, qubits need to be synchronised using a quantum effect known as entanglement, which Albert Einstein termed "spooky action at a distance".
+
+  There are four types of quantum computers currently being developed, which use:
+
+  Quantum computers will enable a multitude of useful applications, such as being able to model many variations of a chemical reaction to discover new medications; developing new imaging technologies for healthcare to better detect problems in the body; or to speed up how we design batteries, new materials and flexible electronics.
+
+  Quantum computers might be more powerful than classical computers, but some applications will require even more computing power than one quantum computer can provide on its own.
+
+  If you can get quantum devices to talk to each other, then you could connect several quantum computers together and pool their power to form one huge quantum computer.
+
+  However, since there are four different types of quantum computers being built today, they won't be all be able to talk to each other without some help.
+
+  Some scientists favour a quantum internet based entirely on light particles (photons), while others believe that it would be easier to make quantum networks where light interacts with matter.
+
+  "Light is better for communications, but matter qubits are better for processing," Joseph Fitzsimons, a principal investigator at the National University of Singapore's Centre of Quantum Technologies tells the BBC.
+
+  "You need both to make the network work to establish error correction of the signal, but it can be difficult to make them interact."
+
+  It is very expensive and difficult to store all information in photons, Mr Fitzsimons says, because photons can't see each other and pass straight by, rather than bouncing off each other. Instead, he believes it would be easier to use light for communications, while storing information using electrons or atoms (in matter).
+
+  Quantum encryption will make communications much more secure
+
+  One of the key applications of the quantum internet will be quantum key distribution (QKD), whereby a secret key is generated using a pair of entangled photons, and is then used to encrypt information in a way that is impossible for a quantum computer to crack.
+
+  This technology already exists, and was first demonstrated in space by a team of researchers from the National University of Singapore and the University of Strathclyde, UK, in December 2015.
+
+  But it's not just the encryption that we will need to build in order to secure our information in the quantum future.
+
+  Scientists are also working on "blind quantum computer protocols", because they allow the user to hide anything they want on a computer.
+
+  "You can write something, send it to a remote computer and the person who owns the computer can't tell anything about it at all except how long it took to run and how much memory it used," says Mr Fitzsimons.
+
+  "This is important because there likely won't be many quantum computers when they first appear, so people will want to remotely run programs on them, the way we do today in the cloud."
+
+  There are two different approaches to building quantum networks - a land-based network and a space-based network.
+
+  Both methods work well for sending regular bits of data across the internet today, but if we want to send data as qubits in the future, it is much more complicated.
+
+  To send particles of light (photons), we can use fibre optic cables in the ground. However, the light signal deteriorates over long distances (a phenomenon known as "decoherence"), because fibre optics cables sometimes absorb photons.
+
+  It is possible to get around this by building "repeater stations" every 50km. These would essentially be miniature quantum laboratories that would try to repair the signal before sending it on to the next node in the network. But this system would come with its own complexities.
+
+  Artwork: a ground station beams a message contained in a light signal up to the Micius satellite
+
+  Then there are space-based networks. Let's say you want to send a message from the UK to a friend in Australia. The light signal is beamed up from a ground station in the UK, to a satellite with a light source mounted on it.
+
+  The satellite sends the light signal to another satellite, which then beams the signal down to a ground station in Australia, and then the message can be transmitted over a ground-based quantum network or classical internet network to the other party.
+
+  "Because there's no air between the satellites, there's nothing to degrade the signal," says Dr Jamie Vicary, a senior research fellow at Oxford University's department of computer science and a member of the Networked Quantum Information Technologies Hub (NQIT).
+
+  "If we want to have a really global-scale quantum internet, it looks like a space-based solution is the only way that will work, but it's the most expensive."
+
+  Quantum teleportation via space has been conducted successfully, and scientists are currently vying to demonstrate longer and longer distances.
+
+  Scientists from the Chinese Academy of Sciences generated headlines in June when they succeeded in teleporting entangled photons between two towns in China located 1,200km apart. They used a specially developed quantum satellite called Micius.
+
+  The same Chinese scientists recently topped their own record on 29 September, by demonstrating the world's first intercontinental video call protected by a quantum key with researchers at the Austrian Academy of Sciences - over a distance of 7,700km.
+
+  The call lasted for 20 minutes and the parties were able to exchange encrypted pictures of the Micius satellite and Austrian physicist Erwin Schrödinger.
+
+  Rupert Ursin, senior group leader at the Austrian Academy of Sciences' Institute for Quantum Optics and Quantum Information believes the quantum internet will need land-based and space-based networks to operate in parallel.
+
+  "In the cities, we need a fibre network, but long haul connections will be covered by satellite links," he explains.
+
+  The video call between Austrian and Chinese scientists on 29 September 2017
+
+  To understand how QKD works, let's go back to the video call made between the Austrian and Chinese scientists. The Micius satellite used its light source to establish optical links with the ground stations in Austria and the ground stations in China.
+
+  It was then able to generate a quantum key.
+
+  The great thing about quantum encryption is you can detect whether someone has tried to intercept the message before it got to you, and how many people tried to access it.
+
+  Micius was able to tell that the encryption was secure and no one was eavesdropping on the video call. It then gave the go ahead to encrypt the data using the secret key and transmit it over a public internet channel.
+
+  Multiple groups of scientists are developing land-based networks by working on the technologies for quantum repeater stations, which are located every 50km, connected by fibre optic cables.
+
+  These repeater stations, also known as "quantum network nodes", will need to perform several actions in order to route, or direct, messages around the network.
+
+  First, each node needs to repair and boost the signal that was damaged from the previous 50km stretch of the network.
+
+  Imagine that you're using an old fax machine to send a one-page document to someone else, and each time you send the page, a different part of the message is missing, and the other party has to piece the message together from all the failed attempts.
+
+  This is similar to how a single message may have to be sent between different nodes on a quantum network.
+
+  Fibre optic cables will be used for land-based quantum networks
+
+  There will be many people on the network, all trying to talk to each other. So the node, or repeater station, will also have to figure out how to distribute its available computing power in order to piece together all the messages being sent. It will also have to send messages between the quantum internet and the classical internet.
+
+  The University of Delft is building a quantum network using nitrogen vacancies in diamonds, and it has so far shown the ability to store and distribute the links needed for quantum communications over quite large distances.
+
+  The University of Oxford and the University of Maryland are both currently building quantum computers that work in a similar way to a network. Their quantum computers consist of trapped ion nodes that have been networked together to talk to each other.
+
+  The bigger the computer you want, the more nodes you have to add, but this type of quantum computer only transmits data over a short distance.
+
+  "We want to make them small so they can be well-protected from decoherence, but if they're small then they can't hold many qubits," says Dr Vicary.
+
+  "If we connect the nodes up in a network, then we can still have a quantum computer without being limited by the number of qubits, while still protecting the nodes."
+
+  The repeater station will also need to have a quantum memory chip. The nodes create "links", which consist of entangled pairs of light particles. These entangled pairs are prepared in advance.
+
+  While the node calculates the route across the network that the message will need to take, it needs to store the entangled pair of photons somewhere safe, so a quantum memory chip is needed. It has to be able to store the photons for as long as possible.
+
+  Dr Rose Ahlefeldt and associate professor Matthew Sellars operate a high-resolution dye laser to study rare earth crystals at ANU
+
+  Researchers from the Australian National University (ANU) have developed a telecom-compatible quantum memory chip using an erbium-doped crystal. This device is able to store light in the right colour and it is able to do so for longer than one second, which is 10,000 times longer than all other attempts so far.
+
+  "The biggest challenge is now to demonstrate a quantum memory with a large data storage capacity," associate professor Matthew Sellars, program manager in the Centre for Quantum Computation and Communication Technology (CQC2T) at ANU tells the BBC.
+
+  "It will be the memory's storage capacity that will limit the data transmission rate through the network.
+
+  "I think it will take about five years before the technology [for the quantum internet] is practical."

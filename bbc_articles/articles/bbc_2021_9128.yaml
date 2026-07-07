@@ -1,0 +1,69 @@
+id: bbc_2021_9128
+title: China accused of cyber-attack on Microsoft Exchange servers - BBC News
+date: '2021-07-19'
+section: China
+url: http://www.bbc.co.uk/news/world-asia-china-57889981
+content: |-
+  The UK, US and EU have accused China of carrying out an attack on Microsoft Exchange email servers.
+
+  The attack affected about a quarter of a million Microsoft Exchange servers
+
+  The UK, US and EU have accused China of carrying out a major cyber-attack earlier this year.
+
+  The attack targeted Microsoft Exchange servers, affecting at least 30,000 organisations globally.
+
+  Western security services believe it signals a shift from a targeted espionage campaign to a smash-and-grab raid, leading to concerns Chinese cyber-behaviour is escalating.
+
+  The Chinese Ministry of State Security (MSS) has also been accused of wider espionage activity and a broader pattern of "reckless" behaviour.
+
+  China has previously denied allegations of hacking and says it opposes all forms of cyber-crime.
+
+  The unified call-out of Beijing shows the gravity with which this case has been taken. Western intelligence officials say aspects are markedly more serious than anything they have seen before.
+
+  It began in January when hackers from a Chinese-linked group known as Hafnium began exploiting a vulnerability in Microsoft Exchange. They used the vulnerability to insert backdoors into systems which they could return to later.
+
+  The UK said the attack was likely to enable large-scale espionage, including the acquisition of personal information and intellectual property.
+
+  It was mainly carried out against specific systems which aligned with Hafnium's previous targets, such as defence contractors, think tanks and universities.
+
+  "We believe that cyber-operators working under the control of Chinese intelligence learned about the Microsoft vulnerability in early January, and were racing to exploit the vulnerability before [it] was widely identified in the public domain," a security source told the BBC.
+
+  If this had been all, it would have been just another espionage operation. But in late February something significant changed.
+
+  The targeted attack became a mass pile-in when other China-based groups began to exploit the vulnerability. The targets scaled up to encompass key industries and governments worldwide.
+
+  It had turned from targeted espionage to a massive smash-and-grab raid.
+
+  Western security sources believe Hafnium obtained advance knowledge that Microsoft intended to patch or close the vulnerability, and so shared it with other China-based groups to maximise the benefit before it became obsolete.
+
+  It was the recklessness of the decision to spread the vulnerability that helped drive the decision to call out the Chinese publicly, officials say.
+
+  The UK is also understood to have raised the issue of Chinese cyber-activity in private with Beijing over an extended period, including handing over dossiers of evidence.
+
+  Microsoft went public about the vulnerability on 2 March and offered a patch to close it. At this point, more hackers around the world had realised its value and piled in.
+
+  Around a quarter of a million systems globally were left exposed - often small or medium-sized businesses and organisations - and at least 30,000 were compromised.
+
+  This video can not be played To play this video you need to enable JavaScript in your browser. China is denying allegations that its military is responsible for cyber attacks on global companies
+
+  Western governments accuse the MSS of using hackers for hire and want it to sever ties with them.
+
+  The UK Foreign Office said the Chinese government had "ignored repeated calls to end its reckless campaign, instead allowing state-backed actors to increase the scale of their attacks and act recklessly when caught".
+
+  The White House said it reserved the right to take additional actions against China over its cyber activities.
+
+  The EU, meanwhile, said the hack had "resulted in security risks and significant economic loss for our government institutions and private companies".
+
+  But Western spies are still struggling to understand why Chinese behaviour has changed. If the hackers were authorised to escalate, it would suggest a step-change in what the country is willing to do and raise the fear that they no longer care about being caught.
+
+  That is partly why so many governments have joined together to signal their concerns. Japan, Australia, Canada and New Zealand have joined Nato in issuing a statement in "solidarity".
+
+  The countries also called out wider Chinese behaviour which it linked to two groups known as APT 40 and APT 31, which are believed to be linked to the MSS.
+
+  Despite the strong language, there are no signs of fresh sanctions against China. In contrast, new sanctions were placed on Russia for the recent SolarWinds campaign which many experts believe was less serious than the Microsoft Exchange campaign linked to China.
+
+  Some officials, however, hope China is more sensitive than Russia to international pressure.
+
+  The US Department of Justice has announced criminal charges against four MSS hackers which it said were linked to a long-term campaign targeting foreign governments and entities in key sectors in a least a dozen countries.
+
+  Ultimately, Western security sources believe the MSS is behind all the activity revealed today and hope co-ordinated international action will put pressure on their activities.

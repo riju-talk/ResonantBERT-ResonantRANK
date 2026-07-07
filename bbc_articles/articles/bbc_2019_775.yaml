@@ -1,0 +1,47 @@
+id: bbc_2019_775
+title: Driverless car laser ruined camera - BBC News
+date: '2019-01-15'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-46875947
+content: |-
+  A man took a photo of a lidar sensor system on display at a tech fair and found pink dots on all his photos afterwards.
+
+  The purple dots and lines on this photo of the Stratosphere hotel in Las Vegas show the damage...
+
+  A man who took a photograph of a driverless car on display at the CES tech fair says his camera was damaged as a result.
+
+  Jit Ray Chowdhury noticed purple spots on all his photographs after taking a photo of a lidar laser scanning system displayed by San Francisco firm AEye.
+
+  He says the $1,198 (£930) Sony camera was one month old and the firm has offered to buy him a replacement.
+
+  AEye said its system is not harmful to human eyes.
+
+  Mr Chowdhury said at first he thought he had damaged the camera himself.
+
+  "It was the first morning of CES and I had some helicopter tours later on where I wanted to use this new camera and now it's not working," he said.
+
+  "Later at night after reading up on different types of camera sensor damages and going through the photos again I discovered that it was the lidar."
+
+  ... and in this aerial view of the Hoover Dam
+
+  AEye did not respond to the BBC's request for comment but in a statement to Ars Technica, chief executive Luis Dussan said: "Cameras are up to 1,000 times more sensitive to lasers than eyeballs... Occasionally, this can cause thermal damage to a camera's focal-plane array."
+
+  Mr Chowdhury said he was happy with the firm's response but he thought a warning should have been issued at the stand.
+
+  "I have personally tested many lidar systems and taken pictures up close and [they] did not harm my camera," he said.
+
+  "Lidar companies should test how camera-safe they are."
+
+  Lidar works in a similar way to radar and sonar, using lasers rather than radio or soundwaves, explained Zeina Nazer, a postgraduate researcher at the University of Southampton specialising in driverless car technology.
+
+  "Powerful lasers can damage cameras," she said.
+
+  "Camera sensors are, in general, more susceptible to damage than the human eye from lasers. Consumers are usually warned never to point a camera directly at laser emitters during a laser show."
+
+  The lidar system on the top of the demonstration car
+
+  Ms Nazer added that for cameras to be immune to high power laser beams, they need an optical filter that cuts out infrared which is invisible to humans. However, it can affect night vision, when infrared can be an advantage.
+
+  "AEye is known for its lidar units with much longer range than their competitors, ranging 1km compared to 200m or 300m," she said.
+
+  "In my opinion, AEye should not use their powerful fibre laser during shows."

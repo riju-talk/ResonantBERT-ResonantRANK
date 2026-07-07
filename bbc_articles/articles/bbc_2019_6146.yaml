@@ -1,0 +1,55 @@
+id: bbc_2019_6146
+title: Boeing admits knowing of 737 Max problem - BBC News
+date: '2019-05-06'
+section: Business
+url: http://www.bbc.co.uk/news/business-48174797
+content: |-
+  The firm says it uncovered a problem with its 737 Max jets a year before the first fatal crash.
+
+  Boeing has admitted that it knew about a problem with its 737 Max jets a year before the aircraft was involved in two fatal accidents, but took no action.
+
+  The firm said it had inadvertently made an alarm feature optional instead of standard, but insisted that this did not jeopardise flight safety.
+
+  All 737 Max planes were grounded in March after an Ethiopian Airlines flight crashed, killing 157 people.
+
+  Five months earlier, 189 people were killed in a Lion Air crash.
+
+  The worldwide fleet of 737 Max planes totalled 387 aircraft at the time of the grounding.
+
+  The feature at issue is known as the Angle of Attack (AOA) Disagree alert and was designed to let pilots know when two different sensors were reporting conflicting data.
+
+  The planemaker said it had intended to provide the feature as standard, but did not realise until deliveries had begun that it was only available if airlines purchased an optional indicator.
+
+  It said it had intended to deal with the problem in a later software update.
+
+  Boeing maintained that the software problem "did not adversely impact airplane safety or operation".
+
+  The US Federal Aviation Administration told Reuters news agency that Boeing had not informed it of the software issue until November 2018, a month after the Lion Air crash.
+
+  The FAA said the issue was "low risk", but said Boeing could have helped to "eliminate possible confusion" by letting it know earlier.
+
+  The flight angle of the plane has been identified as a factor in the disasters. Boeing has said that in both fatal crashes, erroneous AOA data was fed to the jet's Manoeuvring Characteristics Augmentation System (MCAS), an anti-stall system which has come under scrutiny since the crashes.
+
+  Boeing is developing new software for MCAS.
+
+  Boeing has admitted it was aware of a flaw on board the 737 Max months before the first accident, involving a Lion Air jet off the coast of Indonesia.
+
+  But was that flaw a factor in that accident? Would a working "AOA Disagree" alert actually have made any difference?
+
+  All it would have told the pilots was that the two angle-of-attack sensors aboard the plane were giving very different readings.
+
+  This mattered, because the MCAS system, which has been implicated in the crash, relied on data from a single sensor. A fault in that sensor may well have been the trigger for the crash.
+
+  But the pilots did not even know MCAS existed. It was a system designed to improve the handling of the aircraft and to operate in the background.
+
+  In the second accident, the pilots should at least have been aware of MCAS - and the sensor information could possibly have been of some use to them.
+
+  But given that they did in any case apparently follow procedures set out by Boeing to deal with an MCAS failure, but were still unable to maintain control, it is unlikely to have been a decisive factor.
+
+  Nevertheless, this will add to the pressure on Boeing - because despite being aware of an issue with the 737 Max, it initially chose not to inform airlines.
+
+  Yet as one 737 pilot told me: every warning system is there for a reason, so if you know there's a problem, why would you not fix it?
+
+  Boeing insists the AOA Disagree alert was not necessary for safe flight.
+
+  But critics will be asking whether the company was complacent - and whether there is anything else which the company has chosen not to pass on to its customers, affecting this type of aircraft or its other models.

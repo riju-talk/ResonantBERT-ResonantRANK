@@ -1,0 +1,75 @@
+id: bbc_2018_14813
+title: VTech flags tablet flaw after BBC Watchdog probe - BBC News
+date: '2018-12-05'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-46440532
+content: |-
+  Firm promotes software fix that blocks hackers from being able to spy on and chat to children.
+
+  VTech allows parents to determine which sites their children can visit with the tablet
+
+  Child gadget-maker VTech's website is promoting a security fix for its flagship tablet, following an investigation by BBC Watchdog Live.
+
+  The Storio Max - which is called the InnoTab Max in the UK - suffers a software flaw that could allow hackers to remotely take control of the device and snoop on its users.
+
+  VTech was alerted to the vulnerability months ago by a UK cyber-security firm.
+
+  The Chinese company issued a fix but some parents have yet to install it.
+
+  The notice at the top of its homepage and the broadcast of the BBC programme should ensure the issue gets more prominence.
+
+  It had previously relied on pop-up alerts that appeared on the devices themselves to prompt owners into action.
+
+  VTech said it was also contacting retailers that are selling affected units.
+
+  The issue has come to light nearly three years after the firm was criticised for its handling of a separate cyber-security incident that exposed millions of its child customers' account details.
+
+  Vtech markets the Max tablets to children aged between three and nine years old.
+
+  "This was a controlled and targeted 'ethical hack' by... a sophisticated cyber-firm that was in possession of a detailed knowledge of hacking techniques and InnoTab/Storio Max's firmware," said VTech in a statement about the latest incident.
+
+  "We are not aware of any actual attempt to exploit the vulnerability and we consider the prospects of this happening to be remote.
+
+  "However, the safety of children is our top priority and we are constantly looking to improve the security of our devices."
+
+  Vtech's Max tablets are designed to allow parents to restrict their children to websites that they have personally approved.
+
+  VTech markets the tablets as being suitable for children as young as three
+
+  But earlier this year, researchers at London-based SureCloud discovered a flaw in the firm's software that they said made it vulnerable to attack if one or more of the pre-vetted sites were compromised.
+
+  "To find the vulnerability in the first place wasn't easy," Luke Potter, the firm's cyber-security practice director told BBC News.
+
+  "But to actually exploit it once you know it's there is reasonably simple."
+
+  The flaw means that malicious code can be remotely triggered to run on the devices from afar.
+
+  Mr Potter said this could involve making use of "off-the-shelf" malware available from criminal markets or running customised code.
+
+  "Remote access can be gained without the child even knowing," he explained.
+
+  "So effectively being able to monitor the child, listen to them, talk to them, have full access and control of the device.
+
+  "For example, we demonstrated viewing things through the webcam."
+
+  Mr Potter said that after his firm informed VTech of the problem it was quick to issue a software fix in May.
+
+  VTech boasts about its safety credentials on its website, saying that '"through rigorous testing, we maintain strict control and supervision over the quality of our products".
+
+  SecureCloud said the problem was in VTech's software and not the underlying Android system
+
+  It told Watchdog Live: "We thank SureCloud for bringing this vulnerability... to our attention. We took immediate action in early summer to resolve the issue and pushed out a firmware upgrade to all affected InnoTab/Storio Max devices in Europe."
+
+  The company added that it had recently sent an email to European owners who had not performed the upgrade to urge them to do so.
+
+  But until BBC Watchdog Live got involved, VTech had not specifically warned customers about the security vulnerability or the risks it posed.
+
+  An "upgrade reminder" on its website is now more explicit and provides an illustrated step-by-step guide to applying the fix.
+
+  However, Mr Potter said the issue might have been picked up at an earlier stage had the tablets been subject to more thorough checks before going on sale.
+
+  "Any cyber-security firm that is following a best-practice approach to testing these devices... would be likely to have spotted this issue," he said.
+
+  The full report on the vulnerability can be seen on Watchdog Live tonight at 2000GMT on BBC One.
+
+  The BBC is not responsible for the content of external sites.

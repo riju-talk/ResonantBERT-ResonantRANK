@@ -1,0 +1,29 @@
+id: bbc_2020_11591
+title: Grindr accounts could be easily hacked with email address - BBC News
+date: '2020-10-05'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-54418933
+content: |-
+  The vulnerability was fixed before being exploited by any malicious parties, the LGBT dating app says.
+
+  A hack on Grindr allowed anyone with the email address linked to a valid account to reset the user's password and take over their profile.
+
+  Security experts revealed the vulnerability online - and reported it the LGBT dating app.
+
+  It enabled full access to an individual's account, including images, messages and HIV status.
+
+  Grindr said: "Thankfully, we believe we addressed the issue before it was exploited by any malicious parties."
+
+  The flaw was discovered by French security researcher Wassime Bouimadaghene and documented by security experts Troy Hunt and Scott Helme.
+
+  Hackers could find a reset-password link within the website's code
+
+  Grindr chief operating officer Rick Marini told news website TechCrunch: "We are grateful to the researcher who identified a vulnerability.
+
+  "The reported issue has been fixed."
+
+  Grindr was working to improve reporting procedure and incentives for security researchers to flag these issues, Mr Marini added.
+
+  In 2018, the app was criticised for sharing data, including HIV status, with two external companies.
+
+  It said the information had been shared to help test and improve the app.

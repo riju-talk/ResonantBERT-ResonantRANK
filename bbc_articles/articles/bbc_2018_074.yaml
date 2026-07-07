@@ -1,0 +1,47 @@
+id: bbc_2018_074
+title: Major flaw in millions of Intel chips revealed - BBC News
+date: '2018-01-03'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-42553818
+content: |-
+  A serious bug will need to be patched in millions of machines from the last decade.
+
+  A serious flaw in the design of Intel's chips will require Microsoft, Linux and Apple to update operating systems for computers around the world.
+
+  It is believed to affect chips in millions of computers from the last decade.
+
+  The UK's National Cyber Security Centre (NCSC) said it was aware of the issue and that patches were being produced.
+
+  In response, Intel said the issue was not limited to its processors and that it was working on a fix.
+
+  "Based on analysis to date, many types of computing devices - with many different vendors' processors and operating systems - are susceptible to these exploits," it said in a statement.
+
+  It said it was working to "develop an industry-wide approach to resolve this issue promptly and constructively".
+
+  "Intel has begun providing software and firmware updates to mitigate these exploits," it said.
+
+  Often when researchers discover a security problem, they share the information with the affected company so the issue can be fixed.
+
+  Typically, both parties agree not to publicise the problem until a fix has been implemented, so that criminals cannot take advantage of the issue.
+
+  This time it looks like somebody jumped the gun and information was leaked before a software fix was ready for distribution.
+
+  Intel said it had planned to share information next week, and several security researchers have tweeted that they have made a secrecy pact with the chip-maker.
+
+  That leaves the company in an uncomfortable situation, with a widely-publicised problem before the fix is ready to go.
+
+  Experts have said that the fix could slow down the performance of computers by up to 30% but Intel played this down, saying that "for the average user, performance impacts should not be significant and will be mitigated over time".
+
+  In response to the news, the NCSC said: "We are aware of reports about a potential flaw affecting some computer processors. At this stage there is no evidence of any malicious exploitation and patches are being produced for the major platforms."
+
+  "The NCSC advises that all organisations and home users continue to protect their systems from threats by installing patches as soon as they become available."
+
+  The flaw is also likely to affect major cloud computing platforms such as Amazon, Microsoft Azure and Google, according to The Register, which broke news of the bug.
+
+  Shares in Intel were down almost 6% in US trading after the issue was revealed, and ended the trading session close 3.4% lower.
+
+  "It is significant but whether it will be exploited widely is another matter," said Prof Alan Woodward, from the University of Surrey.
+
+  "The actual flaw is being rather tightly kept under wraps but from what researchers have gleaned themselves, it's all to do with a flaw in the way certain Intel CPUs address certain types of memory.
+
+  "If it is really bad then it may allow an exploit to read parts of the computer memory that should never be reached."

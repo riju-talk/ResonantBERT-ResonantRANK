@@ -1,0 +1,65 @@
+id: bbc_2021_12164
+title: Microsoft's passwordless plans lets users switch to app-based login - BBC News
+date: '2021-09-16'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-58575954
+content: |-
+  Microsoft says users can delete all passwords from their accounts and use a different login system.
+
+  Microsoft has announced users can now delete all passwords from their accounts and instead login using an authenticator app or other solution.
+
+  The technology giant made passwordless accounts available for business users of its products in March.
+
+  And that system is now being made available to all Microsoft or Windows users.
+
+  It said "nearly 100% of our employees" were already using the new, more secure system for their corporate accounts.
+
+  If passwordless login is enabled, users re-logging in to a Microsoft account will be asked to give their fingerprint, or other secure unlock, on their mobile phone.
+
+  And this is far more secure than using passwords, which can be guessed or stolen, according to Microsoft.
+
+  "Only you can provide fingerprint authentication or provide the right response on your mobile at the right time," it said.
+
+  Windows users will still be able to use quick-login features such as a Pin code, though.
+
+  Some rare exceptions will still need passwords, such as Office 2010, Xbox 360 consoles, and Windows 8.1 or earlier machines.
+
+  And if access to the authenticator app is lost - for example, if the phone it is installed on is lost or stolen or a user forgets when upgrading - backup options can be used, including:
+
+  But SMS and email are two of the most common channels for cyber-criminals targeting specific individuals
+
+  And Microsoft says security-conscious users who have two-factor authentication set up will need to have access to two different recovery methods.
+
+  Microsoft's messaging tells customers no passwords are more secure
+
+  Prof Alan Woodward, part of a research team investigating passwordless authentication, at the University of Surrey, called it "quite a bold step from Microsoft".
+
+  "This isn't just logging into PCs, it's logging into online services as well" - including important ones such as cloud storage, he said.
+
+  Microsoft laid out its reasons for the new system in a series of blog posts.
+
+  Security vice-president Vasu Jakkal wrote: "Passwords are incredibly inconvenient to create, remember, and manage across all the accounts in our lives.
+
+  "We are expected to create complex and unique passwords, remember them, and change them frequently - but nobody likes doing that."
+
+  The separate authenticator app - not pictured in this stock photo - is claimed to be more secure than a password
+
+  Instead, people tended to create insecure passwords that technically cleared the bar for using symbols, numbers or case sensitivity - but in order to remember them, used a repeated formula or the same password on multiple websites.
+
+  And that led to hackers guessing them or revealing them in a data breach and reusing them.
+
+  "Hackers don't break in, they log in," the blog post read.
+
+  The new passwordless feature greets users with a box saying: "A passwordless account reduces the risk of phishing and password attacks."
+
+  And once the feature is set up, a confirmation tells users: "You have increased the security of your account and improved your sign-in experience by removing your password".
+
+  Microsoft's claims about poor password use were largely true, Prof Woodward said.
+
+  "The message has been pummelled home about what good password hygiene looks like - but it's easier said than done," he said.
+
+  Passwords were a decades-old concept "and maybe the time is now right to start looking for something different".
+
+  But there were no currently agreed standards.
+
+  "There are a number of different ways this could be done - and it would be good if everybody moved on, really, and tried to find a way of doing this," Prof Woodward said.

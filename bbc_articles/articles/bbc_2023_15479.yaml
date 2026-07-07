@@ -1,0 +1,43 @@
+id: bbc_2023_15479
+title: Man trains home cameras to help repel badgers and foxes - BBC News
+date: '2023-10-10'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-67053171
+content: |-
+  James Milward went high tech in his quest to stop the animals fouling in his Surrey garden.
+
+  The Furbinator 3000 in action identifying foxes and badgers
+
+  A man got so fed up with foxes and badgers fouling in his garden that he adapted cameras to help repel them.
+
+  James Milward linked the Ring cameras at his Surrey home to a device that emits high frequency sounds.
+
+  He then trained the system using hundreds of images of the nocturnal nuisances so it learned to trigger the noise when it spotted them.
+
+  Mr Milward said it "sounds crazy" but the gadget he called the Furbinator 3000 has kept his garden clean.
+
+  Getting the camera system to understand what it was looking at was not straightforward though.
+
+  "At first it recognised the badger as an umbrella," he said. "I did some fine tuning and it came out as a sink, or a bear if I was lucky. Pretty much a spectacular failure."
+
+  James Milward has made the code he used to program his camera open source so others can use it
+
+  He fed in pictures of the animals through an artificial intelligence process called machine learning and finally, the device worked.
+
+  The camera spotted a badger, and the high frequency sound went off to send the unwanted night-time visitor on its way and leave the garden clean for Mr Milward's children to play in.
+
+  But ultrasonic animal deterrents are not without controversy.
+
+  The RSPCA has long-objected to them, stating: "Noise levels produced by such ultrasonic devices are likely to be aversive to some animals, potentially causing them discomfort, fear and/or pain and predicting an individual's response is difficult."
+
+  Mr Milward said he "recognises the importance of living harmoniously with wildlife" but just wanted a humane way of protecting his two young children from the mess left by foxes and badgers, while also preserving his garden.
+
+  The IT expert said he thought the technology could have much wider applications than a back garden in the home counties.
+
+  "In agricultural settings there aren't really any safe deterrents for getting rid of potential predators, and this is an ideal solution for that," he said, adding that a similar system could be used anywhere where humans and animals come into conflict.
+
+  Mr Milward said he was not looking to profit from the Furbinator and instead has made his code open source.
+
+  While he may find a wider audience for the device, he admitted at home his wife did not quite share his zeal for his pet project.
+
+  "I think she's quite perplexed as to what I'm doing," he said. "But she's very much used to me going down these crazy paths to solve what would seem a very simple problem."

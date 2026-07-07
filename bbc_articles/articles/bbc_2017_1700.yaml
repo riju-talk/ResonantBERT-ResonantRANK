@@ -1,0 +1,93 @@
+id: bbc_2017_1700
+title: How drug development is speeding up in the cloud - BBC News
+date: '2017-02-21'
+section: Business
+url: http://www.bbc.co.uk/news/business-39026239
+content: |-
+  How cloud computing is speeding up the development of potentially life-saving drugs.
+
+  Developing new drugs to fight major diseases can take years and cost billions of dollars
+
+  Developing a drug from a promising molecule to a potential life-saver can take more than a decade and cost billions of dollars.
+
+  Speeding this process up - without compromising on safety or efficacy - would seem to be in everyone's interests.
+
+  And cloud computing is helping to do just that.
+
+  "Cloud platforms are globally accessible and easily available," says Kevin Julian, managing director at Accenture Life Sciences, Accelerated R&D Services division.
+
+  "This allows for real-time collection of data from around the world, providing better access to data from inside life sciences companies, as well as from the many partners they work with in the drug development process."
+
+  All pharmaceutical drugs are tested on animals first before humans
+
+  Clinical trials - testing how a new drug works on people once you've tested it on animals - are a crucial part of this process. But they can be very complex to organise and run.
+
+  There are three main phases, starting with a small group of healthy volunteers, then widening out to larger groups who would benefit from the drug.
+
+  "A big phase three trial will cost anything from $30m-$60m (£24m-£48m) for a pharma company," says Steve Rosenberg, general manager of Oracle Health Sciences Global Business Unit.
+
+  These trials may be conducted over 30 to 50 countries and involve hundreds or even thousands of patients - this takes a lot of time and money.
+
+  Genomics is driving the development of more targeted drugs rather than "blockbusters"
+
+  "Patient recruitment has always been the number one problem," says Mr Rosenberg.
+
+  And as drug development targets more specific groups of people, largely thanks to the insights coming from genomics, finding the right patients for such clinical studies is becoming even harder.
+
+  This is where the cloud can help.
+
+  "With cloud and related technologies, we are now able to mine real-world data to find patient populations better, and utilise globally available technology to conduct trials in an even more distributed and inclusive manner," says Mr Julian.
+
+  Cloud and increasing digitalisation is also helping to improve the efficiency of data collection and analysis.
+
+  "Data collection used to be very inefficient, with data being written on paper forms, faxed and then entered into computers manually," explains Tarek Sherif, co-founder and chief executive of Medidata, a company that has developed a cloud platform for clinical trials.
+
+  "Then it had to be double-checked for errors. It could take up to a year before you could draw any conclusions from the patient data."
+
+  The demand for cheap medicines is often at odds with drug companies' need to make a profit
+
+  Digitising the process and automating the checking process in the cloud has reduced this time to "one to two weeks," says Mr Sherif.
+
+  And cloud offers many additional advantages to pharma companies, says Mr Rosenberg.
+
+  "These days health data is coming from a wide variety of sources, like labs, wearable devices, electronic diaries, health records. Pharma companies can't necessarily handle all the data that's coming in to them.
+
+  "So cloud computing helps them do that and gives them a whole bunch of other advantages - the technology is kept up to date, you get the latest security, the latest features and so on."
+
+  A spokesman for pharmaceutical giant GlaxoSmithKline (GSK) told the BBC: "Advances in computing and data analytics are providing new opportunities to improve the efficiency of our research and increase our understanding of a disease or a patient's response to medication."
+
+  Finding the right patients for a clinical trial is time-consuming and costly
+
+  Speeding up the clinical trial process also cuts costs.
+
+  "We were able to save one of our clients about 30% on the cost of running a trial," says Mr Sherif, whose firm facilitates nearly half of all clinical trials in the world and counts 17 of the top 25 pharma companies as clients.
+
+  And Accenture's Mr Julian says: "We've seen overall savings of 50% - in some cases up to 75% - on the historically labour-intensive parts of the drug development process."
+
+  Of course, not all prospective drugs work, or they're shown to work but not any better than existing drugs on the market.
+
+  "So the Holy Grail is to fail faster so you're not failing in the very final phases of drug development when you've already spent most of your money," says Mr Sherif.
+
+  Winning regulatory approval for a drug is only half the battle. Pharma companies also have to convince health services and insurance companies that's it's worth paying for.
+
+  In the past, patients were often asked to keep written diaries of their experiences with a drug being tested, but these were "horribly inefficient", says Mr Sherif.
+
+  So the rise of electronic diaries and wearable devices is helping to improve the evidence a pharma company can present in defence of their latest drug.
+
+  With this is mind, Oracle is helping add "mHealth" capability to Accenture Life Sciences' cloud platform.
+
+  And GSK says: "We've been conducting clinical studies with biosensors and mobile devices for some time.
+
+  "Today's digital technology is enabling us to collect and analyse data in new ways - monitoring activity and vital signs in patients, and collecting patient feedback in real time, improving the quality of data we use in the development of new medicines."
+
+  The cloud is also encouraging more pharma companies to co-operate on molecule development [the building blocks of a potential drug], says Mr Rosenberg, as well as on data analysis.
+
+  And all this anonymised patient data - historical and recent - can potentially be shared in the battle to combat disease.
+
+  Discovering new molecules that could be developed in to drugs is still very difficult
+
+  "We are seeing clients increasingly use 'virtual studies' - using external and historical data to perform advanced statistical analysis and reduce the need for complicated, costly site-based study activity," says Accenture's Mr Julian, citing a collaborative Alzheimer's project between some of its clients and the Coalition Against Major Disease.
+
+  But while efficiencies in the drug development process are undoubtedly being found, discovering the initial molecule is still very difficult, experts warn.
+
+  Cloud computing is having a big practical impact, but won't necessarily result in a flurry of "miracle" cures.

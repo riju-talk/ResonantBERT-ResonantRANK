@@ -1,0 +1,95 @@
+id: bbc_2021_1465
+title: '''Spy pixels in emails have become endemic'' - BBC News'
+date: '2021-02-17'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-56071437
+content: |-
+  Email app Hey reveals that two-thirds of the messages it handles contain the hidden trackers.
+
+  The use of "invisible" tracking tech in emails is now "endemic", according to a messaging service that analysed its traffic at the BBC's request.
+
+  Hey's review indicated that two-thirds of emails sent to its users' personal accounts contained a "spy pixel", even after excluding for spam.
+
+  Its makers said that many of the largest brands used email pixels, with the exception of the "big tech" firms.
+
+  Defenders of the trackers say they are a commonplace marketing tactic.
+
+  And several of the companies involved noted their use of such tech was mentioned within their wider privacy policies.
+
+  Emails pixels can be used to log:
+
+  This information can then be used to determine the impact of a specific email campaign, as well as to feed into more detailed customer profiles.
+
+  Hey's co-founder David Heinemeier Hansson says they amount to a "grotesque invasion of privacy".
+
+  Without special software, it is not easy to spot which emails contain a tracking pixel
+
+  And other experts have also questioned whether companies are being as transparent as required under law about their use.
+
+  Tracking pixels are typically a .GIF or .PNG file that is as small as 1x1 pixels, which is inserted into the header, footer or body of an email.
+
+  Since they often show the colour of the content below, they can be impossible to spot with the naked eye even if you know where to look.
+
+  Recipients do not need to click on a link or do anything to activate them beyond open an email they are embedded in.
+
+  British Airways, TalkTalk, Vodafone, Sainsbury's, Tesco, HSBC, Marks & Spencer, Asos and Unilever are among UK brands Hey detected to be using them.
+
+  But their use was much more widespread despite many members of the public being unaware of it, said Mr Hansson.
+
+  "It's not like there's a flag saying 'this email includes a spy pixel' in most email software," he added.
+
+  Hey does offer such a facility, but users must pay an annual subscription.
+
+  Hey alerts its customers to the use of pixel trackers and automatically blocks them
+
+  Alternatively, users can install free plug-ins into other email programs to strip out many pixel trackers. Other options are to simply set their software to block all images by default, or to view emails as plain text.
+
+  "On average, every Hey customer receives 24 emails per day that attempt to spy on them," Mr Hansson said.
+
+  "The top 10% of users receive more than 50.
+
+  "We're processing over one million emails a day and we're just a tiny service compared to the likes of Gmail, but that's north of 600,000 spying attempts blocked every day."
+
+  The BBC also uses email pixels in some of its communications, although this was not picked up by Hey.
+
+  Tracking pixels are a standard feature of automated email services used by large and small businesses, and in many cases the facility is difficult to turn off.
+
+  Two years ago Superhuman, a consumer-focused email client, tried to extend their use to the public as a default feature of its own, but reversed course after a public outcry.
+
+  That had little impact on the marketing industry's continued reliance on the tech.
+
+  Clients can use them to track how many emails in a specific campaign are opened in aggregate, as well as to automatically stop sending messages to customers who ignore them.
+
+  But a study by Princeton University also indicated the data gathered was sometimes linked to a users' cookies. This allows an individual's email address to be tied to their wider browsing habits, even as they move from one device to another.
+
+  "The resulting links between identities and web history profiles belie the claim of 'anonymous' web tracking," the paper warned.
+
+  In addition, trackers can also lead to personalised follow-ups.
+
+  "Particularly with salespeople or consultants, they can go: 'I saw you open my email yesterday, but you haven't replied yet. Can I call?'" said Mr Hansson.
+
+  "And in some cases they get outright belligerent when they see you've opened it three times but have still not replied."
+
+  Use of tracking pixels is governed in the UK and other parts of Europe by 2003's Privacy and Electronic Communications Regulations (Pecr) and 2016's General Data Protection Regulation (GDPR).
+
+  They require organisations to inform recipients of the pixels, and in most cases to obtain consent.
+
+  One privacy consultant said the Court of Justice of the European Union (CJEU) had previously ruled that such consent must be "unambiguous" and "a clear affirmative act".
+
+  "Solely placing something in a privacy notice is not consent, and it is hardly transparent," said Pat Walshe from Privacy Matters.
+
+  "The fact that tracking will take place and what that involves should be put in the user's face and involve them opting in.
+
+  "The law is clear enough, what we need is regulatory enforcement. Just because this practice is widespread doesn't mean it's correct and acceptable."
+
+  Mr Walshe noted that the ICO had used a pixel within its own e-newsletter.
+
+  The ICO tells users their interactions with its newsletter will be tracked on the sign-up form
+
+  The watchdog told the BBC it was used to track email openings, but not users' locations, adding: "We're working with our provider to remove the pixel functionality and this should be completed soon."
+
+  The BBC asked some of the companies identified by Hey for their own response.
+
+  British Airways said: "We take customer data extremely seriously, and use a cross-industry standard approach that allows us to understand how effective our customer communications are."
+
+  TalkTalk said: "As is common across our industry and others, we track the performance of different types of communications to understand what our customers prefer. We do not share this data externally."

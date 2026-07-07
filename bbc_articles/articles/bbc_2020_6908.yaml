@@ -1,0 +1,67 @@
+id: bbc_2020_6908
+title: The 'new normal' as cyber-spies navigate pandemic - BBC News
+date: '2020-06-19'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-52992677
+content: |-
+  How countries have had to change focus to fight the new threat of Covid-19.
+
+  Hospitals are now the target of state hackers
+
+  The Covid crisis has reshaped the cyber-threat landscape around the globe.
+
+  There may not have been a significant increase in the volume of cyber-attacks, but countries have pursued new targets, pushed boundaries and taken advantage of their adversaries working from home, according to cyber-security experts.
+
+  Understanding the crisis is the highest priority for almost every government - vital to their security, and in some cases their political survival at home.
+
+  From January, states began urgently tasking their cyber-security teams with gathering information.
+
+  Intelligence analysts say some of the normally less active states have begun using cyber-espionage more aggressively and they have seen allies target each other for information for the first time. "It's a free-for-all out there - and with good reason - you don't want to be the intelligence agency that doesn't have a good answer for what's going on," says John Hultquist, director of threat analysis at Mandiant.
+
+  In an era of controlled borders and lockdowns, spy agencies have found it harder to use human assets and so relied even more on cyber-spies and pushed them to do more.
+
+  Those involved in responding to the crisis have become a prime target. The World Health Organization has been targeted by Russian, Iranian and South Korean hackers, among others.
+
+  And according to one Western intelligence official, "everyone" is targeting the Wuhan Institute, probably to see if there is any evidence to back up the allegations that the virus could somehow have escaped from there. Western spies have been told that discovering any evidence of a cover-up in China is a top priority.
+
+  Some countries are asking cyber-spies to investigate the Wuhan Institute of Virology
+
+  Many of the new targets - like local authorities and the health sector - were not used to being in the sights of high-end threat actors.
+
+  In the UK, the National Cyber Security Centre moved to protect areas which were overnight suddenly considered part of the critical national infrastructure. The US Cybersecurity and Infrastructure Security Agency has drawn up a list of all of those involved in Covid-19 response, including purchasing organisations which supply vital equipment.
+
+  One of the complexities has been that foreign pharmaceutical companies may end up being vital to the US, making protecting a broader global health supply chain a new challenge.
+
+  And ransomware, usually motivated by crime, has also become a greater worry for defenders, since a localised incident at a hospital or a city can be more serious when under strain from the virus.
+
+  There was particular concern when Fresenius, a German-based major provider of medical equipment and healthcare services, was taken down by an attack with wider knock-on effects.
+
+  State-based cyber-espionage teams have not necessarily grown in size. "Spinning up a new programme can take a bit of time", Adam Meyers of CrowdStrike says, and most are not able to work from home. "A lot of it requires them working on government facilities."
+
+  But diverting a new team to a new target is easy, argues John Hultquist. "This is a capability you can pivot on a dime - you can, say, get into Wuhan tomorrow, and you can start looking for emails and spear-phishing," he says.
+
+  Ransomware attacks are more dangerous when healthcare and cities are already under strain
+
+  UK intelligence officials talk of a change of focus - from looking at Chinese actors targeting the energy sector to looking at the health sector, including vaccine research. But China is not the only country active in this space. "Others are in the game too. It is a very active space," says one US cyber-security official.
+
+  "China's own cyber-teams had to work from home at the beginning of the year and that affected productivity - there was relatively limited activity over the winter months, to include the traditionally slow Chinese New Year, but then pushed back in the spring," says Dmitri Alperovitch, who co-founded CrowdStrike.
+
+  "And they are now also doing more information operations as well as espionage - they are really learning from the Russian playbook in that matter, such as getting better at setting up fake personas in support of China's propaganda, that look more realistic and Western."
+
+  And the new normal of working from home is adding to the problem for cyber-spies. "Russia has realised that intelligence communities are functioning with one hand behind their back as they are not letting everyone go into work, and trying to take advantage of that situation to infiltrate the networks of defence contractors and governments," says Mr Alperovitch.
+
+  Many organisations managed the shift by adopting temporary security fixes, which may be hard to sustain.
+
+  The crisis has also increased the challenges for defenders, argues Nadav Zafrir, a former commander of Israel's Unit 8200 military cyber-agency, and now a founding partner of Team8.
+
+  Using Artificial Intelligence (AI) to understand normal behaviour and then look for deviations is a common tool which has struggled to adapt. "The workforce is so dispersed that trying to understand what is an anomaly right now is almost impossible," Mr Zafrir says. "There is no normal, no baseline."
+
+  Working from home has added a new complexity for organisations wanting to protect themselves against cyber-attack
+
+  That view is echoed by Mike Rogers, a former head of the US National Security Agency, and now a senior adviser to Team8. "AI takes time and data to work so when you have significant disruption as we are just experiencing now, you need time and you need data from this new normal to get a sense of what's anomalous...and that time lag tends to favour attackers."
+
+  One of the hardest threats to spot can be insiders within a company or organisation who provide access to networks. The economic and psychological stresses of the current crisis - including the sense of detachment from the normal office and colleagues - could heighten those dangers.
+
+  "The sad reality is human beings under stress for extended periods of time will sometimes make bad choices," argues Mr Rogers.
+
+  As with other areas of life, it is not yet clear what a return to normal in cyber-space will look like or when it will happen. But one key lesson, he believes, is that all organisations will need to ensure they have more resilience, ready for whatever the next crisis may be.

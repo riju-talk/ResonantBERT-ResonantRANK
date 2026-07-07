@@ -1,0 +1,67 @@
+id: bbc_2021_4244
+title: NHS Covid-19 contact tracing app to share QR code venue check-ins - BBC News
+date: '2021-04-07'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-56649065
+content: |-
+  The move should lead to more people being told to get tested for Covid-19.
+
+  Shops, restaurants and bars will offer QR barcode check-ins once restrictions ease
+
+  England and Wales' contact tracing app will soon ask users to share details of venues they have checked in to, if they test positive for the coronavirus.
+
+  The update to the NHS Covid-19 app will be deployed ahead of shops reopening in both nations on 12 April, as well as outdoor hospitality in England.
+
+  The authorities will be able to use the information to tell other visitors if they need to be tested for the virus.
+
+  But the system has been designed to protect users' anonymity.
+
+  "The app has been designed with user privacy in mind, so it tracks the virus not people, and uses the latest in data security technology to protect privacy," said a spokeswoman for the Department of Health and Social Care.
+
+  Until now, the QR barcode-scanning facility only came into use if local authorities themselves flagged a location as being a virus hotspot by other means.
+
+  This would then trigger a process whereby each phone could check if it had been at one of the affected venues on the dates concerned, and send the owner an alert.
+
+  But the facility has rarely been used, despite more than 106 million check-ins.
+
+  In March, Sky News reported that "capacity issues at a local level" were blamed for this, with overburdened health protection teams unclear about what they were supposed to do.
+
+  The decision to automate the system via users' own actions could help address this.
+
+  The QR barcode posters are being relaunched with a simplified design ahead of 12 April
+
+  People might have reservations about disclosing where they have been and when.
+
+  To address this, the Department of Health has said a "privacy-protecting" approach is being taken.
+
+  The app will only share venue history data if users opt in.
+
+  And rather than any names or other personal details being disclosed, the software will simply inform the system when an infected user had visited the locations.
+
+  Depending on the thresholds set - for example how many infected users visited the same place on the same day - other app users can then be told to either monitor their symptoms or immediately get a test, whether they feel ill or not.
+
+  It is not intended that the check-in tool be used alone to force others to self-isolate.
+
+  "People shouldn't be worried about this as effectively they aren't being asked where they were, but rather where an unidentified person testing positive with Covid was," commented Prof Alan Woodward, a security expert from the University of Surrey.
+
+  Further details will be revealed in a forthcoming revision to the app's data protection impact assessment (DPIA) document.
+
+  Privacy advocates have, however, raised concerns about a parallel system being run in Scotland.
+
+  Users there are being asked to use a new app - Check In Scotland - to register at venues.
+
+  The Check In Scotland app was launched on 18 December
+
+  It is separate to the Protect Scotland contact-tracing app, and thus not bound to the same privacy-preserving measures demanded by Google and Apple, which provide some of the technology involved.
+
+  Check In Scotland uploads the name, email address and mobile phone number of each user to a "secure" centralised database along with the time of their visit to each venue.
+
+  The justification given is two-fold:
+
+  Users are told the data should only be used to try to combat the virus.
+
+  But the DPIA acknowledges that the information could, in theory, be disclosed for other purposes if demanded via a court order or ministerial direction.
+
+  Some experts are concerned this leaves the door open to it being "misused".
+
+  "The concern is that this infrastructure, once in place, is unlikely to go away because the coronavirus will be with us for a long time," said Prof Michael Veale, a lecturer in digital rights at University College London.

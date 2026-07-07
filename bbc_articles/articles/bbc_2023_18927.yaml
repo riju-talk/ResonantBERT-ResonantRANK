@@ -1,0 +1,37 @@
+id: bbc_2023_18927
+title: '23andMe: Profiles of 6.9 million people hacked - BBC News'
+date: '2023-12-05'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-67624182
+content: |-
+  Hackers were able to gain access because some customers reused old passwords, biotech company 23andMe said.
+
+  Hackers have been able to gain access to personal information from about 6.9 million users of genetic testing company 23andMe, using customers' old passwords.
+
+  In some cases this included family trees, birth years and geographic locations, the company said.
+
+  After weeks of speculation the firm has put a number on the breach, with more than half of its customers affected.
+
+  The stolen data does not include DNA records.
+
+  23andMe is a giant of the growing ancestor-tracing industry. It offers genetic testing from DNA, with ancestry breakdown and personalised health insights.
+
+  The biotechnology company, which is based in South San Francisco, was not hacked itself but cyber-criminals logged into about 14,000 individual accounts, or 0.1% of customers, by using email and password details previously exposed in other hacks.
+
+  As was first reported by Tech Crunch, the company has acknowledged that by accessing those accounts, hackers were then able to find their way into "a significant number of files containing profile information about other users' ancestry".
+
+  The criminals downloaded not just the data from those accounts but the private information of all other users they had links to across the sprawling family trees on the website.
+
+  The stolen data includes information like names, how each person is linked and in some cases birth years, locations, pictures, addresses and the percentage of DNA shared with relatives.
+
+  As first reported by TechCrunch, the hackers were able to access the family tree profile information of about 1.4 million other customers participating in the DNA relatives feature, including display names and relationship labels.
+
+  One batch of data was advertised on a hacking forum as a list of people with Jewish ancestry, sparking concerns of targeted attacks.
+
+  But there is currently no evidence that any of the datasets being advertised have had any buyers or that they have been used by criminals.
+
+  Oz Alashe, CEO of CybSafe, a risk management platform, said that the data breach at 23andMe "emphasises the importance of improving cyber-security behaviours in the general population".
+
+  "Poorly secured accounts, with weak passwords and no two-factor authentication, put all those sharing their sensitive data at risk," he said.
+
+  23andMe said it was now telling all affected customers, as required by law. The firm will be forcing customers to change their passwords and improve their account security.

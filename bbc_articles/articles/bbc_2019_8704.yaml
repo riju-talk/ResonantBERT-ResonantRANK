@@ -1,0 +1,59 @@
+id: bbc_2019_8704
+title: Cat flap uses AI to punish pet's killer instincts - BBC News
+date: '2019-07-01'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-48825761
+content: |-
+  An Amazon engineer uses machine learning to lock out his cat when it brings back prey in its mouth.
+
+  Mr Hamm said he sometimes had to kill the prey himself in cases where the animals were badly wounded
+
+  A cat flap that automatically bars entry to a pet if it tries to enter with prey in its jaws has been built as a DIY project by an Amazon employee.
+
+  Ben Hamm used machine-learning software to train a system to recognise when his cat Metric was approaching with a rodent or bird in its mouth.
+
+  When it detected such an attack, he said, a computer attached to the flap's lock triggered a 15-minute shut-out.
+
+  Mr Hamm unveiled his invention at an event in Seattle last month.
+
+  The presentation was subsequently brought to light by tech news site The Verge.
+
+  Mr Hamm used two of Amazon's own tools to achieve his goal:
+
+  He explained that the most time-consuming part of the task had been the need to supply more than 23,000 photos.
+
+  Each had to be hand-sorted to determine whether the cat was in view, whether it was coming or going and if it was carrying prey.
+
+  Mr Hamm had to create a database of thousands of images to train the software
+
+  The process took advantage of a technique called supervised learning, in which a computer is trained to recognise patterns in images or other supplied data via labels given to the examples. The idea is that once the system has enough examples to work off, it can apply the same labels itself to new cases.
+
+  One of the limitations of the technique is that hundreds of thousands or even millions of examples are sometimes needed to make such systems trustworthy.
+
+  Mr Hamm acknowledged that in this case the results were not 100% accurate.
+
+  Over a five-week period, he recalled, Metric was unfairly locked out once. In addition, the cat was also able to gain entry once out of the seven times it had caught a victim.
+
+  But when a software engineer suggested that it might have been easier to teach his cat to change its behaviour rather than train a computer model, Mr Hamm defended his work.
+
+  "Negative reinforcement doesn't work for cats, and I'd challenge you to come up with a way to use rewards to prevent a behaviour that an animal exhibits once every 10 days at 3am!" he tweeted in response.
+
+  This is far from the only time that machine learning tech has been used to try to help cat owners.
+
+  Another Amazon worker recently revealed he had used a similar set-up to try to prevent his cat from sitting on his living room table.
+
+  This Twitter post cannot be displayed in your browser. Please enable Javascript or try a different browser. View original content on Twitter The BBC is not responsible for the content of external sites. Skip twitter post by Martin Dominguez This article contains content provided by Twitter. We ask for your permission before anything is loaded, as they may be using cookies and other technologies. You may want to read Twitter’s cookie policy, external and privacy policy, external before accepting. To view this content choose ‘accept and continue’. The BBC is not responsible for the content of external sites.
+
+  Meanwhile, developers at Microsoft previously shared details of a smart cat flap they had built that used facial recognition tech to recognise the owner's pet, but block access to other animals.
+
+  One expert told the BBC that the rapid roll-out of cloud-based artificial intelligence tools by the tech giants meant such experiments could now be carried out by increasing numbers of people.
+
+  "Amazon, Google and Microsoft have made it much easier to use AI by providing services like Sagemaker, that need little or no coding skill to use," said Martin Garner, from the CCS Insight consultancy.
+
+  "But truly 'democratising AI', so that anyone can use it, is as risky as democratising dentistry - what the world really needs is more properly trained AI engineers."
+
+  In particular, there has been concern that image recognition tech is being deployed for use with humans before law-makers have had a chance to properly consider the implications.
+
+  Amazon recently faced criticism that it was allowing US police forces to use Rekognition - another of its machine-learning tools - to identify suspects despite concerns that officers did not always follow its best practice guidelines.
+
+  And the UK's surveillance camera commissioner recently warned that facial recognition could be used to create a "dystopian society" in which citizens are regularly tracked whenever they leave their homes.

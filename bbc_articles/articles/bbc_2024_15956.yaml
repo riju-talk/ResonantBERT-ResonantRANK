@@ -1,0 +1,24 @@
+id: bbc_2024_15956
+title: 'Microsoft IT outage: Global services slowly recovering after bug causes chaos
+  - BBC News'
+date: '2024-07-20'
+section: Technology
+url: http://www.bbc.co.uk/news/articles/cg3m4jgdprxo
+content: |-
+  The incident has sparked concern over the vulnerability of the world's interconnected technologies.
+
+  Global services slowly recovering after bug causes IT chaos
+
+  The outage has caused major delays at airports around the world
+
+  Businesses and services around the world are slowly recovering after a massive IT outage affected computer systems for hours on Thursday and Friday. Businesses, banks, hospitals and airlines were among the worst-hit after cyber-security firm CrowdStrike issued a faulty software update which affected Microsoft Windows. CrowdStrike's CEO apologised for the disruption and said a fix had been issued, but admitted it could be "some time" before all systems were back up and running. While some airline services are beginning to return to normal after thousands of flights were cancelled, operators expect some delays and cancellations to persist through the weekend.
+
+  Many businesses are now dealing with backlogs and missed orders that could take days to resolve. Health services in Britain, Israel and Germany also suffered problems, with some operations cancelled. The global chaos has sparked concern over the vulnerability of the world's interconnected technologies, and the extent to which a single software glitch could have such widespread impact.
+
+  The issue began at 19:00 GMT on Thursday, affecting Windows users running cybersecurity software CrowdStrike Falcon, according to Microsoft, though the full extent of the problem only became clear by Friday morning. But by Friday evening, the problems were easing in many parts of the globe, with many airports saying that while there were still issues with check-in and payment systems, most flights were now running. Hong Kong International Airport has resumed normal operations, according to Chinese state media. Meanwhile, JP Morgan Chase, the biggest bank in the US, said it is working to restore service to ATM machines. The website Downdetector, which detects sites which may be having tech issues, showed fewer sites in the UK which were experiencing problems by the end of the day. CrowdStrike CEO George Kurtz said on X that a defect was found "in a single content update for Windows hosts". "We're deeply sorry for the impact that we've caused to customers, to travellers, to anyone affected by this, including our company," he told the NBC network. "Many of the customers are rebooting the system and it's coming up and it'll be operational. "It could be some time for some systems that just automatically won't recover, but it is our mission... to make sure every customer is fully recovered."
+
+  This video can not be played To play this video you need to enable JavaScript in your browser.
+
+  Microsoft has also said that several reboots may be required, with some users reporting that as many as 15 could be needed before the problem is fixed. Also, tech experts say CrowdStrike's fix will have to be applied separately to each and every device affected. Questions are likely now to be raised about CrowdStrike's influence as one of the largest operators in the cyber-security market and the wisdom of having such a crucial part of the industry controlled by just a small number of companies. CrowdStrike's shares fell by around 12% on Friday, at the expense of rivals SentinelOne and Palo Alto Networks. The problems were first noticed in Australia, and possibly felt most severely in the air travel industry. Airports saw delays, with long queues as flights were cancelled or delayed, aircraft grounded and passengers stranded. Some saw extra staff drafted in to check in passengers manually. By 18:00 GMT, aviation data from Cirium suggested that more than 4,000 flights - or 3.9% of the total - had been cancelled so far on Friday, though the figure may also include flights cancelled for other reasons. Payment systems, banking and healthcare providers around the world were affected. It is thought the outage may also have a longer term effect as companies struggle to pay wages to staff, particularly where payments are made on a weekly basis. Some railway companies warned of delays, and broadcasters Sky News and ABC Australia both experienced outages.
+
+  How is the IT outage affecting you?

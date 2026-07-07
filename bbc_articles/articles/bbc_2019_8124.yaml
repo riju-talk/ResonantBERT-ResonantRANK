@@ -1,0 +1,41 @@
+id: bbc_2019_8124
+title: Equifax to pay up to $700m to settle data breach - BBC News
+date: '2019-07-22'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-49070596
+content: |-
+  The credit score agency has agreed a settlement after hackers stole 147 million people's details.
+
+  Credit score agency Equifax has agreed to pay up to $700m (£561m) as part of a settlement with a US regulator following a data breach in 2017.
+
+  The Federal Trade Commission had alleged the Atlanta-based firm failed to take reasonable steps to secure its network.
+
+  The records of at least 147 million people were exposed in the incident.
+
+  At least $300m will go towards paying for identity theft services and other related expenses run up by the victims.
+
+  This sum will expand to a maximum of $425m, if required to cover the consumers' losses.
+
+  The rest of the money will be divided between 50 US states and territories and a penalty paid to the Consumer Financial Protection Bureau.
+
+  It represents the FTC's largest data-breach settlement to date, topping a $148m penalty Uber agreed to last year.
+
+  "Equifax failed to take basic steps that may have prevented the breach," said the FTC's chairman Joe Simons.
+
+  "This settlement requires that the company take steps to improve its data security going forward, and will ensure that consumers harmed by this breach can receive help protecting themselves from identity theft and fraud."
+
+  The agency added that among the stolen information, the hackers copied:
+
+  The UK's Information Commissioner's Office has already issued the company with a £500,000 fine for failing to protect the personal information of up to 15 million UK citizens during the same attack.
+
+  Equifax had been warned in March that one of its databases - the Equifax Automated Consumer Interview System (ACIS) - suffered from a critical vulnerability, the FTC said.
+
+  The ACIS was used by members of the public to check their own credit reports. But because of the way that Equifax's IT systems had evolved, it also provided a means for hackers to access other unrelated records stored by the firm.
+
+  The FTC alleged that Equifax's security team ordered that the vulnerable systems be patched within 48 hours after being informed of the discovery in March 2017.
+
+  But the watchdog added that the firm failed to check that this was done, and that as a consequence multiple hackers were able to exploit the flaw and steal consumers' personal details over a period of several months.
+
+  To make matters worse, it said, much of the sensitive information had been stored unencrypted in plain text.
+
+  As part of the settlement the FTC said that Equifax had also agreed to:

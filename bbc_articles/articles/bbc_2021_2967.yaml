@@ -1,0 +1,137 @@
+id: bbc_2021_2967
+title: 'Intel chief Pat Gelsinger: Too many chips made in Asia - BBC News'
+date: '2021-03-25'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-56512430
+content: |-
+  The firm now aims to supply others with processors made in factories based in the US and Europe.
+
+  Intel's new chief executive has told the BBC it is not "palatable" that so many computer chips are made in Asia.
+
+  The majority of processors are currently manufactured in the region, with Taiwan's TSMC and South Korea's Samsung the dominant players.
+
+  US-based Intel plans to set up a new division to make chips for other companies based on their own designs.
+
+  Until now, its focus had been on manufacturing its own chips in its factories across the world.
+
+  Pat Gelsinger has said Intel will invest $20bn (£14.6bn) in two new fabrication plants in the US state of Arizona, in addition to a major expansion of an existing Irish facility in County Kildare.
+
+  "Having 80% of all supply in Asia simply isn't a palatable manner for the world to have its view of the most critical technology," Mr Gelsinger said.
+
+  "Every smartphone, every telemedicine, every remote worker, every remote education, every autonomous vehicle, every aspect of humanity is becoming more digital.
+
+  "And when it becomes digital, it runs on semiconductors.
+
+  "This is the heart of every aspect of human existence going forward. And the world needs a more balanced supply chain to accomplish that. We're stepping in."
+
+  Intel says the expansion of its facility in Leixlip, County Kildare, will create 1,600 permanent jobs
+
+  He added that Intel also intended to build a further chip-making foundry in a different European nation, but would not be drawn about exactly where.
+
+  While these moves will be too late to tackle an existing shortage of chips which is causing problems for car-makers and others, they could help the West avert a future crisis.
+
+  Politicians in the US and the EU have called for more chip-producing factories to be built locally.
+
+  This is partly driven by concerns that Beijing aims to reunify mainland China with Taiwan, while North Korea poses a threat to its southern neighbour.
+
+  However, Intel has repeatedly missed manufacturing targets over recent years.
+
+  As a consequence, its latest desktop processors use older transistor technology than rival silicon from AMD and Apple, putting the components at a disadvantage.
+
+  Mr Gelsinger must now prove his company has put these problems behind it if the new business is to thrive.
+
+  The 60-year-old only returned to Intel last month after his predecessor was ousted over concerns about falling market share, among other problems.
+
+  Chip manufacturing requires dust-free environments so the transistors and circuits are not damaged
+
+  But earlier in his career, Mr Gelsinger spent three decades at Intel, including a role as its first chief technical officer.
+
+  One activist investor had pressed him to go "fab-less", and spin off Intel's plants to concentrate on chip designs.
+
+  But Mr Gelsinger has instead chosen what looks like a tougher challenge in order to restore the company to its past glories.
+
+  And that includes letting clients order chips that mix together their own technologies with some of Intel's own architectures for an extra fee.
+
+  "We're putting it all on the table," he said.
+
+  The following interview has been edited for clarity and brevity:
+
+  This video can not be played To play this video you need to enable JavaScript in your browser. WATCH: Pat Gelsinger says he hopes Apple will be among third parties to get Intel to make their chips
+
+  Let's start with the new Intel Foundry Services business. It sounds like you're going all out to make chips for other companies who lack the facilities to do so themselves. But why help the competition?
+
+  Manufacturing is a capacity game. And if you're not leading in terms of total capacity, you will fall behind. So to some degree it's a necessity. If we're going to be in the manufacturing business, we have to be a foundry for ourselves and for others.
+
+  Simply put, the world needs more semiconductors.
+
+  We're in an environment where digitisation was at a strong pace of growth. And then Covid kicked us into a dramatically different gear.
+
+  The world needs more semiconductors, and we're one of the few companies that have leading-edge technologies to be able to step into that void. And to keep it for our own products simply is not the right thing for the planet, for the industry, and for a globally distributed supply chain.
+
+  How disruptive do you think it will be, coming in to take business away from Samsung and TSMC?
+
+  Overall I think everybody is groaning to catch up to the overwhelming demand. And we're going to use Samsung and TSMC for some of our products.
+
+  So this is about "co-op-petition". We expect to have strong partnerships with them as customers, and in some cases we'll compete a little bit. But overall, this is a rapidly growing $100bn market segment that simply needs more supply.
+
+  It also needs more geographically balanced supply.
+
+  Today there's a heavy bias to Asia. And as we've seen, coming out of some of the disruptions and challenges, the world needs US and European supply in a more balanced way. It's the right thing for the global supply chain requirements, for both commercial as well as for government and defence use as well.
+
+  You also have a large chip plant in Dalian, China. Are there any plans to build new ones in China?
+
+  At this point, we have no expansion plans for what we have there.
+
+  The announcement yesterday was for two new fabs in Arizona. I already have construction projects going on in Oregon, Ireland and in Israel.
+
+  And we announced that we expect to open our next sites, in both Europe and the US, within the next year. So at this point, four major sites under construction, and I hope to add two more within the next year.
+
+  When you say you want to build more in Europe, is that going to just be more in Ireland or Israel? Or are you looking at other countries, the UK perhaps?
+
+  I fully expect that we'll open up a site in another country in Europe.
+
+  I'm not going to speculate any further right now.
+
+  But just to put this in context: these are extraordinary capital investments. They're also extraordinary job generators.
+
+  You've said you hope Apple might be one of your clients, despite its decision to stop using Intel's own chips. Is that realistic?
+
+  Everybody wants multiple suppliers. So we think there's very real potential. But I have to earn that business. I have to be able to go to my competitors and be able to say: "I want you to become my customer."
+
+  That also includes Nvidia, Qualcomm and Broadcom, in addition to Microsoft and IBM. I want all of them to say: "I need more technology... and I trust that Intel is going to become one of my key suppliers."
+
+  And that includes Apple as one of the biggest users of advanced semiconductor capabilities.
+
+  Intel is running a series of ads in which Mac computers come off worse against PCs powered by Intel chips
+
+  Apple can be a little thin-skinned at times. So is it wise to be running a high-profile ad campaign mocking its computers at the same time as saying we'd like to be your partner again?
+
+  We have great respect for Apple as a company. They're an innovator. They've done incredible things in the industry. Tim Cook is a great leader.
+
+  At the same time, we're going to be aggressive competitors and we're out to reinvigorate the PC ecosystem.
+
+  So we're going to enjoy ourselves. We're going to compete aggressively. And I'm also going to take care of my customers.
+
+  Regarding your own chips, you say you've now mastered your seven nanometre process, which roughly equates to what TSMC and Samsung market as 5nm. But we've heard promises from Intel before, and then things have slipped. What's different this time?
+
+  We've understood the core issues. What really happened was problems with our 10nm effort caused a domino delay to 7nm.
+
+  There's an advanced manufacturing technique called extreme ultraviolet lithography. It was immature, and we bet against it. As we shifted in time, it became more mature. Now we've embraced it fully.
+
+  It's the same thing that TSMC is doing, and leveraging it aggressively.
+
+  TSMC is currently the world's leading supplier of computer chips
+
+  So we feel that we're now in a very predictable pace.
+
+  I have confidence that we're back on track. But not just for 7nm. Our programmes that go for several nodes beyond that are showing very good success.
+
+  We've also announced a research partnership with IBM. So, we have a rich portfolio of tricks and ideas and innovations to choose from to put us on a course for the long-term leadership of Intel.
+
+  When you say leadership, just to be clear, do you think you could overtake TSMC and Samsung in chip-making capabilities?
+
+  Intel led the semiconductor industry for 20-plus years in innovation.
+
+  We hit a pothole. We're now digging our way out of that pothole. And I'm looking forward to decades of continued leadership in this area.
+
+  Parity. Parity-plus. And then sustained leadership. That's the path that we're on.

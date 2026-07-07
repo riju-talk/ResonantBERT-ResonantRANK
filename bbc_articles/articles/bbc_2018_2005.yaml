@@ -1,0 +1,57 @@
+id: bbc_2018_2005
+title: Hackers hijack government websites to mine crypto-cash - BBC News
+date: '2018-02-11'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-43025788
+content: |-
+  A security expert says thousands of sites used visitors' computers to mine cryptocurrency.
+
+  The Information Commissioner's Office (ICO) took down its website after a warning that hackers were taking control of visitors' computers to mine cryptocurrency.
+
+  Security researcher Scott Helme said more than 4,000 websites, including many government ones, were affected.
+
+  He said the affected code had now been disabled and visitors were no longer at risk.
+
+  The ICO said: "We are aware of the issue and are working to resolve it."
+
+  Mr Helme said he was alerted by a friend who had received a malware warning when he visited the ICO website.
+
+  He traced the problem to a website plug-in called Browsealoud, used to help blind and partially sighted people access the web.
+
+  Texthelp, the company which makes the plug-in, confirmed that the product was affected for four hours by malicious code designed to generate cryptocurrency.
+
+  The cryptocurrency involved was Monero - a rival to Bitcoin that is designed to make transactions in it "untraceable" back to the senders and recipients involved.
+
+  The plug-in had been tampered with to add a program, Coinhive, which "mines" for Monero by running processor-intensive calculations on visitors' computers.
+
+  Once the plug-in was infected, it affected thousands of other websites in addition to the ICO's, which used it.
+
+  The surge in value of Bitcoin and other cryptocurrencies hasn't escaped the attention of hackers looking to make a quick buck.
+
+  Mining, the process where new digital coins are created by solving complex mathematical problems, uses increasing amounts of computer processing power and that means big electricity bills.
+
+  All the better then if you can get other people's computers to do the job. The hackers do this by inserting software into websites which then means that, unbeknown to them, visitors' computers are put to work mining cryptocurrencies.
+
+  It seems that the Information Commissioner's site along with others run by the government were infected by crypto-mining code injected into some accessibility software they all use.
+
+  This kind of attack is becoming increasingly common and while it appears not to cause data loss or damage to systems, it does mean computers can run much more slowly.
+
+  Mr Helme said: "It's a very lucrative proposal. They infect one website and it infects close to 5,000.
+
+  "This was a very serious breach. They could have extracted personal data, stolen information or installed malware. It was only limited by the hackers' imaginations."
+
+  As well as the ICO website, the hacked script was found running on the site of the Student Loans Company, Barnsley Hospital and other websites in the UK and worldwide.
+
+  Martin McKay, chief technical officer of TextHelp, said: "In light of other recent cyber-attacks all over the world, we have been preparing for such an incident for the last year and our data security action plan was actioned straight away."
+
+  The company is commissioning a security review by an independent consultancy following the attack, he said.
+
+  Because the malware only runs while someone is actively visiting an infected site, there is no further risk to users' computers, Mr Helme added.
+
+  A National Cyber Security Centre spokesman said: "NCSC technical experts are examining data involving incidents of malware being used to illegally mine cryptocurrency.
+
+  "The affected service has been taken offline, largely mitigating the issue. Government websites continue to operate securely.
+
+  "At this stage there is nothing to suggest that members of the public are at risk."
+
+  The BBC is not responsible for the content of external sites.

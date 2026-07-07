@@ -1,0 +1,69 @@
+id: bbc_2024_2983
+title: Why some cyber-attacks hit harder than others - BBC News
+date: '2024-02-23'
+section: Business
+url: http://www.bbc.co.uk/news/business-68225892
+content: |-
+  The British Library has been hobbled for months by a cyber-attack and experts warn of similar damage ahead.
+
+  The British Library was hit by a cyber-attack in October 2023
+
+  The British Library used to be my unofficial office. Once I even argued that for writers, the British Library was the best aspect of living in London.
+
+  But the UK's national library now feels a bit like a throwback to pre-internet times. Books have to be ordered in person, using paper slips. Much of its digital content is inaccessible.
+
+  The problems trace back to a ransomware attack in October 2023, which paralysed IT systems.
+
+  The Russian hacker group Rhysida claimed responsibility, and demanded a ransom of 20 bitcoin (equivalent to £600,000 at the time). After the British Library refused to pay up, and following an online auction of stolen data, the hackers leaked the nearly 600 GB of private information on the dark web.
+
+  It wasn't until January 2024 that the online catalogue became useable again, and even this was an incomplete version.
+
+  The organisation has prepared users for a lengthy recovery process, noting that it could take several months just to analyse the leaked data. The library has not specified a timeframe for further recovery, but outside observers believe that it could take a year.
+
+  The British Library declined to comment for this article.
+
+  The British Library has struggled to get its services running after a cyber-attack
+
+  The good news is that this is an unusually long timeframe for recovery from a cyber-attack. According to the data site Statista, from 2020 to mid-2022, the average amount of downtime following a ransomware attack in the US was 24 days.
+
+  A UK government survey conducted in 2022-23 found that 88% of businesses and 84% of charities had been able to restore their operations within 24 hours of their most devastating cyber breach or attack.
+
+  But protracted recovery isn't unheard of. From identifying affected IT systems to decrypting servers, uninstalling non-functional applications, blocking connections, disabling accounts, and restoring uninfected backups, each step can create bottlenecks.
+
+  To some extent the longer-term recovery depends on the amount of rebuilding, or new system construction, an organisation does following a cyber-attack.
+
+  For the Scottish Environment Protection Agency (SEPA), which was hit by a ransomware attack back in December 2020, this process is continuing today. "SEPA made the decision to build back better from new rather than re-establish legacy systems," according to a spokesperson for the agency.
+
+  There are many variables determining the length of cyber-attack recovery. These include the type and number of systems affected, the quality and quantity of backups, the experience of IT staff, and the sophistication of both the attack and the initial response.
+
+  For instance, with the rise of cloud computing, it's become increasingly common for companies to use hypervisors, which basically generate digital versions (virtual machines) of physical computer systems.
+
+  Ransomeware attackers can encrypt the hypervisor - locking up multiple systems and programs in one go. It's a trend being seen by Mandiant, a cyber security firm that is now a subsidiary of Google Cloud.
+
+  In a situation where a hypervisor is running many programs critical to business operations, "the impact is more significant and in some cases can actually impact the underlying infrastructure that the organisation would use to be able to get back up and running more quickly," says Kimberly Goody, the head of cyber crime analysis at Mandiant.
+
+  Hackers can lock up large parts of modern IT systems warns Kimberly Goody
+
+  The size of the organisation could also be a factor. "A larger organisation could take a longer time to recover because when you look at the staff to systems ratio, it could be much higher than a smaller organisation," Ms Goody says.
+
+  In the anomalous cases where recovery drags on into months or even years, one potential reason is that an organisation's "backups might have been encrypted and they haven't been able to restore them," Ms Goody comments. For instance, it may be a painfully slow process to obtain a decryption key.
+
+  Ensuring that backups are created and tested frequently is one way that organisations can make themselves more resilient to cyber attack.
+
+  Another is to avoid reliance on a single type of prevention. Just one reason that antivirus fails, Ms Goody says, is because "today there is a whole underground marketplace" where criminals can cheaply test out malware samples against different antivirus programmes. If they see that their malware isn't detected by a particular antivirus product, they can target an organisation with those weak defences.
+
+  Shoring up defences would include investing in cyber-security staff and tools. Ms Goody also offers some advice to organisations overwhelmed by the array of cyber-security products on the market. "The only way to know how effective they are for you, and how relevant they're going to be for you and your team, is to test that in your own environment," she emphasises.
+
+  Even well-prepared organisations may fall victim to cyber-attacks. In these cases, cyber-risk insurance can help to absorb financial losses. Ms Goody calls this "a really valuable component of an organisation's broader risk plan given the evolving nature of cyber-attacks".
+
+  Financial losses from disrupted operations can dwarf the initial ransom demand. "The majority of the costs can be on the business interruption side of the things, not actually the extortion," says Simon West, the cyber-advisory lead at Resilience.
+
+  This is the case for the British Library, whose digital rebuilding will cost millions of pounds, requiring the organisation to use its reserves.
+
+  Business disruption is the big cost after a cyber-attack says Simon West
+
+  Preparation is essential given the inevitability of future cyber-attacks. Ciaran Martin, the former head of the UK's National Cyber Security Centre, has predicted that a cyber-attack as severe as the one that has debilitated the British Library is likely for every one of the next five years.
+
+  Mr West says, "Even though our research shows that the ransom amounts are decreasing, it's still very lucrative for criminals. It's now easier than it ever was before" - with cyber-attackers able to outsource phishing attacks and other services to third parties, and with AI presenting them with new opportunities.
+
+  "While the going's good for them, I don't see it stopping."

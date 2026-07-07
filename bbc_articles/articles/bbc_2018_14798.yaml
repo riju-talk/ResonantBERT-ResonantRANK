@@ -1,0 +1,65 @@
+id: bbc_2018_14798
+title: Facebook accused of striking 'secret deals over user data' - BBC News
+date: '2018-12-05'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-46456695
+content: |-
+  More than 200 pages of confidential emails are shared online by Parliament's fake news inquiry.
+
+  Emails written by Facebook's chief and his deputies show the firm struck secret deals to give some developers special access to user data while refusing others, according to MPs.
+
+  A cache of internal documents has been published online by a parliamentary committee.
+
+  It said the files also showed Facebook had deliberately made it "as hard as possible" for users to be aware of privacy changes to its Android app.
+
+  Facebook had objected to their release.
+
+  It said that the documents had been presented in a "very misleading manner" and required additional context.
+
+  The emails were obtained from the chief of Six4Three - a software firm that is suing the tech giant - and were disclosed by the Digital, Culture, Media and Sport Committee as part of its inquiry into fake news.
+
+  About 250 pages have been published, some of which are marked "highly confidential".
+
+  Damian Collins MP, the chair of the committee, highlighted several "key issues" in an introductory note.
+
+  This Twitter post cannot be displayed in your browser. Please enable Javascript or try a different browser. View original content on Twitter The BBC is not responsible for the content of external sites. Skip twitter post by Damian Collins This article contains content provided by Twitter. We ask for your permission before anything is loaded, as they may be using cookies and other technologies. You may want to read Twitter’s cookie policy, external and privacy policy, external before accepting. To view this content choose ‘accept and continue’. The BBC is not responsible for the content of external sites.
+
+  Facebook said Six4Three had "cherry-picked" the documents and claimed they had omitted "important context".
+
+  "We stand by the platform changes we made in 2015 to stop a person from sharing their friends' data with developers," said a spokeswoman.
+
+  "Like any business, we had many internal conversations about the various ways we could build a sustainable business model for our platform.
+
+  "But the facts are clear: we've never sold people's data."
+
+  Mr Zuckerberg has also posted a personal response on his Facebook page.
+
+  "I understand there is a lot of scrutiny on how we run our systems. That's healthy given the vast number of people who use our services around the world, and it is right that we are constantly asked to explain what we do," he said.
+
+  "But it's also important that the coverage of what we do - including the explanation of these internal documents - doesn't misrepresent our actions or motives."
+
+  The correspondence includes emails between Facebook and several other tech firms, in which the social network appears to agree to add third-party apps to a "whitelist" of those given permission to access data about users' friends.
+
+  This might be used, for example, to allow an app's users to continue seeing which of their Facebook friends were using the same service.
+
+  Netflix tapped into Facebook friends lists to let users see what titles their contacts had watched and rated highly
+
+  However, others including the ticket sales service Ticketmaster, Twitter's short-video platform Vine and the connected-cars specialist Airbiquity seem to have been denied the privilege.
+
+  Among the emails that have been published are the following extracts:
+
+  The following concerns a decision to prevent Twitter's short-form video service having access to users' friends lists. It is dated 24 January 2012.
+
+  "Twitter launched Vine today which lets you shoot multiple short video segments to make one single, 6-second video... Unless anyone raises objections, we will shut down their friends API access today. We've prepared reactive PR, and I will let Jana know our decision."
+
+  The following is part of a discussion about giving Facebook's Android app permission to read users' call logs. It is dated 4 February 2015.
+
+  "As you know all the growth team is planning on shipping a permissions update on Android at the end of this month. They are going to include the 'read call log' permission... This is a pretty high-risk thing to do from a PR perspective but it appears that the growth team will charge ahead and do it...[The danger is] screenshot of the scary Android permissions screen becomes a meme (as it has in the past), propagates around the web, it gets press attention, and enterprising journalists dig into what exactly the new update is requesting, then write stories about "Facebook uses new Android update to pry into your private life in ever more terrifying ways".
+
+  The following is from a discussion in which Mark Zuckerberg mulled the idea of selling developers access to users' friends' data. It is dated October 2012, pre-dating the quiz involved in the Cambridge Analytica scandal. It was sent to Sam Mullin, who was vice president of product management.
+
+  "It's not at all clear to me here that we have a model that will actually make us the revenue we want at scale. I'm getting more on board with locking down some parts of platform, including friends' data and potentially email addresses for mobile apps. I'm generally sceptical that there is as much data leak strategic risk as you think... I think we leak info to developers but I just can't think of any instances where that data has leaked from developer to developer and caused a real issue for us."
+
+  The following is from an email sent by Mark Zuckerberg to several of his executives in which he explains why he does not think making users pay for Facebook would be a good idea. It is dated 19 November 2012.
+
+  "The question is whether we could charge and still achieve ubiquity. Theoretically, if we could do that, it would be better to get ubiquity and get paid. My sense is there may be some price we could charge that wouldn't interfere with ubiquity, but this price wouldn't be enough to make us real money. Conversely, we could probably make real money of we were willing to sacrifice ubiquity, but that doesn't seem like the right trade here."

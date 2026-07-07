@@ -1,0 +1,47 @@
+id: bbc_2023_14557
+title: Google DeepMind AI speeds up search for disease genes - BBC News
+date: '2023-09-19'
+section: Science & Environment
+url: http://www.bbc.co.uk/news/science-environment-66847977
+content: |-
+  Google DeepMind has used its technology to identify parts of human DNA that might cause diseases.
+
+  Researchers at Google DeepMind have trained their AI system to identify potentially disease causing genes
+
+  Google's AI firm DeepMind has used artificial intelligence to identify changes in human DNA that might cause diseases.
+
+  The researchers believe they have pinpointed 89% of all the key mutations.
+
+  The development is expected to speed up diagnosis and help in the search for better treatments.
+
+  A leading independent scientist told BBC News that the work was "a big step forward".
+
+  Prof Ewan Birney, deputy director general of the European Molecular Biology Laboratory, said: "It will help clinical researchers prioritise where to look to find areas that could cause disease."
+
+  The technique works by checking the order of the components in human DNA strands.
+
+  All living organisms are built from DNA. It is made from four blocks of chemicals called adenine (A), cytosine (C), guanine (G) and thymine (T). In humans, when an embryo is developing, the order of these letters are read to produce proteins, which are the building blocks of the the cells and tissues that make up various parts of the body.
+
+  But if the letters are in the wrong order - perhaps because of an inherited disorder - the body cells and tissues aren't made properly - and this can lead to disease.
+
+  Last year Google DeepMind's AI worked out the shape of nearly all proteins in the human body.
+
+  The new system, called AlphaMissense, can tell If the letters in the DNA will produce the correct shape. If not, it is listed as potentially disease-causing.
+
+  Currently genetic disease hunters have fairly limited limited knowledge of which areas of human DNA can lead to disease. They have classified 0.1% of letter changes, or mutations, as either benign or disease causing.
+
+  Google DeepMind's Pushmeet Kohli said that the new model pushed that percentage up to 89%.
+
+  Currently, researchers have to search for potentially disease-causing regions across billions of chemical building blocks that make up DNA. That has now changed, according to Mr Kohli.
+
+  ''Researchers can now focus their efforts on the new areas, that they were not aware of and we have highlighted as potentially disease-causing,'' he said.
+
+  The new tool - published in the journal Science - has been tested by Genomics England, who work with the NHS. According to Dr Ellen Thomas, who is the deputy chief medical officer at Genomics England, the health service will be among the first organisations to benefit from the new development.
+
+  "The new tool is really bringing a new perspective to the data. It will help clinical scientists make sense of genetic data so that it is useful for patients and for their clinical teams," she said.
+
+  Prof Birney said he expected AI to become a massive part of molecular biology and life sciences.
+
+  "I don't know where it's going to end but it's changing nearly everything we do at the moment," he said.
+
+  Follow Pallab on X, formerly known as Twitter

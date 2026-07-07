@@ -1,0 +1,86 @@
+id: bbc_2018_13756
+title: MiSafes' child-tracking smartwatches are 'easy to hack' - BBC News
+date: '2018-11-15'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-46195189
+content: |-
+  Researchers find a way to reveal the locations of children wearing MiSafes watches and call them.
+
+  This video can not be played To play this video you need to enable JavaScript in your browser. WATCH: How MiSafes watch can be hacked
+
+  A location-tracking smartwatch worn by thousands of children has proven relatively easy to hack.
+
+  A security researcher found the devices neither encrypted the data they used nor secured each child's account.
+
+  As a result, he said, he could track children's movements, surreptitiously listen in to their activities and make spoof calls to the watches that appeared to be from parents.
+
+  Experts say the issues are so severe that the product should be discarded.
+
+  Both the BBC and the researcher involved tried to contact the makers of the MiSafes Kid's Watcher Plus to alert them to the problem but received no reply.
+
+  Likewise, a China-based company listed as the product's supplier did not respond to requests.
+
+  The MiSafes watch was first released in 2015.
+
+  It uses a global positioning system (GPS) sensor and a 2G mobile data connection to let parents see where their child is, via a smartphone app.
+
+  MiSafes targeted the watch at children as young as three
+
+  In addition, parents can create a "safe zone" and receive an alert if the child leaves the area.
+
+  The adult can also listen in to what their offspring is doing at any time and trigger two-way calls.
+
+  Pen Test Partner's Ken Munro and Alan Monie learned of the product's existence when a friend bought one for his son earlier this year.
+
+  Out of curiosity, they probed its security measures and found that easy-to-find PC software could be used to mimic the app's communications.
+
+  This software could be used to change the assigned ID number, which was all it took to get access to others' accounts.
+
+  This made it possible to see personal information used to register the product, including:
+
+  "It's probably the simplest hack we have ever seen," he told the BBC.
+
+  "I wish it was more complicated. It isn't."
+
+  Rather than compromise other people's watches, the researchers bought several more units to test.
+
+  The security researchers were able to fool the watch into showing a call was from a parent
+
+  With these, they found it was possible to:
+
+  Pen Test Partners also learned it was possible to bypass a feature supposed to limit the watch to accepting calls from only authorised parties.
+
+  The researchers did this by using a online "prank call" service that fools receiving devices into showing another person's caller ID number.
+
+  The watches allow parents to listen to their children "any time" as well as to make phone calls to the device
+
+  "Once a hacker has the parent's number, they could spoof a call to appear to come from it and the child would now think it's their mum or dad dialling," said Mr Munro.
+
+  "So they could leave a voice message or speak to the child to convince them to leave their house and go to a convenient location."
+
+  Using a different tool, Mr Munro said his team were able to see that about 14,000 MiSafes were still in active use.
+
+  The Norwegian Consumer Council highlighted other cases of child-targeted smartwatches with security flaws last year.
+
+  It said the MiSafes products appeared to be "even more problematic" than the examples it had flagged.
+
+  "This is another example of unsecure products that should never have reached the market," said Gro Mette Moen, the watchdog's acting director of digital services.
+
+  "Our advice is to refrain from buying these smartwatches until the sellers can prove that their features and security standards are satisfactory."
+
+  In the UK, Amazon used to sell the watches but has not had stock for some time.
+
+  The BBC found three listings for the watches on eBay earlier this week but the online marketplace said it had since removed them on the grounds of an existing ban on equipment that could be used to spy on people's activities without their knowledge.
+
+  "We don't allow the sale of these products on our marketplace," said a spokeswoman.
+
+  MiSafes previously made headlines in February when an Austrian cyber-security company discovered several flaws with its Mi-Cam baby monitors.
+
+  Security concerns were previously raised about the firm's baby-monitoring cameras
+
+  SEC Consult said these meant hackers could spy on footage from owners' homes and hijack accounts.
+
+  It too was unable to get a response from the manufacturer.
+  • None How MiSafes watches can be hacked. Video, 00:01:32How MiSafes watches can be hacked
+
+  The BBC is not responsible for the content of external sites.

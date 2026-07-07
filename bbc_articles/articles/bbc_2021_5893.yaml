@@ -1,0 +1,45 @@
+id: bbc_2021_5893
+title: Google AI tool can help patients identify skin conditions - BBC News
+date: '2021-05-18'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-57157566
+content: |-
+  The tech giant says its "dermatology assist" tool can recognise 288 different skin ailments.
+
+  Google has unveiled a tool that uses artificial intelligence to help spot skin, hair and nail conditions, based on images uploaded by patients.
+
+  A trial of the "dermatology assist tool", unveiled at the tech giant's annual developer conference, Google IO, should launch later this year, it said.
+
+  The app has been awarded a CE mark for use as a medical tool in Europe.
+
+  A cancer expert said AI advances could enable doctors to provide more tailored treatment to patients.
+
+  The AI can recognise 288 skin conditions but is not designed to be a substitute for medical diagnosis and treatment, the firm said.
+
+  It has taken three years to develop, and has been trained on a dataset of 65,000 images of diagnosed conditions, as well as millions of images showing marks people were concerned about, and thousands of pictures of healthy skin, in all shades and tones.
+
+  As well as using images, the app also requires patients to answer a series of questions online.
+
+  It is based on previous tools developed by Google for learning to spot the symptoms of certain cancers and tuberculosis.
+
+  Currently none of these tools is approved as an alternative to human diagnosis.
+
+  Google says there are some 10 billion searches for skin, hair and nail issues on its search engine every year.
+
+  Dermatology Assist has not yet been given clearance by the Food and Drug Administration (FDA) for use in the US, but a similar machine-learning model built by British firm Optellum was recently approved by the FDA for use as an assistant in the diagnosis of lung cancer.
+
+  Professor Tim Underwood, head of cancer sciences at the University of Southampton, said such tools had the potential to provide more tailored treatments to patients.
+
+  "The application of AI, both in cancer and in other areas of medicine, informs the conversation around what the diagnosis might be and what treatment to offer to an individual," he said.
+
+  This is not the first AI in healthcare, but it is significant for putting the tool in the hands of the public rather than doctors.
+
+  Google views this AI as better than searching for the information yourself, rather than a substitute for medical advice.
+
+  Whether people use it like that is another matter - we already know the internet is a source of both medical panic and false reassurance. How people might use the AI has fed into a design that aims to prioritise safety.
+
+  Medical tools like this, yes even those with an AI at the helm, have to strike a balance. Do you focus on catching everyone who has a disease or on ruling out those who are healthy to avoid unnecessary worry or treatments?
+
+  One always comes at the cost of the other.
+
+  The doctors and developers involved told me the AI has been optimised to avoid missing "alarming or scary" conditions such as skin cancer. The flip side is some people will be advised to check out something that will turn out to be benign.

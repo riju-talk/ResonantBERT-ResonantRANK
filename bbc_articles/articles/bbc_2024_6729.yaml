@@ -1,0 +1,61 @@
+id: bbc_2024_6729
+title: Police worried 101 call bot would struggle with 'Brummie' accents - BBC News
+date: '2024-03-07'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-68466369
+content: |-
+  West Midlands Police trialled the non-emergency call-answering AI voice assistant for two months.
+
+  West Midlands Police trialled a voice assistant powered by artificial intelligence (AI) in a bid to deal with rising volumes of non-emergency calls.
+
+  Sensitive technical details of the plan were erroneously published online in a document seen by the BBC.
+
+  It set out potential risks of the AI, including whether the system, dubbed "Amy101", would understand local "Brummie" accents.
+
+  West Midlands Police has insisted "robust safeguards" were in place.
+
+  Based on the tech behind Amazon's popular voice assistant, Alexa, the trial explored how AI could help the force cope with increasing volumes of calls, and potentially offer new services such as responses in different languages.
+
+  A document detailing the plan was mistakenly posted online by the office of the West Midlands Police and Crime Commissioner (PCC). The document, marked "official sensitive" and with warnings that it was "not to be publicly disclosed", has since been removed.
+
+  Amy101 was designed to speak or text-chat in order to deal with callers' inquiries and was expected to handle about 200 calls per day.
+
+  The project, a two month proof-of-concept trial, was nationally funded.
+
+  It was - the document suggested - the first such project where an AI-powered tool would speak to callers, though other forces were also exploring uses of the tech.
+
+  Amy101 had the ability to prioritise vulnerable callers, by looking out for certain keywords - such as those referencing domestic violence - and ensuring they were next-in-line to be dealt with by a human call operator, the document says.
+
+  Through speech or text chat it could direct calls, provide advice on issues such as reporting criminal damage, or requesting a crime update.
+
+  West Midlands Police told the BBC the trial began on 19 December 2023 and had now concluded.
+
+  Its director of commercial services, Peter Gillett, said - by the time the trial started - the force had already improved and was now "one of the top-performing police forces for managing emergency and non-emergency calls".
+
+  The document - prepared for an ethical oversight committee that advises the PCC and Chief Constable - reveals the potential problems that might arise with Amy101, including whether the tech could cope with the local accent.
+
+  "Bias will naturally occur within the "Amy" system based on accents/localisation - for example can she understand "Brummie" accents? And are they treated with equal weighting to different accents in English?" the document asks.
+
+  Because Alexa is used globally - coping with a range of accents and languages - it was hoped that this type of bias had been removed. And if calls were not understood they would be transferred to the queue for a human operator.
+
+  Mr Gillett said the force recognised that technologies capable of understanding ordinary language were "not flawless", and therefore may struggle with accents.
+
+  As a result the force used a "large-scale" system "to mitigate this bias".
+
+  Potential issues around safeguarding data were also flagged, including the risk calls would be used to help train the Amazon AI system, called Lex V2, behind Amy101.
+
+  Some calls could include personally identifiable information. The document provides the example, "My name is Marc and I want to report my house was broken into.....".
+
+  The police can, however, opt-out of this kind of training and will do this "where viable", the document says.
+
+  The ethics committee also had a number of questions, recorded in its minutes, about Amy101, such as the voice and "gendered name" of the tool. The force responded arguing "humanisation" was needed.
+
+  It also suggested officers requested further analysis from Amazon on potential issues "such as regional accent recognition and bias testing".
+
+  It is not clear whether the concerns raised in the document ever materialised, though police struck a positive note about the outcome of the trial:
+
+  "AI (Artificial Intelligence) does present some potential opportunities for providing a more efficient and robust service", Mr Gillett said.
+
+  Now the "proof-of-concept" trial is over, the force would be "sharing the results and outcomes at a national scale", he added.
+
+  According to the document the government was also interested in the trial - it said a Home Office team was "keeping a close eye" on it with a view to wider uses.

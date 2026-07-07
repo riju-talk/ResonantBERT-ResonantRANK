@@ -1,0 +1,106 @@
+id: bbc_2019_5438
+title: 'Huawei: ARM memo tells staff to stop working with China’s tech giant - BBC
+  News'
+date: '2019-05-22'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-48363772
+content: |-
+  Chinese company is dealt an "insurmountable" blow as chip designer says it must comply with US trade ban.
+
+  Huawei unveiled new phones powered by ARM-based chips, on Tuesday
+
+  UK-based chip designer ARM has told staff it must suspend business with Huawei, according to internal documents obtained by the BBC.
+
+  ARM instructed employees to halt "all active contracts, support entitlements, and any pending engagements” with Huawei and its subsidiaries to comply with a recent US trade clampdown.
+
+  ARM's designs form the basis of most mobile device processors worldwide.
+
+  In a company memo, it said its designs contained “US origin technology”.
+
+  As a consequence, it believes it is affected by the Trump administration's ban.
+
+  One analyst described the move, if it became long-term, as an “insurmountable” blow to Huawei’s business.
+
+  He said it would greatly affect the firm's ability to develop its own chips, many of which are currently built with ARM’s underlying technology, for which it pays a licence.
+
+  These are used in the Chinese company's 5G base stations and computer servers in addition to its smartphones.
+
+  Cambridge-headquartered ARM had been described as the UK's largest tech firm until its takeover by a Japanese fund. It employs 6,000 workers and lists eight offices in the US.
+
+  In a statement on Wednesday it said: "ARM is complying with the latest restrictions set forth by the US government and is having ongoing conversations with the appropriate US government agencies to ensure we remain compliant.
+
+  "ARM values its relationship with our long-time partner HiSilicon and we are hopeful for a swift resolution on this matter."
+
+  Huawei has issued a brief statement of its own.
+
+  "We value our close relationships with our partners, but recognise the pressure some of them are under, as a result of politically motivated decisions," it said.
+
+  "We are confident this regrettable situation can be resolved and our priority remains to continue to deliver world-class technology and products to our customers around the world."
+
+  ARM is a chip designer founded in 1990. In September 2016 it was acquired by Japanese telecoms giant Softbank, but remains based in Cambridge, UK.
+
+  ARM does not manufacture computer processors itself, but rather licenses its semiconductor technologies to others.
+
+  In some cases, manufacturers only license ARM's architecture, or "instruction sets", which determine how processors handle commands. This option gives chip-makers greater freedom to customise their own designs.
+
+  In other cases, manufacturers license ARM's processor core designs - which describes how the chips' transistors should be arranged. These blueprints still need to be combined with other elements - such as memory and radios - to create what is referred to as a system-on-chip.
+
+  As a result, when you hear talk of a device being powered by a Samsung Exynos, Qualcomm Snapdragon or Apple A11 chip - or one in a Huawei smartphone - it is still ARM's technology that is involved.
+
+  ARM's US headquarters are in San Jose, California, and the firm has offices in Washington, Arizona, Texas and Massachusetts.
+
+  ARM’s staff were informed of the decision on 16 May, following the US Commerce Department’s move to add Huawei to its “entity list” of companies with which American firms could no longer do business.
+
+  The BBC has also seen a company memo dated 18 May detailing the implications of the export ban.
+
+  On Monday 20 May, US government officials issued a 90-day reprieve on some of the restrictions in order to minimise immediate disruption. But ARM believes that the temporary licence involved does not apply to it.
+
+  A spokesman for ARM declined to offer any additional clarity about the current status of its Huawei contracts.
+
+  A break with ARM would make it difficult for Huawei to develop future generations of its Kirin processors
+
+  According to one memo, ARM staff were instructed to suspend all interactions with Huawei and its subsidiaries.
+
+  It advised staff to send a note informing Huawei (or related) employees that due to an “unfortunate situation”, they were not allowed to “provide support, delivery technology (whether software, code, or other updates), engage in technical discussions, or otherwise discuss technical matters with Huawei, HiSilicon or any of the other named entities”.
+
+  ARM staff that come into contact with employees at industry events must “politely decline and stop” any conversations about the business, the guidance said - stressing that individuals could be held personally liable for breaking the trade rules.
+
+  The ban also appeared to apply to ARM China, the China-based company in which ARM Holdings owns a 49% stake. It was set up as a joint venture with a Chinese investment consortium last year in order to enable ARM to develop, sell and offer support for its products in the region.
+
+  Huawei told reporters on Tuesday that its “plan B” for software would be to develop its own operating system, something it has already been working on for some time. However, it will be significantly more difficult for the firm to source home-grown components of sufficient quality.
+
+  Huawei currently sources some of its chips from HiSilicon, which it owns. However, while produced in China, HiSilicon’s chips are built using underlying technology created by ARM.
+
+  While HiSilicon and Huawei are free to carry on using and manufacturing existing chips, the ban would mean the company could no longer turn to ARM for assistance in developing components for devices in future.
+
+  HiSilicon's upcoming processor, Kirin 985, is due be used in Huawei devices later this year. According to a source at ARM, it is not expected to be affected by the ban. However, the next iteration of the chip has not yet been completed - and is likely to need to be rebuilt from scratch, the source said.
+
+  Huawei also uses ARM's designs for its recently unveiled Kunpeng chips. These are used to power its TaiShan-series computer servers, which are designed to provide cloud computing and storage to clients.
+
+  In addition, the company told analysts in January that the Tiangang chip at the heart of its 5G base stations is also ARM-based.
+
+  Huawei's carrier division chief Ryan Ding showed off its 5G base station chip alongside an image saying it involved a "high-performance ARM-based processor"
+
+  "The problem of the whole telecoms industry is that so much of it is based on the exchange of technology between different companies - whether that's chip companies, software providers or the makers of other hardware," commented Alan Burkitt-Gray, editor-at-large of the telecoms news site Capacity Media.
+
+  He added that Huawei would likely face other problems licensing 5G-related tech from others, and in turn US-based companies would now be unable to licence the Chinese company's 5G inventions.
+
+  "This will carve out a chasm in the industry between Huawei-originated intellectual property and the rest of the world's," he said.
+
+  "It's just a total mess and it's happened at a critical time for the rollout of 5G."
+
+  The relationship between ARM and Huawei engineers is tight - earlier this month Huawei announced its intention to build a research centre only 15 minutes from ARM’s headquarters in Cambridge, UK.
+
+  The latest development follows news that Huawei will lose access to some of Google's Android services
+
+  "ARM is the foundation of Huawei’s smartphone chip designs, so this is an insurmountable obstacle for Huawei,” said Geoff Blaber, from CCS Insight.
+
+  "That said, with an abundance of companies in Huawei’s supply chain already having taken action to comply with the US order, Huawei’s ability to operate was already severely affected.”
+
+  What is not yet clear is whether ARM is acting on its own interpretation of the US rules, or whether it has been advised by the Commerce Department.
+
+  "If that interpretation is correct, that’s going to affect every semiconductor company in the world,” remarked analyst Lee Ratliff, from IHS Markit.
+
+  "They’re not going to be able to easily replace these parts with new, in-house designs - the semiconductor industry in China is nascent.”
+
+  Do you have more information about this or any other technology story? You can reach Dave directly and securely through encrypted messaging app Signal on: +1 (628) 400-7370

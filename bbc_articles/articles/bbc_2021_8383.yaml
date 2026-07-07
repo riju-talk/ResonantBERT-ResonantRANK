@@ -1,0 +1,35 @@
+id: bbc_2021_8383
+title: Major websites hit by global outage - BBC News
+date: '2021-07-22'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-57929544
+content: |-
+  The websites of HSBC, British Airways and Airbnb are among those to have briefly gone offline.
+
+  Many popular websites fell offline on Thursday in a widespread global outage of service.
+
+  Visitors attempting to reach some sites received DNS errors, meaning their requests could not reach the websites.
+
+  Affected services included Airbnb, UPS, HSBC bank, British Airways and the PlayStation network used for online games.
+
+  One popular DNS provider, Akamai, reported "an emerging issue" with its Edge DNS service.
+
+  It has now tweeted that the issue has been fixed and "the service is resuming normal operations".
+
+  Internet outage monitoring platform DownDetector had reported thousands of problems from its users across dozens of platforms.
+
+  This Twitter post cannot be displayed in your browser. Please enable Javascript or try a different browser. View original content on Twitter The BBC is not responsible for the content of external sites. Skip twitter post by Akamai Technologies This article contains content provided by Twitter. We ask for your permission before anything is loaded, as they may be using cookies and other technologies. You may want to read Twitter’s cookie policy, external and privacy policy, external before accepting. To view this content choose ‘accept and continue’. The BBC is not responsible for the content of external sites.
+
+  Previously it said the issue had been a "partial outage" - and some users reported being able to access some compromised services in different regions.
+
+  As some websites began to appear again for users in Europe and the US, others in Asian nations continued to report problems.
+
+  DNS - short for Domain Name System - turns the human-readable web addresses we use, such as bbc.com, into addresses that point to a computer server somewhere online.
+
+  Disruptions often mean that a web browser cannot find the content it is looking for.
+
+  It is the second such widespread outage in two months.
+
+  In June, cloud computing provider Fastly had an interrupted service which took down a large number of high-profile websites around the world, including many international newspapers and government websites.
+
+  In that case, it later emerged that a settings change by one customer had inadvertently affected the entire infrastructure.

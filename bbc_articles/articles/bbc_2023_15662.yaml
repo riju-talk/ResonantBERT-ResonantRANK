@@ -1,0 +1,43 @@
+id: bbc_2023_15662
+title: Twitter glitch allows CIA informant channel to be hijacked - BBC News
+date: '2023-10-18'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-67137773
+content: |-
+  US spies and informants could have been directed to hostile nations through a CIA mistake made on X.
+
+  A cyber-security researcher has exploited a glitch on the CIA's official Twitter account, to hijack a channel used for recruiting spies.
+
+  The US Central Intelligence Agency (CIA) account on X, formerly known as Twitter, displays a link to a Telegram channel for informants.
+
+  But Kevin McSheehan was able to redirect potential CIA contacts to his own Telegram channel.
+
+  "The CIA really dropped the ball here," the ethical hacker said.
+
+  The CIA is a US government organisation known for gathering secret intelligence information, often over the internet, from a vast network of spies and tipsters around the world
+
+  Its official X account, with nearly 3.5 million followers, is used to promote the agency and encourage people to get in touch to protect US national security.
+
+  Mr McSheehan, 37, who lives in Maine, in the US, said he had discovered the security mistake earlier on Tuesday.
+
+  "My immediate thought was panic," he said.
+
+  "I saw that the official Telegram link they were sharing could be hijacked - and my biggest fear was that a country like Russia, China or North Korea could easily intercept Western intelligence."
+
+  At some point after 27 September, the CIA had added to its X profile page a link - https://t.me/securelycontactingcia - to its Telegram channel containing information about contacting the organisation on the dark net and through other secretive means.
+
+  The channel said, in Russian: "Our global mission demands that individuals be able to reach out to CIA securely from anywhere," while warning potential recruits to "be wary of any channels that claim to represent the CIA".
+
+  Anyone clicking on the link was directed to Mr McSheehan's Telegram channel
+
+  But a flaw in how X displays some links meant the full web address had been truncated to https://t.me/securelycont - an unused Telegram username.
+
+  As soon as Mr McSheehan noticed the issue, he registered the username so anyone clicking on the link was directed to his own channel, which warned them not to share any secret or sensitive information.
+
+  "I did it as a security precaution," he said.
+
+  "It's a problem with the X site that I've seen before - but I was amazed to see the CIA hadn't noticed."
+
+  The CIA did not reply to a BBC News request for comment - but within an hour of the request, the mistake had been corrected.
+
+  This video can not be played To play this video you need to enable JavaScript in your browser. Watch: What is the dark web?

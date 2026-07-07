@@ -1,0 +1,53 @@
+id: bbc_2018_10753
+title: Students blamed for university and college cyber-attacks - BBC News
+date: '2018-09-14'
+section: Family & Education
+url: http://www.bbc.co.uk/news/education-45496714
+content: |-
+  University cyber-attacks might often be caused by students rather than hacking groups.
+
+  A security analysis of cyber-attacks against universities and colleges in the UK has discovered staff or students could often be responsible, rather than organised crime or hacking groups.
+
+  A government-funded agency that provides cyber-security has examined the timing of 850 attacks in 2017-18.
+
+  Jisc found a "clear pattern" of attacks being concentrated during term times and during the working day.
+
+  When the holidays begin, "the number of attacks decreases dramatically".
+
+  The analysis of cyber-attacks on the research and academic network concludes there are "suspicions that staff or students could be in the frame".
+
+  Rather than criminal gangs or agents of foreign powers, the findings suggest many of the attacks on universities and colleges are more likely to have been caused by disgruntled staff or students wanting to provoke "chaos".
+
+  "It's notoriously difficult to identify individual cyber-criminals," says Dr John Chapman, head of security operations for Jisc, (formerly the Joint Information Systems Committee).
+
+  But the agency, which provides internet and computer services across the higher and further education sectors, has produced a report showing that the peaks and troughs of attacks mirror when students and staff were most likely to be present.
+
+  They increased from 08:00 or 09:00 and then tailed off in the early afternoon. There was a very sharp decline in attacks in the Christmas, Easter and summer breaks and during half-terms - with attacks rising again sharply when terms resumed.
+
+  The incidence varied from more than 60 a week in some parts of the autumn term, down to one a week in mid-summer.
+
+  There were more than 850 attacks across the academic year, aimed at almost 190 universities and colleges. This was up from fewer than 600 attacks on about 140 institutions in the previous year.
+
+  These were sustained attempts at disrupting networks and did not include incidents such as phishing frauds or attempts to use "malware" or "ransomware".
+
+  Dr Chapman says the attempts could include sophisticated state-sponsored cyber-attacks from other countries and "serious criminal players", targeting research or trying to steal sensitive information.
+
+  But the analysis suggests many of the attacks on networks seem to be closer to home.
+
+  These include so-called "denial of service" or "distributed denial of service" (DDoS) attacks where hackers try to stop or overload networks, crashing computer systems.
+
+  In one case, the security team monitored a pattern of attacks on an institution and saw they began at 09:00, finished at 12:00, began again at 13:00 and then finished about 15:00 to 16:00.
+
+  This raised the question whether this was caused by a student or member of staff, who took a break at lunchtime.
+
+  Another investigation located the source of what seemed to be a four-day cyber-attack on a university. It was found to be coming from a university hall of residence and had been the result of an online gamer who had been "attacking another gamer to try and secure an advantage".
+
+  Other reasons could be a misplaced sense of "fun" at disrupting networks, "kudos among peers" for causing chaos or because of a grudge over poor grades or "failure to secure a pay rise".
+
+  The Jisc analysis says another factor in the summer dip could have been an international effort to take down so-called "stresser" sites.
+
+  These websites provide the means for carrying out "denial of service" attacks, which Jisc says can be sold "under the pretence" that the buyer wants to carry out a test to see how well their own network would withstand such an attack.
+
+  "So, there is evidence... to suggest that students and staff may well be responsible for many of the DDoS attacks we see," says Dr Chapman.
+
+  "If connectivity to the network is lost for any length of time, it can be catastrophic for any organisation, both financially and reputationally."

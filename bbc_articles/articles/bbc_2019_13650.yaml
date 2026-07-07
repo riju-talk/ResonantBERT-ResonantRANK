@@ -1,0 +1,61 @@
+id: bbc_2019_13650
+title: Apple's 'sexist' credit card investigated by US regulator - BBC News
+date: '2019-11-11'
+section: Business
+url: http://www.bbc.co.uk/news/business-50365609
+content: |-
+  Goldman Sachs, which operates Apple Card, discriminates between men and women, it is claimed.
+
+  A US financial regulator has opened an investigation into claims Apple's credit card offered different credit limits for men and women.
+
+  It follows complaints - including from Apple's co-founder Steve Wozniak - that algorithms used to set limits might be inherently biased against women.
+
+  New York's Department of Financial Services (DFS) has contacted Goldman Sachs, which runs the Apple Card.
+
+  Any discrimination, intentional or not, "violates New York law", the DFS said.
+
+  The Bloomberg news agency reported on Saturday that tech entrepreneur David Heinemeier Hansson had complained that the Apple Card gave him 20 times the credit limit that his wife got.
+
+  In a tweet, Mr Hansson said the disparity was despite his wife having a better credit score.
+
+  Later, Mr Wozniak, who founded Apple with Steve Jobs, tweeted that the same thing happened to him and his wife despite their having no separate bank accounts or separate assets.
+
+  This Twitter post cannot be displayed in your browser. Please enable Javascript or try a different browser. View original content on Twitter The BBC is not responsible for the content of external sites. Skip twitter post by Steve Wozniak This article contains content provided by Twitter. We ask for your permission before anything is loaded, as they may be using cookies and other technologies. You may want to read Twitter’s cookie policy, external and privacy policy, external before accepting. To view this content choose ‘accept and continue’. The BBC is not responsible for the content of external sites.
+
+  Banks and other lenders are increasingly using machine-learning technology to cut costs and boost loan applications.
+
+  But Mr Hansson, creator of the programming tool Ruby on Rails, said it highlights how algorithms, not just people, can discriminate.
+
+  US healthcare giant UnitedHealth Group is being investigated over claims an algorithm favoured white patients over black patients.
+
+  Mr Hansson said in a tweet: "Apple Card is a sexist program. It does not matter what the intent of individual Apple reps are, it matters what THE ALGORITHM they've placed their complete faith in does. And what it does is discriminate."
+
+  He said that as soon as he raised the issue his wife's credit limit was increased.
+
+  The DFS said in a statement that it "will be conducting an investigation to determine whether New York law was violated and ensure all consumers are treated equally regardless of sex".
+
+  "Any algorithm that intentionally or not results in discriminatory treatment of women or any other protected class violates New York law."
+
+  The BBC has contacted Goldman Sachs for comment.
+
+  On Saturday, the investment bank told Bloomberg: "Our credit decisions are based on a customer's creditworthiness and not on factors like gender, race, age, sexual orientation or any other basis prohibited by law."
+
+  The Apple Card, launched in August, is Goldman's first credit card. The Wall Street investment bank has been offering more products to consumers, including personal loans and savings accounts through its Marcus online bank.
+
+  The iPhone maker markets Apple Card on its website as a "new kind of credit card, created by Apple, not a bank".
+
+  Without access to the Goldman Sachs computers, it's impossible to be certain of what is going on. The fact there appears to be a correlation between gender and credit doesn't necessarily mean one is causing the other. Even so, the suspicion is that unintentional bias has crept into the system.
+
+  That could be because when the algorithms involved were developed, they were trained on a data set in which women indeed posed a greater financial risk than the men. This could cause the software to spit out lower credit limits for women in general, even if the assumption it is based on is not true for the population at large.
+
+  Alternatively, the problem might lie in the data the algorithms are now being fed. For example, within married couples, men might be more likely to take out big loans solely using their name rather than having done so jointly, and the data may not have been adjusted to take this into account.
+
+  A further complication is that the software involved can act as a "black box", coming up with judgements without providing a way to unravel how each was determined.
+
+  "There have been a lot of strides taken in the last five to six years to improve the explainability of decisions taken based on machine learning techniques," commented Jonathan Williams of Mk2 Consulting. "But in some cases, it's still not as good as it could be."
+
+  In any case, for now Apple would prefer Goldman Sachs take the heat, despite the fact its marketing materials state that its card was "created by Apple, not a bank". But that's a tricky position to maintain.
+
+  Apple's brand is the only one to feature on the minimalist styling of its card's face, and many of its consumers have higher expectations of its behaviour than they would do for other payment card providers.
+
+  That means that even if issues of gender bias prove to be common across lenders, Apple faces becoming the focal point for demands that they are addressed.

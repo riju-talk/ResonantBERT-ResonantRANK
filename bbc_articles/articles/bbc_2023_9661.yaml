@@ -1,0 +1,65 @@
+id: bbc_2023_9661
+title: 'MOVEit hack: Media watchdog Ofcom latest victim of mass hack - BBC News'
+date: '2023-06-12'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-65877210
+content: |-
+  The regulator says information about firms and employees has been affected by a cyber-attack.
+
+  Media watchdog Ofcom has confirmed that it is a victim of a cyber-attack by hackers linked to a notorious Russian ransomware group.
+
+  Confidential data about some companies regulated by Ofcom, and personal information from 412 employees was downloaded during the mass hack.
+
+  A number of firms, including British Airways, the BBC and Boots, have been affected by the software breach.
+
+  Transport for London also told the BBC on Monday it had been affected.
+
+  The mass hack breached software called MOVEit, which is designed to move sensitive files - such as employee addresses or bank account details - securely and is used by companies around the world.
+
+  Ofcom said it had "swiftly" alerted all the affected companies that it regulates and referred the matter to the data and privacy watchdog, the Information Commissioners Office (ICO).
+
+  It is understood that no payroll data was compromised.
+
+  "A limited amount of information about certain companies we regulate - some of it confidential - along with personal data of 412 Ofcom employees, was downloaded during the attack," said Ofcom.
+
+  "We took immediate action to prevent further use of the MOVEit service and to implement the recommended security measures. We also swiftly alerted all affected Ofcom-regulated companies, and we continue to offer support and assistance to our colleagues."
+
+  It said that none of its own systems were compromised during the attack.
+
+  Transport for London (TfL), which operates the capital's public transport, told the BBC it too had been affected.
+
+  It said one of its contractors had suffered a data breach.
+
+  "The issue has been fixed and the IT systems have been secured. The data in question did not include banking details and we are writing to all of those involved to make them aware of the incident".
+
+  The breach did not relate to passenger data. TfL said the ICO had been informed.
+
+  Accountancy firm Ernst & Young (EY) also told the BBC it was a victim.
+
+  As soon as it became aware of the problem with MOVEit the firm "immediately launched an investigation into our use of the tool and took urgent steps to safeguard any data".
+
+  It said the vast majority of its systems which used the software were unaffected but added: "We are manually and thoroughly investigating systems where data may have been accessed.
+
+  "Our priority is to first communicate to those impacted, as well as the relevant authorities. Our investigation is ongoing."
+
+  The hack is known as a "supply-chain attack".
+
+  It was first disclosed when US company Progress Software said hackers had found a way to break into its MOVEit Transfer tool.
+
+  A security flaw was exploited by hackers to gain access to a number of companies.
+
+  Some organisations that do not even use MOVEit are affected because of third-party arrangements.
+
+  The BBC, for example, has had data from current and past employees stolen because Zellis, a company that the broadcaster uses to process the payroll, used MOVEit and fell victim.
+
+  It is understood eight companies that use Zellis are affected, including the airlines British Airways and Aer Lingus, as well the retailer Boots. Dozens of other UK companies are thought to be using MOVEit.
+
+  The criminals responsible for the hack are linked to the notorious Clop ransomware group, thought to be based in Russia.
+
+  They have threatened to begin publishing data of companies that do not email them to begin the negotiations by Wednesday.
+
+  BBC cyber correspondent Joe Tidy said the group is well-known for carrying out its threats and it is likely that organisations will have private data published on the gang's darknet website in the coming weeks.
+
+  He said it is usually the case that if a victim does not appear on Clop's website, they may have secretly paid the group a ransom which could be hundreds of thousands or even millions of dollars worth of Bitcoin.
+
+  Victims are always encouraged not to pay though as it fuels the growth of this criminal enterprise and there is no guarantee that the hackers will not use the data for secondary attacks.

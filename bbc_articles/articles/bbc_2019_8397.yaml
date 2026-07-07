@@ -1,0 +1,31 @@
+id: bbc_2019_8397
+title: Fake voices 'help cyber-crooks steal cash' - BBC News
+date: '2019-07-08'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-48908736
+content: |-
+  Convincing fakes of audio are easier to generate than video spoofs
+
+  A security firm says deepfaked audio is being used to steal millions of pounds.
+
+  Symantec said it had seen three cases of seemingly deepfaked audio of different chief executives used to trick senior financial controllers into transferring cash.
+
+  The AI system could be trained using the "huge amount" of audio the average chief executive would have innocently made available, Symantec said.
+
+  Corporate videos, earning calls, media appearances as well as conference keynotes and presentations would all be useful for fakers looking to build a model of someone's voice, chief technology officer Dr Hugh Thompson said.
+
+  "The model can probably be almost perfect," he said.
+
+  A deepfake of Facebook boss Mark Zuckerberg was widely shared on the social network
+
+  And they had used background noise to cleverly mask the least convincing syllables and words.
+
+  "Really," said Dr Thompson, "who would not fall for something like that?"
+
+  Dr Alexander Adam, a data scientist at AI specialist Faculty, said it would take a substantial investment of time and money to produce good audio fakes.
+
+  'Training the models costs thousands of pounds," he said.
+
+  "This is because you need a lot of compute power and the human ear is very sensitive to a wide range of frequencies, so getting the model to sound truly realistic takes a lot of time."
+
+  Typically, he said, hours of good quality audio was needed to help capture the rhythms and intonation of a target's speech patterns.

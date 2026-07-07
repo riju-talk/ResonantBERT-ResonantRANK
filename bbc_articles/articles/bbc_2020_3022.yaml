@@ -1,0 +1,63 @@
+id: bbc_2020_3022
+title: 'Coronavirus: NHS uses tech giants to plan crisis response - BBC News'
+date: '2020-03-27'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-52053565
+content: |-
+  Amazon and Microsoft are among those helping with a dashboard to model where ventilators should go.
+
+  Data collected via the NHS's 111 telephone service is to be mixed with other sources to help predict where ventilators, hospital beds, and medical staff will be most in need.
+
+  The goal is to help health chiefs model the consequences of moving resources to best tackle the coronavirus pandemic.
+
+  Three US tech firms are aiding the effort - Amazon, Microsoft and Palantir - as well as London-based Faculty AI.
+
+  The plan is expected to be signed off by Health Secretary Matt Hancock.
+
+  "Every hospital is going to be thinking: Have we got enough ventilators? Well we need to keep ours because who knows what's going to happen - and that might not be the optimal allocation of ventilators," explained a source in one of the tech companies involved.
+
+  "Without a holistic understanding of how many we've got, where they are, who can use them, who is trained, where do we actually have patients who need them most urgently, we risk not making the optimal decisions."
+
+  The project is likely to give rise to privacy concerns.
+
+  However, the NHS intends to make sure that all the data involved has been anonymised so that personal details cannot be tied back to any individual.
+
+  And once the crisis is over, it is committed to destroying all the records.
+
+  The goal is to provide the NHS with interactive dashboards that pull together the disparate data it and its partners already hold.
+
+  This will involve using data about:
+
+  This in turn will allow decision-makers to:
+
+  In time, managers also hope to provide versions of the dashboards for public view.
+
+  Amazon's AWS division is helping to provide the cloud computing resources required, while Palantir is providing its Foundry software to help draw all of the data sources together. The program was previously used by the US to help co-ordinate response efforts to Haiti's cholera outbreak after an earthquake in 2010.
+
+  Microsoft's cloud division Azure has built what has been termed a "gigantic" data store to aid the project.
+
+  Faculty AI was previously known as ASI Data Science, and has previously worked with the Home Office to detect terrorist propaganda online.
+
+  "In the UK, you might be looking at things such as diagnostic results from tests, maybe 111 calls or people going online," the source told the BBC.
+
+  "In the short term, it is going to be more about situational awareness - where there may be emerging pressure.
+
+  "But then over time this will turn into more dynamic scenario planning. So you're able to simulate and ask: What if we redeployed our resources here? What would be the likely impact?"
+
+  The source added that beyond trying to help the NHS cope with demand for coronavirus care, it could also help it reorganise the system to deal with other cases that need treatment during the crisis.
+
+  The companies became involved shortly after a meeting at 10 Downing Street hosted by Boris Johnson's advisor Dominic Cummings on 11 March, which was also attended by other tech firms.
+
+  The involvement of Palantir - one of tech's most secretive companies - will act as a red flag to some privacy campaigners.
+
+  The tech firm was co-founded by Peter Thiel, a billionaire who is a close confidante of US President Donald Trump. It has contracts with the Pentagon among other US government departments, and also has ties to the UK's cyber-spy agency GCHQ.
+
+  But its work helping the US Immigration and Customs Enforcement (ICE) agency find undocumented workers has proven to be particularly controversial.
+
+  The company presents its products as being designed to safeguard people's privacy by limiting who can see what.
+
+  And it blogged on the topic last week.
+
+  "We must not blindly accept the mantra of 'desperate times call for desperate measures', but instead forge solutions that can survive a return to normalcy and not fundamentally alter our societal values," wrote Courtney Bowman, Palantir's privacy and civil liberties engineering lead.
+
+  "Any exceptional measures must be clearly justified by the facts and conditions of the moment but, also, in enacting them, build in mechanisms for rolling them back after the crisis and soberly evaluating the extent to which they were necessary and how we can do better next time."

@@ -1,0 +1,35 @@
+id: bbc_2019_8515
+title: Apple Watch bug allowed iPhone eavesdropping - BBC News
+date: '2019-07-11'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-48950933
+content: |-
+  Apple has disabled Walkie-Talkie mode after a security flaw was found.
+
+  Apple has disabled the Walkie-Talkie app on the Apple Watch, because of a flaw that let users eavesdrop on other people's iPhones.
+
+  The Walkie-Talkie app let two people who had accepted an invitation send and receive short audio messages.
+
+  But Apple said it had been "made aware" of a flaw that "could allow somebody to listen through another customer's iPhone without consent".
+
+  It has disabled the feature and apologised for the inconvenience.
+
+  However, Apple said it was not aware of the Walkie-Talkie bug being exploited by anybody in the real world.
+
+  It said "specific conditions and sequences of events" would be required to exploit the bug.
+
+  Apple found a similar "eavesdropping" flaw in its FaceTime video-calling app back in January.
+
+  In some cases, callers could activate the microphone on a target iPhone even if the recipient did not answer their call.
+
+  It issued a software update to fix the flaw.
+
+  In a separate issue, video-conferencing platform Zoom has addressed a flaw that let attackers access webcams without permission.
+
+  Researcher Jonathan Leitschuh found a bug that let attackers initiate video calls and access a target's webcam.
+
+  Zoom initially described the issue as low priority.
+
+  But on Tuesday, it issued an update to address the problem.
+
+  "We appreciate the hard work of the security researcher in identifying security concerns on our platform," it said in a statement.

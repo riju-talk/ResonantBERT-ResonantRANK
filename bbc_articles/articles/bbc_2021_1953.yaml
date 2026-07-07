@@ -1,0 +1,55 @@
+id: bbc_2021_1953
+title: Iran 'hides spyware in wallpaper, restaurant and games apps' - BBC News
+date: '2021-02-08'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-55977537
+content: |-
+  More than 1,000 dissidents and others have been targeted by two active campaigns, researchers say.
+
+  Check Point said spyware was hidden in restaurant and wallpaper apps, among others
+
+  Iran is running two surveillance operations in cyber-space, targeting more than 1,000 dissidents, according to a leading cyber-security company.
+
+  The efforts were directed against individuals in Iran and 12 other countries, including the UK and US, Check Point said.
+
+  It said the two groups involved were using new techniques to install spyware on targets' PCs and mobile devices.
+
+  And this was then being used to steal call recordings and media files.
+
+  One of the groups, known as Domestic Kitten or APT-50, is accused of tricking people into downloading malicious software on to mobile phones by a variety of means including:
+
+  The American-Israeli company's researchers documented 1,200 victims being targeted by the campaign, living in seven countries.
+
+  There had been more than 600 successful infections, it said.
+
+  The second group, known as Infy or Prince Of Persia, is said to spy on the home and work PCs of dissidents in 12 countries, extracting sensitive data after tricking people into opening malicious email attachments.
+
+  The Iranian government has not commented on the report.
+
+  Domestic Kitten's operation was first identified in 2018.
+
+  And Check Point said there was evidence it had run at least 10 campaigns since 2017.
+
+  Four of these were still active, with the most recent beginning in November 2020.
+
+  And it was using an Iranian blog site, Telegram channels and text messages to lure people into installing its infected software, which the researchers have dubbed Furball, which could:
+
+  The 600 successful infections are said to have included dissidents, opposition forces and people belonging to the Kurdish ethnic minority in:
+
+  The other group, Infy, is said to have been operating as far back as 2007.
+
+  Its most recent activity had targeted PCs, with fake emails with attractive content, usually with an attached document, Check Point said.
+
+  One example provided was of a document apparently about loans being offered to disabled veterans.
+
+  One infected document appeared to be from the Iranian-government-sponsored Foundation of Martyrs and Veterans Affairs
+
+  Once the document was opened, a spying tool was installed and sensitive data stolen, the company said.
+
+  Two documents recently used are said to have included a photo of an Iranian governor, with alleged contact details.
+
+  The researchers said Infy's capabilities were "far superior" to most other known Iranian campaigns, thanks to its ability to be highly selective about its targets and to have generally have gone undetected.
+
+  "It is clear that the Iranian government is investing significant resources into cyber-operations," Check Point cyber-research head Yaniv Balmas said.
+
+  "The operators of these Iranian cyber-espionage campaigns seem to be completely unaffected by any counter-activities done by others, even though both campaigns had been revealed and even stopped in the past.

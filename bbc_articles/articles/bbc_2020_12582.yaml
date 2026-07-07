@@ -1,0 +1,43 @@
+id: bbc_2020_12582
+title: Amazon sorry for Sidewalk 'confusion' - BBC News
+date: '2020-11-25'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-55059696
+content: |-
+  The new network, which uses other people's broadband, is not launching in the UK.
+
+  Amazon has apologised after UK customers received an email announcing the launch of a service available in the US only.
+
+  Amazon Sidewalk uses customer broadband accounts to create a neighbourhood-wide network for local devices.
+
+  It can be accessed by certain Amazon-branded devices up to 500m (0.3 miles) away if the home wi-fi is out of reach or not working.
+
+  But customers with a US-registered device only should have been contacted.
+
+  And UK customers who received Amazon's email have told BBC News this was not the case.
+
+  "We recently began emailing customers with Echo devices registered in the US to give them more information about Amazon Sidewalk," an Amazon spokeswoman said.
+
+  "This service will only be available in the US when it launches.
+
+  "We apologise for any confusion."
+
+  It means Amazon-branded security cameras and smart speakers can still function without a connection.
+
+  For US customers, the update will arrive in the form of a software update and owners of devices which can use it - including the Ring security camera and Amazon Echo - have to opt out of being part of it.
+
+  Only certain Amazon devices will be able to access it - not, for example, individual smartphones.
+
+  Amazon says in the email that Sidewalk "uses a small portion of your internet bandwidth" for the service.
+
+  "Sidewalk can also extend the coverage for Sidewalk-enabled devices, such as Ring smart lights and pet and object trackers, so they can stay connected and continue to work over longer distances," it adds.
+
+  Security researcher Kevin Beaumont tweeted Amazon appeared to be offering only very limited access to other people's broadband connections.
+
+  "It isn't blindly allowing anybody to browse the internet from your connection," he said.
+
+  However, Prof Alan Woodward, a cyber-security expert from Surrey University, said he thought people should not be added to the network by default.
+
+  "I think you should opt in rather than opt out of these things," he said.
+
+  "It feels wrong not knowing what your device is connected to."

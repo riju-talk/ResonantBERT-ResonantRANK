@@ -1,0 +1,37 @@
+id: bbc_2020_7150
+title: 'Coronavirus: New Covid-19 tracing tool appears on smartphones - BBC News'
+date: '2020-06-20'
+section: Health
+url: http://www.bbc.co.uk/news/health-53120290
+content: |-
+  The new "exposure notification" tool is part of an update to iPhone and Android operating systems.
+
+  A Covid-19 tracing software tool has appeared in the settings of both Android phones and iPhones as part of an update of their operating systems.
+
+  The "exposure notification" tool is switched off by default, and is not a tracing app itself.
+
+  It enables an app to run in the background while still using Bluetooth.
+
+  This lets the app measure the distance between two handsets - and then alert the phone owner if someone near them later tests positive for Covid-19.
+
+  In the UK there is currently no available contact-tracing app.
+
+  The update has caused some confusion, with people querying the new addition to their handsets on social media.
+
+  "This is not a new app but is an extra element added to the phones' operating systems to enable approved developers to build apps that can potentially warn of proximity to infected individuals," said computer scientist Prof Alan Woodward, of Surrey University.
+
+  "Only apps approved by Google and Apple will be included in their app stores where they try to make use of this facility."
+
+  The tools (Apple on the left, Android on the right) have appeared in the phone settings
+
+  On iPhones it's found in the settings app, via the privacy menu and then health sub-section. On Android phones it's in the Google (services and preferences) section of the settings menu.
+
+  It does not work with the popular Covid Symptom Study app, which has been downloaded more than 3m times.
+
+  A team of NHS developers had built a contact-tracing app and trialled it on the Isle of Wight but the UK government is now planning to incorporate software developed by Apple and Google.
+
+  This tool is part of that collaboration between the tech giants.
+
+  It enables handsets to exchange data and alert people if they have been near someone who is found to have coronavirus.
+
+  However that data is not stored anywhere centrally - which was what the UK initially wanted to do.

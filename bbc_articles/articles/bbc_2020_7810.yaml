@@ -1,0 +1,90 @@
+id: bbc_2020_7810
+title: 'TraceTogether: Singapore turns to wearable contact-tracing Covid tech - BBC
+  News'
+date: '2020-07-05'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-53146360
+content: |-
+  The TraceTogether Token is designed to make an app more effective, but worries privacy campaigners.
+
+  Singapore's TraceTogether Tokens are the latest effort to tackle Covid-19 with tech. But they have also reignited a privacy debate.
+
+  The wearable devices complement the island's existing contact-tracing app, to identify people who might have been infected by those who have tested positive for the virus.
+
+  All users have to do is carry one, and the battery lasts up to nine months without needing a recharge - something one expert said had "stunned" him.
+
+  The government agency which developed the devices acknowledges that the Tokens - and technology in general - aren't "a silver bullet", but should augment human contact-tracers' efforts.
+
+  The first to receive the devices are thousands of vulnerable elderly people who don't own smartphones.
+
+  To do so, they had to provide their national ID and phone numbers - TraceTogether app users recently had to start doing likewise.
+
+  If dongle users test positive for the disease, they have to hand their device to the Ministry of Health because - unlike the app - they cannot transmit data over the internet.
+
+  Human contact-tracers will then use the logs to identify and advise others who might have been infected.
+
+  "It's very boring in what it does, which is why I think it's a good design," says hardware developer Sean Cross.
+
+  He was one of four experts invited to inspect one of the devices before they launched. The group was shown all its components but were not allowed to turn it on.
+
+  "It can correlate who you'd been with, who you've infected and, crucially, who may have infected you," Mr Cross adds.
+
+  Singapore was the first country to deploy a national coronavirus-tracing app.
+
+  The local authorities say 2.1 million people have downloaded the software, representing about 35% of the population.
+
+  It is voluntary for everyone except migrant workers living in dorms, who account for the majority of Singapore's 44,000-plus infections.
+
+  The government says the app helped it quarantine some people more quickly than would have otherwise been possible.
+
+  But by its own admission, the tech doesn't work as well as had been hoped.
+
+  Some people have uninstalled the app because of its drain on battery life
+
+  On iPhones, the app has to be running in the foreground for Bluetooth "handshakes" to occur, which means users can't use their handsets for anything else. It's also a huge drain on the battery. Android devices don't face the same problem.
+
+  Automated contact-tracing can in theory be hugely effective, but only if a large percentage of a population is involved.
+
+  So, owners of Apple's devices are likely to be among others asked to use the dongles in the near future.
+
+  When the Token was first announced in early June, there was a public backlash against the government - something that is a relatively rare occurrence in Singapore.
+
+  Wilson Low started an online petition calling for it to be ditched. Almost 54,000 people have signed.
+
+  "All that is stopping the Singapore government from becoming a surveillance state is the advent and mandating the compulsory usage of such a wearable device," the petition stated.
+
+  "What comes next would be laws that state these devices must not be turned off [and must] remain on a person at all times - thus sealing our fate as a police state."
+
+  Ministers point out the devices don't log GPS location data or connect to mobile networks, so can't be used for surveillance of a person's movements.
+
+  Mr Cross agrees that from what he was shown, the dongles cannot be used as location-trackers.
+
+  But he adds that the scheme is still less privacy-centric than a model promoted by Apple and Google, which is being widely adopted elsewhere.
+
+  "At the end of the day, the Ministry of Health can go from this cryptic, secret number that only they know, to a phone number - to an individual," he explains.
+
+  By contrast, apps based on Apple and Google's model alert users if they are at risk, but do not reveal their identities to the authorities. It is up to the individuals to do so when, for example, they register for a test.
+
+  Dr Michael Veale, a digital rights expert at University College London, warns of the potential for mission creep.
+
+  He gives an example in which a government struggling against Covid-19 might want to enforce quarantine control. It could do so, he says, by fitting Bluetooth sensors to public spaces to identify dongle users who are out and about when they should be self-isolating at home.
+
+  "All you have to do is install physical infrastructure in the world and the data that is collecting can be mapped back to Singapore ID numbers," he explains.
+
+  "The buildability is the worrying part."
+
+  But the official in charge of the agency responsible for TraceTogether plays down such concerns.
+
+  "There is a high trust relationship between the government and people, and there is data protection," says Kok Ping Soon, chief executive of GovTech.
+
+  He adds that he hopes the public recognises that the health authorities need this data to protect them and their loved ones.
+
+  Another reason Singapore prefers its own scheme over Apple and Google's is that it can provide epidemiologists with greater insight into an outbreak's spread.
+
+  This was in part why the UK government initially resisted adopting the tech giants' initiative until its own effort to work around Apple's Bluetooth restrictions failed to pass muster.
+
+  If Singapore's wearables work as hoped, other nations may be tempted to follow.
+
+  "[With more data], you are able to make policy decisions which very carefully tie restraints or obligations only to high-risk activities. Otherwise you're left with much blunter tools," comments privacy expert Roland Turner, another member of the group invited by Singapore to inspect its hardware.
+
+  "There is perhaps a paradoxical consequence that greater freedoms are possible."

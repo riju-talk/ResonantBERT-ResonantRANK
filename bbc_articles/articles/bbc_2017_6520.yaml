@@ -1,0 +1,83 @@
+id: bbc_2017_6520
+title: '''How I could have stolen my old car using my smartphone'' - BBC News'
+date: '2017-06-20'
+section: Business
+url: http://www.bbc.co.uk/news/business-40324983
+content: |-
+  Connected cars are becoming the norm, but how secure are they and how safe is our personal data?
+
+  Charles Henderson found he still had smartphone access to his old car even though he'd sold it
+
+  Charles Henderson loved his "awesome" convertible, particularly the fact that he could start, lock and unlock it remotely via his mobile phone.
+
+  It was one of the first connected cars that synchronise wirelessly with smartphones for entertainment and work purposes.
+
+  But after he sold the vehicle, he was astonished to discover that he could still control it using the associated smartphone app.
+
+  "I could have found out where the car was, unlocked it remotely, started it and driven off with it," he tells the BBC.
+
+  Mr Henderson, from Austin, Texas, is global head of X-Force Red, IBM's offensive security group, so he knows a thing or two about security. He tests companies' defences, both physical and digital.
+
+  "We try to think like a criminal without actually acting like one," he says. "It's the coolest job in the world."
+
+  So before selling his car back to the dealer he was sure to carry out a factory reset and wipe any personal data from the car's onboard computer. He didn't want the new owner getting access to his calendar, contacts and phone records.
+
+  He then bought a new connected car made by the same manufacturer and was amazed when his old car still appeared alongside his new car on the app.
+
+  "These IoT [internet of things] devices are really smart but they're not smart enough to know that you've sold them," he says.
+
+  The modern cliche is that cars are becoming smartphones on wheels
+
+  "I informed the car dealership but they didn't know how to handle this. So we went to the car manufacturer and it took a while before they took it seriously. They found it really difficult to cut off access."
+
+  The issue of personal data being left behind in devices we rent or own poses a serious risk - hackers could get access to it and use it for blackmail purposes or to steal our money using cloned identities.
+
+  "When they rent a car, many drivers sync their phones to the onboard Bluetooth without thinking that the data will stay in the car's computer. And they won't even think about clearing it before handing it back," says Mr Henderson.
+
+  "Yet they could be revealing sensitive corporate or private data unwittingly."
+
+  Ian Fogg, principal analyst at research firm IHS Markit, says: "Your smartphone is now the hub for a range of experiences, whether that's in your connected car or your smart home.
+
+  "So it's a really critical to protect your data, and when selling it - or the devices it has synced with - to make sure all personal information is thoroughly removed from it."
+
+  Richard Stiennon is chief strategy officer for Blancco Technology Group, a company that specialises in data erasure.
+
+  He admits that deleting this data is easier said than done.
+
+  "Simply going into a car's settings and deleting your phone from the list of previously paired Bluetooth devices does not guarantee that this will overwrite the data on the car's storage device," Mr Stiennon says.
+
+  "It will only prevent casual hackers like the next renter from seeing it. A better option is to overwrite all user data or perform a factory reset - if the vehicle allows it - to ensure the data is 100% erased and cannot be recovered."
+
+  If celebrities like Kim Kardashian sync their phones with cars, could hackers target their data ?
+
+  Erasing data from a connected car is more difficult to do than on laptops, removable drives and mobiles. When you think about all the different car makes and models, each with their own operating systems and apps, syncing with so many different phone types, which also have their own versions of operating systems, complexity and lack of standards is the order of the day.
+
+  Toby Poston, director of communications and external relations for the BVRLA (British Vehicle Rental and Leasing Association) says: "Each individual has the responsibility for making sure that their data is erased, but car makers could make it easier.
+
+  "Our members manage millions of hire cars and company cars and we would like to see all manufacturers introduce a 'data cleanse' button to their vehicles as well as enabling this to be done remotely."
+
+  There are also cyber-security, as well as data protection, issues.
+
+  "If the driver's mobile network is infected with malware, it could access private information and copy it back to the car's infotainment system," says Mr Stiennon.
+
+  "This could lead to sensitive information like financial details, social security numbers and usernames and passwords being accessed and potentially breached."
+
+  It's also possible that an infected car could pass on the infection to your phone.
+
+  The data we share with our cars has value, which is why there is such a battle raging over who should control it and have access to it.
+
+  Mr Stiennon cites the recent case of three employees of Enterprise-Rent-A-Car in the UK who stole the details of tens of thousands of the company's customers and sold the data on to "ambulance-chasing" accident claims companies.
+
+  As our cars become more connected do you know what data you're sharing with them?
+
+  So the next time you hire a connected car it might be worth asking the rental provider what data removal options they provide and whether they can give you written proof that your personal data has been successfully and totally erased.
+
+  "When I resell my car, the manufacturer isn't involved in the exchange so isn't focused on the second user experience," says IBM's Mr Henderson.
+
+  "Although they are beginning to take this issue more seriously, it has to be everyone in the industry - not just the major players. The roads are not brand specific."
+
+  A report into Connected and Autonomous Vehicles (CAVs) commissioned by the UK's Society of Motor Manufacturers and Traders concluded that "the collection and use of data by CAVs is not a matter of significant concern for consumers.
+
+  But how do we know consumers don't seem that bothered simply because they don't yet understand the implications?
+
+  "What happens when you get ransomware on your car and you can't drive to work that day?" warns Mr Henderson.

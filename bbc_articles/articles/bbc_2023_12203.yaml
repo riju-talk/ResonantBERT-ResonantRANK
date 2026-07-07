@@ -1,0 +1,59 @@
+id: bbc_2023_12203
+title: 'PSNI: How did the police data breach happen? - BBC News'
+date: '2023-08-10'
+section: Northern Ireland
+url: http://www.bbc.co.uk/news/uk-northern-ireland-66448442
+content: |-
+  The names of police officers and staff have been published online, but how did it happen?
+
+  Police officers and staff in Northern Ireland had their personal details shared online on Tuesday
+
+  On 8 August, the names of police officers and staff in Northern Ireland, where they were based and their roles were published on the internet.
+
+  A continuing threat against officers from dissident republicans means they must be extremely vigilant about their personal security.
+
+  The data was made public, in error, by police as they responded to a routine freedom of information (FoI) request.
+
+  But what does that mean, and how did it happen?
+
+  Under the Freedom of Information Act 2000, members of the public are entitled to request information held by public authorities.
+
+  In principle, the act allows for people to know about the activities of certain bodies, unless there is a valid reason for withholding that information - in this case, a matter of security.
+
+  On 3 August, the Police Service of Northern Ireland (PSNI) received a FoI request from a member of the public which asked: "Could you provide the number of officers at each rank and number of staff at each grade?"
+
+  What they got back was not only a numerical table, but, by mistake, a huge Excel spreadsheet.
+
+  This was referred to by the police as "the source data" and should not have been released as part of the FoI.
+
+  Everything which was provided under the FoI, including the spreadsheet, was then published on an FoI website, What Do They Know, on Tuesday afternoon, making it publicly available.
+
+  It was removed after two-and-a-half hours at the PSNI's request, once they became aware of it.
+
+  Each line contained multiple pieces of information from the top of the organisation down.
+
+  This included the surname and initials of every employee, their rank or grade, where they are based and the unit they work in, including sensitive areas such as surveillance and intelligence.
+
+  It also included people on career breaks which could explain why the list exceeded the current size of the PSNI's workforce,.
+
+  According to the PSNI's website, it currently employs 6,812 full and part-time officers and 2,437 support staff
+
+  Attacks on police continue 25 years after the end of the worst of the Troubles
+
+  The Data Protection Act 2018, which is the UK's implementation of the General Data Protection Regulation (GDPR), means employers can hold certain data about their employees without their permission.
+
+  However, employers must follow a strict set of "data protection principles" to ensure that data is handled in an appropriate way.
+
+  Firms committing infringements on those regulations can face a maximum fine of £17.5m.
+
+  Lawyer and data protection expert Ibra-Him Hasan said there were "serious questions to be asked" of the PSNI in terms of its procedures for dealing with FoI requests.
+
+  "It's important to bear in mind all public sector organisations receive such requests for information... usually these are routinely dealt with quite easily without disclosing any personal data," he told the BBC's Talkback programme.
+
+  "This is about life and limb in this particular case."
+
+  He said an FoI response should not rest on a single member of staff, which is what is suspected to have happened on this occasion, and multiple checks were required before publication.
+
+  "When you're attaching Excel spreadsheets you may feel that you've anonymised the information but a few clicks... you could reveal the source data behind the statistics," he explained.
+
+  "It's a training issue, it's an awareness issue, but also just people checking each other's work to ensure they haven't inadvertently disclosed the background information."

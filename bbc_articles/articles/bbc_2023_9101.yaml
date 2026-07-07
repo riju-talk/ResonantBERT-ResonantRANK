@@ -1,0 +1,63 @@
+id: bbc_2023_9101
+title: Apple joins opposition to encrypted message app scanning - BBC News
+date: '2023-06-27'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-66028773
+content: |-
+  WhatsApp and iMessage could be forced to scan for child abuse images under the Online Safety Bill.
+
+  Apple has criticised powers in the Online Safety Bill that could be used to force encrypted messaging tools like iMessage, WhatsApp and Signal to scan messages for child abuse material.
+
+  Its intervention comes as 80 organisations and tech experts have written to Technology Minister Chloe Smith urging a rethink on the powers.
+
+  Apple told the BBC the bill should be amended to protect encryption.
+
+  The government says companies must prevent child abuse on their platforms.
+
+  End-to-end encryption (E2EE) stops anyone but the sender and recipient reading the message.
+
+  Police, the government and some high-profile child protection charities maintain the tech - used in apps such as WhatsApp and Apple's iMessage - prevents law enforcement and the firms themselves from identifying the sharing of child sexual abuse material.
+
+  But in a statement Apple said: "End-to-end encryption is a critical capability that protects the privacy of journalists, human rights activists, and diplomats.
+
+  "It also helps everyday citizens defend themselves from surveillance, identity theft, fraud, and data breaches. The Online Safety Bill poses a serious threat to this protection, and could put UK citizens at greater risk.
+
+  "Apple urges the government to amend the bill to protect strong end-to-end encryption for the benefit of all."
+
+  But the government told the BBC that "companies should only implement end-to-end encryption if they can simultaneously prevent abhorrent child sexual abuse on their platforms.
+
+  "We will continue to work with them to seek solutions to combat the spread of child sexual abuse material while maintaining user privacy."
+
+  The Online Safety Bill, currently going through Parliament, contains powers that could enable communications regulator Ofcom to direct platforms to use accredited technology to scan the contents of messages.
+
+  The government said these powers would only be used as "a last resort, and only when stringent privacy safeguards have been met".
+
+  Recently Home Office ministers have also been highly critical of Facebook's roll-out of the tech for messaging.
+
+  WhatsApp also opposes weakening the privacy of its encrypted app
+
+  Several messaging platforms, including Signal and WhatsApp, have previously told the BBC they will refuse to weaken the privacy of their encrypted messaging systems if directed to do so.
+
+  Signal said in February that it would "walk" from the UK if forced to weaken the privacy of its encrypted messaging app.
+
+  Apple's statement now means that some of the most widely used encrypted apps oppose this part of the bill.
+
+  The government argues it is possible to provide technological solutions that mean the contents of encrypted messages can be scanned for child abuse material.
+
+  The only way of doing that, many tech experts argue, would be to install software that would scan messages on the phone or computer before they are sent, called client-side scanning.
+
+  This, critics say, would fundamentally undermine the privacy of messages.
+
+  In 2021 Apple announced plans to scan photographs on people's iPhones for abusive content before they were uploaded to iCloud but these were abandoned after a backlash. It has now clearly signalled its opposition to any measure that weakens the privacy of end-to-end encryption.
+
+  Its announcement comes as the digital civil liberties campaigners The Open Rights Group sent an open letter to minister Chloe Smith.
+
+  The letter, signed by more than 80 national and international civil society organisations, academics and cyber-experts, says: "The UK could become the first liberal democracy to require the routine scanning of people's private chat messages, including chats that are secured by end-to-end encryption.
+
+  "As over 40 million UK citizens and 2 billion people worldwide rely on these services, this poses a significant risk to the security of digital communication services not only in the UK, but also internationally."
+
+  Element, a British tech company whose products using E2EE are used by government and military clients, has previously told the BBC measures in the bill that are seen to weaken the privacy of encrypted messages would make customers less trustful of security products produced by UK firms.
+
+  There is a growing expectation, the BBC has learned, that changes may be made to part of the bill which critics say could be used to mandate scanning. These could be included in a package of amendments to be revealed in the coming days.
+
+  But it is not clear what the detail of those changes might be, or if they will satisfy the concerns of campaigners.

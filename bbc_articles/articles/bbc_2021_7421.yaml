@@ -1,0 +1,45 @@
+id: bbc_2021_7421
+title: 'EA: Gaming giant hacked and source code stolen - BBC News'
+date: '2021-06-11'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-57431987
+content: |-
+  Game data and source code were both stolen by hackers, but no player data, EA said in a statement
+
+  Hackers have stolen valuable information from major game publisher Electronic Arts (EA), the company said.
+
+  The attackers claimed to have downloaded source code for games such as FIFA 21 and for the proprietary Frostbite game engine used as the base for many other high-profile games.
+
+  News of the hack was first reported by news site Vice, which said some 780GB of data was stolen.
+
+  EA said no player data had been stolen in the breach.
+
+  The firm is one of the largest games companies in the world. It counts major series such as Battlefield, Star Wars: Jedi Fallen Order, The Sims, and Titanfall among the titles it develops or publishes - as well as a vast array of annual sports games.
+
+  "We are investigating a recent incident of intrusion into our network where a limited amount of game source code and related tools were stolen," an EA spokesperson said in a statement.
+
+  "No player data was accessed, and we have no reason to believe there is any risk to player privacy," she added.
+
+  The company said it had already improved security and stated that it did not expect "an impact on our games or our business".
+
+  Law enforcement has also been contacted.
+
+  The "network intrusion" was not a ransomware attack and had happened recently, EA added.
+
+  In its report, Vice said it had seen screenshots of the hacking forums used by the attackers, who are advertising the stolen data for sale.
+
+  Source code is a version of computer software which is usually much easier to read and understand than the end version in a finished product, and could be used to reverse engineer parts of the product.
+
+  For example, the Frostbite engine, which hackers claim to have the source code for, is a powerful game creation tool used in dozens of games, from FIFA to the Battlefield series and several recent Star Wars games from EA.
+
+  The source code for the engine could hold significant value for an unscrupulous developer willing to copy it, or for those making cheat codes and hacks for games.
+
+  But it is unlikely that any mainstream competitor to EA would ever use such stolen data.
+
+  It is the latest in a string of high-profile gaming company hacks.
+
+  In November last year, Capcom, the maker of Street Fighter and Resident Evil, suffered a ransomware attack which may have revealed the personal information of up to 350,000 people.
+
+  And in February, Cyberpunk developer CD Projekt Red suffered another ransomware attack which resulted in the source code for several games being stolen and auctioned off online.
+
+  In that case, the hackers claimed to have sold the data for more than $7m (£4.9m), though it is not clear if the sale actually happened.

@@ -1,0 +1,75 @@
+id: bbc_2021_13718
+title: Google's Pixel 6 processor brings AI photo features - BBC News
+date: '2021-10-20'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-58955304
+content: |-
+  New AI features such as "magic" photo editing and on-device voice processing come with the new chip.
+
+  Google has unveiled its latest smartphone, containing the tech giant's first self-designed computer chip.
+
+  The Pixel 6 contains Google's "Tensor" processor, which it says enables new phone features powered by artificial intelligence and machine learning.
+
+  It is also the first phone in the series with a "Pro" model, designed to compete at the high end of the market.
+
+  "The whole goal when we started was to reach this point," said Rick Osterloh, Google's head of devices.
+
+  "Really, this is our original vision that we're finally able to get to after building a lot of capabilities both in technology and in product development capabilities," he told the BBC.
+
+  Google owns and operates the Android platform, used by almost every mobile phone maker apart from Apple. But the top end of the Android market has been dominated by other smartphone brands such as Samsung, whose phones can cost more than £1,000.
+
+  Google's Pixel line has often been priced in the middle of the market.
+
+  But the new Pixel 6 will retail for £599/$599, while the Pro model will cost £849/$899. bringing it closer to the price of competing top-end devices.
+
+  That is the same launch price for the base model as the Pixel 5, which had, Google said at the time, been designed for "an economic downturn".
+
+  "Obviously, there's a lot of technology and these are expensive, for sure, but we're trying to offer users good value despite the fact that these are flagships," Mr Osterloh said.
+
+  Both the Pixel 6 and Pro are standard form-factor smartphones with a striking large horizontal bar across the upper back of the phone.
+
+  That bar contains all the camera lenses and sensors, instead of putting them off to one side in a camera "bump" popular on many modern models.
+
+  Both versions have a 50-megapixel (MP) main camera and a 12MP ultrawide. The Pro model has an additional 48MP camera, giving it a 4x optical zoom.
+
+  The Pro model also has more memory, a higher-resolution screen, and a faster screen refresh rate of up to 120hz - or 120 screen refreshes a second, which can make animations and fast movements appear smoother.
+
+  Modern smartphones rely heavily on "computational photography" to take good, clear photos. It is what gives each phone maker their own distinctive "look" to photos.
+
+  "For a long time, Pixel has been known for awesome photography, which is truly a function of our ability to do AI-driven, machine-learning-driven improvements to the camera experience," Mr Osterloh said.
+
+  "With this new platform, with Tensor, we've literally designed the platform to to be able to support he most cutting-edge work we have in all aspects of AI."
+
+  One of those is what Google calls a "magic eraser" - a system where the Photos app will detect distractions in the photo such as someone walking in the background, and try to remove them. The company says it can also be used for things such as power poles or wires, and users can manually select things to remove as well as the automatic system.
+
+  Another new feature is "face deblur".
+
+  When taking a photo with the rear-facing camera, it will use all available cameras and take multiple versions. So if a person is constantly moving - such as Google's example of a young child - the camera will attempt to fix a blurry face by combining all the data, and attempt to figure out what the non-blurred version should look like.
+
+  The new processing power in its latest chip means that technology can now be applied to videos as they are recorded, giving them the same type of style as Pixel's still cameras.
+
+  Asked if the new features would make their way to other Android phones, Mr Osterloh said: "Many of them will only be Pixel".
+
+  He said while it is possible some might eventually be available on other devices, "a lot of it really requires this custom architecture and therefore it's likely to be on products that run Tensor for the foreseeable future only".
+
+  Google had first teased the existence of the Pixel 6 and Pixel Pro in August - along with its Tensor processor.
+
+  Until now, it has used chips designed by chip firm Qualcomm. But it says the Tensor chip is up to 80% faster than the Pixel 5 from 2020, as well as being power-efficient.
+
+  One significant advantage to its new chip, Google says, is that it can do more on the phone itself, without being connected to the internet - particularly through Google's popular virtual assistant.
+
+  For example, it says that voice transcription - which now uses the Google Assistant - will be faster and more accurate. Users can say "Hey Google, type" instead of tapping a button, and can also use voice commands to send messages. The voice system can be used at the same time as the text keyboard.
+
+  Google's recorder app also leverages the snappier processor to live-transcribe audio recordings as they're made, even when the phone is not connected to the internet.
+
+  It also means that Google's live translation features are snappier than before, as more of the processing is done on the machine itself.
+
+  But it does not mean that Google Assistant will work perfectly offline for privacy campaigners.
+
+  "To be really useful, you need to assume that it's going to use the cloud," Mr Osterloh said.
+
+  "The speech recognition part of that workflow will happen on the device... [and] all the dictation".
+
+  But most people ask for weather, or sports scores or other kinds of information that has to be retrieved from the internet.
+
+  "We're moving more and more workloads from the cloud to the device, we're trying to do that... to make sure the user has the best possible performance. But certainly this indicates a direction for privacy as well."

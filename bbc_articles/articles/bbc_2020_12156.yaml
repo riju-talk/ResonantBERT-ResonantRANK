@@ -1,0 +1,47 @@
+id: bbc_2020_12156
+title: British Airways fined £20m over data breach - BBC News
+date: '2020-10-16'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-54568784
+content: |-
+  The fine is the largest ever issued by the Information Commissioner's Office.
+
+  British Airways has been fined £20m ($26m) by the Information Commissioner's Office (ICO) for a data breach which affected more than 400,000 customers.
+
+  The breach took place in 2018 and affected both personal and credit card data.
+
+  The fine is considerably smaller than the £183m that the ICO originally said it intended to issue back in 2019.
+
+  It said "the economic impact of Covid-19" had been taken into account.
+
+  However, it is still the largest penalty issued by the ICO to date.
+
+  The incident took place when BA's systems were compromised by its attackers, and then modified to harvest customers' details as they were input.
+
+  It was two months before BA was made aware of it by a security researcher, and then notified the ICO.
+
+  The data stolen included log in, payment card and travel booking details as well name and address information.
+
+  A subsequent investigation concluded that sufficient security measures, such as multi-factor authentication, were not in place at the time.
+
+  The ICO noted that some of these measures were available on the Microsoft operating system that BA was using at the time.
+
+  "When organisations take poor decisions around people's personal data, that can have a real impact on people's lives. The law now gives us the tools to encourage businesses to make better decisions about data, including investing in up-to-date security," said Information Commissioner Elizabeth Denham.
+
+  British Airways said it had alerted customers as soon as it had found out about the attack on its systems.
+
+  "We are pleased the ICO recognises that we have made considerable improvements to the security of our systems since the attack and that we fully co-operated with its investigation," said a spokesman.
+
+  Data protection officer Carl Gottlieb said that in the current climate, £20m was a "massive" fine.
+
+  "It shows the ICO means business and is not letting struggling companies off the hook for their data protection failures," he said.
+
+  It's taken more than two years for BA to face the music over this extremely serious incident.
+
+  The company breached data protection law and failed to protect themselves from preventable cyber attack. It then failed to detect the hack until the damage was done to hundreds of thousands of customers.
+
+  The lag between incident and fine has raised eyebrows in privacy circles but I understand the Information Commissioner's Office has been working methodically to get it right. This is the commissioner's first major fine under the EU data regulation GDPR and was being watched closely by the rest of Europe as a potential landmark decision.
+
+  The final figure of £20m has come as a shock to many who were expecting it to be closer to the eye-watering £183m initially proposed but it is still a significant moment for data privacy and GDPR. Other companies will look at the fine as a shape of things to come if they also fail to protect customers.
+
+  In a post-Covid world, the ICO may not be as gentle.

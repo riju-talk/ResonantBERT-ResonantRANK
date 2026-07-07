@@ -1,0 +1,33 @@
+id: bbc_2024_13135
+title: NHS England confirm patient data stolen in cyber attack - BBC News
+date: '2024-06-25'
+section: England
+url: http://www.bbc.co.uk/news/articles/c9777v4m8zdo
+content: |-
+  The NHS said Patients should continue to attend their appointments unless they have been told otherwise.
+
+  NHS England has confirmed its patient data managed by pathology testing organisation Synnovis was stolen in a ransomware attack on 3 June.
+
+  Qilin, a Russian cyber-criminal group, shared almost 400GB of private information on their darknet site on Thursday night, something they threatened to do in order to extort money from Synnovis.
+
+  In a statement, NHS England said there is "no evidence" that test results have been published, but that "investigations are ongoing".
+
+  More than 3,000 hospital and GP appointments were disrupted by the attack.
+
+  "Patients should continue to attend their appointments unless they have been told otherwise and should access urgent care as they usually would," NHS England said.
+
+  A sample of the stolen data seen by the BBC includes patient names, dates of birth, NHS numbers and descriptions of blood tests, something cyber security expert Ciaran Martin told the BBC was "one of the most significant and harmful cyber attacks ever in the UK."
+
+  There are also business account spreadsheets detailing financial arrangements between hospitals and GP services and Synnovis being taken.
+
+  The ransomware hackers infiltrated the computer systems of the company, which is used by two NHS trusts in London, and encrypted vital information making IT systems useless.
+
+  As is often the case with cyber-criminals, they also downloaded as much private data as they could to further extort the company for a ransom payment in Bitcoin.
+
+  It is not known how much money the hackers demanded from Synnovis or if the company entered negotiations. But the fact Qilin has published some, potentially all, of the data means they did not pay.
+
+  The cyber-attackers told the BBC on an encrypted messaging service they had deliberately targeted Synnovis as a way to punish the UK for not helping enough in an unspecified war.
+
+  In NHS England's statement it said it "continues to work with Synnovis and the National Crime Agency".
+
+  NHS England said it had set up a helpline to support people impacted by the attack and it will continue to share updates, but "investigations of this type are complex and take time".

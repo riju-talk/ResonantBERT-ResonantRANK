@@ -1,0 +1,89 @@
+id: bbc_2023_12597
+title: Why it matters where your data is stored - BBC News
+date: '2023-08-11'
+section: Business
+url: http://www.bbc.co.uk/news/business-66310714
+content: |-
+  European data storage firms are emerging that promise to protect customer data from US interference.
+
+  US firms like Amazon's AWS are the biggest players in cloud computing
+
+  Mattias Åström glances out of the office window in France. "Look at all the beautiful roads and bridges here," says the founder and chief executive of Evroc.
+
+  "You can see what we built hundreds of years ago. Now, we're letting foreign companies build our critical infrastructure."
+
+  He's talking about digital infrastructure: the hardware and software, data centres and communications networks that power modern business.
+
+  There is a concern in Europe about digital sovereignty, the region's ability to control its own data and technology.
+
+  For example, Europe is heavily dependent on US firms for cloud services - the remote computing and data storage services dominated by US companies including Amazon and Microsoft.
+
+  This has been a potential cause of problems, when the data of European customers is stored in a US cloud service, as there can be a conflict between the laws that apply.
+
+  The General Data Protection Regulation (GDPR) requires organisations in the EU to protect personal data, and the UK has equivalent data protection laws.
+
+  At the same time, US laws have given intelligence and law-enforcement services broad powers to access data.
+
+  That conflict was underlined In May, when Facebook was fined a record €1.2bn (£1bn) for having inadequate safeguards for data sent from the EU to the US.
+
+  However, in July the European Commission decided that the new EU-US Data Privacy Framework, which US firms will be able to join, gives "an adequate level of protection" for personal data transferred to the US.
+
+  Mr Åström is the founder and chief executive of Evroc, which is headquartered in Stockholm.
+
+  The firm believes there's an opportunity to create what it calls Europe's first "sovereign hyperscale cloud".
+
+  That means it's fully under the jurisdiction of European law, and it's big enough to rival the major US cloud providers: Amazon Web Services (AWS), Microsoft and Google. They have a 65% share of the world cloud market between them, according to Synergy Research Group.
+
+  Evroc has secured €15m in seed funding and plans to build eight data centres in Europe in the next five years. The first will be a large pilot data centre in Sweden next year.
+
+  Mr Åström sees technological independence from the US as a critical aspect of digital sovereignty.
+
+  "We've seen the US restricting certain components from being exported to China," he says. "Let's say there is a conflict in China and Taiwan. What do you think will happen if computing is a scarce resource? Do you think the US will look after its own interests or help their European friends?"
+
+  US firms storing European data have to keep to strict European data protection laws
+
+  Cloud computing firm Ionos already positions itself as the European alternative to US tech giants, out of the reach of the US Cloud Act.
+
+  That's the law that allows US authorities to request data stored by cloud companies that work in the US, even if the data is outside the US. The request must meet the legal standards for a judge to issue a warrant as part of a criminal investigation.
+
+  Ionos develops all its software in Europe, and its European servers are isolated from the US.
+
+  "It's about trust," says Rainer Straeter, its head of cloud development and digital ecosystems. "Do we really think that the Cloud Act will [hit] a small business around the corner? We don't know. This 'don't know' makes us a bit nervous."
+
+  Responding to the issue of digital sovereignty, a spokesperson for Amazon Web Services said: "Our bi-annual transparency reports note that there have been no data requests to AWS that resulted in disclosure of data stored outside the US to the US government. This statement was added to the transparency report in 2020, and has been re-affirmed every six months since then."
+
+  In addition the firm said: "AWS will challenge any law enforcement request for customer data from any governmental bodies where the request conflicts with EU law, is overbroad, or we otherwise have any appropriate grounds to do so."
+
+  Nevertheless, European firms continue their efforts to form cloud services.
+
+  Ionos is among 377 organisations participating in the Gaia-X project, which aims to join up cloud service providers in a federated system, so data can move between them while data owners remain in control.
+
+  It also counts the European divisions of Microsoft, Google and Amazon among its members.
+
+  However, Mr Straeter says that if European cloud providers band together, they can take on the US tech giants.
+
+  "None of the European cloud providers can build everything on their own to compete with AWS," says Mr Straeter. "The resources available are not enough. We have to take the European way, be a bit cleverer than anybody else, and define standards. If all the [European] cloud providers were able to share an ecosystem, we would be much stronger than AWS, Google and Microsoft."
+
+  Mr Straeter believes it's important for Europe to have resilient infrastructure, following a run of crises that include the financial crisis of 2007 to 2009, Covid-19, and the war in Ukraine.
+
+  "Federated networks are more resilient, more stable," Mr Straeter says. "We know this from the domain name system in the internet. It's rock solid because it's super distributed."
+
+  Another part of digital sovereignty is how a country or region balances free speech with protecting its citizens. The Online Safety Bill, going though UK parliament now, will require social media platforms to remove illegal content quickly, enforce age checks and stop children seeing harmful content.
+
+  "Some of this is terrifying to US companies, who are used to operating in the shadow of the first amendment," says Mark Weston, partner and head of technology law at law firm Hill Dickinson.
+
+  "The first amendment says as long as you're not causing direct harm to somebody, you can say whatever you like, and set yourself up in whatever way you like. The UK is [asserting its] digital sovereignty and saying this is harming our citizens, and therefore we want social media companies, while they're in our jurisdiction, to operate in this way."
+
+  Data laws in the UK and EU apply to citizens, even if their data is processed overseas, he says.
+
+  "If you are holding personal data of residents from the UK and the EU on US servers, you're caught within the UK and the EU legislation," says Mr Weston.
+
+  People and firms who are concerned about digital sovereignty may also want to think about the number of companies involved in hosting their data, according to Simon Yeoman, chief executive of cloud company Fasthosts.
+
+  "The supply chain is where it starts to unravel," he says. "You might work with a managed service provider based in Birmingham [UK], and they might work with a UK data centre, but they might back up to Google. You have to ask those follow-up questions around the supply chain to really understand how sovereign you are," he says.
+
+  Barry Cashman has some reassuring words for people who are worried that US authorities can get easy access to corporate data.
+
+  He works for Veritas Technologies, a US firm, which manages data for thousands of companies all over the world.
+
+  "Concerns that EU companies and citizens have about their data being exported outside of the EU to countries with different privacy regimes are valid, but it's important to remember that the EU-US Data Framework that recently came into force does provide safeguards for the use of personal data by US national security agencies."

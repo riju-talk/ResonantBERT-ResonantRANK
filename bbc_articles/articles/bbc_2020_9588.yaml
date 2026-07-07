@@ -1,0 +1,70 @@
+id: bbc_2020_9588
+title: 'Coronavirus: England''s contact-tracing app gets green light for trial - BBC
+  News'
+date: '2020-08-12'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-53753678
+content: |-
+  Public tests are set to start on Thursday, but concerns remain about how accurately distance is measured.
+
+  The Isle of Wight has been picked as a test bed for England's contact-tracing app for a second time
+
+  England's revamped coronavirus contact-tracing app is set to begin public trials on Thursday.
+
+  The software will be based on Apple and Google's privacy-centric method of one smartphone detecting another.
+
+  Engineers are still trying to reduce how often the Bluetooth-based tech wrongly flags people as being within 2m (6.6ft) of each other.
+
+  Officials are concerned about people going into quarantine as a consequence.
+
+  The Isle of Wight will be involved again, along with one other area and a volunteer group. The government intends to launch the experiment without much fanfare, because it is still not clear when a formal national rollout will occur.
+
+  The idea behind the app is to use people's phones to log when they have been close to another person for so long, that there is a high risk of contagion.
+
+  If one user is later diagnosed with the disease, the other person can be alerted to the fact before they begin exhibiting symptoms.
+
+  In addition, users will also be asked to scan a QR barcode when they enter a property, to provide a means to later alert them to the fact that they visited a location linked to multiple infections.
+
+  "We need the app to help stop transmission by tracing close-proximity contacts as quickly and as comprehensively as possible, capturing those contacts we don't know or don't remember meeting," Prof Christophe Fraser, a scientific advisor to the Department of Health from Oxford University, told the BBC.
+
+  "The app should enable us to return to more normal daily activities with the reassurance that our contacts can be rapidly and anonymously notified if we get infected."
+
+  Baroness Dido Harding - who heads up the wider Test and Trace programme - cancelled an earlier trial on the Isle of Wight in June.
+
+  This was because an app based on an alternative system spearheaded by NHSX - the health service's digital innovation unit - had to deal with restrictions Apple imposes on how Bluetooth is used by third-party apps.
+
+  As a result, it only detected 4% of iPhones in cases where the app had gone to sleep because the two handsets involved had not been in recent active use.
+
+  This prompted a switch to the Apple-Google solution, which does not have this problem.
+
+  But at the time, Baroness Harding said the US tech giant's alternative had a different issue.
+
+  Baroness Harding has concerns that people might be directed to stay at home based on unreliable data
+
+  She said it could not measure distance well enough to be trusted to direct people to self-isolate for a fortnight.
+
+  This has not prevented other places - including Northern Ireland - launching apps based on the technology.
+
+  But ongoing tests indicate that England's new app is still worse at determining distance than the original NHS Covid-19 product.
+
+  Confusingly, there have even been cases when the further two handsets are spaced apart, the more likely it is that the software still indicates they are within 2m of each other.
+
+  Part of the problem with the Apple-Google framework is that the tech firms have decided that developers should not get access to raw attenuation data - a measure of changes in Bluetooth signal strength.
+
+  Instead, it provides a more basic set of readings that an app can use to calculate its own risk scores - the idea being that this helps preserve users' anonymity.
+
+  But one consequence of this, is that engineers have not been able to take advantage of a technique developed by researchers at the UK's Turing Institute and the University of Oxford. It filters the data to give a better indication of proximity.
+
+  Several countries have asked the two tech firms to relax their restrictions, although they are cautious about discussing the matter in public. Many of those involved have signed non-disclosure agreements with Apple and Google.
+
+  Switzerland and Germany have said they have no way of measuring how many false positives are being recorded by their apps
+
+  A possible compromise would be for Apple and Google to incorporate the filter into their own tool. But they have yet to give a commitment to do so.
+
+  The team behind England's app hopes it can still improve the accuracy rate to a high enough - but not perfect - level by the end of the year.
+
+  This would give the Test and Trace team the confidence to include an alert directing users to stay at home when required.
+
+  But those involved believe there is still a "significant risk" this will not be achievable.
+
+  In the meantime, the new Isle of Wight trial will allow them to see how the software behaves in real-world situations, to help further their endeavours.

@@ -1,0 +1,81 @@
+id: bbc_2023_5540
+title: WhatsApp and other messaging apps oppose 'surveillance' - BBC News
+date: '2023-04-18'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-65301510
+content: |-
+  WhatsApp and messaging apps unite to urge the UK government to rethink the Online Safety Bill.
+
+  WhatsApp, Signal and other messaging services have urged the government to rethink the Online Safety Bill (OSB).
+
+  They are concerned that the bill could undermine end-to-end encryption - which means the message can only be read on the sender and the recipient's app and nowhere else.
+
+  Ministers want the regulator to be able to ask the platforms to monitor users, to root out child abuse images.
+
+  The government says it is possible to have both privacy and child safety.
+
+  "We support strong encryption," a government official said, "but this cannot come at the cost of public safety.
+
+  "Tech companies have a moral duty to ensure they are not blinding themselves and law enforcement to the unprecedented levels of child sexual abuse on their platforms.
+
+  "The Online Safety Bill in no way represents a ban on end-to-end encryption, nor will it require services to weaken encryption."
+
+  End-to-end encryption (E2EE) provides the most robust level of security because nobody other than the sender and intended recipient can read the message information.
+
+  Even the operator of the app cannot unscramble messages as they pass across its systems - they can be decrypted only by the people in the chat.
+
+  In an open letter published on Tuesday, the operators of encrypted messaging apps warn: "Weakening encryption, undermining privacy and introducing the mass surveillance of people's private communications is not the way forward."
+
+  In its current form, the OSB opens the door to "routine, general and indiscriminate surveillance" of personal messages, the letter says.
+
+  The bill risks "emboldening hostile governments who may seek to draft copycat laws".
+
+  And while the UK government say technological ways can be found to scan messages without undermining the privacy of E2EE "the truth is that this is not possible".
+
+  Mr Hodgson, of UK company Element, called the proposals a "spectacular violation of privacy... equivalent to putting a CCTV camera in everyone's bedroom".
+
+  Mr Cathcart has told BBC News WhatsApp would rather be blocked in the UK than weaken the privacy of encrypted messaging.
+
+  Ms Whittaker has said the same - Signal "would absolutely, 100% walk" should encryption be undermined.
+
+  And Swiss-based app Threema has told BBC News weakening its security "in any way, shape, or form" is "completely out of the question".
+
+  "Even if we were to add surveillance mechanisms - which we won't - users could spot and remove them with relatively low effort because the Threema apps are open source", spokeswoman Julia Weiss wrote.
+
+  Other companies have also told BBC News of their unwillingness to comply.
+
+  Email services are exempt - but Europe-based Proton best known for its encrypted email service worries features in its Drive product may bring it within scope of the bill.
+
+  The company's Andy Yen has suggested, as a last resort, it could leave the UK if the law comes into force unamended, as it would no longer be able "to operate a service that is premised upon defending user privacy".
+
+  That could mean "refusing service to users in the UK, shutting down our legal entity in the UK and re-evaluating future investments in infrastructure", Proton said.
+
+  Liberal Democrat digital-economy spokesman Lord Clement-Jones, who is backing an amendment to the bill, said: "The OSB as it stands could lead to a duty to surveil every message anyone sends.
+
+  "We need to know the government's intentions on this."
+
+  It was important properly encrypted services were retained, he told BBC News, and he expected Ofcom to issue a code of practice for how it intended to use the law.
+
+  The bill would enable Ofcom to make companies scan messages - text, images, videos and files - with "approved technology" in order to identify child sexual abuse material. However, the communications regulator told Politico it would do so only if there was an "urgent need" and "would need a high bar of evidence in order to be able to require that a technology went into an encrypted environment".
+
+  It is widely assumed this will mean messages are scanned by software on a phone or other device before they are encrypted - a technique called client-side scanning.
+
+  But many services say this would mean re-engineering their products just for the UK.
+
+  "Global providers of end-to-end encrypted products and services cannot weaken the security of their products and services to suit individual governments," the letter says.
+
+  "There cannot be a 'British internet' or a version of end-to-end encryption that is specific to the UK."
+
+  Reacting to news of the letter the Prime Minister's official spokesperson said Tuesday powers to scan encrypted messages would only apply where no other "less intrusive measures" could achieve the "necessary reduction" in child abuse content.
+
+  Asked if there were concerns that it would open up encrypted messaging platforms to hacking from foreign states, the spokesman said there would be "requisite safeguards" so that end-to-end encryption was not weakened "by default".
+
+  And children's charities say encrypted-messaging companies could do more to prevent their platforms' misuse.
+
+  There were record levels of online child sexual abuse, Richard Collard, of the National Society for the Prevention of Cruelty to Children (NSPCC), said, with the victims, mostly girls, targeted at an increasingly young age.
+
+  "The front line of this fight to keep our children safe is private messaging - and it would be inconceivable for regulators and law enforcement to suddenly go into retreat at the behest of some of the world's biggest companies," he said.
+
+  "Experts have demonstrated that it's possible to tackle child abuse material and grooming in end-to-end encrypted environments."
+
+  And the argument children's fundamental right to safety online could be achieved only at the expense of adult privacy was tired and false.

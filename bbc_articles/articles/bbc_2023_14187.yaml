@@ -1,0 +1,57 @@
+id: bbc_2023_14187
+title: ChatGPT can now access up to date information - BBC News
+date: '2023-09-27'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-66940771
+content: |-
+  The chatbot's knowledge previously only included data up to September 2021, but not any more.
+
+  OpenAI, the Microsoft-backed creator of ChatGPT, has confirmed the chatbot can now browse the internet to provide users with current information.
+
+  The artificial intelligence-powered system was previously trained only using data up to September 2021.
+
+  The move means some premium users will be able to ask the chatbot questions about current affairs, and access news.
+
+  OpenAI said the feature would open up to all users soon.
+
+  Earlier in the week, OpenAI also revealed the chatbot will soon be able to have voice conversations with users.
+
+  ChatGPT and other similar systems use huge amounts of data to create convincing human-like responses to user queries.
+
+  They are expected to dramatically change the way people search for information online.
+
+  But until now the viral chatbot's "knowledge" has been frozen in time. Its database has been drawn from the contents of the internet as it was in September 2021. It could not browse the net in real time.
+
+  So, for example, ask the free version when an earthquake last struck Turkey, or whether Donald Trump is still alive and it replies "'I'm sorry, but I cannot provide real-time information".
+
+  ChatGPT's inability to take recent events into account has been a turn-off for some potential users.
+
+  "If this functionality or capability weren't there, you would need to go to Google or to Twitter or to your preferred news outlet. Now, you can treat this as a source of the latest news, gossip and current events," says Tomas Chamorro-Premuzic, professor of business psychology at University College London.
+
+  "So the main implication is that it's going to absorb a lot of the incoming questions and inquiries that were going to search engines or going to news outlets," he said.
+
+  But, Mr Chamorro-Premuzic added that using the platform to search could be a double-edged sword.
+
+  "I think that's a good thing in terms of getting quick responses to your pressing, burning questions," he said, but warned that without sourcing, information provided through ChatGPT could be misleading.
+
+  "If it's not stating in a reliable way what the sources are, and it's simply doing a mix and a mish mash of what exists out there... then the concerns are around accuracy and people just assume the information they get there is reliable when it's not."
+
+  Already, OpenAI has come under the scrutiny of US regulators over the risk of ChatGPT generating false information.
+
+  Earlier this year, the Federal Trade Commission (FTC) sent a letter to the Microsoft-backed business requesting information on how it addresses risks to people's reputations.
+
+  In response, the OpenAI chief executive said the company would work with the FTC.
+
+  There were a number of reasons why ChatGPT did not search the internet until now: computing cost for one thing. It is often said that every single query costs OpenAI a few cents.
+
+  More significantly though, the limited data provided a valuable safety net.
+
+  ChatGPT could not start regurgitating harmful or illegal material it happened to find newly uploaded to the net in response to a query.
+
+  It could not spout misinformation planted by bad actors about politics or healthcare decisions because it didn't have access to it.
+
+  Asked why it had taken so long to allow users to search up to date information, the chatbot itself provided three answers.
+
+  It said developing language models took a long time and was resource-intensive, that using real-time data had the potential to introduce inaccuracies, and that there were some privacy and ethical concerns about accessing real-time information - particularly copyrighted content without permission.
+
+  ChatGPT's new functionalities perfectly highlight the enormous dilemma facing the AI sector. In order to be truly useful, the guardrails have to come off, or at least loosen - but doing that makes the tech potentially more dangerous and open to misuse.

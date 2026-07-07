@@ -1,0 +1,69 @@
+id: bbc_2017_5380
+title: WannaCry ransomware cyber-attack 'may have N Korea link' - BBC News
+date: '2017-05-16'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-39931635
+content: |-
+  Experts see apparent similarities between WannaCry and earlier hacks by a suspected North Korea-linked group.
+
+  A coded tweet from a Google researcher first raised suspicions of a North Korea link
+
+  Who was behind the huge global cyber-attack? One prominent theory right now is North Korea - but what we know is far from conclusive.
+
+  You may not have heard of the Lazarus Group, but you may be aware of its work. The devastating hack on Sony Pictures in 2014, and another on a Bangladeshi bank in 2016, have both been attributed to the highly sophisticated group.
+
+  It is widely believed that the Lazarus Group worked out of China, but on behalf of the North Koreans.
+
+  Security experts are now cautiously linking the Lazarus Group to this latest attack after a discovery by Google security researcher Neel Mehta. He found similarities between code found within WannaCry - the software used in the hack - and other tools believed to have been created by the Lazarus Group in the past.
+
+  It's a mere sliver of evidence, but there are other clues to consider too.
+
+  Prof Alan Woodward, a security expert, pointed out to me that the text demanding the ransom uses what reads like machine-translated English, with a Chinese segment apparently written by a native speaker.
+
+  "As you can see it's pretty thin and all circumstantial," Prof Woodward said.
+
+  "However, it's worth further investigation."
+
+  The WannaCry malware threatens to delete users' data unless they pay a ransom
+
+  "Neel Mehta’s discovery is the most significant clue to date regarding the origins of WannaCry,” said Russian security firm Kaspersky, but noted a lot more information is needed about earlier versions of WannaCry before any firm conclusion can be reached.
+
+  "We believe it’s important that other researchers around the world investigate these similarities and attempt to discover more facts about the origin of WannaCry,” the company added.
+
+  "Looking back to the Bangladesh attack, in the early days, there were very few facts linking them to the Lazarus Group.
+
+  "In time, more evidence appeared and allowed us, and others, to link them together with high confidence. Further research can be crucial to connecting the dots."
+
+  Attributing cyber-attacks can be notoriously difficult - often relying on consensus rather than confirmation.
+
+  For example, North Korea has never admitted any involvement in the Sony Pictures hack - and while security researchers, and the US government, have confidence in the theory, neither can rule out the possibility of a false flag.
+
+  Skilled hackers may have simply made it look like it had origins in North Korea by using similar techniques.
+
+  In the case of WannaCry, it is possible that hackers simply copied code from earlier attacks by the Lazarus Group.
+
+  This video can not be played To play this video you need to enable JavaScript in your browser. How to protect yourself online
+
+  But Kaspersky said false flags within WannaCry were "possible" but "improbable", as the shared code was removed from later versions.
+
+  "There's a lot of ifs in there," added Prof Woodward.
+
+  "It wouldn't stand up in court as it is. But it's worth looking deeper, being conscious of confirmation bias now that North Korea has been identified as a possibility."
+
+  It’s the strongest theory yet as to the origin of WannaCry, but there are also details that arguably point away from it being the work of North Korea.
+
+  Few could have suspected a Seth Rogen-directed film would have such global political repercussions
+
+  First, China was among the countries worst hit, and not accidentally - the hackers made sure there was a version of the ransom note written in Chinese. It seems unlikely North Korea would want to antagonise its strongest ally. Russia too was badly affected.
+
+  Second, North Korean cyber-attacks have typically been far more targeted, often with a political goal in mind.
+
+  In the case of Sony Pictures, hackers sought to prevent the release of The Interview, a film that mocked North Korean leader Kim Jong-un. WannaCry, in contrast, was wildly indiscriminate - it would infect anything and everything it could.
+
+  Finally, if the plan was simply to make money, it’s been pretty unsuccessful on that front too - only around $60,000 (£46,500) has been paid in ransoms, according to analysis of Bitcoin accounts being used by the criminals.
+
+  With more than 200,000 machines infected, it's a terrible return. But then of course, maybe the ransom was a distraction for some other political goal not yet clear.
+
+  Another possibility is that the Lazarus Group worked alone, without instruction from North Korea. Indeed, it could be that the Lazarus Group isn’t even linked to North Korea.
+
+  More questions than answers - and in cyber-war, facts are extremely hard to come by.

@@ -1,0 +1,76 @@
+id: bbc_2020_4616
+title: 'Coronavirus: NHS contact tracing app to target 80% of smartphone users - BBC
+  News'
+date: '2020-04-16'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-52294896
+content: |-
+  A vast majority of smartphone owners must install the app, if it is to end the coronavirus epidemic.
+
+  A contact-tracing app could help stop the coronavirus pandemic, but 80% of current smartphone owners would need to use it, say experts advising the NHS.
+
+  The University of Oxford's Big Data Institute has modelled a city of one million people to simulate the software's impact.
+
+  If there is lower uptake, academics say the app would still help slow the spread of Covid-19.
+
+  They add that letting people self-diagnose the illness could be critical.
+
+  That means users would only have to answer an on-screen questionnaire before being judged to be at significant risk of infection. They would not have to speak to a health advisor or wait for a medical test result.
+
+  This would send a cascade of alerts to people they had recently been in proximity to, advising them to go back into self-isolation.
+
+  The experts say "speed is of the essence", and that delaying contact tracing by even a day from the onset of symptoms could make the difference between epidemic control and resurgence.
+
+  "There would be more people receiving notifications as a result of false warnings," explained Prof Christophe Fraser.
+
+  "But actually, it results in fewer days of people in self-isolation and quarantine, because the effect of suppressing the epidemic more quickly outweighs the risks in waiting for a test before the notification."
+
+  The over-70s have not been factored in, on the basis they would remain "shielded" by staying at home, he added.
+
+  This video can not be played To play this video you need to enable JavaScript in your browser.
+
+  The Oxford University academics are a mix of epidemiologists and ethicists advising NHSX - the health service's digital innovation unit - on what basis the contact-tracing app should be created. They are not involved in coding or designing the software itself.
+
+  Their model takes into account different age groups, household structures and movement patterns in an effort to try to maximise the number of people who could be allowed to freely move about once a contact-tracing app has been launched.
+
+  "We're looking at introducing the app towards the end of lockdown," Prof Fraser added.
+
+  "When you install it, it needs a few days to start recording data before it can be fully functional."
+
+  The group first published a paper about its work at the end of March.
+
+  Since then, they have adjusted their model to take account of changing factors, including the fact that Covid-19's infection rate has been faster than they had anticipated.
+
+  They have also changed plans from using a system that relied on GPS location readings and scanning QR codes to one that exclusively depends on Bluetooth signals. This has been done to provide users more privacy, which in turn could encourage take-up.
+
+  The hope is that using the app, as well as other measures such as hand-washing and social distancing from vulnerable members of the population, will prevent a second peak in infections or the need for repeated national lockdowns.
+
+  The team estimates that 56% of the general population must use the app to halt the outbreak. Prof Fraser said that equated to 80% of all existing smartphone owners, based on data from Ofcom.
+
+  "That's a very ambitious target," the professor acknowledged.
+
+  "It's not something that would typically happen for a new app - even an incredibly popular one - but if we can explain that this is a public health intervention, that will be new and different.
+
+  "Some of my colleagues have... commissioned large surveys in multiple European countries including the UK.
+
+  "More than 80% of people surveyed said they were likely to or would install this app when it was explained in detail what it would be doing."
+
+  Even if fewer people install the app, the team estimates that one infection will be averted for every one to two users.
+
+  The Oxford team suggests that use of the tool should be voluntary. However, this will pose a challenge.
+
+  On 20 March, Singapore became one of the first countries to deploy a voluntary contact-tracing app, TraceTogether.
+
+  But only about 12% of the population installed it, and after a spike in new cases the city-state introduced a lockdown on 7 April, which it termed a "circuit-breaker".
+
+  To further complicate matters, a small number of phones still in use in the UK do not support the Bluetooth Low Energy system required, making the target even harder to reach.
+
+  Prof Fraser said that officials were discussing giving smartphones to those without - or cheaper, wearable Bluetooth devices - in order to boost the number of citizens involved.
+
+  NHSX is also keen to keep the app opt-in.
+
+  But some have already started exploring the implications of it becoming obligatory.
+
+  Internet law expert Prof Lillian Edwards has drafted a law to safeguard citizens' rights that says:
+
+  Others - including the cyber-security expert Ross Anderson and AI entrepreneur Kai-Fu Lee - have cast doubt over whether contact-tracing apps have any chance of success, and fear they could give "false hope" to politicians looking for a way out of lockdowns.

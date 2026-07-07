@@ -1,0 +1,65 @@
+id: bbc_2021_8364
+title: 'Pegasus spyware seller: Blame our customers, not us, for hacking - BBC News'
+date: '2021-07-22'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-57922664
+content: |-
+  NSO Group tells BBC News: "The finger-pointing should be at the customer."
+
+  The maker of powerful spy software allegedly used to hack the phones of innocent people says blaming the company is like "criticising a car manufacturer when a drunk driver crashes".
+
+  NSO Group is facing international criticism, after reporters obtained a list of alleged potential targets for spyware, including activists, politicians and journalists.
+
+  Investigations have begun as the list, of 50,000 phone numbers, contained a small number of hacked phones.
+
+  Pegasus infects iPhones and Android devices, allowing operators to extract messages, photos and emails, record calls and secretly activate microphones and cameras.
+
+  This video can not be played To play this video you need to enable JavaScript in your browser. What’s it like to have spyware on your phone?
+
+  The Israeli company says its software is intended for use against criminals and terrorists and made available to only military, law enforcement and intelligence agencies from countries with good human-rights records.
+
+  But a consortium of news organisations, led by French media outlet Forbidden Stories, has published dozens of stories based around the list, including allegations French President Emmanuel Macron's number was on it and may have been targeted.
+
+  NSO Group said it had been told the list had been hacked from its Cyprus servers
+
+  But a company spokesman told BBC News: "Firstly, we don't have servers in Cyprus.
+
+  "And secondly, we don't have any data of our customers in our possession.
+
+  "And more than that, the customers are not related to each other, as each customer is separate.
+
+  "So there should not be a list like this at all anywhere."
+
+  And the number of potential targets did not reflect the way Pegasus worked.
+
+  "It's an insane number," the spokesman said.
+
+  "Our customers have an average of 100 targets a year.
+
+  "Since the beginning of the company, we didn't have 50,000 targets total."
+
+  Many times in recent years, the company has been accused of allowing repressive governments to hack innocent people, including those close to murdered Washington Post columnist Jamal Khashoggi.
+
+  But it denies this and all other allegations.
+
+  It does not routinely investigate who is targeted but has systems in place to vet security services it sells to, it says.
+
+  US-based journalist and critic of Saudi Arabia's government Jamal Khashoggi was murdered on 2 October 2018
+
+  Earlier this month, NSO Group launched its Transparency Report, saying: "We must hold ourselves to a higher standard and act with stewardship and transparency... to ensure public safety and concern for human rights and privacy."
+
+  But on Wednesday, the spokesman said: "If I am the manufacturer of a car and now you take the car and you are driving drunken and you hit somebody, you do not go to the car manufacturer, you go to the driver.
+
+  "We are sending the system to governments, we get all the correct accreditation and do it all legally.
+
+  "You know, if a customer decides to misuse the system, he will not be a customer anymore.
+
+  "But all the allegations and all the finger-pointing should be at the customer."
+
+  Of the people whose numbers are on the list, 67 agreed to give Forbidden Stories their phones for forensic analysis.
+
+  And this research, by Amnesty International Security Labs, reportedly found evidence of potential targeting by Pegasus on 37 of those.
+
+  But NSO Group said it had no knowledge of how some phones on the list contained remnants of spyware.
+
+  It could be "a coincidence", the spokesman said.

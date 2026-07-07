@@ -1,0 +1,61 @@
+id: bbc_2018_472
+title: Rush to fix 'serious' computer chip flaws - BBC News
+date: '2018-01-04'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-42561169
+content: |-
+  Devices with microchips made by firms including Intel, ARM and AMD are vulnerable say researchers.
+
+  Tech firms are working to fix two major bugs in computer chips that could allow hackers to steal sensitive data.
+
+  The bugs are an "absolute disaster" and need to be fixed promptly, according to one cyber-security researcher.
+
+  Google researchers said one of the "serious security flaws", dubbed "Spectre", was found in chips made by Intel, AMD and ARM.
+
+  The other, known as "Meltdown" affects Intel-made chips and one recent ARM chip.
+
+  The industry has been aware of the problem for months and hoped to solve it before details were made public.
+
+  The UK's National Cyber Security Centre (NCSC) said there was no evidence that the vulnerability had been exploited.
+
+  It has issued guidance about Meltdown and Spectre, including advice on what people can do to protect themselves.
+
+  According to the researchers who found the bugs, chips dating as far back as 1995 have been affected.
+
+  Some fixes, in the form of software updates known as patches, have been introduced or will be available in the next few days, said Intel, which provides chips to about 80% of desktop computers and 90% of laptops worldwide.
+
+  "These bugs are an absolute disaster," said Matthew Hickey, a cyber-security expert at Hacker House.
+
+  While some computers can be patched quickly, others faced a longer wait, he explained, giving virtual hosting systems as one example.
+
+  "You may find that patches aren't yet available," he told the BBC.
+
+  Microchips are the basic electronic systems behind many devices such as computers and mobile phones.
+
+  In order to do their work, they must move data around, using different types of memory to temporarily store it.
+
+  In many cases, that information is supposed to be secure from attempts to snoop on it, but these two bugs mean that it could in fact be accessed by a third party.
+
+  The first reports suggested that a bug affected solely chips made by Intel, but it has since emerged that a separate flaw, Spectre, has been found in Intel, ARM and AMD chips.
+
+  "Many types of computing devices - with many different vendors' processors and operating systems - are susceptible to these exploits," said Intel.
+
+  ARM said patches had already been shared with its customers, which include many smartphone manufacturers.
+
+  AMD said it believed there was "near zero risk to AMD products at this time".
+
+  On a conference call for investors, Intel said researchers had shown that hackers could exploit the Meltdown vulnerability, gaining the ability to read memory and potentially access information such as passwords or encryption keys on devices.
+
+  Microsoft, which uses Intel chips said it would roll out security updates on Thursday, adding it had no information suggesting any data had been compromised.
+
+  Apple's latest macOS, version 10.13.2, is safe from the Meltdown bug and the firm is working on updates for earlier versions of the operating system on its laptops and desktops.
+
+  As for Spectre, however, experts believe that it will not be possible to patch it directly, but various software tweaks could help stop it being exploited.
+
+  Google published a blog detailing what some customers may need to do. It said Android phones with the latest security updates were protected, and that Gmail was safe. It will be releasing security patches for users of older Chromebooks, while there will also be a fix for users of the Chrome web browser.
+
+  The NCSC said it was aware of the reports of the potential flaw and advised that all organisations and home users "continue to protect their systems from threats by installing patches as soon as they become available."
+
+  When asked whether hackers will make use of the bugs to attack computers, experts advised caution on the issue.
+
+  "It is significant but whether it will be exploited widely is another matter," said Prof Alan Woodward, from the University of Surrey.

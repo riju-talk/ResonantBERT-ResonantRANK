@@ -1,0 +1,107 @@
+id: bbc_2017_4032
+title: Eight ways intelligent machines are already in your life - BBC News
+date: '2017-04-25'
+section: Technology
+url: http://www.bbc.co.uk/news/uk-39657382
+content: |-
+  Many people are unsure about what machine learning is, but the chances are they are using it every day.
+
+  Voice recognition allows virtual personal assistants to carry out commands
+
+  Many people are unsure about exactly what machine learning is. But the reality is that it is already part of everyday life.
+
+  A form of artificial intelligence, it allows computers to learn from examples rather than having to follow step-by-step instructions.
+
+  The Royal Society believes it will have an increasing impact on people's lives and is calling for more research, to ensure the UK makes the most of opportunities.
+
+  Machine learning is already powering systems from the seemingly mundane to the life-changing. Here are just a few examples.
+
+  Using spoken commands to ask your phone to carry out a search, or make a call, relies on technology supported by machine learning.
+
+  Virtual personal assistants - the likes of Siri, Alexa, Cortana and Google Assistant - are able to follow instructions because of voice recognition.
+
+  They process natural human speech, match it to the desired command and respond in an increasingly natural way.
+
+  The assistants learn over a number of conversations and in many different ways.
+
+  They might ask for specific information - for example how to pronounce your name, or whose voice is whose in a household.
+
+  Data from large numbers of conversations by all users is also sampled, to help them recognise words with different pronunciations or how to create natural discussion.
+
+  Many of us are familiar with shopping recommendations - think of the supermarket that reminds you to add cheese to your online shop, or the way Amazon suggests books it thinks you might like.
+
+  Machine learning allows Amazon to make recommendations to individual shoppers
+
+  Machine learning is the technology that helps deliver these suggestions, via so-called recommender systems.
+
+  By analysing data about what customers have bought before, and any preferences they have expressed, recommender systems can pick up on patterns in purchasing history. They use this to make predictions about the products you might like.
+
+  Similar systems are used to recommend films or TV shows on streaming services like Netflix.
+
+  Recommender systems use machine learning to analyse viewing habits and pick out patterns in who watches - and enjoys - which shows.
+
+  By understanding which users like which films - and what shows you have watched or awarded high ratings - recommender systems can identify your tastes.
+
+  They are also used to suggest music on streaming services, like Spotify, and articles to read on Facebook.
+
+  Machine learning can also be used to distinguish between different categories of objects or items.
+
+  This makes it useful when sorting out the emails you want to see from those you don't.
+
+  Spam detection systems use a sample of emails to work out what is junk - learning to detect the presence of specific words, the names of certain senders, or other characteristics.
+
+  Once deployed, the system uses this learning to direct emails to the right folder. It continues to learn as users flag emails, or move them between folders.
+
+  Ever wondered how Facebook knows who is in your photos and can automatically label your pictures?
+
+  The image recognition systems that Facebook - and other social media - uses to automatically tag photos is based on machine learning.
+
+  When users upload images and tag their friends and family, these image recognition systems can spot pictures that are repeated and assigns these to categories - or people.
+
+  By analysing large amounts of data and looking for patterns, activity which might not otherwise be visible to human analysts can be identified.
+
+  One common application of this ability is in the fight against debit and credit card fraud.
+
+  Machine learning systems can be trained to recognise typical spending patterns and which characteristics of a transaction - location, amount, or timing - make it more or less likely to be fraudulent.
+
+  When a transaction seems out of the ordinary, an alarm can be raised - and a message sent to the user.
+
+  Doctors are just starting to consider machine learning to make better diagnoses, for example to spot cancer and eye disease.
+
+  Patients at eye hospitals often have photographs taken of their retinas - this can reveal problems
+
+  Learning from images that have been labelled by doctors, computers can analyse new pictures of a patient's retina, a skin spot, or an image of cells taken under a microscope.
+
+  In doing so, they look for visual clues that indicate the presence of medical conditions.
+
+  This type of image recognition system is increasingly important in healthcare diagnostics.
+
+  Machine learning is also powering scientists' ability to make new discoveries.
+
+  In particle physics it has allowed them to find patterns in immense data sets generated from the Large Hadron Collider at Cern.
+
+  It was instrumental in the discovery of the Higgs Boson, for example, and is now being used to search for "new physics" that no-one has yet imagined.
+
+  Similar ideas are being used to search for new medicines, for example by looking for new small molecules and antibodies to fight diseases.
+
+  The focus will be on making systems that perform specific tasks well which could therefore be thought of as helpers.
+
+  Self-driving cars will use machine learning to help avoid accidents
+
+  In schools they could track student performance and develop personal learning plans.
+
+  They could help us reduce energy usage by making better use of resources and improve care for the elderly by finding more time for meaningful human contact.
+
+  In the area of transport, machine learning will power autonomous vehicles.
+
+  Many industries could turn to algorithms to increase productivity. Financial services could become increasingly automated and law firms may use machine learning to carry out basic research.
+
+  Routine tasks will be done faster, challenging business models that rely on charging hourly rates.
+
+  Over the next 10 years machine learning technologies will increasingly be part of our lives, transforming the way we work and live.
+
+  This analysis piece was commissioned by the BBC from an expert working for an outside organisation.
+
+  Dr Sabine Hauert is a member of the Royal Society's machine learning working group. Dr Hauert is also co-founder and president of Robohub.org and assistant professor in robotics at the University of Bristol. Follow her @sabinehauert.
+
+  The Royal Society describes itself as the UK's independent scientific academy. More details about its work and its funding can be found here.

@@ -1,0 +1,57 @@
+id: bbc_2020_3748
+title: 'Coronavirus: UK confirms plan for its own contact tracing app - BBC News'
+date: '2020-04-13'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-52263244
+content: |-
+  App will send yellow and red alerts to those who have come into contact with a suspected carrier.
+
+  The UK has confirmed plans for an app that will warn users if they have recently been in close proximity to someone suspected to be infected with the coronavirus.
+
+  The health secretary Matt Hancock announced the move at the government's daily pandemic press briefing.
+
+  He said the NHS was "working closely with the world's leading tech companies" on the initiative.
+
+  But one expert who has advised the effort has raised doubts about it.
+
+  The BBC has learned that NHSX - the health service's digital innovation unit - will test a pre-release version of the software with families at a secure location in the North of England next week.
+
+  At present, the idea is that people who have self-diagnosed as having coronavirus will be able to declare their status in the app.
+
+  The software will then send the equivalent of a yellow alert to any other users who they have recently been close to for an extended period of time.
+
+  If a medical test confirms that the original user is indeed infected, then a stronger warning - effectively a red alert - will be sent instead, signalling that the other users should go into quarantine.
+
+  To report testing positive, the user would have to enter a verification code, which they would have received alongside their Covid-19 status.
+
+  Mr Hancock signalled that using the app would be voluntary, in the brief comments he made about it.
+
+  "If you become unwell with the symptoms of coronavirus, you can securely tell this new NHS app," he explained.
+
+  "And the app will then send an alert anonymously to other app users that you've been in significant contact with over the past few days, even before you had symptoms, so that they know and can act accordingly.
+
+  "All data will be handled according to the highest ethical and security standards, and would only be used for NHS care and research.
+
+  "And we won't hold it any longer than is needed."
+
+  His reference to a tie-up with tech companies was a nod to Apple and Google, which announced on Friday that they were working on a software building block, known as an API, to make it easier for others to build contact tracing apps.
+
+  NHSX was not aware of this project beforehand, but now plans to integrate the technology into its own product.
+
+  Its system will keep track of handsets that came close to each other by recording when they detected each others' Bluetooth signals.
+
+  One benefit of using Apple and Google's API is that the NHS app will not have to employ workarounds to keep monitoring the signals even when the app is not active.
+
+  Part of the reason Apple and Google say they developed their own idea was to ensure that iOS and Android users' privacy would not be compromised.
+
+  Their method is designed so that citizens can trigger and receive alerts without the authorities being notified of who was involved.
+
+  But one cyber-security expert who has been consulted about the app listed a series of worries about the project in a blog.
+
+  "I recognise the overwhelming force of the public-health arguments for a centralised system, but I also have 25 years' experience of the NHS being incompetent at developing systems and repeatedly breaking their privacy promises when they do manage to collect some data of value to somebody else," added the professor of security engineering.
+
+  "I'm really uneasy about collecting lots of lightly-anonymised data in a system that becomes integrated into a whole-of-government response to the pandemic. We might never get rid of it."
+
+  The Behavioural Insights Team - a private company also known as the Nudge Unit - is advising the government on how to encourage as many people to download and use the app as possible.
+
+  NHSX believes more than half the population going outside needs to be using it for automated contact tracing to be effective.

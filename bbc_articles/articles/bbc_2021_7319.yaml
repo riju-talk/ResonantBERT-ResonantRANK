@@ -1,0 +1,64 @@
+id: bbc_2021_7319
+title: 'Colonial Pipeline: US recovers most of ransom, justice department says - BBC
+  News'
+date: '2021-06-08'
+section: Business
+url: http://www.bbc.co.uk/news/business-57394041
+content: |-
+  The US Department of Justice says it has seized most of the $4.4m (£3.1m) paid to cyber-criminals.
+
+  This video can not be played To play this video you need to enable JavaScript in your browser. How did a cyber-attack lead to US petrol queues?
+
+  The US has recovered most of the $4.4m (£3.1m) ransom paid to a cyber-criminal gang responsible for taking the Colonial Pipeline offline last month.
+
+  DarkSide - which US authorities said operates from eastern Europe and possibly Russia - infiltrated the pipeline last month.
+
+  The attack disrupted supplies for several days causing fuel shortages.
+
+  According to the firm, the pipeline carries 45% of the East Coast's supply of diesel, petrol and jet fuel.
+
+  On Monday, Deputy Attorney-General Lisa Monaco said investigators had "found and recaptured" 63.7 Bitcoin worth $2.3m - "the majority" of the ransom paid. Since the ransom was paid the value of Bitcoin has fallen sharply.
+
+  The US government has recommended in the past that companies do not pay criminals over ransomware attacks, in case they invite further hacks in the future.
+
+  It has since urged companies to increase security measures against ransomware attacks like this. Commerce secretary Gina Raimondo said on Sunday that President Biden would raise the issue of such attacks with Russian leader Vladimir Putin in a meeting planned this month.
+
+  Colonial Pipeline took itself offline on Friday 7 May after the cyber-attack.
+
+  In a statement Joseph Blount, chief executive of the Colonial Pipeline Company, said his firm was grateful for the "swift work and professionalism" of the FBI, which helped to recover the ransom.
+
+  "Holding cyber criminals accountable and disrupting the ecosystem that allows them to operate is the best way to deter and defend against future attacks," he added.
+
+  In America's ongoing fight against the scourge of ransomware, this is a major victory.
+
+  Stealing back a ransom is, to my knowledge, a first and it shows how far the US is willing to go to deter cyber-criminals.
+
+  It sends a powerful message to the gangs who have been operating with impunity for years in states like Russia.
+
+  Perhaps deliberately, the DoJ are being vague about exactly how they did it.
+
+  All they are saying is that the "private key" to the criminal's Bitcoin wallet is in the "possession of the FBI".
+
+  With this key, which is effectively a password, agents were able to simply log in and send the digital coins to another wallet they control.
+
+  The cyber-security world is abuzz with rumours and theories about how they got hold of the password.
+
+  Perhaps the key was found on seized servers, or gifted by an angry insider, or handed over by a cooperative company used as part of the criminal infrastructure.
+
+  Either way, it's a big moment and it is sending shockwaves.
+
+  After the attack in May, Colonial made a cryptocurrency payment, and in return the company received a decryption tool so it could unlock the systems compromised by the hackers - although that was not enough to restart systems immediately, according to the Wall Street Journal.
+
+  Mr Blout told the newspaper he authorised the payment on 7 May after discussions with experts who had previously dealt with DarkSide.
+
+  He said he "didn't make [that decision] lightly," but believed "it was the right thing to do for the country."
+
+  Fears over fuel shortages spurred some customers to panic buy petrol in the United States.
+
+  Mr Blount added that it would take months before some business systems were recovered, and estimated that the attack would ultimately cost the company tens of millions of dollars.
+
+  At the time of the hack, the DarkSide criminal gang acknowledged the incident in a public statement.
+
+  "Our goal is to make money and not creating problems for society," DarkSide wrote on its website.
+
+  "We do not participate in geopolitics, do not need to tie us with a defined government and look for... our motives," the group added.

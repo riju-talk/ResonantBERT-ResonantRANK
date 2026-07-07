@@ -1,0 +1,83 @@
+id: bbc_2021_5386
+title: 'Irish cyber-attack: Hackers bail out Irish health service for free - BBC News'
+date: '2021-05-21'
+section: Europe
+url: http://www.bbc.co.uk/news/world-europe-57197688
+content: |-
+  The government says it did not pay for a decryption tool, as hackers threaten to publish stolen data.
+
+  The Irish Department of Health was attacked last Thursday, and the Conti ransomware group is threatening to publish data
+
+  Hackers responsible for causing widespread disruption to the Irish health system have unexpectedly gifted it with the tool to help it recover.
+
+  The Conti ransomware group was reportedly asking the health service for $20m (£14m) to restore services after the "catastrophic hack".
+
+  But now the criminals have handed over the software tool for free.
+
+  The Irish government says it is testing the tool and insists it did not, and would not, be paying the hackers.
+
+  Taoiseach (Irish prime minister) Micheál Martin said on Friday evening that getting the software tool was good, but that enormous work is still required to rebuild the system overall.
+
+  Conti is still threatening to publish or sell data it has stolen unless a ransom is paid.
+
+  On its darknet website, it told the Health Service Executive (HSE), which runs Ireland's healthcare system, that "we are providing the decryption tool for your network for free".
+
+  "But you should understand that we will sell or publish a lot of private data if you will not connect us and try to resolve the situation."
+
+  It was unclear why the hackers gave the tool - known as a decryption key - for free, said Health Minister Stephen Donnelly.
+
+  "No ransom has been paid by this government directly, indirectly, through any third party or any other way. Nor will any such ransom be paid," he told Irish broadcaster RTÉ.
+
+  "It came as a surprise to us. Our technical team are currently testing the tool. The initial responses are positive."
+
+  In the USA, a warning has been issued by the FBI about Conti targeting networks belonging to authorities there.
+
+  It said it had identified at least 16 Conti ransomware attacks targeting "US healthcare and first responder networks".
+
+  More than 400 organisations have been targeted by Conti worldwide, of which more than 290 are based in the US, according to the FBI.
+
+  "Conti typically steals victims' files and encrypts the servers and workstations in an effort to force a ransom payment from the victim.
+
+  "If the ransom is not paid, the stolen data is sold or published to a public site controlled by the Conti actors," it added.
+
+  The FBI said that recent ransom demands have been as high as $25m (£21m).
+
+  It's not unprecedented for ransomware criminals to give away their decryption tools for free.
+
+  Some of these gangs operate by a flimsy code of "ethics", stating they don't intend to endanger lives.
+
+  In one case, criminals accidentally took a hospital offline; reports suggest the hackers gave the hospital a decryptor for free when they realised their mistake.
+
+  Then again, there are ransomware operators who don't care and are presumably delighted to watch chaos unfold as they extort money from their victims.
+
+  Hundreds of health care facilities in the US alone were attacked in 2020.
+
+  We don't know what the motivation for the Conti gang is here.
+
+  They clearly knew they were attacking a health service, and spent days trying to secure a ransom payment for the decryptor.
+
+  Perhaps they were under pressure from law enforcement or other hackers to rein it in.
+
+  Or perhaps, faced with a wall of silence from the Irish government, they gave up.
+
+  What's telling is that the criminals are still hoping to get their payday by threatening to publish private data online.
+
+  A decryption key is a piece of data that can be used to reverse the damage done by ransomware.
+
+  Ransomware groups usually encrypt data on victims networks scrambling files to make them unusable without the decryption key.
+
+  The Irish government says the tool could get hospitals and the health care system back to normal sooner than the process of rebuilding their IT from scratch.
+
+  The Irish Department of Health was attacked last Thursday, with a similar attack on the HSE last Friday.
+
+  On Thursday, the head of the HSE, Paul Reid, described the impact of the cyber-attack as "catastrophic" and "stomach-churning".
+
+  The HSE has secured a High Court order preventing the Russia-based hackers - or any individual or business - from sharing, processing, or selling the information.
+
+  The court injunction also applies to social media platforms such as Twitter, Google, and Facebook and therefore limits the gang's scope for disseminating the information.
+
+  The HSE said all elements of health services were affected, including major disruption to radiotherapy services.
+
+  It said it was working to treat all urgent radiation patients in private hospitals.
+
+  There have been cancellations across all outpatient services, with colonoscopies down by as much as 80% and chemotherapy and daily elective procedures down by 50%.

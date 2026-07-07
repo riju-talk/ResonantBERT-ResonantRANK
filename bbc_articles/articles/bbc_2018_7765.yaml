@@ -1,0 +1,46 @@
+id: bbc_2018_7765
+title: Gmail messages 'read by human third parties' - BBC News
+date: '2018-07-03'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-44699263
+content: |-
+  Google confirms that private Gmail messages can sometimes be read by humans at external companies.
+
+  This video can not be played To play this video you need to enable JavaScript in your browser. WATCH: How to hide your Gmails from prying eyes
+
+  Google has confirmed that private emails sent and received by Gmail users can sometimes be read by third-party app developers, not just machines.
+
+  People who have connected third-party apps to their accounts may have unwittingly given human staff permission to read their messages.
+
+  One company told the Wall Street Journal that the practice was "common" and a "dirty secret".
+
+  Google indicated that the practice was not against its policies.
+
+  One security expert said it was "surprising" that Google allowed it.
+
+  Gmail is the world's most popular email service with 1.4 billion users.
+
+  Google lets people connect their account to third-party email management tools, or services such as travel planning and price comparisons.
+
+  When linking an account to an external service, people are asked to grant certain permissions - which often include the ability to "read, send, delete and manage your email".
+
+  According to the Wall Street Journal, this permission sometimes allows employees of third-party apps to read users' emails.
+
+  While messages are typically processed by computer algorithms, the newspaper spoke to several companies where employees had read "thousands" of email messages.
+
+  Edison Software told the newspaper it had reviewed the emails of hundreds of users to build a new software feature.
+
+  Another firm - eDataSource Inc - said engineers had previously reviewed emails to improve its algorithms.
+
+  The companies said they had not asked users for specific permission to read their Gmail messages, because the practice was covered by their user agreements.
+
+  "You can spend weeks of your life reading terms and conditions," said Prof Alan Woodward from the University of Surrey.
+
+  "It might well be mentioned in there, but it's not what you would think of as reasonable, for a human being in a third-party company to be able to read your emails."
+
+  Google said only companies that had been vetted could access messages, and only if users had "explicitly granted permission to access email".
+
+  It pointed the BBC to its developer policies, which state: "There should be no surprises for Google users: hidden features, services, or actions that are inconsistent with the marketed purpose of your application may lead Google to suspend your ability to access Google API Services."
+
+  It said Gmail users could visit the Security Check-up page to see which apps they had linked to their account, and revoke any they no longer wanted to share data with.
+  • None Google AI to make phone calls for you

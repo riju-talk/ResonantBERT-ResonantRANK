@@ -1,0 +1,59 @@
+id: bbc_2021_9641
+title: Apple regrets confusion over 'iPhone scanning' - BBC News
+date: '2021-08-13'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-58206543
+content: |-
+  The iPhone-maker will introduce tools that can detect child sex abuse images uploaded to iCloud.
+
+  Apple says its announcement of automated tools to detect child sexual abuse on the iPhone and iPad was "jumbled pretty badly".
+
+  On 5 August, the company revealed new image detection software that can alert Apple if known illegal images are uploaded to its iCloud storage.
+
+  Privacy groups criticised the news, with some saying Apple had created a security backdoor in its software.
+
+  The company says its announcement had been widely "misunderstood".
+
+  "We wish that this had come out a little more clearly for everyone," said Apple software chief Craig Federighi, in an interview with the Wall Street Journal.
+
+  He said that - in hindsight - introducing two features at the same time was "a recipe for this kind of confusion".
+
+  Apple announced two new tools designed to protect children. They will be deployed in the US first.
+
+  The first tool can identify known child sex abuse material (CSAM) when a user uploads photos to iCloud storage.
+
+  The US National Center for Missing and Exploited Children (NCMEC) maintains a database of known illegal child abuse images. It stores them as hashes - a digital "fingerprint" of the illegal material.
+
+  Cloud service providers such as Facebook, Google and Microsoft, already check images against these hashes to make sure people are not sharing CSAM.
+
+  Apple's software chief Craig Federighi said messages had been "jumbled"
+
+  Apple decided to implement a similar process, but said it would do the image-matching on a user's iPhone or iPad, before it was uploaded to iCloud.
+
+  Mr Federighi said the iPhone would not be checking for things such as photos of your children in the bath, or looking for pornography.
+
+  The system could only match "exact fingerprints" of specific known child sexual abuse images, he said.
+
+  If a user tries to upload several images that match child abuse fingerprints, their account will be flagged to Apple so the specific images can be reviewed.
+
+  Mr Federighi said a user would have to upload in the region of 30 matching images before this feature would be triggered.
+
+  In addition to the iCloud tool, Apple also announced a parental control that users could activate on their children's accounts.
+
+  If activated, the system would check photographs sent by - or to - the child over Apple's iMessage app.
+
+  If the machine learning system judged that a photo contained nudity, it would obscure the photo and warn the child.
+
+  Parents can also choose to receive an alert if the child chooses to view the photo.
+
+  Privacy groups have shared concerns that the technology could be expanded and used by authoritarian governments to spy on its own citizens.
+
+  WhatsApp head Will Cathcart called Apple's move "very concerning" while US whistleblower Edward Snowden called the iPhone a "spyPhone".
+
+  Mr Federighi said the "soundbyte" that spread after the announcement was that Apple was scanning iPhones for images.
+
+  "That is not what is happening," he told the Wall Street Journal.
+
+  "We feel very positively and strongly about what we're doing and we can see that it's been widely misunderstood."
+
+  The tools are due to be added to the new versions of iOS and iPadOS later this year.

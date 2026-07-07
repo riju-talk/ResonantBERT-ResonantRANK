@@ -1,0 +1,47 @@
+id: bbc_2020_13653
+title: 'Coronavirus: Hackers targeted Covid vaccine supply ''cold chain'' - BBC News'
+date: '2020-12-03'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-55165552
+content: |-
+  IBM says organisations involved in moving coronavirus vaccines at chilled temperatures were targeted.
+
+  The international vaccine supply chain has been targeted by cyber-espionage, according to IBM.
+
+  The company says it tracked a campaign aimed at the delivery "cold chain" used to keep vaccines at the right temperature during transportation.
+
+  The attackers' identity is unclear - but IBM said the sophistication of their methods indicated a nation state.
+
+  It follows warnings from governments - including the UK's - of countries targeting aspects of vaccine research.
+
+  IBM says it believes the campaign started in September 2020.
+
+  It says phishing emails were sent out across six countries, which targeted organisations linked to the Cold Chain Equipment Optimisation Platform (CCEOP) of Gavi, the international vaccine alliance.
+
+  Gavi's partners include the World Health Organization, Unicef, the World Bank and the Bill & Melinda Gates Foundation. They help distribute vaccines around the world to some of the poorest regions.
+
+  For example, the Pfizer-BioNTech vaccine - which was not the specific target of this campaign - will need to be kept at a temperature of about -70C as it is moved about.
+
+  The attackers impersonated a business executive from a legitimate Chinese company involved in CCEOP's supply cold chain to make it more likely the targets would engage with the email.
+
+  They then sent phishing emails to organisations that provided transportation, which contained malicious code and asked for people's log in credentials.
+
+  That could have allowed them to understand the infrastructure that governments intended to use to distribute vaccines.
+
+  "Advanced insight into the purchase and movement of a vaccine that can impact life and the global economy is likely a high-value and high-priority nation-state target," IBM says.
+
+  This video can not be played To play this video you need to enable JavaScript in your browser. Five challenges of distributing a Covid-19 vaccine around the world.
+
+  IBM says the campaign was uncovered by a security team it set up at the start of the pandemic to track down Covid-19 cyber-threats.
+
+  "The precision targeting and nature of the specific targeted organisations potentially point to nation-state activity," the US company said.
+
+  "Without a clear path to a [pay]out, cyber-criminals are unlikely to devote the time and resources required to execute such a calculated operation."
+
+  IBM says it has notified those targeted as well as law-enforcement authorities.
+
+  In July, the UK warned Russian intelligence had targeted UK vaccine research, including at Oxford.
+
+  The US also warned of Chinese hacking, while, more recently, Microsoft said it had seen North Korean and Russian hackers targeting vaccine research.
+
+  Officials suggested the activity so far had been about intelligence gathering rather than disruption of any research.

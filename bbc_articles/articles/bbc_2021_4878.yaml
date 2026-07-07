@@ -1,0 +1,63 @@
+id: bbc_2021_4878
+title: 'Flubot: Warning over major Android ''package delivery'' scam - BBC News'
+date: '2021-04-23'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-56859091
+content: |-
+  A rapidly spreading text-message scam is infecting Android phones across the UK.
+
+  A text-message scam that infects Android phones is spreading across the UK, experts have warned.
+
+  The message - which pretends to be from a package delivery firm, prompts users to install a tracking app - but is actually a malicious piece of spyware.
+
+  Called Flubot, it can take over devices and spy on phones to gather sensitive data, including online banking details.
+
+  Network operator Vodafone said millions of the text messages were already being sent, across all networks.
+
+  "We believe this current wave of Flubot malware SMS attacks will gain serious traction very quickly, and it's something that needs awareness to stop the spread," a spokesman said.
+
+  Customers should "be especially vigilant with this particular piece of malware", he said, and be very careful about clicking on any links in a text message.
+
+  Other networks, including EE and Three, followed with warnings of their own.
+
+  This Twitter post cannot be displayed in your browser. Please enable Javascript or try a different browser. View original content on Twitter The BBC is not responsible for the content of external sites. Skip twitter post by Vodafone UK This article contains content provided by Twitter. We ask for your permission before anything is loaded, as they may be using cookies and other technologies. You may want to read Twitter’s cookie policy, external and privacy policy, external before accepting. To view this content choose ‘accept and continue’. The BBC is not responsible for the content of external sites.
+
+  The National Cyber Security Centre (NCSC) later issued guidance about the threat, including advice on what to do if you have already downloaded the attacker's application by mistake.
+
+  "If users have clicked a malicious link it's important not to panic - there are actionable steps they can take to protect their devices and their accounts," the NCSC said in a statement.
+
+  The malware also has the ability to send more text messages to an infected user's contacts, helping it spread.
+
+  "The seriousness of these malicious text messages is underlined by Vodafone making the decision to alert its customers," said Ben Wood, chief analyst at CCS Insight.
+
+  "This has the potential to become a denial-of-service attack on mobile networks, given the clear risk that a rogue application can be installed on users' smartphones and start spewing out endless text messages.
+
+  "The broader risk for users is a loss of highly sensitive personal data from their phones," he added.
+
+  While text message scams claiming to be about a package delivery firm are common, they have mostly focused on phishing - trying to trick the user into filling in a form with bank details and other information.
+
+  This newest wave differs because it tries to install malicious software on the phone itself - and because of the scale of its spread.
+
+  One version of the scam reported online pretends to be a text message from DHL, with a link to a website for parcel tracking.
+
+  If someone using an Android phone clicks on the link, they will be taken to a page "explaining" how to install the parcel tracking app using something called an APK.
+
+  APK files are a way of installing Android apps outside of the secure Google Play store. By default, such applications will be blocked for security reasons, but the scam page includes instructions on how to allow the installation.
+
+  That can be confusing, as there are some niche genuine cases for installing those kind of apps - such as downloading the Fortnite video game, which was removed from the official app store amid a major legal row between its owner and Google.
+
+  Apple iPhone users are not affected as those phones cannot install Android APKs.
+
+  In a blog post detailing the scam, security researcher Paul Morrison wrote that he expects the "success rate would be low" due to the hurdles involved.
+
+  But he said: "With the number of SMS being sent out, just a 0.1% success rate could be very profitable."
+
+  The Flubot malware has also spread in other countries in recent months - notably Spain, Germany and Poland.
+
+  Kate Bevan, computing editor at consumer magazine Which? said people have to be "wary" of texts.
+
+  "If you're not sure, contact the delivery company's official customer service helpline," she said.
+
+  "As ever, it's important to make sure that your mobile phone is up to date with security patches. Consider also installing mobile security software from a trusted brand."
+
+  Industry body Mobile UK said users who receive a suspicious message should forward it to 7726 to report it, a spokesman said - and then delete the message.

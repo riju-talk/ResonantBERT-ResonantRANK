@@ -1,0 +1,51 @@
+id: bbc_2018_5588
+title: Twitter users told to change passwords after internal leak - BBC News
+date: '2018-05-04'
+section: Technology
+url: http://www.bbc.co.uk/news/business-43995168
+content: |-
+  Passwords were exposed on Twitter's internal network by a glitch, the social network says.
+
+  Passwords that should have been scrambled were exposed on Twitter's network
+
+  Twitter's 330 million users are being urged to change their passwords after some were exposed in plain text on its internal network.
+
+  An error in the way the passwords were handled meant some were stored in easily readable form, said Twitter.
+
+  The passwords should have been put through a procedure called "hashing" making them very difficult to read.
+
+  Security experts said the way Twitter handled the potential breach was "encouraging".
+
+  The bug caused the passwords to be stored on an internal computer log before the hashing process was completed.
+
+  In a blog, the social network said once the mistake was uncovered it carried out an internal investigation which found no indication passwords were stolen or misused by insiders.
+
+  However, it still urged all users to consider changing their passwords "out of an abundance of caution".
+
+  Twitter did not say how many passwords were affected but it is understood the number was "substantial" and that they were exposed for "several months".
+
+  Twitter discovered the bug a few weeks ago and has reported it to some regulators, an insider told Reuters.
+
+  Chief executive Jack Dorsey tweeted to say the "bug" had been fixed.
+
+  This Twitter post cannot be displayed in your browser. Please enable Javascript or try a different browser. View original content on Twitter The BBC is not responsible for the content of external sites. Skip twitter post by jack This article contains content provided by Twitter. We ask for your permission before anything is loaded, as they may be using cookies and other technologies. You may want to read Twitter’s cookie policy, external and privacy policy, external before accepting. To view this content choose ‘accept and continue’. The BBC is not responsible for the content of external sites.
+
+  Independent security expert Graham Cluley said: "It's quite encouraging that Twitter both found the problem internally, and informed its users quickly and transparently.
+
+  "Something similar just happened to Github and I wonder if Twitter's discovery was caused by them asking: 'Hey, see that Github problem? Do you think something like that could happen to us?'."
+
+  Users receive a warning message when logging in to Twitter
+
+  Security expert Per Thorsheim, who regularly advises firms about the best password practices, said Twitter should be "applauded for its transparency".
+
+  "The problem they discovered is known since the dawn of logins with passwords," he told the BBC. "The chance of passwords (or failed passwords) getting logged, in plain text logs available for staff or in worst case, complete strangers, is well known."
+
+  Troy Hunt, who runs the Have I Been Pwned website, which logs breaches, said the error was not something that would worry him because there was no indication that the login passwords were seen outside the company.
+
+  Mr Hunt added: "We've certainly seen many precedents of simply flaws resulting in data breaches.
+
+  "The Red Cross Blood Service in Australia used an outsourcing provider who inadvertently published their entire database to a public web server resulting in Australia's largest ever data breach," he said.
+
+  All three experts urged users to act on Twitter's advice and change their password.
+
+  Mr Cluley said enabling two-factor authentication that adds another ID check to login attempts would help "harden" accounts.

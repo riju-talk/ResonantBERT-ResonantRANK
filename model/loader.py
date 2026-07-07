@@ -1,26 +1,28 @@
 import torch
-from transformers import AutoTokenizer, AutoModel, AutoModelForSequenceClassification
+from transformers import AutoTokenizer
+
+from resonant_bert.model import ResonantBERT
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-
 
 class ModelLoader:
     @staticmethod
     def load():
-        """Load BERT and sentiment analysis models"""
-        # Load BERT model for text encoding (base model for hidden states)
-        bert_model = "bert-base-uncased"
-        bert = AutoModel.from_pretrained(bert_model).to(device)
-        tokenizer = AutoTokenizer.from_pretrained(bert_model)
+        """Load the trainable ResonantBERT model and tokenizer"""
+        # Load the base tokenizer for the article encoder
+        tokenizer = AutoTokenizer.from_pretrained("bert-base-uncased")
         
-        # Load sentiment analysis model
-        sent_model_name = "distilbert-base-uncased-finetuned-sst-2-english"
-        sent_model = AutoModelForSequenceClassification.from_pretrained(sent_model_name).to(device)
+        # Initialize ResonantBERT with default configurations
+        # In a real scenario, you would load state_dict here from a checkpoint
+        model = ResonantBERT(
+            article_model_name="bert-base-uncased",
+            emotion_model_name="j-hartmann/emotion-english-distilroberta-base",
+            projection_dim=128,
+            fusion_hidden_dim=256
+        ).to(device)
         
-        bert.eval()
-        sent_model.eval()
+        model.eval()
         
-        return bert, tokenizer, sent_model
-
+        return model, tokenizer
 
 model_loader = ModelLoader()

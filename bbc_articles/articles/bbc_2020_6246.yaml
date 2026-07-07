@@ -1,0 +1,87 @@
+id: bbc_2020_6246
+title: 'Coronavirus: Ireland set to launch contact-trace app - BBC News'
+date: '2020-06-22'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-53137816
+content: |-
+  The Republic's health authority presses ahead with Apple-Google tech, despite the UK being unready.
+
+  Police officers in Ireland trialled the app ahead of its planned national rollout
+
+  Ireland's health authority plans to press ahead with the launch of a coronavirus contact-tracing app based on Apple and Google's technology.
+
+  The Health Service Executive told the BBC that it would submit a memo to government this week, and "subject to approval" would launch its Covid Tracker app shortly after.
+
+  The move comes despite concerns raised about the tech's accuracy in its current state.
+
+  The UK is worried about false alerts.
+
+  And researchers advising the Irish effort have also questioned whether the software should be rolled out in its current state.
+
+  Ireland would follow Germany in deploying such an app nationwide.
+
+  Two tests were carried out in Ireland ahead of the launch of its app.
+
+  Members of the An Garda Siochana police force volunteered to take part in field trials at the start of the month to see how it would perform in everyday situations.
+
+  "The Gardai are one of the few groups of people that are moving around and interacting with each other as they carry out their duties," explained a spokeswoman for the country's government.
+
+  The results have given health chiefs confidence to roll it out to the public.
+
+  And they note that because it has been designed to support UK mobile numbers, visitors crossing the border from Northern Ireland or travelling across from Great Britain can also make use if it.
+
+  The second experiment involved a team at Trinity College, Dublin testing an app based on the Google-Apple API [application programming interface] on a commuter bus.
+
+  It found that metal in the vehicle's structure and fittings caused problems.
+
+  The Google-API allows the threshold for what triggers a contact match to be adjusted based on the strength of the Bluetooth signal and duration of the exposure.
+
+  When using the settings already in use by Switzerland's contact-tracing app, the researchers found that no contact logs were logged despite 60 pairs of handsets being placed within 2m of each other.
+
+  And they only managed to raise this to an 8% detection rate when they shortened the exposure time and adjusted the Bluetooth strength to a level that they said would be likely to cause false alerts in other environments.
+
+  This video can not be played To play this video you need to enable JavaScript in your browser. WATCH: What is contact tracing and how does it work?
+
+  In addition, the researchers said signal strength was sometimes higher for phones that were far apart than those close together, which they said made reliable proximity-detection "hard or perhaps even impossible" to achieve.
+
+  "As to whether it is sensible to deploy these apps, I'd say the jury is still out on that," Prof Doug Leith told the BBC.
+
+  "But the likely effectiveness of apps based on the Apple-Google API in real-world situations -ie outside the lab - is certainly far from clear."
+
+  Last week, the UK ditched its own contact-tracing technology to switch to the Apple-Google model.
+
+  But while the government now intends to launch a Covid-19 app of some sort in England by the Autumn, it has said it may still not include contact-tracing functionality.
+
+  "I was only prepared to recommend to people that they download an app when I'm really confident in it," Health Secretary Matt Hancock told the Andrew Marr Show on Sunday.
+
+  Apple and Google are under pressure to become less restrictive about the data they share to let apps become more accurate.
+
+  "The API does not expose Bluetooth received signal strength (RSS) measurements directly, rather it abstracts this," explained Dr Brendan Jennings, who is also involved in developing Ireland's app.
+
+  "There certainly are some changes in the API that we believe would be helpful - and we do believe that Google/Apple will be willing to take on board suggested changes in future revisions."
+
+  But in the meantime, others have already decided to launch apps based on the two US tech firms' software tool, including:
+
+  One of the developers of Germany's app said it was currently 80% accurate at logging matches across a range of scenarios, and it had been felt that this was good enough to go with.
+
+  Bayern Munich football players promoted the German app during a Bundesliga match at the weekend
+
+  "There can be false alerts," added SAP's Thomas Leonhardi.
+
+  "But that can also happen via manual contact tracing. It's the best we have and of course we're still working on it."
+
+  The Robert Koch Institute, which published the Corona-Warn App on behalf of the German government, said on Friday morning that it had already been downloaded 9.6 million times. The country's population is about 83 million.
+
+  Once Ireland has got an app based on the Apple/Google toolkit up and running then Northern Ireland and indeed the rest of the UK should be able to use it - job done, right?
+
+  Well, no, say insiders on the NHS team. First, an app is more than just the code - you would need to integrate it with the public health advice, the testing infrastructure and the manual contact-tracing systems for each of the four home nations.
+
+  But the key issue is the question of whether the Apple/Google system is actually working well at measuring the distance between two phones using Bluetooth - last Thursday Health Secretary Matt Hancock and Test and Trace supremo Baroness Dido Harding made it clear they thought it wasn't.
+
+  Incidentally, Baroness Harding may have overstated the failings of the centralised app in the Isle of Wight during Thursday's briefings when she said it could only detect 4% of iPhone contacts.
+
+  Someone on the island who was briefed about what went wrong tells me that this disastrous 4% only referred to cases where the app was asleep in the background after a long period when two iPhones had not been in use for a while - which apparently accounts for just a small percentage of overall iPhone contacts.
+
+  What's frustrated both the app team and Apple is that in the days before the U-turn, the two sides had apparently begun working closely on ways to make Bluetooth work better with the app in the background.
+
+  Thursday's announcement came as a surprise to the developers and to the tech giant - which was then dismayed to hear Mr Hancock accusing it of a failure to co-operate.

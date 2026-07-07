@@ -1,0 +1,43 @@
+id: bbc_2020_3337
+title: Virgin Media data breach affects 900,000 people - BBC News
+date: '2020-03-06'
+section: Business
+url: http://www.bbc.co.uk/news/business-51760510
+content: |-
+  The firm said "insufficient protection" meant customers' details were made accessible for 10 months.
+
+  A Virgin Media database containing the personal details of 900,000 people was left unsecured and accessible online for 10 months, the company has admitted.
+
+  The information was accessed "on at least one occasion" by an unknown user.
+
+  The database, which was for marketing purposes, contained phone numbers, home and email addresses.
+
+  It did not include passwords or financial details.
+
+  The breach was not due to a hack or a criminal attack, but because the database had been "incorrectly configured" by a member of staff not following the correct procedures, Virgin Media said.
+
+  The firm was alerted to the problem on Friday after it was spotted by a security researcher at TurgenSec.
+
+  The company said almost all of those affected were Virgin customers with television or fixed-line telephone accounts, although the database also included some Virgin Mobile customers as well as potential customers referred by friends as part of a promotion.
+
+  Virgin Media, which is owned by US cable group, Liberty Global, has informed the Information Commissioner's Office as required, and launched a forensic investigation.
+
+  Lutz Schüler, chief executive of Virgin Media said: "We recently became aware that one of our marketing databases was incorrectly configured which allowed unauthorised access. We immediately solved the issue by shutting down access."
+
+  "Protecting our customers' data is a top priority and we sincerely apologise," he said.
+
+  "Based upon our investigation, Virgin Media does believe that the database was accessed on at least one occasion but we do not know the extent of the access or if any information was actually used," Mr Schuler said.
+
+  Virgin Media said it would be emailing those affected on Thursday, in order to warn them about the risks of phishing, nuisance calls and identity theft. The message will include a reminder not to click on unknown links in emails and not to provide personal details to unverified callers.
+
+  Further advice was available on its website, it said.
+
+  The fact that Virgin Media's database hasn't been actively hacked is reassuring for customers, but while the details are light, it sounds like human error is to blame and that is rather embarrassing for a tech firm.
+
+  Ten months is a long time for all that data to have just been sitting there, waiting to be found.
+
+  And while no passwords or bank details were among it, there's an awful lot of contact information for a cyber-criminal to work with. Phishing expeditions - when someone tries to get financial information out of a victim by pretending to be a company with a legitimate reason for contact - are not particularly sophisticated, but they are effective for those caught off-guard, and can be a lucrative source of income.
+
+  It's unclear whether this was yet another case of unsecured data being stored on a cloud service that's easily searchable if you know how. There have been dozens of examples of this lately, including just this week a database of the personal details of people using train station wi-fi around the UK.
+
+  Virgin Media has apologised and really, there's very little practical advice to offer in the light of this kind of breach, beyond the usual protocol of staying alert to any messages requesting personal information or access to any kind of finance.

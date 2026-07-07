@@ -1,0 +1,89 @@
+id: bbc_2018_1636
+title: Crypto-currency craze 'hinders search for alien life' - BBC News
+date: '2018-02-14'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-43056744
+content: |-
+  A scientist says the search for alien intelligence has been hit by a shortage of computer hardware.
+
+  If there is intelligent life out there, it might be broadcasting signals across the universe
+
+  Scientists listening out for broadcasts by extra-terrestrials are struggling to get the computer hardware they need, thanks to the crypto-currency mining craze, a radio-astronomer has said.
+
+  Seti (Search for Extraterrestrial Intelligence) researchers want to expand operations at two observatories.
+
+  However, they have found that key computer chips are in short supply.
+
+  "We'd like to use the latest GPUs [graphics processing units]... and we can't get 'em," said Dan Werthimer.
+
+  Demand for GPUs has soared recently thanks to crypto-currency mining.
+
+  "That's limiting our search for extra-terrestrials, to try to answer the question, 'Are we alone? Is there anybody out there?'," Dr Werthimer told the BBC.
+
+  "This is a new problem, it's only happened on orders we've been trying to make in the last couple of months."
+
+  Mining a currency such as Bitcoin or Ethereum involves connecting computers to a global network and using them to solve complex mathematical puzzles.
+
+  This forms part of the process of validating transactions made by people who use the currency.
+
+  As a reward for this work, the miners receive a small crypto-currency payment, making it potentially profitable.
+
+  GPUs are high-performance chips and aren't just used for powering video games - they may be stacked together by Bitcoin miners, radio-astronomers or others interested in processing large amounts of data for certain applications.
+
+  "At Seti we want to look at as many frequency channels as we possibly can because we don't know what frequency ET will be broadcasting on and we want to look for lots of different signal types - is it AM or FM, what communication are they using?" explained Dr Werthimer, who is chief scientist at the Berkeley Seti Research Center.
+
+  GPUs are an important part of the Hera radio-telescope in South Africa
+
+  He added that, at some telescopes, Berkeley Seti has around 100 GPUs crunching data from large listening arrays.
+
+  These arrays can pick up the faintest of radio frequencies that have been flung across our solar system from elsewhere in the universe - often from natural phenomena such as collapsing stars.
+
+  The Seti scientists are currently trying to improve their capacity for analysing such data at two observatories - Green Bank in West Virginia and Parkes in Australia.
+
+  But they have been hit by the GPU shortage.
+
+  "We've got the money, we've contacted the vendors, and they say, 'We just don't have them'," said Dr Werthimer.
+
+  Earlier this year, there were reports that video gamers had been hit by a sudden rise in the cost of GPUs, thanks in particular to a rise in Ethereum mining, which can be done with chips aimed at consumers.
+
+  At the time, major chip-maker Nvidia said that retailers should make arrangements to make sure gamers' demands were met.
+
+  In a conference call last week, Nvidia's chief executive told investors the company was "working really hard" to "catch up with supply" and get GPUs to the marketplace.
+
+  This video can not be played To play this video you need to enable JavaScript in your browser.
+
+  Other radio-astronomers have been affected.
+
+  A group looking for evidence of the earliest stars in the universe was recently shocked to see that the cost of the GPUs it wanted had doubled.
+
+  "We're in the process of expanding our telescope - we got a grant from the National Science Foundation here in the United States to do so," said Aaron Parsons at the University of California at Berkeley.
+
+  Prof Parsons' radio telescope, the Hydrogen Epoch of Reionisation Array (Hera), is an American, British and South African project located in South Africa's western plains.
+
+  Prof Parsons at the Hera radio telescope array in South Africa
+
+  It has been designed to listen to low frequency radio waves emitted by the reionising hydrogen gas that permeated the universe before the first stars and galaxies formed.
+
+  GPUs are needed in order to bring together data from Hera's many small radio telescopes - this synthesises a much larger array, offering an especially wide field of view peering out into the universe.
+
+  Three months ago, the Hera team had budgeted for a set of GPUs that cost around $500 (£360) - the price has since doubled to $1,000.
+
+  "We'll be able to weather it but it is coming out of our contingency budget." added Prof Parsons.
+
+  "We're buying a lot of these things, it's going to end up costing about $32,000 extra."
+
+  He also said he was concerned that future work could even be stopped in its tracks, should the GPU shortage worsen.
+
+  Thanks in part to a recent boom in the price of crypto-currencies such as Bitcoin and Ethereum, mining crypto-currencies has never been more popular.
+
+  While Bitcoin miners have largely moved on to specialised "Asic" chips that have been designed from scratch to support mining, it's still possible to use GPUs on the Ethereum mining network to lucrative ends, according to cyber-security expert Matthew Hickey at Hacker House.
+
+  GPUs are often connected together to carry out the laborious task of crytpo-currency mining
+
+  "[You can] use GPUs effectively to turn a small profit, you're not going to make millions but if you put 12 or 24 GPUs together, you'll make back the cost in six months," he told the BBC.
+
+  GPUs are versatile, he added, pointing out that cyber-security experts sometimes use them for password-cracking experiments, in which computers make many millions of attempts at breaking into a system.
+
+  But Mr Hickey has also noticed that GPUs are now being sold on sites such as Ebay at inflated prices.
+
+  "It's becoming increasingly difficult to find suppliers and cards," he said.

@@ -1,0 +1,47 @@
+id: bbc_2020_10615
+title: App tells if office workers are not socially distanced - BBC News
+date: '2020-09-09'
+section: Technology
+url: http://www.bbc.co.uk/news/technology-54091539
+content: |-
+  The app has been piloted at Network Rail and is now ready for use in other workplaces.
+
+  A social-distancing app which alerts someone when a colleague is too close is being used by Network Rail.
+
+  Mind The Gap was designed by London start-up Hack Partners for the company, to keep employees safe at work.
+
+  The technology uses audio and Bluetooth signals to detect if users are in close proximity to one another.
+
+  Network Rail staff now use the app widely, and it's being rolled out to other companies.
+
+  "I am immensely proud of our entire workforce for the part they have played to keep the country running throughout the pandemic," Martin Frobisher, Network Rail's safety, technical and engineering director said.
+
+  "As we start to plan for a return to office working, we've been looking at absolutely everything to make sure we can continue to keep our people safe."
+
+  Employees can choose to download the app and set their desired distance, in line with government guidelines.
+
+  They will then receive a notification when another user of the app is too close.
+
+  Mind The Gap uses inaudible ultra-high frequency sounds and Bluetooth to calculate the distance between phones, so it does not require an active internet connection to work.
+
+  The app sends a notification if you are too close to your colleagues
+
+  Although many contact-tracing apps have found it hard to accurately detect distances with Bluetooth, Hack Partners says the combination of the technology with audio measuring, gives an accuracy of between 6-8cm.
+
+  The app will continue to work in the background, which means it could drain phone battery.
+
+  Tests so far have shown that the high frequency sounds do not affect children, dogs, cats or hearing aids, said River Tamoor Baig, chief executive of Hack Partners.
+
+  "It's very easy to relax back into old patterns with colleagues and forget to distance, so this is a reminder," he said. "Also, the sound notification can help users avoid awkward conversations with colleagues who may not be social distancing - a lot of us would find it difficult to tell our boss to move away!"
+
+  Built with user-privacy in mind, Mind The Gap does not track people and no sensitive data is collected, stored or shared. This means employers will not be able to monitor employees' movements, either past or present.
+
+  At Network Rail, downloading the app is optional for employees.
+
+  Hack Partners hopes workplaces will use the app to encourage those who want to return to the office to feel safer.
+
+  The firm is also in talks with contact-tracing app developers who are struggling to get accurate distance results using Bluetooth.
+
+  "Using technology to maintain social distancing has the potential to help restart the economy by enabling more people to work in offices, and give a much-needed boost to infrastructure projects through on-site construction work," said Will Cavendish, engineering consultancy Arup's digital lead.
+
+  "People naturally congregate in certain areas; navigating those could make an invaluable contribution to safely opening up public spaces."

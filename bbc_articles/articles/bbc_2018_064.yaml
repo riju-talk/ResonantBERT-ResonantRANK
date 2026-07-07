@@ -1,0 +1,51 @@
+id: bbc_2018_064
+title: AI early diagnosis could save heart and cancer patients - BBC News
+date: '2018-01-03'
+section: Health
+url: http://www.bbc.co.uk/news/health-42357257
+content: |-
+  Sir John Bell believes that artificial intelligence can save the NHS
+
+  Researchers at an Oxford hospital have developed artificial intelligence (AI) that can diagnose scans for heart disease and lung cancer.
+
+  The systems will save billions of pounds by enabling the diseases to be picked up much earlier.
+
+  The heart disease technology will start to be available to NHS hospitals for free this summer.
+
+  The government's healthcare tsar, Sir John Bell, has told BBC News that AI could "save the NHS".
+
+  "There is about £2.2bn spent on pathology services in the NHS. You may be able to reduce that by 50%. AI may be the thing that saves the NHS," he said.
+
+  Currently cardiologists can tell from the timing of the heartbeat in scans if there is a problem. But even the best doctors get it wrong in one in five cases. Patients are either sent home and have a heart attack or they undergo an unnecessary operation.
+
+  An artificial intelligence system developed at the John Radcliffe Hospital diagnoses heart scans much more accurately. It can pick up details in the scans that doctors can't see.
+
+  It then gives a recommendation - positive - which means that it believes that there is a risk of the patient having a heart attack
+
+  The system has been tested in clinical trials in six cardiology units. The results are due to be published this year in a peer-reviewed journal after they have been checked by experts, but Prof Paul Leeson, a cardiologist who developed the system, says that the data indicates that the system has greatly outperformed his fellow heart specialists.
+
+  If confirmed, it will be available for free to NHS hospitals across the country.
+
+  "As cardiologists, we accept that we don't always get it right at the moment. But now there is a possibility that way may be able to do better."
+
+  The results from the clinical trials indicate that the system can do a lot better than consultants. There are 60,000 heart scans carried out each year and 12,000 of these are misdiagnosed.
+
+  This is estimated to cost the NHS £600m in unnecessary operations and the treatment of people who had heart attacks following an all-clear scan.
+
+  The AI system assesses the risk of heart disease and makes clinical recommendations
+
+  The trial results suggest that the AI system could save the NHS more than £300m a year.
+
+  The system, called Ultromics, was trained to identify potential problems by being fed the scans of 1,000 patients who Prof Leeson had treated over the past seven years, along with information about whether they went on to have heart problems.
+
+  The lung cancer system can give very early warning of the disease.
+
+  Another AI system is looking for signs of lung cancer. It searches for large clumps of cells called nodules. Doctors can't tell whether these clumps are harmless or will go on to become cancerous and so patients go on to have several more scans to see how the nodules develop.
+
+  However, clinical trials have shown that this AI system can rule out the harmless cases - saving the NHS money and patients several months of anxiety. And it can also diagnose lung cancer much earlier.
+
+  The system is also being commercialised by a start-up company called Optellum. Its chief science and technology officer, Dr Timor Kadir, says the resources freed up by the system could be redirected to early lung cancer screening, which would allow more than 4,000 cancer patients a year to be diagnosed much earlier and so have a greater chance of survival.
+
+  "Rather than focus on cost savings, within a resource-constrained system such as the NHS, we're really looking at how to offer better healthcare to more people for the same proportion of GDP. This is the potential of AI in the UK."
+
+  Dr Kadir estimates that the lung cancer diagnosis system could save £10bn if it was adopted in the US and the European Union.
