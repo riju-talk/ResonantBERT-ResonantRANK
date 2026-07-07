@@ -1,31 +1,3 @@
-id: cnn_2020_02757
-title: "The only way to know if Trump’s TikTok order is the right move"
-date: "2020-08-14"
-section: "Perspectives"
-url: "https://www.cnn.com/2020/08/14/perspectives/tiktok-trump-ban/index.html"
-content: |
-  Editor’s Note:Andrew Grotto directs the program on Geopolitics, Technology and Governance at Stanford University, and is a visiting fellow at the Hoover Institution. He served as the senior director for Cyber Policy on the National Security Council in the Obama and Trump White Houses. The opinions expressed in this commentary are his own.
-  
-  Earlier this month, President Trumpissuedan executive order banning the social media company TikTok from the United States, as long as the company continues to be owned by the Chinese company ByteDance. The order effectively gives ByteDance 45 days to sell TikTok off, and Microsoft has emerged as a prospective buyer.
-  
-  Many would celebrate TikTok’s potential reinvention as an American brand as a win-win for US consumers and national security: Consumers get to keep using a popular app, and Beijing loses a potential avenue to spy on Americans and influence what users encounter on social media.
-  
-  ByteDance is left with a choice between a fire sale of TikTok to an American buyer or waging an uphill legal and public relations campaign to reverse the ban. But despite all of this talk, one key question remains unanswered: How much does foreign ownership of a social media platform really put Americans at risk?
-  
-  Currently, it is hard to say because there is no established data protection baseline for evaluating the privacy, cybersecurity and disinformation risks inherent to the business model for social media and other data-hungry companies, regardless of what country they come from.
-  
-  Substituting an American owner for a foreign one doesn’t necessarily guarantee better safety for users. Domestic companies can neglect data protection or be co-opted to support disinformation campaigns, too. For example,Anthem,Equifaxand theUS Office of Personnel Managementare among the many US organizations that have suffered breaches by suspected foreign actors, and Facebook’s platform continues to beexploitedby Russian and other malicious actors to spread disinformation.
-  
-  Without a safety baseline that all companies must meet, the government is hard-pressed to distinguish between the safety risks inherent to social media, and any additional risk that foreign ownership may introduce on top. It must rely instead on worst-case assumptions and speculative hypotheticals that increase the chances of it taking regulatory action that does too little or not enough to protect Americans.
-  
-  Congress should pass a federal data protection statute that establishes data protection standards for any company conducting business in the United States.
-  
-  What would such a baseline look like? At minimum, it should establish clear privacy rights for consumers, establish data protection requirements for companies and give consumers and regulators one or more means for enforcing the requirements. Several bills pending before Congress would do just that. Senator Maria Cantwell’s Consumer Online Privacy Act and Senator Roger Wicker’s United States Consumer Data Privacy Act frame the debate in the Senate over how best to implement these principles. The Online Privacy Act introduced by congresswomen Anna Eshoo and Zoe Lofgren additionally proposes a new federal privacy enforcement agency.
-  
-  This is what it's like when a country actually bans TikTok
-  
-  For decades, US administrations have justifiably criticized China for its practice of requiring that foreign firms seeking access to the Chinese market find Chinese business partners andtransfertheir technology to them. It is even one of the main findings in theSection 301 investigationthat the United States Trade Representative completed as a basis for the trade war with China.
-  
-  Now ByteDance faces superficially similar circumstances: sell TikTok, or risk losing access to the American market. US trade diplomats should expect criticism from not only their Chinese counterparts, but from allied countries around the world who share concerns over China’s digital exports. Ideally, US diplomats would counter critics and skeptics with a rigorous analysis that explains how foreign ownership compounds privacy, security and disinformation risks beyond what is acceptable for a domestic company, and they could then explain why an outright ban in this case is a justifiable response. But this is a tough case to make without a safety baseline to measure these risks.
-  
-  A federal data protection law is good not only for consumer privacy, but for diplomacy – especially when it comes to the United States’ efforts to deal with China’s rise in the digital domain and beyond.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09a050809e711f5083d78ff32ffaa9346749a799278fa4cea1e391f9d7b75bb9
+size 4855

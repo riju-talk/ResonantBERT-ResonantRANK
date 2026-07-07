@@ -1,31 +1,3 @@
-id: cnn_2022_01140
-title: "Stocks dip after JPMorgan Chase CEO Jamie Dimon warns of recession"
-date: "2022-10-10"
-section: "Investing"
-url: "https://www.cnn.com/2022/10/10/investing/dow-stock-market-today?query=query%28%24symbols%3A%20%5BString%5D%29%20%7B%0A%20%20marketIndexes%28symbols%3A%20%24symbols%29%20%7B%0A%20%20%20%20indexes%20%7B%0A%20%20%20%20%20%20symbol%0A%20%20%20%20%20%20index_displayName%0A%20%20%20%20%20%20inSession%0A%20%20%20%20%20%20streamId%3A%20streamSymbol%0A%20%20%20%20%20%20change%0A%20%20%20%20%20%20level%0A%20%20%20%20%20%20changePct%0A%20%20%20%20%20%20link%0A%20%20%20%20%20%20__typename%0A%20%20%20%20%7D%0A%20%20%20%20__typename%0A%20%20%7D%0A%7D%0A&variables=%7B%22symbols%22%3A%5B%22INDU%22%2C%22INX%22%2C%22COMP.IDX%22%5D%7D"
-content: |
-  So much for a sleepy Columbus Day on Wall Street.Stocksweren’t doing much Monday morning but took a turn lower in the afternoon following stark comments from JPMorgan Chase CEO Jamie Dimon, who warned that the United States is likely to enter arecessionwithin the next six to nine months.
-  
-  Dimon made the commentsin an exclusive interview with CNBCthat aired Monday.
-  
-  “You can’t talk about the economy without talking about stuff in the future…and this is serious stuff,” Dimon said in the CNBC interview. He added that he thinks Europe is in a recession already and that the US is probably next.
-  
-  TheDowfell more than 200 points shortly after Dimon’s comments aired before rebounding to end the trading day down nearly 95 points, or 0.3%.
-  
-  TheS&P 500andNasdaqwere each down sharply midday but also bounced off their lows. The S&P 500 closed with a 0.8% loss while the Nasdaq dropped 1%.
-  
-  White-collar workers are feeling the brunt of the Fed's rate hikes. Here's why
-  
-  Shares of JPMorgan Chase(JPM), which is one of the 30 stocks in the Dow, were down nearly 1%. JPMorgan Chase(JPM)is one of several big banks that willreport earningson Friday.
-  
-  Stocks have tumbled this year due to worries about inflation and how the Federal Reserve’s aggressive interest rate hikes to fight surging prices may eventually lead to a recession. Stocks soared early last week, leading to hopes that the market had bottomed.
-  
-  But sellers have returned with a vengeance in the past few days. Friday’s mostly solidjobs reportdid little to dispel fears about more big rate hikes from the Fed.
-  
-  The Nasdaq hit a new 52-week low Monday. The Dow and S&P 500 are not far from their lows either. The Dow is down about 20% this year and is back in a bear market along with the other two major market indexes.
-  
-  The bond market was closed Monday, but yields on the benchmark 10-year Treasury are currently hovering around 3.89%. The 10-year yield, which heavily influences the direction of mortgage rates,briefly topped 4%late last month and hit its highest level since October 2008.
-  
-  Fed vice chair Lael Brainard alluded to challenges in the housing market in aspeechMonday. Brainard noted that “the moderation in demand due to monetary policy tightening is only partly realized so far” and that “the transmission of tighter policy is most evident in highly interest-sensitive sectors like housing.”
-  
-  Brainard also warned that “in other sectors, lags in transmission mean that policy actions to date will have their full effect on activity in coming quarters.” In other words, the rest of the economy could soon slow.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c73b663645395f9244e77d2fd6208275112f474e995dce0b36c8d4539fb86148
+size 3444

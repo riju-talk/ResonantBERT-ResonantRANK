@@ -1,29 +1,3 @@
-id: cnn_2022_03055
-title: "The alarming prospect raised by the Supreme Court rulings"
-date: "2022-01-14"
-section: "Opinion"
-url: "https://www.cnn.com/2022/01/14/opinions/supreme-court-biden-vaccines-alarming-prospect-rodgers/index.html"
-content: |
-  Editor’s Note:Jennifer Rodgers is a former federal prosecutor, adjunct professor of clinical law at NYU School of Law, lecturer-in-law at Columbia Law School and a CNN legal analyst. The opinions expressed here are her own. Readmore opinionat CNN.
-  
-  The US Supreme Courtissuedits opinions Thursday about whether two Biden administration Covid-19 vaccine mandates should be allowed to take effect while litigation over their legal validity proceeds. In doing so, it raised a frightening prospect about the future of federal regulations and protections in America.
-  
-  The court split on the two policies in question. It found the first policy, put in place by the Occupational Safety and Health Association (OSHA) and requiring large businesses to ensure that their employees are vaccinated or tested weekly, could not take effect. And it found the second policy, based on guidelines from the secretary of the Department of Health and Human Services (HHS) and requiring that staff at health care facilities participating in the federal Medicare and Medicaid programs be vaccinated, could take effect.
-  
-  The court’s reasoning ostensibly hewed closely to the issue of whether the relevant statutes provided the agencies with the authority to create the rules in question. By a vote of 6-3, with the court’s liberal wing of Justices Stephen Breyer, Sonia Sotomayor and Elena Kagan dissenting and the ultra-conservative wing of Justices Clarence Thomas, Samuel Alito and Neil Gorsuch concurring, the courtstoppedthe OSHA vaccine-or-test mandate from taking effect, explaining that OSHA overstepped the powers and duties granted to the agency by Congress. The court noted that OSHA’s authority relates to the imposition of workplace safety standards – not broad public health measures – and that Covid-19 cannot be defined specifically as an occupational hazard.
-  
-  In the other case, by a vote of 5-4, with Justices Thomas, Alito, Gorsuch and Amy Coney Barrett dissenting, the courtpermittedimposition of the HHS vaccine requirement for health care facilities. In this case, the court found that HHS has authority for the purpose of ensuring patients’ health – and that the relevant facts demonstrated the significant danger to patients of unvaccinated workers. Even though HHS came out victorious, the fact that four justices dissented is ominous, since this ought to have been an easy win for the agency’s regulatory authority.
-  
-  Is Biden's presidency doomed?
-  
-  Despite the differing outcomes, these court rulings betrayed a significant rift among the justices in terms of who should be deciding these kinds of questions, which does not bode well for those people – including the court’s three-justice liberal wing – who are in favor of leaving important decisions, like vaccine requirements, to the experts in federal agencies.
-  
-  Defenders of significant agency power are now easily outnumbered by those at the court who appear to believe that either Congress or states should take precedence in terms of regulation of areas specifically assigned to federal agencies for that purpose. This is alarming when one considers how many aspects of our lives – from our financial system to the environment, from communications to transportation, to the food we eat – are shaped by the regulatory work of federal agencies.
-  
-  So, what does this mean for the future of federal agency regulatory authority?
-  
-  On the one hand, the three most conservative justices – Thomas, Alito and Gorsuch – had to write a concurring opinion in the OSHA case to argue that if the court had found that OSHA had the statutory power to impose its policy, it likely would have constituted an unconstitutional grant of legislative authority because of its imposition on state sovereignty. Clearly, the three other conservatives justices were not on board with such an obvious, and unnecessary, demonstration of their view that the states’ wishes should trump the agency’s powers in this situation.
-  
-  On the other hand, even though a majority of justices was not willing to go that far in this the OSHA case, there were six votes for taking the decision-making power out of the hands of the agency: The majority opinion said Congress had the authority, the dissenters said OSHA, and those in the concurrence suggested that it be left to the states.
-  
-  This is a debate that we have not yet seen the last of, and if I’m reading (and counting) tea leaves and justices correctly, federal agency rulemaking has a dangerous road ahead.
+version https://git-lfs.github.com/spec/v1
+oid sha256:193a1bfaa458275d5161d9e7c14630925d4eaa36d3362eb3f9e625b17252c7cf
+size 4813

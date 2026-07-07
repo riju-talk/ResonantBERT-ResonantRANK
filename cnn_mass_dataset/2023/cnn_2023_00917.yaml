@@ -1,25 +1,3 @@
-id: cnn_2023_00917
-title: "Why consumer sentiment is at its highest level since April"
-date: "2023-01-13"
-section: "Economy"
-url: "https://www.cnn.com/2023/01/13/economy/consumer-sentiment-preliminary-january/index.html"
-content: |
-  As inflationcontinues its slow and steady descent, consumer sentiment is climbing back out of a trough hit last year.
-  
-  The University of Michigan’s closely watched consumer sentiment index rose to 64.6 in the preliminary January survey, according to data released Friday. It’s the highest reading since January 2022 and up 8.2% from December’s 59.7 reading — but it’s still 3.9% below where it was 12 months earlier.
-  
-  Economists were anticipating the index to measure just 60.5, according to consensus estimates on Refinitiv.
-  
-  Some of the biggest boosts in optimism came from consumers’ feelings on the current state of the economy: That index jumped 15.5% from the end of December to 68.6.
-  
-  Lower gas prices and falling inflation have helped to boost morale, as has the strong labor market, Joanne Hsu, director of the university’s Surveys of Consumers, said in an interview with Bloomberg TV on Friday.
-  
-  “Consumers expect their incomes to be strong,” she said, adding that they also expect the labor market to weaken this year.
-  
-  The survey also showed consumers’ inflation expectations for this year and five years out were 4% and 3%, respectively. The year-ahead inflation expectations reading is at its lowest since April 2021.
-  
-  Inflation expectations are crucial data points for the Federal Reserve. If consumers believe prices will remain high, that could factor in to increased wage demands, which could cause businesses to raise prices.
-  
-  The Fed is especially keyed in on the long-term expectations, which has bounced around the 3% range for 17 of the past 18 months, Hsu said.
-  
-  “I do think consumers are still waiting to see sustained improvements [in inflation] and that uncertainty over global factors like China and Ukraine do not worsen.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1ce22a365e287ba566abb32f494b4d744ac4ebb64e8269c458501efd4c12108
+size 2046

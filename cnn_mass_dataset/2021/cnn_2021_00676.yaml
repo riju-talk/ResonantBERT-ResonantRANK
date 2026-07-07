@@ -1,25 +1,3 @@
-id: cnn_2021_00676
-title: "SEC chairman: Crypto assets are ‘ripe with fraud, scams and abuses’"
-date: "2021-08-03"
-section: "Economy"
-url: "https://www.cnn.com/2021/08/03/economy/sec-gensler-cryptocurrency-bitcoin/index.html"
-content: |
-  The chairman of the Securities and Exchange Commission doesn’t have a lot of love forcryptocurrencies.
-  
-  “This asset class is ripe with fraud,scamsand abuses in certain applications,” SEC chairmanGary Genslersaid during an interview at the virtualAspen Security Forum.
-  
-  Gensler also said he believes cryptocurrencies are securities, which would put them under the purview of the SEC. Theregulatory uncertaintysurrounding digital currencies has been the subject oflawsuits and investigationsin recent years, and whose jurisdiction the assets fall under has yet to be definitively answered.
-  
-  According to Gensler, crypto investors simply do not have sufficient information available to judge and understand the risks of investing in digital assets.
-  
-  “If you want to invest in a digital, scarce, speculative store of value, that’s fine,” Gensler said. “Right now, though … we just don’t have enough investor protection. And frankly at this time, it’s more like the Wild West.”
-  
-  With $1.6 trillion in total value for the asset class, the crypto sector is still relatively small compared to US capital markets. But that doesn’t mean it shouldn’t be regulated, Gensler said.
-  
-  “I fear that if we don’t address the issues, a lot of people will get hurt,” he added.
-  
-  And there is one area of the crypto universe the SEC boss has a particular bone to pick with: stablecoins.
-  
-  The value of these digital tokens is pegged to other assets, such the US dollar, to add stability.
-  
-  Last month, three-quarters of all crypto trading occurred between stablecoins and other digital assets rather than fiat currencies, Gensler said. This might be an indication that investors are using the stablecoins to sidestep the traditional banking system and avoid anti-money laundering and tax collection efforts or sanctions, he added.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e6a5e40e567ca18c2667bb7eb31c957795c60a5af35e3d20b8d3e223e8b80aa
+size 2117

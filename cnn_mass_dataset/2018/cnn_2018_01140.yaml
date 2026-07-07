@@ -1,29 +1,3 @@
-id: cnn_2018_01140
-title: "Senators quiz Pompeo on State Department’s cybersecurity failures"
-date: "2018-09-12"
-section: "Politics"
-url: "https://www.cnn.com/2018/09/12/politics/senators-state-cybersecurity-letter/index.html"
-content: |
-  A bipartisan group of senators called out Secretary of State Mike Pompeo for the State Department’s failure to meet federal law on cybersecurity standards, including basic protocols used by major internet companies.
-  
-  The lawmakerssent a letter to Pompeoon Tuesday citing a General Services Administration report that found the State Department has deployed only “enhanced access controls,” such as multi-factor authentication, or multiple steps to log in, across “11% of required agency devices.”
-  
-  The letter also referenced findings by the State Department inspector general, who found in 2017 “that 33% of diplomatic missions failed to conduct the most basic cyber threat management practices, like regular reviews and audits.”
-  
-  “We are sure you will agree on the need to protect American diplomacy from cyberattacks, which is why we have such a hard time understanding why the Department of State has not followed the lead of many other agencies and complied with federal law requiring the use of MFA (multi-factor authentication),” read the letter from Democratic Sens. Ron Wyden of Oregon, Ed Markey of Massachusetts and Jeanne Shaheen of New Hampshire and their Republican colleagues Sens. Cory Gardner of Colorado and Rand Paul of Kentucky.
-  
-  The senators asked that the State Department provide them with information about how it is working to rectify the situation and the number of successful and attempted cyberattacks on State Department systems abroad.
-  
-  A State Department spokesperson confirmed they had received the letter and said it would be carefully reviewed before the department responds.
-  
-  Multi-factor or two-factor authentication usually requires users to enter a separate code after they enter their passwords when logging in to their email or social media accounts. The code is usually texted to the user or accessed through a mobile phone app.
-  
-  The additional security step is offered by major tech giants including Google, Facebook and Twitter, and is designed to prevent a hack even if a user’s password has been stolen.
-  
-  As the midterm elections approach, some political campaigns and state election officials are using two-factor authentication in an attempt to avoid a repeat of the widespread Russian hacking seen in 2016.
-  
-  Jessica Ortega, a research analyst at the cybersecurity firm SiteLock, told CNN that a State Department official not using multi-factor authentication could be vulnerable to a cyberattack.
-  
-  “Not having accounts protected by multiple layers of security could mean that cracking one password or PIN code means that all the information a diplomat has access to could be accessed by an enemy,” she said.
-  
-  The Democratic National Committee, which itself was allegedly successfully targeted by Russian hackers, according to a recent indictment from special counsel Robert Mueller’s team, has advised candidates to use multi-factor authentication.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d22edc68f9db0bc7c90e74af9565f6b60bdb6c0b502d73c5b1c9782029a8b0e
+size 3208

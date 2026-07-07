@@ -1,33 +1,3 @@
-id: cnn_2020_02129
-title: "EU hits Amazon with antitrust charges. A huge fine could follow"
-date: "2020-11-10"
-section: "Tech"
-url: "https://www.cnn.com/2020/11/10/tech/amazon-eu-antitrust/index.html"
-content: |
-  The European Union has unveiled formalantitrustcharges against Amazon for abusing its dominance in online shopping and opened a second investigation into the company’s business practices.
-  
-  Margrethe Vestager, the European Commission’s top antitrust official, accused Amazon on Tuesday of illegally abusing its dominant position as an online marketplace in Germany and France, the company’s biggest markets in the European Union.
-  
-  The Commission opened a formal investigation into Amazon(AMZN)in July 2019to probe its dual role as marketplace and retailer. Ithas been looking into agreements between Amazon(AMZN)and independent retailers, and whether data from sellers is being unfairly used by the e-commerce giant, which also sells its own products.
-  
-  The investigation found that Amazon feeds non-public seller data, such as the number of products ordered and the sellers’ revenues, into its own retail algorithms to help it decide which new products to launch and the price of each new offer, Vestager said on Tuesday.
-  
-  That allows Amazon to marginalize third-party sellers and cap “their ability to grow,” she added.
-  
-  Congress' Big Tech investigation finds companies wield 'monopoly power'
-  
-  Amazon took issue with the findings. “We disagree with the preliminary assertions of the European Commission and will continue to make every effort to ensure it has an accurate understanding of the facts,” the company said in a statement.
-  
-  More than 70% of online shoppers in France and more than 80% in Germany have bought something on Amazon in the last 12 months, according to Vestager.“We do not take issue with the success of Amazon or its size, our concern is the very specific business conduct that appears to distort competition,” she said.
-  
-  The Commission said that its preliminary view is that Amazon has breached EU antitrust rules, but that its investigation must be completed before any penalties are imposed. The probe could drag on for years and expose Amazon to potential fines of up to 10% of its annual global sales. That implies a maximum penalty of around $37 billion based on the company’s forecasts for revenue this year.
-  
-  The EU antitrust authorities have also opened a second investigation into whether Amazon artificially favors its own retail offers or those of marketplace sellers who use the company’s logistics and delivery services. One area of focus is the criteria Amazon uses to select products featured in its prominent “Buy Box.”
-  
-  The US government sues Google for alleged anticompetitive abuses in search
-  
-  “Our concern is that Amazon may artificially push retailers to use its own related services, which locks them deeper into Amazon’s ecosystem,” Vestager said.
-  
-  How big tech companies use data and deal with their smaller rivals has become a major focus for regulators on both sides of the Atlantic. The US Department of Justice last monthaccused Google of stifling competitionto maintain its powerful position in the marketplace for online search and search advertising.
-  
-  The European Union has emerged as a key battleground for tech because of its tough rules on data protection, hate speech, taxation and competition issues. EU officials have a track record of hitting US tech companies such as Google(GOOGL)with fines worth billions and Amazon may suffer the same fate.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f4989b900cd80b008b9b7d3cc2756bc5ea30676720c3331dac87edf67118351
+size 3607

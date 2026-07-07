@@ -1,35 +1,3 @@
-id: cnn_2021_00708
-title: "This Dubai-based company wants to revolutionize how ports operate"
-date: "2021-08-13"
-section: "Middle East"
-url: "https://www.cnn.com/2021/08/13/middleeast/dubai-dp-world-boxbay-spc-intl/index.html"
-content: |
-  In Dubai’s Jebel Ali port, a new technology is being tested that aims to speed up, improve and automate the way shipping containers are stored, moved and shipped.
-  
-  Typically, at major ports, shipping containers awaiting transport are simply piled up on top of each other six or seven high, waiting to be moved onto ships by cranes. As well as taking up a huge amount of space, this approach means locating and picking up the right box can be time consuming.
-  
-  Dubai-based port operator DP World has developed an innovation that it says saves time and space.
-  
-  “BoxBay” is a storage system that stacks containers 11 stories high in a steel frame. Usually, when containers are stacked on top of each other at ports, reaching a container lower down in the stacks means moving those piled above it. DP World says BoxBay, developed in partnership with German company SMS group, allows cranes to pick up containers without needing to reshuffle the ones above.
-  
-  World's deepest pool opens in Dubai, part of huge underwater city
-  
-  The system is automated, able to move the cranes and pick up containers automatically. If it fails for any reason, an engineer can take control of BoxBay from a control room located near the port.
-  
-  “We save around 60 to 70% of the time,” Patrick Bol, head of port expansion and special projects at DP World, tells CNN. DP says that BoxBay can occupy less than a third of the space usually taken up by containers at a terminal.
-  
-  “The initial costs are high,” Bol admits, “but you earn the money back. The maintenance cost is much lower and it requires fewer people to operate.”
-  
-  “The main benefit is a much more dense utilization of terminal space,” says Peter de Langen, a professor of maritime economics at Copenhagen Business School, who is not connected with BoxBay.
-  
-  De Langen adds that it can also significantly reduce dwell times (the time needed to pick up a container and load it onto a ship) and foresees a wider uptake in metropolitan ports where there isn’t room to expand facilities.
-  
-  Making water in a desert, from sunlight and air
-  
-  But he believes there are two main hurdles to more widespread adoption. “This technology is part of a broader shift to automation that reduces employment in terminals,” de Langen says, which means it could face opposition in ports where labor unions are strong. Another challenge is to integrate this technology when a port is still being designed, which is often before a port operator has been selected, he says.
-  
-  Sultan Ahmed bin Sulayem, chairman and CEO of DP World, says the pilot project in Dubai is showing encouraging results in terms of saving time and space, and he envisions a future where BoxBay will be found in some of the world’s busiest ports.
-  
-  “Our aim is to remove all the inefficiencies in the industry,” he says. “[BoxBay] is a hard innovation that will help us a lot, changing the way we operate.”
-  
-  This story has been updated to clarify the company partnering with DP World.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b71f748a48ac827b8b4c66af9a337266bf17fb25de334b766cb7db342d4d4dd5
+size 3298

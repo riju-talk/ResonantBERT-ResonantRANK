@@ -1,31 +1,3 @@
-id: cnn_2019_01951
-title: "DoorDash details new tipping policy after backlash"
-date: "2019-08-22"
-section: "Tech"
-url: "https://www.cnn.com/2019/08/22/tech/doordash-tipping-update/index.html"
-content: |
-  DoorDash is finally detailing changes to its controversial tipping policy, one month after the company’s CEO promised an update in response to a widespread backlash.
-  
-  Since 2017, DoorDash has at times taken a customer’s tip and put it toward covering the base pay for that customer’s delivery person. This practice made some customers feel they had been duped into footing the bill for delivery workers instead of merely providing an above-and-beyond bonus.Last month,a New York Times reportonce again put the issue in the spotlight. In response, CEO and cofounder Tony Xu said the company would change its policy moving forward,teasing plansto share more information “in the days to come.”
-  
-  In ablog postThursday, Xu said the minimum base pay DoorDash provides its delivery workers — called “Dashers” — will increase from $1 to $2, with the potential to be as much as $10, depending on the estimated “duration, distance, and desirability” of a delivery job. The company also said all tips will be added on top of that base pay.
-  
-  However, delivery workers will not be able to see a breakdown of the per mile and per minute rates included in their base pay, according to a spokesperson for DoorDash.
-  
-  “The decision to change our model was difficult,” Xu said. “We initially resisted change even in the face of public pressure because we built our model in direct response to feedback from Dashers.”
-  
-  Tipping your food delivery person may actually be helping a big company
-  
-  In another shift, DoorDash will soon give customers the option to leave tips both before and after a delivery is made, rather than just before. These changes are expected to roll out next month.
-  
-  “Under our new model, Dashers will earn more money on average — both from DoorDash and overall,” Xu said, noting that DoorDash plans to work with an independent third party to ensure that’s the case.
-  
-  The lack of a breakdown of the per mile and per minute rates, though, has made some skeptical.
-  
-  “It’s difficult to be too trusting of an updated black-box pay model that utterly lacks the transparency workers need to know why they’re getting paid what they’re getting paid — and offers as little as $2 a job,” said Working Washington, a Seattle-based workers’ rights organization, in a statement. The group called out DoorDash’stipping policy in February.
-  
-  There has been a growing backlash against on-demand businesses over worker compensation, among other grievances. Uber(UBER)and Lyft(LYFT), which went public earlier this year, both saw coordinated, multi-city worker protests ahead of their IPOs. The protesters argued they deserve livable incomes, job security and regulated fares, among other demands.
-  
-  Workers at on-demand companies like Uber, Lyft, DoorDash and Postmates are typically classified as independent contractors. That status means they are not guaranteed the same rights as employees, such as a minimum wage, overtime, workers’ compensation, unemployment insurance, paid sick leave or on-the-job expenses.
-  
-  Like DoorDash, Instacart also had a controversial tipping policy in place, butagreed to make some changesin February in response to mounting criticism. CEO Apoorva Mehta said the on-demand grocery delivery startup will no longer decrease the amount it contributes to worker base pay based on the size of their tips. He also said the company will reimburse workers who have been impacted by that practice.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a06764aedeed6f369fb8d57b7802934b3791b82c87274fbe434a7bc2af36d2ec
+size 3712

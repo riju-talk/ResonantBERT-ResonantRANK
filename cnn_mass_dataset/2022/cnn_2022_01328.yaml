@@ -1,25 +1,3 @@
-id: cnn_2022_01328
-title: "Meta calls out news outlet, says it published stories based on fabricated documents"
-date: "2022-10-11"
-section: "Media"
-url: "https://www.cnn.com/2022/10/11/media/meta-news-outlet-reliable-sources?query=query%28%24symbols%3A%20%5BString%5D%29%20%7B%0A%20%20marketIndexes%28symbols%3A%20%24symbols%29%20%7B%0A%20%20%20%20indexes%20%7B%0A%20%20%20%20%20%20symbol%0A%20%20%20%20%20%20index_displayName%0A%20%20%20%20%20%20inSession%0A%20%20%20%20%20%20streamId%3A%20streamSymbol%0A%20%20%20%20%20%20change%0A%20%20%20%20%20%20level%0A%20%20%20%20%20%20changePct%0A%20%20%20%20%20%20link%0A%20%20%20%20%20%20__typename%0A%20%20%20%20%7D%0A%20%20%20%20__typename%0A%20%20%7D%0A%7D%0A&variables=%7B%22symbols%22%3A%5B%22INDU%22%2C%22INX%22%2C%22COMP.IDX%22%5D%7D"
-content: |
-  It is not unusual for Meta to aggressively push back on articles. And it’s not unusual for publications to stand by the stories Meta pushes back on. But the situation that has unfolded over the past 24 hours between Meta and The Wire, a major Indian nonprofit news website, is extraordinary.
-  
-  Meta has publicly made the very serious charge that The Wire irresponsibly published two widely circulated articles based on fabricated documents, and The Wire has responded by digging its heels entirely into the sand.
-  
-  The dispute began on Monday when The Wire published what appeared to bean explosive story: that a top official in India’s ruling party effectively had the ability to unilaterally scrub posts from Instagram. Later that day, however, Meta spokesperson Andy Stone poured cold water on it. Specifically, Stone went as far as to say that “the underlying documentation” in the story appeared “to be fabricated.” Stone has a reputation among journalists as a spokesperson who spins on behalf of Meta (after all, doing so is his job), but not as a spokesperson who brazenly lies for the company.
-  
-  But on Tuesday, The Wire suggested he had done just that. The outletsaid thatit had obtained an email where Stone appeared to privately acknowledge the documents were authentic. The Wire reported that Stone emailed his team asking “how the hell” the documents leaked and demanding the journalists who wrote The Wire’s story be placed on a watch list. Included in the Tuesday story was a screen grab of the supposed email.
-  
-  That’s where the story took an even more bizarre turn.
-  
-  Guy Rosen, Meta’s chief information security officer,issued an on-the-record statementthat called the Stone email cited by The Wire “a fake.” Rosen stressed that “there is no” internal journalist watchlist at Meta. Others piled on by pointing out red flags with the supposed Stone email. (Shoshana Wodinsky of MarketWatch has agood thread on that here.)
-  
-  The Wire, however, has not backtracked on its story. Jahnavi Sen, the lead author of both stories and the outlet’s deputy editor, said via email that “of course” The Wire “stands by both of its stories.” Sen added that “Meta’s claim that the documents are fabricated is preposterous” and insisted the information was provided “by sources we know and trust within Meta.”
-  
-  The whole matter is quite unfortunate. Meta wields enormous power in India, particularly through WhatsApp, and needs strong news organizations to hold the company accountable. If this is indeed a case where The Wire published reports based on inauthentic documents, it is a massive setback for journalists in the country as it hinders the credibility of the country’s news media writ large.
-  
-  The episode also shows that Meta has tremendous work to do to earn the trust and confidence of the public. The company’s history and track record, which ironically includes allowing bad faith actors to spread misinformation in unprecedented fashion, makes it easy for people to believe the worst of the company — and disbelieve its firm denials.
-  
-  A version of this article first appeared in the “Reliable Sources” newsletter.Sign up for the daily digest chronicling the evolving media landscape here.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6eaae842db2ecc62a479767c2600bce82fb0090af9eb193126e96864567def00
+size 4095

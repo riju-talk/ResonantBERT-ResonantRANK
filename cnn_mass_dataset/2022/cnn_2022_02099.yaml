@@ -1,33 +1,3 @@
-id: cnn_2022_02099
-title: "Elon Musk has publicly filed updated counterclaims against Twitter based on whistleblower disclosure"
-date: "2022-09-15"
-section: "Tech"
-url: "https://www.cnn.com/2022/09/15/tech/elon-musk-twitter-amended-counterclaims?query=query%28%24symbols%3A%20%5BString%5D%29%20%7B%0A%20%20marketIndexes%28symbols%3A%20%24symbols%29%20%7B%0A%20%20%20%20indexes%20%7B%0A%20%20%20%20%20%20symbol%0A%20%20%20%20%20%20index_displayName%0A%20%20%20%20%20%20inSession%0A%20%20%20%20%20%20streamId%3A%20streamSymbol%0A%20%20%20%20%20%20change%0A%20%20%20%20%20%20level%0A%20%20%20%20%20%20changePct%0A%20%20%20%20%20%20link%0A%20%20%20%20%20%20__typename%0A%20%20%20%20%7D%0A%20%20%20%20__typename%0A%20%20%7D%0A%7D%0A&variables=%7B%22symbols%22%3A%5B%22INDU%22%2C%22INX%22%2C%22COMP.IDX%22%5D%7D"
-content: |
-  Elon Musk’s legal team on Thursday filed a public version of its updated counterclaims in response to Twitter’s lawsuit seeking to force the billionaire to follow through with his $44 billion deal to buy the company.
-  
-  The amended argument, which was originally filed under seal last week, draws on claims by former Twitter head of securityPeiter “Mudge” Zatko, who recently blew the whistle on the company’s alleged information security vulnerabilities. A Delaware judge overseeing the caseruledlast week that Musk’s team couldupdate its claimsbased on Zatko’s disclosure.
-  
-  In the amended counterclaims, Musk’s team alleged that Zatko’s disclosure and the events surrounding it “have revealed that the misrepresentations regarding mDAU [monetizable daily active users] were only one component of a broader conspiracy among Twitter executives to deceive the public, its investors, and the government about the dysfunction at the heart of the company.”
-  
-  Twitter is unable to catch and remove foreign agents in its ranks, whistleblower testifies
-  
-  Musk’s original argument centered on allegations that Twitter has misrepresented the number of false and spam accounts on its platform and used the mDAU metric to publicly report its growth while using other metrics internally. Twitter, by contrast, accuses Musk of using bots as a pretext to exit a deal that he developed buyer’s remorse over after a market decline.
-  
-  The new counterclaims from Musk’s team point to allegations by Zatko that Twitter suffers information security vulnerabilities, that it has infringed intellectual property rights to run some of its key features and that it has violated a 2011 Federal Trade Commission consent decree.
-  
-  “Those previously concealed problems are, according to Zatko, so severe that Zatko … concluded that they threaten US national security and democracy itself,” the filing states.
-  
-  In response to a request for comment on the amended claims, Twitter spokesperson Brian Poliakoff pointed CNN to an earlier statement from the company calling Musk’s claims “factually inaccurate, legally insufficient and commercially irrelevant.”
-  
-  “We look forward to the trial in the Delaware Court of Chancery,” Twitter said in the statement. The company has previously broadly defended itself against the claims by Zatko, and said his disclosure paints a “false narrative” of the company.
-  
-  Musk’s team has previously filed two additional letters of termination of the deal to Twitter based on Zatko’s disclosure, which the companycalled“invalid and wrongful.”
-  
-  In a hearing earlier this month over whether Musk should be able to update his claims, Twitter’s lawyers painted Zatko as a disgruntled former employee with an ax to grind, and noted the fortuitous timing of his disclosure for Musk. Zatko was fired in January, a move Twitter said was due to “poor performance,” but that Zatko contends was in retaliation for raising concerns internally about security issues.
-  
-  Zatko has previously said that he has no relationship with Musk and that his disclosure had nothing to do with the acquisition dispute, but rather was meant to protect Twitter users and the country.
-  
-  Zatko earlier this week expanded on his allegations in aSenate hearing, telling lawmakers that Twitter struggles to find and remove foreign agents who may be on its payroll. In response, Twitter said his testimony “only confirms that Mr. Zatko’s allegations are riddled with inconsistencies and inaccuracies.”
-  
-  Twitter and Musk are set to go to trial over the deal in October, after the judge denied a request from Musk to delay the trial in light of the whistleblower disclosure. On the same day Zatko testified, Twitter shareholdersvoted to approveMusk’s takeover deal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:64520943db133daae75bc5f0bd9fba1e3ff552f71350d805f3cc4ab6ca979269
+size 4664

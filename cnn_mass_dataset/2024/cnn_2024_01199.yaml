@@ -1,33 +1,3 @@
-id: cnn_2024_01199
-title: "OpenAI will now let you create videos from verbal cues"
-date: "2024-02-15"
-section: "Tech"
-url: "https://www.cnn.com/2024/02/15/tech/openai-text-to-video-sora/index.html"
-content: |
-  Artificial intelligence leader OpenAI introduced a new AI model called Sora which it claims can create “realistic” and “imaginative” 60-second videos from quick text prompts.
-  
-  In a blog post on Wednesday, the company saidSorais capable of generating videos up to 60 seconds in length from text instructions, with the ability to serve up scenes with multiple characters, specific types of motion, and detailed background details.
-  
-  “The model understands not only what the user has asked for in the prompt, but also how those things exist in the physical world,” the blog post said.
-  
-  OpenAI said it intends to train the AI models so it can “help people solve problems that require real-world interaction.”
-  
-  Beware misleading AI hype and ‘AI-washing,’ SEC chair warns
-  
-  This is the latest effort from the company behind the viral chatbot ChatGPT,which continues to push the generative AI movement forward. Although “multi-modal models” are not new and text-to-video models already exist, what sets this apart is the length and accuracy that OpenAI claims Sora to have, according to Reece Hayden, a senior analyst at market research firm ABI Research.
-  
-  Hayden said these types of AI models could have a big impact on digital entertainment markets with new personalized content being streamed across channels.
-  
-  “One obvious use case is within TV; creating short scenes to support narratives,” Hayden said. “The model is still limited though, but it shows the direction of the market.”
-  
-  At the same time, OpenAI said Sora is still a work in progress with clear “weaknesses,” particularly when it comes to spatial details of a prompt – mixing up left and right – and cause and effect. It gave the example of creating a video of someone taking a bite out of a cookie but it not having a bite mark right after.
-  
-  For now, OpenAI’s messaging remains focused on safety. The company said it plans to work with a team of experts to test the latest model and look closely at various areas including misinformation, hateful content and bias. The company said it is also building tools to help detect misleading information.
-  
-  Explicit, AI-generated Taylor Swift images spread quickly on social media
-  
-  Sora will first be made available to cybersecurity professors, called “red teamers,” who can assess the product for harms or risks. It is also granting access to a number of visual artists, designers and filmmakers to collect feedback on how creative professionals could use it.
-  
-  The latest update comes as OpenAI continues to advance ChatGPT.
-  
-  Earlier this week, the company said it istesting a featurein which users can control ChatGPT’s memory, allowing them to ask the platform to remember chats to make future conversations more personalized or tell it to forget what was previously discussed.
+version https://git-lfs.github.com/spec/v1
+oid sha256:72bd7fddbcbc95f5f6a961f35994df00efe915343ba8c9a46cbbb5234aebda66
+size 3093

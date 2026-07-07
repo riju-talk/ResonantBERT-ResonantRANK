@@ -1,29 +1,3 @@
-id: cnn_2022_02921
-title: "Federal appeals court upholds controversial Texas social media law restricting content moderation"
-date: "2022-09-16"
-section: "Tech"
-url: "https://www.cnn.com/2022/09/16/tech/texas-social-media-law-fifth-circuit-decision-hb20?query=query%28%24symbols%3A%20%5BString%5D%29%20%7B%0A%20%20marketIndexes%28symbols%3A%20%24symbols%29%20%7B%0A%20%20%20%20indexes%20%7B%0A%20%20%20%20%20%20symbol%0A%20%20%20%20%20%20index_displayName%0A%20%20%20%20%20%20inSession%0A%20%20%20%20%20%20streamId%3A%20streamSymbol%0A%20%20%20%20%20%20change%0A%20%20%20%20%20%20level%0A%20%20%20%20%20%20changePct%0A%20%20%20%20%20%20link%0A%20%20%20%20%20%20__typename%0A%20%20%20%20%7D%0A%20%20%20%20__typename%0A%20%20%7D%0A%7D%0A&variables=%7B%22symbols%22%3A%5B%22INDU%22%2C%22INX%22%2C%22COMP.IDX%22%5D%7D"
-content: |
-  A federal appeals court on Friday upheld a controversial Texas law that restricts the ability of Facebook, Twitter and YouTube to moderate content on their platforms, setting up a potential Supreme Court showdown while also renewing uncertainties about how tech platforms may operate in the state in the future.
-  
-  The Texas law, known as HB 20, does not violate the First Amendment rights of tech platforms by requiring them to host speech they find objectionable, according to the decision by a three-judge panel at the Fifth Circuit Court of Appeals.
-  
-  “Today we reject the idea that corporations have a freewheeling First Amendment right to censor what people say,” the judges wrote.
-  
-  The decision is a defeat for the tech industry, which had sued to block the law, alleging it was unconstitutional. Earlier this year, another appellate court blocked a similar law in Florida from going into effect, citing the same arguments.
-  
-  Texas officials passed HB 20 last year amid allegations that tech platforms unfairly censor conservative speech. Social media companies have widely denied the claims, but the Texas law imposes sweeping obligations on platforms, prohibiting them from moving to “block, ban, remove, deplatform, demonetize, de-boost, restrict, deny equal access or visibility to, or otherwise discriminate against expression.”
-  
-  Mainstream legal experts have said if HB 20 survives legal challenge, tech companies would be forced to host spam, hate speech, pornography and other legal-but-problematic material on their platforms in order to comply with the text of the law. It could also serve as a blueprint for other states. More broadly, they have said, letting the government force private parties to host speech would reverse decades of First Amendment precedent, which has held that the government may not compel private speech.
-  
-  Texas Attorney General Ken Paxton celebrated the court ruling in atweet, saying: “I just secured a MASSIVE VICTORY for the Constitution & Free Speech in fed court: #BigTech CANNOT censor the political voices of ANY Texan!”
-  
-  The Computer and Communications Industry Association, one of the technology trade groups that had sued to block the law, said it strongly disagreed with the court’s decision.
-  
-  “Forcing private companies to give equal treatment to all viewpoints on their platforms places foreign propaganda and extremism on equal footing with decent Internet users, and places Americans at risk,” said Matt Schruers, CCIA’s president. “‘God Bless America’ and ‘Death to America’ are both viewpoints, and it is unwise and unconstitutional for the State of Texas to compel a private business to treat those the same.”
-  
-  With the Fifth Circuit having reached a different conclusion from the Eleventh Circuit Court of Appeals on similar questions, the stage is set for the issue to be decided at the Supreme Court.
-  
-  In May, the Supreme Courttemporarily blockedHB 20 from taking effect in an emergency decision as the litigation continued. The 5-4 vote sent the case back to the Fifth Circuit, resulting in Friday’s outcome upholding HB 20. The Fifth Circuit decision does not undo the Supreme Court’s move to place the law on hold.
-  
-  In dissenting from his colleagues, however, Justice Samuel Alito wrote that the litigation over HB 20 raises questions of “great importance” concerning a “ground-breaking” law that addresses “the power of dominant social media corporations to shape public discussion of the important issues of the day.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5798058db33af458aca29d9c8e192c60029654740c79c4be58181442c843e96
+size 4404

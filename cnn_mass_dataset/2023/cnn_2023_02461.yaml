@@ -1,13 +1,3 @@
-id: cnn_2023_02461
-title: "Today’s news in 10 minutes"
-date: "2023-01-11"
-section: "Cnn10"
-url: "https://www.cnn.com/2023/01/11/cnn10/ten-content-thurs/index.html"
-content: |
-  This page includes the show Transcript
-  
-  This Thursday, we examine a stop of all domestic planes following a system outage.  What caused the shutdown and what were the ripple effects?  We then look to California were residents across the state are recovering from deadly storms that brought area rainfall totals 400% to 600% above average.  What is an atmospheric river and what does it mean for the state in the days ahead?  And finally, we’ll look at research on social media and its potential impact on teens.
-  
-  Click here to access the printable version of today’s CNN 10 transcript
-  
-  Thank you for using CNN 10
+version https://git-lfs.github.com/spec/v1
+oid sha256:efb79c5bcd7727271b26f74382ca7ce9bdbd29baa1623fa9b07f81b4f1b31a95
+size 812

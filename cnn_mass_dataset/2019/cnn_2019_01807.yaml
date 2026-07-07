@@ -1,29 +1,3 @@
-id: cnn_2019_01807
-title: "Plant takes ‘selfies,’ showing possibility of plant-powered devices"
-date: "2019-10-16"
-section: "Europe"
-url: "https://www.cnn.com/2019/10/16/europe/plant-selfie-london-scli-intl-gbr-scn/index.html"
-content: |
-  A plant has taken the world’s first plant-poweredselfieas part of research that could lead to major advances in data collection for conservation efforts.
-  
-  The plant – known as Pete the fern – is part of a trial looking at the use of microbial fuel cells at ZSL London Zoo, according to a statement from the organization.
-  
-  These cells allow Pete to create energy that powers a camera and takes his own photo. Researchers say their findings could enable major progress in conservation efforts.
-  
-  “Plants naturally deposit biomatter as they grow, which in turn feeds the natural bacteria present in the soil, creating energy that can be harnessed by fuel cells and used to power a wide range of vital conservation tools remotely, including sensors, monitoring platforms and camera traps,” said Al Davies, ZSL’s Conservation Technology Specialist, in the statement.
-  
-  “Most power sources have limits – batteries must be replaced while solar panels rely on a source of sunlight – but plants can survive in the shade, naturally moving into position to maximise the potential of absorbing sunlight – meaning the potential for plant-powered energy is pretty much limitless.”
-  
-  Pete is a maidenhair fern equipped with an ultra-low-powered camera manufactured by Xnor.ai, a US artificial intelligence company.
-  
-  This robot photographer will take your profile pic for you
-  
-  It uses so little energy that it can work 24/7 on power produced by a small plant.
-  
-  This kind of technology could be used in remote and inhospitable locations that are hard to reach for humans, who usually need to change batteries.
-  
-  Measurements of temperature, humidity and plant growth are important in furthering our understanding of climate change, habitat loss and other threats, according to researchers.
-  
-  “We’ve quite literally plugged in to nature to help protect the world’s wildlife: Pete has surpassed our expectations and is currently taking a photo every 20 seconds – he’s been working so well we’ve even accidentally photobombed him a few times!” added Davies.
-  
-  The ZSL are planning a second trial that will take place in the wild.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f83d030fd0ea2b3b7667e6caa00278a6fa4b224b693d4709810fe16335e56457
+size 2428

@@ -1,25 +1,3 @@
-id: cnn_2021_00868
-title: "NSA IG reviewing allegations the agency ‘improperly targeted’ communications of US news media"
-date: "2021-08-10"
-section: "Politics"
-url: "https://www.cnn.com/2021/08/10/politics/nsa-ig-target-news-media/index.html"
-content: |
-  The National Security Agency’s inspector general on Tuesday announced that it is reviewing “recent allegations that the NSA improperly targeted the communications of a member of the US news media.”
-  
-  Although the statement does not mention any specific media figure, the review comes amid ongoing publicclaimsby Fox News host Tucker Carlson that the NSA “spied” on him by intercepting his communications.
-  
-  The NSA inspector general will examine the agency’s “compliance with applicable legal authorities and Agency policies and procedures regarding collection, analysis, reporting, and dissemination activities, including unmasking procedures, and whether any such actions were based upon improper considerations,” according to the release.
-  
-  A spokesperson for Fox News said in a statement that the networks was “gratified” to learn of the investigation.
-  
-  “As we have said, for the NSA to unmask Tucker Carlson or any journalist attempting to secure a newsworthy interview is entirely unacceptable and raises serious questions about their activities as well as their original denial, which was wildly misleading,” the spokesperson said.
-  
-  The agency flatly denied Carlson’s claims when he first aired them on his show in June, calling them “untrue” in a tweet.
-  
-  Carlson originally attributed his information to a “whistleblower within the US government who reached out to warn us.” He added, “the NSA, the National Security Agency, is monitoring our electronic communications and is planning to leak them to take this show off the air.”
-  
-  An internal NSA review of its intercepts last month did not find any evidence that Carlson’s communications were intercepted,CNN has previously reported, but did find that Carlson’s name was picked up in third-party communications and his identity was unmasked, meaning foreign targets mentioned him in their communications and his identity was revealed internally. In the NSA foreign intelligence reports, the names of Americans are redacted, or “masked.” Certain authorized US officials have the authority to request the names of those individuals if they have a justifiable reason.
-  
-  “For the NSA to unmask Tucker Carlson or any journalist attempting to secure a newsworthy interview is entirely unacceptable and raises serious questions about their activities as well as their original denial, which was wildly misleading,” aFox Newsspokesperson said in a statement to CNN at the time.
-  
-  “NSA remains fully committed to the rigorous and independent oversight provided by the NSA Inspector General’s office,” a spokesperson for the NSA said in a statement on Tuesday. “The OIG plays a critical role in our Agency’s mission by overseeing the activities of NSA/CSS and providing recommendations that continue to promote effectiveness, efficiency, and accountability within the Agency.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4b039e0850ff61e2a4d59c3c80b9b5e61a8417405881be9e2110bbc644175ba
+size 3180

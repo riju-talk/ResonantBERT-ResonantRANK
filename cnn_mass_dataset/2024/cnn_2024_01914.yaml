@@ -1,29 +1,3 @@
-id: cnn_2024_01914
-title: "Bacteria and mold found during inspection of Tom’s of Maine facility, FDA says"
-date: "2024-11-19"
-section: "Health"
-url: "https://www.cnn.com/2024/11/19/health/toms-of-maine-toothpaste-bacteria-mold-fda/index.html"
-content: |
-  An inspection this year of a Tom’s of Maine’s facility in Sanford, Maine, turned up several violations, including bacteria in water used to make toothpaste, bacterial growth in another type of toothpaste and “a black mold-like substance” near manufacturing equipment, according to a warning letter from the US Food and Drug Administration to the CEO of the company’s parent firm.
-  
-  FDA moves to pull popular decongestant from shelves amid effectiveness concerns
-  
-  Theletter, which is dated November 5, outlines “significant violations” including the discovery ofPseudomonas aeruginosa– a strain of bacteria that can infect the lungs and blood and can be resistant to medications to treat it – in water used to rinse equipment and to manufacture the brand’s Tom’s Simply White Clean Mint Paste.
-  
-  Ralstonia insidiosa bacteria were also found in the water by Tom’s of Maine during testing.
-  
-  Another bacteria that can cause human infections, gram-negative cocco-bacilli Paracoccus yeei, was found in a batch of Wicked Cool! Anticavity Toothpaste, according to the FDA.
-  
-  “Water is a major ingredient in many of your OTC drug products. It is essential that you employ a water system that is robustly designed, and that you effectively control, maintain, and monitor the system to ensure it consistently produces water suitable for pharmaceutical use,” the letter says.
-  
-  The agency requested additional documentation of the company’s manufacturing operations, “with a detailed and thorough review of all microbiological hazards” and evidence of test methods and results.
-  
-  The FDA also found that Tom’s of Maine “failed to maintain buildings used in the manufacture, processing, packing, or holding of drug products in a good state of repair.”
-  
-  The agency said it found “a black mold-like substance” in two damp areas during their inspection and “powder residue” near a batch of Tom’s Silly Strawberry Anticavity toothpaste.
-  
-  “It is essential that your facility is in a good state of repair and sanitary conditions are maintained to protect drug products from potential routes of contamination,” the FDA said.
-  
-  Tom’s of Maine, which is owned by Colgate-Palmolive, told CNN in a statement that it is “working with the FDA and are remedying the issues raised in their May inspection of the Tom’s manufacturing plant in Sanford, Maine.”
-  
-  “We have always tested finished goods before they leave our control, and we remain fully confident in the safety and quality of the toothpaste we make. In addition, we have engaged water specialists to evaluate our systems at Sanford, have implemented additional safeguards to ensure compliance with FDA standards, and our water testing shows no issues. We are also making capital investments as part of an ongoing, significant upgrade of the Sanford plant’s water system. Tom’s is committed to making safe and effective natural products for our consumers, and to maintaining the trust in our brand,” the statement says.
+version https://git-lfs.github.com/spec/v1
+oid sha256:088c873ceb826fff59636c357f015c211c49be2618cc7588e3939f141769b1c1
+size 3318

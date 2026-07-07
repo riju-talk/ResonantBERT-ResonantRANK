@@ -1,29 +1,3 @@
-id: cnn_2024_02993
-title: "Europe investigates Big Tech’s use of generative AI"
-date: "2024-03-14"
-section: "Tech"
-url: "https://www.cnn.com/2024/03/14/tech/europe-generative-ai-investigation/index.html"
-content: |
-  The European Union launched a probe Thursday into Big Tech’s use of artificial intelligence and its handling of computer-generated deepfakes, ramping up scrutiny of a technology officials fear could disrupt elections.
-  
-  The inquiry is aimed at companies including Meta, Microsoft, Snap, TikTok and X, focusing on how the tech giants plan to manage the risks of generative artificial intelligence as they increasingly roll out consumer-facing AI tools.
-  
-  “The Commission is requesting these services to provide more information on their respective mitigation measures for risks linked to generative AI, such as so-called ‘hallucinations’ where AI provides false information, the viral dissemination of deepfakes, as well as the automated manipulation of services that can mislead voters,” officials said in arelease.
-  
-  Regulators at the European Commission say they’re particularly concerned about how generative AI could sow chaos in the run-up to this summer’s EU parliamentary elections. Online platforms will have until April 5 to respond to questions about steps they’ve taken to prevent AI tools from spreading election misinformation.
-  
-  “We’re asking platforms, are they ready for a kind of 11th-hour injection scenario right before the elections, where a high-impact deepfake might be distributed at large scale, and what their readiness for these kinds of scenarios are,” a commission official told reporters on a conference call Thursday.
-  
-  Part of the Commission’s goal is to gain insight into how the companies are approaching the issue of deepfakes, but also to put them on notice that AI-related mishaps could lead to fines or other penalties under the Digital Services Act, a landmark tech-regulation law governing social media and other major online platforms.
-  
-  The companies’ responses could be incorporated into a series of election securityguidelinesfor tech platforms the European Commission plans to finalize by March 27, another commission official said.
-  
-  The AI investigation also covers a broader set of topics including how platforms are addressing generative AI’s impact on user privacy, intellectual property, civil rights and children’s safety and mental health.
-  
-  Companies will have until April 26 to file responses to those questions.
-  
-  The request for information sent to X this week is connected to an ongoing investigation into Elon Musk’s social media company that began amid the opening days of the Israel-Hamas conflict last year, officials said.
-  
-  “One of the grievances we have is the ability to manipulate the service through automated means and this can include generative AI, so yes, there’s a link to the ongoing investigation,” one of the commission officials said.
-  
-  X CEO Linda Yaccarino met with Thierry Breton, a top EU digital regulator, in late February.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a0b200541d77d4e9df169a6faac7792da43fc7d27e72f7246463bfe7409dff3
+size 3096

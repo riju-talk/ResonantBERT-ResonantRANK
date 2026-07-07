@@ -1,33 +1,3 @@
-id: cnn_2022_02369
-title: "This recession indicator is flashing a warning sign"
-date: "2022-03-26"
-section: "Economy"
-url: "https://www.cnn.com/2022/03/26/economy/inverted-yield-curve-march-warning/index.html"
-content: |
-  The bond market is flashing a warning sign that has correctly predicted almost every recession over the past 60 years: a potential inversion of the US Treasury note yield curve.
-  
-  An inverted yield curve is often seen as a signal that investors are more nervous about the immediate future than the longer term, spurring interest rates on short-term bonds to move higher than those paid on long-term bonds.
-  
-  While the curve isn’t inverted yet, it’s getting close. That shouldn’t be particularly surprising, given how Russia’s invasion of Ukraine – and its economic ramifications – continue to weigh heavily on the global economy.
-  
-  Treasury notes are essentially a loan to the US government and are generally seen as a safe bet for investors since there is little risk the loan won’t be paid back.
-  
-  These government bonds have seen a flood of interest in recent weeks, amid geopolitical uncertainty andtightening financial conditions– the Federal Reserve said last week it is considering as many as six more rate hikes in 2022 alone. That’s making investors lose their appetite for stocks and other more volatile assets and turn to dependable investments like Treasuries.
-  
-  But, as more people rush to buy bonds, that causes the yield to fall, which ends up making them a less attractive investment. Some investorsare even starting to seek out assets like Bitcoin and cash, which traditionally offer less stability than bonds.
-  
-  A 10-year Treasury note typically delivers a higher rate of return than shorter term notes, since an investor’s money is committed for longer. Shorter-duration Treasury notes, such as a 2-year or a 3-year bond, generally offer lower yields, because risks are more predictable than over a longertime horizon.
-  
-  But when the return on a 10-year noteis lower than the 2-year,that indicates a pessimistic outlook on the part of investors and a reluctance to commit their money. And yields are heading in that direction: The spread between the 10-year Treasury note and the 2-year notecurrently sits at around 0.2%, compared to around 1.5% a year ago.
-  
-  A yield curve inversion has preceded every single recession since 1955,according to research from the Federal Reserve Bank of San Francisco.
-  
-  An inversion doesn’t mean stocks are about to go into meltdown: While an inversion generally indicates a recession is comingwithin the following 12 months, it can sometimes take years. The curve inverted in 2005, but the Great Recession didn’t start until 2007. The most recent inversion, in 2019, prompted fears of a recession — which materialized in 2020, but that was due to Covid-19.
-  
-  Regardless, some market participants are sounding the alarm bell.
-  
-  “I think there very well could be a recession or even worse,” activist investor Carl Icahn said Tuesday in an interview with CNBC. “We have a strong hedge on against the long positions… short term I don’t even predict.”
-  
-  There is “at least” a one-in-three chance the US economy will have a recession over the next 12 months, Moody’s Analytics chief economist Mark Zanditold CNN on Thursday.
-  
-  “The harder the Fed steps on the brakes, the higher the probability the car seizes up and the economy goes into recession,” Zandi said.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fb206a2c344b06267a99c06d0652449d94c8da703c9f2ed7fec248f6d0c08c2
+size 3520

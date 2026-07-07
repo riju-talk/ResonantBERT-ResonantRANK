@@ -1,27 +1,3 @@
-id: cnn_2024_01974
-title: "More and more Americans are worried they will lose their job"
-date: "2024-08-19"
-section: "Economy"
-url: "https://www.cnn.com/2024/08/19/economy/labor-market-unemployment-ny-fed-survey/index.html"
-content: |
-  Theshape of the US labor marketis changing, job growth is slowing and new survey data released Monday shows that Americans are starting to feel increasingly unsettled about it all.
-  
-  The Federal Reserve Bank of New York’s latest survey on consumers’ labor market experiences and expectations showed that job, wage and benefits satisfaction all sank in July. In addition, the survey showed that fewer people were employed, a record share of people were looking for jobs, and the average expected likelihood of becoming unemployed rose to 4.4% — also the highest on record for the survey, which was started 10 years ago.
-  
-  Jitters aside, the July survey also showed that Americans also felt opportunities still abound.
-  
-  Job offer activity held steady from July 2023, and the average expected likelihood of receiving at least one job offer increased from last year. Additionally, the average reservation wage (the lowest wage one would accept for a new job) remained well above July 2023 — and significantly higher than pre-pandemic levels.
-  
-  The average reservation wage in July was $81,147, a slight decline from the series high of $81,822 set in March of this year, according to the survey, which is conducted every four months.
-  
-  The average reservation wage has increased 31.4% since March 2020; however, most of that gain can be attributed to inflation, New York Fed researchers wrote Monday in an accompanying blog post.
-  
-  Taking inflation out of the equation, that increase was a far tamer 8.2% for that same time period. And while the average reservation wage in real terms has essentially been flat since 2021, its trajectory is faring better than the four years before the pandemic, when it was declining, New York Fed researchers found.
-  
-  Job growth has slowed, especially in recent months, as the US labor market has settled back into a more balanced state amid a slower-growing economic backdrop.
-  
-  However, in July, the monthly job total wasfar lower than expected, at just 114,000. The unemployment rate shot higher, to 4.3%.
-  
-  While that data sent markets tumbling in response, economists cautioned that the surprising report does not necessarily indicate a forthcoming recession or an outright deterioration in the labor market. They noted that layoffs remain muted.
-  
-  The next jobs report is due out on September 6; however, datarevisionsdue out Wednesday from the Bureau of Labor Statistics could help shed some light on whether job growth over the past year has been slower than initially reported.
+version https://git-lfs.github.com/spec/v1
+oid sha256:36cb9d169af15a9b460ee17099c09bcdce41107c0f9e04207063dac2cd3c5a7f
+size 2793

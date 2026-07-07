@@ -1,27 +1,3 @@
-id: cnn_2021_01781
-title: "Jobless claims are on the rise again. But that doesn’t mean the recovery is doomed"
-date: "2021-04-08"
-section: "Economy"
-url: "https://www.cnn.com/2021/04/08/economy/unemployment-benefits-coronavirus"
-content: |
-  Claims for unemployment benefits recently fell to a pandemic-era low. But they rose again last week, muddying the picture of the US jobs recovery.
-  
-  Another 744,000American workersfiled first-time claims for unemployment benefits on a seasonally adjusted basis, according to theLabor Department. It was an increase from the week before, but more notably, it was far more claims than economists had predicted.
-  
-  Just two weeks ago, initial jobless claims dropped to 658,000, the lowest level since the pandemic hit American shores. But since then, the trend in the data has reversed course.
-  
-  But there is some good news: Conditions are much better than they were a year ago, whenmore than 6 million workersfiled for unemployment assistance. Last week’s March jobs report also showed that therecovery is chugging along, with916,000 jobs added to the economy.
-  
-  “Jobless claims may bounce around week to week as the recovery takes hold, but we expect they will start to decline more consistently as the economy gains momentum,”  Nancy Vanden Houten, lead economist at Oxford Economics, wrote in a note to clients.
-  
-  She expects a hiring boom in the spring and summer as more businesses fully reopen.
-  
-  On top of regular state claims, 151,752 people filed for benefits under the Pandemic Unemployment Assistance program that’s designed to help the self-employed and gig workers.
-  
-  Added together, nearly 893,000 people filed for benefits last week (that figure is not adjusted for seasonal swings).
-  
-  AnnElizabeth Konkel, economist at the Indeed Hiring Lab, said it’s good news that the decline came from fewer workers needing benefits through the PUA program.
-  
-  “While initial claims need to fall much farther to return to even remotely ‘normal’ levels, at least there is movement in the right direction,” she said in a note.
-  
-  Continued jobless claims, which count applications that have been filed for at least two weeks in a row, stood at 3.7 million on a seasonally adjusted basis in the week ended March 27. That was only marginally down from the prior week, and like the first-time claims figure, it was higher than economists had predicted.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8dead1bcdf030f52f6e5f0acd64d970725380afd873579a35afb9889d4a9d449
+size 2438

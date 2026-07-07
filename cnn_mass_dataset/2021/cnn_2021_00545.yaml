@@ -1,35 +1,3 @@
-id: cnn_2021_00545
-title: "DC Police personnel files obtained by hackers in recent ransomware attack, acting police chief says"
-date: "2021-04-29"
-section: "Politics"
-url: "https://www.cnn.com/2021/04/29/politics/dc-police-ransomware-attack-personnel-files/index.html"
-content: |
-  The personnel files of some Washington Metropolitan Police Department officers were obtained byhackers in a ransomware attackearlier this month, the department’s acting police chief said Thursday.
-  
-  Robert Contee wrote in an email to staff, “I can confirm that HR-related files with Personally Identifiable Information (PII) were obtained. As we continue to determine the size and scope of this breach, please note that the mechanism that allowed the unauthorized access was blocked.”
-  
-  The police department is “working to identify all impacted personnel,” Contee wrote, acknowledging that the incident is “extremely stressful and concerning to our members.”
-  
-  The attackers had posted a ransom note claiming they had stolen more than 250 GB of data and threatening to publish the material if they were not paid. The ransomware group Babuk claimed credit for the attack, posting screenshots of the note that were flagged by cybersecurity researchers.
-  
-  “We are aware of unauthorized access on our server. While we determine the full impact and continue to review activity, we have engaged the FBI to fully investigate this matter,” the Metropolitan Police said in a statement to CNN on Monday evening.
-  
-  In its claims, the Babuk group suggested it had obtained information on Metropolitan Police informants and threatened to weaponize that information if the department did not respond within three days. The group also vowed additional attacks targeting the FBI.
-  
-  Ransomware locks out the rightful user of a computeror computer network and holds it hostage until the victim pays a fee. Increasingly, ransomware attackers are also stealing victims’ data, government officials and cybersecurity researchers have warned.
-  
-  The group behind the ransomware abruptly announced on Thursday it was closing up shop following its attack on the DC police.
-  
-  In a post on its website, the Babuk operators claimed that the Metropolitan Police hack was “our last goal.”
-  
-  “Regardless of the outcome of events with PD, the babuk project will be closed,” the group said, adding that it would publicly disseminate the source code for its malware for others to copy and use for themselves.
-  
-  It was not immediately clear what triggered the decision, though some cybersecurity experts reviewing the post speculated that widespread coverage of the MPD hack may have played a role.
-  
-  “Perhaps the attention from the MPD incident made them uncomfortable and they decided to quit while they were ahead,” saidd Brett Callow, a threat analyst at the cybersecurity firm Emsisoft. “Whatever the case, I hope certainly hope other threat actors do not adopt their code: it’s amateurishly buggy and trashes data, making it irrecoverable, even if the organization pays.”
-  
-  The Babuk strain of ransomware was first discovered earlier this year, according to a February threat analysis paper published by the security firm McAfee.
-  
-  Little is known about the group behind the malicious software, but it appears to fit the mold of other ransomware attackers in that it primarily targets large, well-funded organizations, the paper said.
-  
-  Since January, 26 government agencies based within the United States have been hit by ransomware, Neal Dennis, a threat intelligence specialist at the cybersecurity firm Cyware, said. More than a dozen have involved cases of data theft and threatened extortion.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb0c44d78b7e89d72328e29cdf09152cdd8af796582be9a093d95305c683753a
+size 3732

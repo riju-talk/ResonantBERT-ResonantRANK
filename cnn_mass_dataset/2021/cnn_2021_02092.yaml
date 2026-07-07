@@ -1,21 +1,3 @@
-id: cnn_2021_02092
-title: "Supreme Court takes up case about FBI surveillance of mosque"
-date: "2021-06-07"
-section: "Politics"
-url: "https://www.cnn.com/2021/06/07/politics/supreme-court-surveillance-fbi-mosque/index.html"
-content: |
-  TheSupreme Court agreedon Monday to take up a case next term brought by three Muslim men who seek to challenge the FBI, arguing that it unlawfully used a confidential informant to gather information about Muslims in their neighborhood based on their religious identity.
-  
-  A district court had dismissed the claims under the so-called state secrets privilege “which permits the government under some circumstances to block the release of information in a lawsuit that could harm national security.”
-  
-  The 9th US Circuit Court of Appeals reversed, holding that the Foreign Intelligence Surveillance Act – a law aimed electronic communications – provides for procedures for challenging unlawful electronic surveillance in early stages of litigation and takes priority over the state secrets privilege.
-  
-  The FBI agent infiltrated a mosque in Orange County, California, in 2006 and spent more than a year collecting names, phone numbers, emails and other information from the community.
-  
-  Lawyers for Yassir Fazaga and two other Muslim men argued that their case “challenges a domestic FBI surveillance program that, according to the FBI’s own informant, targeted individuals for electronic surveillance because of their religion.”
-  
-  Fazaga says the 9th Circuit was right to permit the case to proceed because FISA allows the review of the lawfulness of the surveillance “and at least at the threshold” displaces a claim based on state secrets.
-  
-  Elizabeth Prelogar, the acting US solicitor general, asked the justices to review the appeals court decision, arguing that it “undermines the Executives ability to protect sensitive national-security information and keep its promises to foreign allies.”
-  
-  Thecourt has already agreedto hear a state secrets case concerning accused terrorist Abu Zubaydah.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ccf1e510b6efb3b3e6b26a49179ce4d762053befdba2b986fb92dc323e49dfac
+size 2078

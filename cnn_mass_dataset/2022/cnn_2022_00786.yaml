@@ -1,33 +1,3 @@
-id: cnn_2022_00786
-title: "US Secret Service accuses Chinese government-linked hackers of stealing $20 million in Covid relief"
-date: "2022-12-05"
-section: "Politics"
-url: "https://www.cnn.com/2022/12/05/politics/secret-service-china-hackers-covid-fraud/index.html"
-content: |
-  Chinese government-linked hackers have stolen at least $20 million in US governmentcoronavirusrelief funds, a US Secret Service spokesperson told CNN Monday – the first time the agency has connected Covid-19 fraud to hackers affiliated with a foreign government.
-  
-  The hackers raided unemployment insurance funds and Small Business Administration loan money in more than a dozen US states, said Secret Service spokesperson Justine Whelan.
-  
-  It is unclear if the hackers conducted the theft for personal gain or if they were operating on behalf of Beijing. CNN has requested comment from the Chinese Embassy in Washington, D.C.
-  
-  NBC News firstreportedthe news.
-  
-  The hacking group the Secret Service blamed for the activity is known to the cybersecurity industry as APT41 and has for years allegedly conducted espionage on behalf of the Chinese government while also dabbling in self-enrichment schemes.
-  
-  US prosecutors have accused APT41 of working on behalf of China’s civilian intelligence agency, the Ministry of State Security; a 2020 Justice Department indictment alleged that APT41 operatives were part of hacking schemes that targeted pro-democracy politicians in Hong Kong and breached over 100 companies in the US and abroad.
-  
-  “Of the more than 1,000 ongoing investigations involving transnational and domestic criminal actors defrauding public benefits programs, APT41 has emerged a notable player,” said Roy Dotson, the Secret Service’s national pandemic fraud recovery coordinator, in a statement.
-  
-  But the $20 million in Covid-19 relief support is just a fraction of pandemic relief money stolen from US government coffers by a broad range of criminal groups.
-  
-  The Secret Service says it has seized over $1.4 billion in ill-gotten funds since 2020. To get a grip on the problem, the agency tapped Dotson to work with law enforcement agencies across the country to recover stolen funds.
-  
-  In the case of APT41, the hackers have had their sights on US state governments for some time. The group went on a hacking spree against US state agencies in 2021 and 2022, breaking into computers at government agencies in at least six US states, cybersecurity firm Mandiant, which is owned by Google,said in March.
-  
-  Chinese hackers who use similar computer code to APT41 surged their activity this year, targeting sensitive data held by companies and government agencies in the US and dozens of other countries, an expert at consulting giant PricewaterhouseCooperspreviously told CNN.
-  
-  “APT41 is essentially a criminal enterprise that moonlights on behalf of an intelligence service,” John Hultquist, Mandiant’s vice president of intelligence analysis, told CNN.
-  
-  “If this is criminal activity targeting government agencies in the United States, it’s a bit of an escalation” for APT41, Hultquist said, adding that it was unusual for the group to cash out on such a high-profile target.
-  
-  FBI Director Christopher Wray has called China’s hacking program more prolific than that of all other governments in the world combined. Beijing has routinely denied such allegations while accusing the US government of targeting China with hacks.
+version https://git-lfs.github.com/spec/v1
+oid sha256:62f12abadad1434a1a3f6d2e4bc9d0d2fefe66f8e162f0e39d0439c00765a290
+size 3487

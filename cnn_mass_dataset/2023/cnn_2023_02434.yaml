@@ -1,27 +1,3 @@
-id: cnn_2023_02434
-title: "ChatGPT creator launches subscription service for viral AI chatbot"
-date: "2023-02-01"
-section: "Tech"
-url: "https://www.cnn.com/2023/02/01/tech/chatgpt-plus?cid=external-feeds_iluminar_msn"
-content: |
-  OpenAI, the company behind ChatGPT,announcedon Wednesday it is piloting a $20 monthly subscription plan that offers userspriority access to the AI chatbot even during peak times.
-  
-  The paid plan, called ChatGPT Plus, comes two months after the tool was released publicly andquickly went viral, thanks to its ability to generate shockingly convincing essays in response to user prompts.
-  
-  Real estate agents say they can't imagine working without ChatGPT now
-  
-  Many people who wanted to test the tool have been locked out or joined the waitlist. Now, anyone who signs up for a subscription will benefit from faster response times, and priority access to new features and improvements.
-  
-  The tool will remain free for the general public, however.
-  
-  “We love our free users and will continue to offer free access to ChatGPT,” the company said in a blog post. “By offering this subscription pricing, we will be able to help support free access availability to as many people as possible.”
-  
-  ChatGPT Plus will be made available first in the United States and other countries soon after, according to the company. OpenAI said it will begin inviting people from its waitlist in the weeks ahead. The company also said it is “actively exploring options for lower-cost plans, business plans, and data packs for more availability.”
-  
-  “The preview for ChatGPT allowed us to learn from real world use, and we’ve made important improvements and updates based on feedback,” the company said in a statement to CNN.
-  
-  Since it was made available in late November, ChatGPT has been used to generate original essays, stories and song lyrics in response to user prompts. It has drafted research paper abstracts that fooled some scientists. Some CEOs have evenused it to write emailsor do accounting work.
-  
-  While it hasgained traction among users, it has also raised some concerns, including about inaccuracies, its potential to perpetuate biases and spread misinformation, and the ability to help students cheat.
-  
-  Earlier this week, OpenAI announceda new feature, called an “AI text classifier,” that allows users to check if an essay was written by a human or AI. The release came amid concerns the AI chatbot can help students and professionals generate convincing  essays. The new tool, however, is “imperfect,” according to the company.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f2c3c43047d12e21f13e2e173e1a93ce187b703b5322da28fb0b68ca9c47b1c
+size 2610

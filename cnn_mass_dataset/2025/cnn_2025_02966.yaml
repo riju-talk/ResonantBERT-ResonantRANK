@@ -1,25 +1,3 @@
-id: cnn_2025_02966
-title: "US and European authorities crack down on hacking tool used by cybercriminals worldwide"
-date: "2025-05-21"
-section: "Politics"
-url: "https://www.cnn.com/2025/05/21/politics/crack-down-hacking-tool?iid=cnn_buildContentRecirc_end_recirc"
-content: |
-  US and European authorities on Wednesday announced a major crackdown on a prolific hacking tool that has been used by hundreds of hackers in damaging ransomware attacks, bank thefts and other digital crimes.
-  
-  The USJustice Department said it had seized the computer systems hackers used to access the tool, known as Lumma, while Microsoft used a court order to seize or take offline 2,300 web domains connected to the cybercriminal activity.
-  
-  It’s a big blow for a global criminal hacking enterprise that had run rampant in the last two months, when Microsoft found roughly 394,00 computers around the world with Windows software infected by Lumma.
-  
-  Cybercriminals used Lumma to attack airlines, universities, banks, hospitals and US state governments, with Fortune 500 companies among the victims, according to Brett Leatherman, the FBI’s deputy assistant director for cyber operations. Hackers used Lumma to cause credit card losses of $36.5 million in 2023 alone, he told reporters.
-  
-  But like many counter-cybercrime efforts, it hit a snag when Russian sovereignty entered the picture. The main software developer for Lumma is based in Russia,accordingto Microsoft’s analysts. There, he hawks different levels of access to Lumma on Telegram and other Russian-language forums, charging from $250 to $1,000.
-  
-  US prosecutors have in the last decade charged numerous Russian hackers with serious cyberattacks on American companies and government agencies, but only a portion of the accused have seen a US courtroom. Russian diplomats have strenuously fought to keep accused Russian cybercriminals out of US custody.
-  
-  Leatherman declined to comment when asked by CNN if the FBI believes Lumma’s lead developer is in Russia, or if the US government has relayed any such information to the Russian government.
-  
-  “Regardless of where these individuals sit, even if we can’t charge them with criminal conduct, our victim-centric approach is really focused on targeting that underlying ecosystem … because it brings relief to victims,” Leatherman said.
-  
-  The law enforcement bust included work by Europol, several other American and European tech firms, and a Japanese organization. It’s an approach to fighting cybercrime that relies on the vast reach of software firms into the global economy, and which has become standard practice in recent years.
-  
-  “This is part of a greater law enforcement investigation into the group [behind Lumma], and we hope that this will also fracture trust within the ecosystem itself,” Leatherman told reporters on Wednesday.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6b2dbd1cbb448b92c251c5a33b5eca90ba2a2454f7f2b89022525568322a03b
+size 2884

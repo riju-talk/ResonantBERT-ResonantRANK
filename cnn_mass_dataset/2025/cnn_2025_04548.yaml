@@ -1,21 +1,3 @@
-id: cnn_2025_04548
-title: "US Department of Defense awards contracts to Google, Musk’s xAI"
-date: "2025-07-15"
-section: "Business"
-url: "https://www.cnn.com/2025/07/15/business/us-department-defense-google-musk-xai?ref=404media.co"
-content: |
-  OpenAI, Alphabet’s Google, Anthropic and Elon Musk’s AI company xAI have won contracts of up to $200 million each, aimed at scaling up adoption of advanced artificial intelligence capabilities in the U.S. Department of Defense, the government agency said on Monday.
-  
-  The contracts will enable the DoD to develop agentic AI workflows and use them to address critical national security challenges, the department’s Chief Digital and Artificial Intelligence Office said.
-  
-  “The adoption of AI is transforming the (DoD’s) ability to support our warfighters and maintain strategic advantage over our adversaries,” Chief Digital and AI Officer Doug Matty said.
-  
-  U.S. government agencies have been expanding their use of AI, driven by a White Houseorder in Aprilpromoting adoption. President Donald Trump has also moved to soften regulation on the technology by revoking a 2023 Biden-era executive order, which sought to reduce AI risks through mandatory data disclosures.
-  
-  Separately on Monday, xAI announced a suite of its products called “Grok for Government,” making its advanced AI models — including its latest flagship Grok 4 — available to federal, local, state and national security customers.
-  
-  The Pentagon announced last month that OpenAI was awarded a $200 million contract, saying the ChatGPT maker would “develop prototype frontier AI capabilities to address critical national security challenges in both warfighting and enterprise domains.”
-  
-  The contracts announced on Monday deepen the ties between companies leading the AI race and U.S. government operations, while addressing concerns around the need for competitive contracts for AI use in federal agencies.
-  
-  In May, Democratic Senator Elizabeth Warren had urged DoD to ensure competitive AI contracting at a time when Musk’s Grok chatbot was gaining ground in the federal government.
+version https://git-lfs.github.com/spec/v1
+oid sha256:783594d9f7e6e34b3821a0230914ca8a911f2f95975e8938984fddffdd3a0305
+size 2147

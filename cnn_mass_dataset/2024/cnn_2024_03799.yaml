@@ -1,21 +1,3 @@
-id: cnn_2024_03799
-title: "Debt — and delinquencies — are on the rise for Americans"
-date: "2024-05-14"
-section: "Economy"
-url: "https://www.cnn.com/2024/05/14/economy/household-debt-credit-q1-delinquencies/index.html"
-content: |
-  Theeconomy has been resilient, thejob market healthyandconsumers keep spending, but more Americans are becoming financially overextended — especially on their credit cards.
-  
-  New data released Tuesday by the Federal Reserve Bank of New York showed that as household debt balances grew during the first quarter, delinquencies also marched higher. Notably, the percentage of credit card balances in serious delinquency (90 days or more late) climbed to its highest level since 2012.
-  
-  “In the first quarter of 2024, credit card and auto loan transition rates into serious delinquency continued to rise across all age groups,” Joelle Scally, regional economic principal within the Household and Public Policy Research Division at the New York Fed, said in a statement. “An increasing number of borrowers missed credit card payments, revealing worsening financial distress among some households.”
-  
-  Aggregate delinquency rates increased during the first quarter to 3.2% of outstanding debt in some stage of delinquency, the highest since the fourth quarter of 2020, according to the New York Fed’s latest Quarterly Report on Household Debt and Credit. The transitions into delinquency — especially serious delinquency — increased across all debt types, according to the report.
-  
-  Delinquencies fell to historic lows during the pandemic as consumers spent less during the health and safety lockdowns and were able to build up savings and pay off debt with those funds and economic stimulus payments. However, as supply chain and spending imbalances fueled domestic and global inflation — and subsequently a rise of interest rates — delinquencies have moved higher in recent years.
-  
-  While the delinquency transition rates remain below what was seen during the Great Recession, they’re running higher than what was seen pre-pandemic. Because of that, New York Fed researchers said they’re keeping a close watch on what this means for the well-being of Americans’ household finances and the overall economy.
-  
-  Overall household debt grew by 1.1% during the first quarter to $17.69 trillion, according to data that is not adjusted for inflation. The quarterly increase was driven largely by mortgage balances. Credit card balances dipped (as they typically do post-holidays) by $14 billion to $1.12 trillion. However, when adjusting for inflation, balances have yet to surpass the levels seen in 2008.
-  
-  Higher balances can be attributed to population growth, an increase inonline spending,the surging cost of new and used cars, as well aseconomy-powering consumeractivity.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4167753245dc2ec66dc19091c0b807dda7d44609d21f8b6341095814a9f5fd1
+size 2849

@@ -1,31 +1,3 @@
-id: cnn_2025_02079
-title: "Judge halts implementation of some Trump administration changes that would chip away at Obamacare"
-date: "2025-08-22"
-section: "Politics"
-url: "https://www.cnn.com/2025/08/22/politics/obamacare-coverage-changes-pause-trump"
-content: |
-  A federal judge in Baltimore has halted certain provisions of an Affordable Care Act regulation that the Trump administration is set to implement on Mondayand could lead to as many as 1.8 million Americans losing their health insurance.
-  
-  The decision issued Friday by US District Judge Brendan Hurson puts on hold a half a dozen changes in the rule, which critics say will make it harder to enroll in and maintain Obamacare coverage, as well as make it more expensive.
-  
-  Hurson blocked the implementation of measures that would impose additional income verification mandates; allow insurers to bar enrollees with past-due premiums; and levy a $5 premium on certain consumers until they confirm their eligibility for federal premium subsidies, among others. However, he let other provisions stand.
-  
-  The ruling means that the administration cannot begin implementing the specific measures while the lawsuit plays out.
-  
-  Hurson, an appointee of former President Joe Biden, agreed with arguments pushed by a group of Democratic-led cities that the Centers for Medicare and Medicaid Services lacked authority to make some of the changes or that the planned tweaks were contrary to existing federal law.
-  
-  In a 76-page ruling, the judge concluded that absent his block against some of the changes, the cities that brought the lawsuit will “suffer significant and irreparable harm.”
-  
-  “An increase in the number of uninsured and underinsured residents resulting from the final Rule would create a strain on (city-run health care) services and, ultimately, the cities’ budgets, which must make up the shortfall from decreased compensation and increased demand for emergency services,” Hurson wrote.
-  
-  The judge also stressed that there is “a strong public interest in Americans maintaining affordable healthcare coverage.”
-  
-  “Eliminating coverage for an estimated 1.8 million people will drive up costs for the insured and lead to a significant decrease in the quality of care for the newly uninsured, which is unquestionably not in the public interest,” he wrote.
-  
-  When it finalized the rule in June, CMS said it is aimed at reducing improper enrollments and insuring the integrity of the Obamacare exchanges.
-  
-  Skye Perryman, the president and CEO of Democracy Forward, which is representing the cities in the case, said in a statement that the group is “pleased the court has stepped in and we will continue to pursue this case to ensure that the Affordable Care Act fulfills its promise of affordable, accessible health care for all.”
-  
-  A similar case brought by Democratic attorneys general is pending in Massachusetts. The federal judge overseeing that lawsuit has not yet issued a ruling.
-  
-  CMS said it does not comment on litigation.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc974ff478db175b04b0c94991579a9d3cb2a1f2b417128a99c4eb5c06370cbd
+size 3059

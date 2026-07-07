@@ -1,29 +1,3 @@
-id: cnn_2025_01250
-title: "Spectrum says fiber optic outage in LA area ‘caused by a criminal act of vandalism’"
-date: "2025-06-15"
-section: "Business"
-url: "https://www.cnn.com/2025/06/15/business/spectrum-outage-los-angeles-vandalism"
-content: |
-  Internet and cable provider Spectrum has reported outages in Los Angeles are “caused by a criminal act of vandalism,” according to a company post Sunday on X.
-  
-  The most common user issues have been total blackouts, landline and internet problems, and no signal. The outage has affected neighborhoods surrounding Los Angeles, such as North Hollywood, as well as in the Orange County cities of Anaheim and Santa Ana.
-  
-  More than 25,000 Spectrum users in the Los Angeles area reported issues on DownDetector.com, which tracks outages. Users self-report to DownDetector, so it may not represent the full scale of outages.
-  
-  Users began reporting issues to DownDetector at 3 a.m. Pacific Time, with more reports spiking around 8 a.m. and 1 p.m.
-  
-  Spectrum acknowledged customer concerns at 2:13 p.m. PT in aposton X, saying, “We are currently working on a Fiber cut affecting the Los Angeles area. We are sorry for the inconvenience this has caused. Thank you.”
-  
-  Spectrum told CNN in an email that the “lines were cut due to vandalism in Van Nuys,” which affected services in other parts of Los Angeles and Ventura, California. The company said it expects services to “continue to be restored this afternoon in Los Angeles” and that services have already been restored in Ventura.
-  
-  Spectrum is currently working with the Los Angeles Police Department, the company said, and is offering a reward of up to $25,000 for tips leading to an arrest.
-  
-  The company said that anyone with information can contact Spectrum at (833) 404-8477 or reach out to local law enforcement.
-  
-  “Criminal acts of network vandalism have become an issue affecting the entire telecommunications industry, not just Spectrum, largely due to the increase in the price of precious metals,” the company wrote. “These acts of vandalism are not only a crime, but also affect our customers, local businesses and potentially emergency services. Spectrum’s fiber lines do not include any copper.”
-  
-  Customers in Kansas City experienced a similar outage last month, when Spectrum reported two fiber cuts — one that the company credited to a criminal act of vandalism and another caused by a third-party network, which should have provided backup to the Spectrum network, according tolocal reports. Spectrum had offered a $25,000 reward for information leading to the arrest of the alleged vandals.
-  
-  Spectrum operates in 41 states and serves more than 57 million homes, according to the company’s website.
-  
-  This story has been updated with additional content.
+version https://git-lfs.github.com/spec/v1
+oid sha256:03e2774deaec3b1621a75d6be76433a2d61a54f6fa7374ab07e5850aee90cc89
+size 2837

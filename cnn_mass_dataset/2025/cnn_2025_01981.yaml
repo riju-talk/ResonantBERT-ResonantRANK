@@ -1,15 +1,3 @@
-id: cnn_2025_01981
-title: "Kia recalls more than 80,000 U.S. autos due to improper air bag deployment and improper wiring"
-date: "2025-01-26"
-section: "Business"
-url: "https://www.cnn.com/2025/01/26/business/kia-recall-air-bag/index.html"
-content: |
-  Automaker Kia America is recalling more than 80,000 vehicles due to floor wiring beneath the front passenger seat that can become damaged and prevent airbags and seat belts from deploying properly.
-  
-  Damaged wiring can also cause an unintended side curtain air bag deployment, according to documents filed with the National Highway Traffic Safety Administration.
-  
-  The recall covers 80,2552023-2025 Niro EV, Plug-in Hybrid (PHEV), and Hybrid vehicles.
-  
-  To remedy the situation, dealers will inspect, replace and reroute the floor wiring assembly, as necessary, for free. In addition, dealers will install wiring covers. Owners will be notified by letters mailed in March.
-  
-  The recall followsone in November, when Hyundai and Kia recalled over 208,000 electric vehicles to fix a transistor in a charging control unit that could be damaged and stop charging the 12-volt battery. That in turn could cause loss of drive power, increasing the risk of a crash.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c74a600bfd6c39d1a93e41deb52b24a2cc4440d7ff5cadf8f1a626ff19dbd7a5
+size 1221

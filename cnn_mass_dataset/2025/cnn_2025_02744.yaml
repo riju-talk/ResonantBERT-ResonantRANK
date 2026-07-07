@@ -1,35 +1,3 @@
-id: cnn_2025_02744
-title: "‘Disgust’ among first words decoded in 2,000-year-old charred scroll"
-date: "2025-02-06"
-section: "Science"
-url: "https://www.cnn.com/2025/02/06/science/herculaneum-scroll-words-deciphered"
-content: |
-  Sign up forCNN’s Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.
-  
-  Scholars are decoding an ancient scroll that was one of hundreds charred to a crisp during the eruption of Mount Vesuvius in AD 79.
-  
-  The artifact, which is kept at the University of Oxford’s Bodleian Libraries   in the United Kingdom, is the fifth intact Herculaneum scroll to be virtually unrolled as part of theVesuvius Challenge, a competition designed to accelerate the deciphering of the scrollsthat form an unprecedented cache of information about ancient Rome and Greece.
-  
-  Using artificial intelligence and other computer-based techniques to piece together the scroll and enhance the ink, the Vesuvius Challenge team has successfully generated the first images of text inside the scroll, known as PHerc. 172. Thelibrary group saidWednesday that it has begun to interpret the columns of text.
-  
-  DNA analysis upends long-held assumptions about Pompeii victims’ final moments
-  
-  One of the first words to be translated was the ancient Greek διατροπή, meaning “disgust,” which appears twice within a few columns of text, the Bodleian Libraries said.
-  
-  “It’s an incredible moment in history as librarians, computer scientists and scholars of the classical period are collaborating to see the unseen,” said Richard Ovenden,Bodley’s librarianand Helen Hamlyn Director of the University Libraries, in a statement.
-  
-  “The astonishing strides forward made with imaging and AI are enabling us to look inside scrolls that have not been read for almost 2,000 years.”
-  
-  The scrolls would crumble if a researcher were to attempt to unfurl them by hand, likely destroying any trace of script.
-  
-  Brent Seales, a professor of computer science at the University of Kentucky and cofounder of the Vesuvius Challenge, said the Oxford scroll, of all the Herculaneum scrolls scanned to date, contained the most recoverable text, with the chemical composition of the ink appearing more clearly in X-ray scans.
-  
-  Researchers think the ink may contain a denser ingredient, such as lead, but further testing will be needed to identify the precise recipe that has made the ink so much more legible than other scrolls that have been part of the Vesuvius Challenge, the Bodleian Libraries said.
-  
-  “Despite these exciting results, much work remains to improve our software methods so that we can read the entirety of this and the other Herculaneum scrolls,” Seales said in a statement.
-  
-  Sealestold CNN last yearthat the key challenge has been to virtually flatten the documents and distinguish the black ink from the carbonized papyri to make the Greek and Latin script readable.
-  
-  The machine-learning techniques are not decoding the text but amplifying the readability of the ink used to write the scripts, he said. Transcription and translation of the text will rely on human scholars, including those from the University of Oxford, the library system said.
-  
-  Researchers are further refining the images of the scroll in hopes it will improve the clarity of the lines of text visible and perhaps reach the innermost part of the carbonized scroll, where the title of the work may be preserved.
+version https://git-lfs.github.com/spec/v1
+oid sha256:289f69dc085ebdc0639823d9575dc3556ffa49e0adbf11640e82099e1dadbb6c
+size 3529

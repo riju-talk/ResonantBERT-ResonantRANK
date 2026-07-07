@@ -1,17 +1,3 @@
-id: cnn_2023_02947
-title: "Supreme Court won’t let RFK Jr. intervene in case challenging efforts to combat social media disinformation"
-date: "2023-12-11"
-section: "Politics"
-url: "https://www.cnn.com/2023/12/11/politics/supreme-court-rfk-jr-social-media-disinformation/index.html"
-content: |
-  The Supreme Court on Monday declined to let Robert F. Kennedy Jr. join a challenge to a case concerning the Biden administration’s communications with social media companies about online posts the government views as disinformation.
-  
-  Conservative Justice Samuel Alito said in a brief dissent that he would have allowed Kennedy to intervene in the case, which the high court will hear this term.
-  
-  Alito noted that Kennedy, a third-party 2024 presidential candidate who espouses conspiracy theories on the campaign trail, has a similar case pending in a lower court that won’t be decided until the case at hand is resolved.
-  
-  “Our democratic form of government is undermined if Government officials prevent a candidate for high office from communicating with voters, and such efforts are especially dangerous when the officials engaging in such conduct are answerable to a rival candidate,” Alito wrote. “I would allow him to intervene to ensure that we can reach the merits of respondents’ claims and to prevent the irreparable loss of his First Amendment rights.”
-  
-  The justices agreed to hear the case, Murthy v. Missouri, in October. In doing so, the court paused rulings from a federal trial court and a conservative appeals court that severely limited the ability of the White House, the surgeon general, the US Centers for Disease Control and Prevention, the FBI and a top US cybersecurity agency to communicate with social media companies about content related to Covid-19 and elections the government views as misinformation.
-  
-  The case was brought last year by Missouri and Louisiana’s attorneys general, as well as several individual plaintiffs, who alleged that the government’s efforts to combat online misinformation about Covid-19 and US elections amounted to a form of unconstitutional censorship.
+version https://git-lfs.github.com/spec/v1
+oid sha256:730f74b3b2663bf6f65c8b2e762b116e554cd41a3c91db21aa420d5479bb3a67
+size 2145

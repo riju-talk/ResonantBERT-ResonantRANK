@@ -1,21 +1,3 @@
-id: cnn_2025_01420
-title: "Judge blocks ICE policy restricting congressional oversight visits"
-date: "2025-12-17"
-section: "Politics"
-url: "https://www.cnn.com/2025/12/17/politics/judge-blocks-ice-restricting-congressional-visits"
-content: |
-  A federal judge on Wednesday temporarily blocked US Immigration and Customs Enforcement from enforcing new rules limiting congressional oversight visits, finding that Democratic lawmakers are likely to succeed in their claim that the policy violates federal law governing congressional access to detention facilities.
-  
-  Judge Jia M. Cobb granted lawmakers’ request to stay the policy, finding that ICE’s oversight visit rules are “contrary to law and in excess of DHS’s statutory authority.” The rules, Cobb said, unlawfully prevent members of Congress from conducting unannounced oversight visits while litigation proceeds.
-  
-  Twelve Democratic members of the US House of Representatives, led by Assistant Minority Leader Joe Neguse, sued ICE and the Department of Homeland Security in DC federal court over a policy requiring members of Congress to provide seven days notice before visiting certain ICE facilities and restricting access to specific sites.
-  
-  In her ruling, Cobb said ICE’s policies had resulted in lawmakers being “barred from entering facilities” to which they are entitled access under federal law, describing the restriction as a “tangible harm” that interferes with Congress’ oversight role.
-  
-  The lawmakers argue that unannounced inspections are a critical tool for monitoring detention conditions and enforcement practices, and that the restrictions violate both constitutional separation of powers principles and federal statutes protecting legislative oversight.
-  
-  ICE and DHS have defended the policy as necessary to maintain operational security and safety at facilities, while still permitting congressional oversight under structured conditions.
-  
-  The case raises broader questions about the balance of power between Congress and the executive branch.
-  
-  The government is expected to appeal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:81dda61519f011b3d5334e16814f82bf957eb33a23b38c426b66027e76eb8b37
+size 2108

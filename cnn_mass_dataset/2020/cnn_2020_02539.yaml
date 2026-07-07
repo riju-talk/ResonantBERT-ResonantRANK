@@ -1,21 +1,3 @@
-id: cnn_2020_02539
-title: "iMessage from a PC? Yup. If you have a Dell"
-date: "2020-01-02"
-section: "Tech"
-url: "https://www.cnn.com/2020/01/02/tech/dell-iphone-connect-feature/index.html"
-content: |
-  A new Dell feature meansiPhoneusers won’t have to look away from their computer screens in the middle of work (or of a heated solitaire game) to answer a text message.
-  
-  Dell(DELL)Mobile Connectlinks customers’ cellphones to their PCs wirelessly — making it possible to access a phone screen, text, make calls and use apps from their computers.
-  
-  The feature has been available to Android users since 2018. DellannouncedThursday the tool is now rolling out for iOS phone users.
-  
-  Drag-and-drop photo and video transfers are available now for people with iPhones and XPS, Inspiron, Vostro and Alienware computers. Other types of file transfers, as well as app mirroring, are set to be available in the Spring, according to the company.
-  
-  That means iPhone customers will get a long-awaited but evasive ability: send iMessages from their Windows PCs. That feature was previously available exclusively on Macs.
-  
-  Texting on a PC has been a feature Android customers have long enjoyed. Dell said more than one million Android users have taken advantage of the feature. Microsoft offers a similar feature baked into Windows 10, called “Your Phone,” but it works exclusively with Android devices. And Google allows Android owners to send and receive text messages using their Chrome browsers.
-  
-  The announcement comes ahead of the annual CES convention (short for “Consumer Electronics Show”), when tech companies grapple for attention for their new features, software and gadgets. Dell on Thursday also announced Dell Cinema Guide: an app for Windows users that lets them search TV shows and movies across more than 200 streaming services, a helpful tool given the recent and impending launch of somany new streaming services.
-  
-  These new features could boost Dell’s PC sales. The company held 16.6% of the PC market in the third quarter of 2019, making it the third-largest vendor worldwide behind Lenovo(LNVGF)and HP(HPIL), according todatafrom Gartner.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd4a12e2ef3b56f762d5dea5421ee31c62d2c643dac84fb620a17321459c433d
+size 2191

@@ -1,17 +1,3 @@
-id: cnn_2019_01037
-title: "Russian humanoid robot named Fedor heads for the International Space Station"
-date: "2019-08-23"
-section: "Tech"
-url: "https://www.cnn.com/2019/08/23/tech/russian-robot-space/index.html"
-content: |
-  A Russian spacecraft vaulted into Earth’s orbit this week with a lone passenger: A life-sized, artificially intelligent, humanoid robot by the name of Fedor.
-  
-  Footage of the spacecraft’s interior shows Fedor crouched in place, clutching a Russian flag in its right hand. Its cramped ride will end this weekend when the capsule links up with theInternational Space Stationwhere Fedor will join the sixastronauts— two Russians, three Americans and one Italian — on board the massive orbiting laboratory.
-  
-  Fedor, also known as Skybot F-850, is scheduled to spend two weeks running tests on board the station with Expedition 60 Commander Alexey Ovchinin before returning home the first week of September. The activities Fedor will undertake at the station are a tightly held secret, at least for now, according to Russian media reports.
-  
-  Perhaps Fedor’s most important job is already over: He’s launched into space aboard an upgraded version of Russia’s storied Soyuz rocket to serve as a test dummy of sorts. For nearly a decade, Russia’s Soyuz rocket and capsule system have been the only space hardware capable of flying humans into orbit. And Roscosmos, the Russian space agency, is in the process of testing out a new rocket design that will replace older computers and use an upgraded guidance systems.
-  
-  It’s not the first time a robot has flown to the International Space Station.For example,Robonaut 2, a legless humanoid robot developed by NASA, flew to the space station in 2011. Robotic tools are also common: A slender arm,Canadarm2, attached to the top of the station can be used to latch on to a nearby spacecraft and help it lock into place at a docking port.
-  
-  Fedor is not a new face in the world of robotics. In 2017, a Russian officialposted a video on his Facebookpage that showed a Fedor robot it being worked on by the Russian Foundation for Advanced Research Projects. Fedor is shown using tools, driving a car and shooting a gun.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb15ea73ed17c8e8d40c53c1c7b0da64b8f6db42d810f0cb31462845f3da4776
+size 2214

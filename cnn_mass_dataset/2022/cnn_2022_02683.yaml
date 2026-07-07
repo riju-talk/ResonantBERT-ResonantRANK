@@ -1,31 +1,3 @@
-id: cnn_2022_02683
-title: "‘SNL’ sends contestants over the edge with ‘So You Think You Won’t Snap!’"
-date: "2022-10-09"
-section: "Media"
-url: "https://www.cnn.com/2022/10/09/media/snl-cold-open-think-you-wont-snap?query=query%28%24symbols%3A%20%5BString%5D%29%20%7B%0A%20%20marketIndexes%28symbols%3A%20%24symbols%29%20%7B%0A%20%20%20%20indexes%20%7B%0A%20%20%20%20%20%20symbol%0A%20%20%20%20%20%20index_displayName%0A%20%20%20%20%20%20inSession%0A%20%20%20%20%20%20streamId%3A%20streamSymbol%0A%20%20%20%20%20%20change%0A%20%20%20%20%20%20level%0A%20%20%20%20%20%20changePct%0A%20%20%20%20%20%20link%0A%20%20%20%20%20%20__typename%0A%20%20%20%20%7D%0A%20%20%20%20__typename%0A%20%20%7D%0A%7D%0A&variables=%7B%22symbols%22%3A%5B%22INDU%22%2C%22INX%22%2C%22COMP.IDX%22%5D%7D"
-content: |
-  “Saturday Night Live” opened its show this week by testing the temperament of contestants being read news headlines on a game show called “So You Think You Won’t Snap!”
-  
-  “Have you noticed that everyone around you is angry and crazy? People are flipping out at Target, stabbing is back and the only thing that can cheer us up is watching a sexy show about Jeffrey Dahmer,” host Morgan Freegirl, played by Bowen Yang, said, referencing aduo of recent Netflix true crime shows, “Monster: The Jeffrey Dahmer Story” and “Conversations with a Killer: The Jeffrey Dahmer Tapes.”
-  
-  'Saturday Night Live' gets a Manningcast for its season premiere episode
-  
-  “We are living on the edge, and tonight I’m here to push us over as we play ‘So You Think You Won’t Snap!’” Bowen’s Freegirl says.
-  
-  The fictional game show gathered a group of contestants it called “the only people in America who have not yet snapped.”
-  
-  One of the contestants, Kayla, played by Chloe Fineman, is a mom who says she’s pickleball curious. She tells Freegirl she has four children and doesn’t have time to worry about anything else.
-  
-  Kayla is then read a series of headlines involving Georgia Senate candidateHerschel Walkerand a study that found “86% of kids today say that when they grow up, their dream job is influencer.”
-  
-  Growing more agitated, Fineman’s Kayla says, “That sounds dumb, but my kids are into video games.”
-  
-  Yang’s Freegirl then shows a clip of the “Super Mario Bros. Movie”trailerreleased this week that featured Chris Pratt voicing the game’s iconic Italian plumber Mario.
-  
-  “He’s supposed to be Italian! That’s like his whole thing,” Kayla exclaims after hearing Pratt’s performance. She then snaps and hits a flight attendant who was standing nearby.
-  
-  The next contestant is Dale, played by Kenan Thompson who is positioned in front of a table of things he can easily sweep on the ground. Yang’s Freegirl begins by saying, “This week, Elon Musk…” before he is interrupted by Dale screaming and sweeping all the breakable items off the table. “That man needs to shut his mouth!” Thompson’s Dale yells.
-  
-  After sending another contestant over the edge with headlines aboutKanye West’s recent fashionshow, during which he dressed himself and several Black models in shirts reading “White Lives Matter,” Yang’s Freegirl teased, “When we come back, we’ll show an 80-year-old man an episode of ‘Euphoria.’”
-  
-  The cast of the sketch then came together for the show’s signature catch phrase, “Live… from New York. It’s Saturday Night!”
+version https://git-lfs.github.com/spec/v1
+oid sha256:132f44e6c918fd62774aca7579252081f5c18753ec1889c133fd03942651d7a8
+size 3470

@@ -1,27 +1,3 @@
-id: cnn_2022_01005
-title: "Instagram fined $400 million for failing to protect children’s data"
-date: "2022-09-06"
-section: "Tech"
-url: "https://www.cnn.com/2022/09/06/tech/instagram-fine-teens-privacy?query=query%28%24symbols%3A%20%5BString%5D%29%20%7B%0A%20%20marketIndexes%28symbols%3A%20%24symbols%29%20%7B%0A%20%20%20%20indexes%20%7B%0A%20%20%20%20%20%20symbol%0A%20%20%20%20%20%20index_displayName%0A%20%20%20%20%20%20inSession%0A%20%20%20%20%20%20streamId%3A%20streamSymbol%0A%20%20%20%20%20%20change%0A%20%20%20%20%20%20level%0A%20%20%20%20%20%20changePct%0A%20%20%20%20%20%20link%0A%20%20%20%20%20%20__typename%0A%20%20%20%20%7D%0A%20%20%20%20__typename%0A%20%20%7D%0A%7D%0A&variables=%7B%22symbols%22%3A%5B%22INDU%22%2C%22INX%22%2C%22COMP.IDX%22%5D%7D"
-content: |
-  Ireland’s data privacy regulator has agreed to levy a record fine of 405 million euros ($402 million) against social networkInstagramfollowing an investigation into its handling ofchildren’s data, a spokesperson for the watchdog said.
-  
-  Instagram plans to appeal against the fine, a spokesperson for its parent company,Meta, said in an emailed statement.
-  
-  The investigation, which started in 2020, focused on child users between the ages of 13 and 17 who were allowed to operate business accounts, which facilitated the publication of the user’s phone number and/or email address.
-  
-  “We adopted our final decision last Friday and it does contain a fine of 405 million euro,” said the spokesperson for Ireland’s Data Protection Commissioner, the lead regulator of Instagram and Facebook’s(FB)parent company.
-  
-  Instagram is rolling out new parental supervision tools
-  
-  Full details of the decision will be published next week, he said.
-  
-  Instagram updated its settings over a year ago and has since released new features to keep teens safe and their information private, the Meta spokesperson said.
-  
-  The spokesperson said Instagram disagrees with how the fine was calculated and is carefully reviewing the decision.
-  
-  The DPC regulates Facebook, Apple(AAPL), Google(GOOGL)and other technology giants due to the location of their EU headquarters in Ireland. It has opened over a dozen investigations into Meta companies, including Facebook and WhatsApp.
-  
-  WhatsApp was last year fined a record 225 million euros for failing to conform with EU data rules in 2018.
-  
-  The Irish regulator completed a draft ruling in the Instagram investigation in December and shared it with other European Union regulators under the bloc’s “one stop shop” system of regulating large multinationals.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0ca184c8b18bca27ea1f33497aa62e2ccd962c852ca7dc573a69a314f39ccef
+size 2607

@@ -1,19 +1,3 @@
-id: cnn_2022_02246
-title: "EU checking if cryptoassets are being used to bust Russian sanctions"
-date: "2022-03-02"
-section: "Tech"
-url: "https://www.cnn.com/2022/03/02/tech/eu-cryptoassets-russian-sanctions/index.html"
-content: |
-  The European Commission is studying whether cryptoassets are being used to get around financial sanctions imposed on Russian banks following the country’s invasion of Ukraine, a senior European Union official said on Wednesday.
-  
-  Trading volumes between the Russian rouble and the Tether cryptocurrency spiked on Monday as the local currency tumbled to a record low on Western sanctions.
-  
-  Crypto-exchange Binance has, however, blocked accounts of any Russian clients targeted by sanctions.
-  
-  Financial sanctions are easier than ever for Russians to evade. Thank Bitcoin
-  
-  A senior EU official said the EU is aware that cryptoassets were a “possible circumvention route” to avoid sanctions imposed by the bloc and other western powers.
-  
-  The EU’s executive European Commission has been reading reports in the press on cryptoassets and has also received information directly, the official said.
-  
-  “The increase in value of some of these assets maybe a response to attempts to circumvent the sanctions. We are looking into this, but no decision has been taken,” the EU official said.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7bb4c0e793d27761dc76907c6ffdb19bedd89e2f303107699de9b36a20d9d033
+size 1345

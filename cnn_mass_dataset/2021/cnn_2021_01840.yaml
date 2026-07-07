@@ -1,35 +1,3 @@
-id: cnn_2021_01840
-title: "Fact check: Biden administration officials falsely describe infrastructure jobs estimate"
-date: "2021-04-05"
-section: "Politics"
-url: "https://www.cnn.com/2021/04/05/politics/fact-check-biden-infrastructure-jobs-19-million-buttigieg-deese/index.html"
-content: |
-  Top officials in President Joe Biden’s administration have made a series of television and radio appearances to promote the infrastructure proposal Biden unveiled last week, aroughly $2 trillion packagethe White House has named the American Jobs Plan.
-  
-  But some of these Biden officials have inaccurately described one of the figures they have made central to their sales pitch. And while Biden’s Friday description of this same figure was literally accurate, it was still pretty misleading by omission.
-  
-  The figure in question is an estimate from Moody’s Analytics, a Wall Street research firm, of how many jobs the infrastructure proposal will create. White House National Economic Council Director Brian Deeseclaimedon Fox News on Sunday that Moody’s estimated that the proposal “would create 19 million jobs.”
-  
-  Secretary of Transportation Pete Buttigieg used similar language in his own Sunday interviews, sayingon ABCthat an independent analysis found “this will lead to 19 million jobs” andon NBCthat “it’s going to create 19 million jobs.”
-  
-  Facts First:Both Deese and Buttigieg falsely described what Moody’s said; a White House official conceded to CNN that Deese had misspoken and a Department of Transportation official conceded that Buttigieg had misspoken. It’s not true that Moody’s estimated that the infrastructure proposal will “create” 19 million jobs. Rather, Moody’sestimatedthat the economy will add about 19 million jobs between the fourth quarter of 2020 and the fourth quarter of 2030 if the infrastructure proposal gets passed – or add about 16.3 million jobs over the same period if the infrastructure proposal does not get passed. Therefore, the infrastructure proposal itself adds about 2.7 million jobs to the Moody’s estimate, not all 19 million.
-  
-  The White House official said Deese intended to say Moody’s found the infrastructure proposal would “help” create 19 million jobs, not that the proposal would itself create 19 million jobs. The Department of Transportation official said the same about Buttigieg.
-  
-  WhenCNN’s Wolf Blitzer asked Buttigiegabout this fact check on air on Monday, telling the secretary that we had found his Sunday claim false, Buttigieg this time accurately explained the Moody’s findings.
-  
-  “I should be precise about this,” Buttigieg said. “So Moody’s modeled a future, a scenario, where the American Jobs Plan is passed. And in that scenario, they see the American economy creating 19 million jobs. And that’s 2.7 (million) more than if this bill doesn’t pass. So the point is, this will contribute to a scenario where we create that many jobs, and millions of them are specifically attributable just to this plan.”
-  
-  Moody’s estimated that the economy would have added about 15.7 million jobs between the fourth quarter of 2020 and the fourth quarter of 2030 if the American Rescue Plan pandemic relief law had not been approved and if the infrastructure proposal never gets approved. In other words, Moody’s said that these two signature Biden plans would be responsible for about 3.3 million jobs above a baseline scenario in which there had been “no additional support” for the economy.
-  
-  Biden’s description of the “19 million” statistic was more correct than the ones offered by Deese and Buttigieg. But Biden’s language nonetheless invited listeners to come to an inaccurate understanding of what Moody’s concluded.
-  
-  Bidensaidin a Friday speech: “Independent analysis shows that if we pass this plan, the economy will create 19 million jobs…”
-  
-  Unlike Buttigieg and Deese, Biden didn’t say the estimate is thatinfrastructure proposal itselfwould create 19 million jobs. But the President’s artful formulation failed to make clear that Moody’s believes that about 16.3 million of these 19 million jobs will be added regardless of whether the infrastructure proposal is signed into law. White House press secretary Jen Psaki also did not make this distinction clear when shedeployedthe “19 million” figure in a Friday press briefing.
-  
-  A different White House official, Council of Economic Advisers member Jared Bernstein, used the “19 million” figure much more transparently than his colleagues did (until Buttigieg’s improvement on Monday). Bernstein proactivelyexplainedFriday on CBS News Radio that Moody’s said only some of the 19 million estimated additional jobs would be attributable to the infrastructure proposal, while some of the 19 million would be attributable to the American Rescue Plan that Biden signed into law in March and some would be created independently of both plans.
-  
-  “They report that over the next decade they expect nonfarm payroll jobs … to be up by 19 million. Some of that is the Rescue Plan, some of that’s the Jobs Plan, some of that is underlying growth,” Bernstein said.
-  
-  This article has been updated with comments made by Buttigieg and a Department of Transportation official after the article was initially published.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e679580c7cde178e70ecf3edb52d1e7a0eca1fed5669e875ab41d53285b8aeb2
+size 5376

@@ -1,33 +1,3 @@
-id: cnn_2023_02874
-title: "FTC urges US appeals court to unwind Microsoft-Activision merger"
-date: "2023-12-06"
-section: "Tech"
-url: "https://www.cnn.com/2023/12/06/tech/ftc-urges-reject-microsoft-activision-merger/index.html"
-content: |
-  Microsoft’s battle to defend its acquisition of video game publisher Activision Blizzard is not yet over.
-  
-  The US government told a federal appeals court Wednesday that Microsoft’s recent purchase of Activision should not have been cleared by a lower-court judge, because the judge had been too deferential to Microsoft’s promises about the future of “Call of Duty,” a popular first-person shooter game.
-  
-  District Judge Jacqueline Scott Corley went too far, the Federal Trade Commission argued, whenshe ruledin July that 11th-hour contracts Microsoft signed with Nintendo, Nvidia and other gaming companies concerning “Call of Duty” would resolve anticompetitive concerns related to the blockbuster deal.
-  
-  The FTC’s argument before a three-judge panel of the Ninth Circuit US Court of Appeals reflects the antitrust regulator’s lone continued push to thwart a merger that’s since been blessed by the European Union and the United Kingdom and thatclosed in October, after Microsoft made multiple offers and agreements to address allegations the deal would hurt competition and gamers.
-  
-  As one of the largest tech acquisitions in history, the $69 billion merger has been closely watched due to its potential impact on new technologies for accessing video games, particularly the nascent cloud streaming market that allows players to jump into a game immediately without having to download it to their device.
-  
-  Regulators claimed that by gaining control over popular Activision titles including “Call of Duty” and “World of Warcraft,” Microsoft would become a dominant video game publisher that could restrict those titles from rival console-makers or cloud streaming platforms.
-  
-  The FTC sued to block the merger twice, first in its in-house administrative court and again in US district court, but the agency faced a string of defeats in the case, prompting some to question the agency’s aggressive posture toward mergers under Chair Lina Khan.
-  
-  In response to regulator skepticism, Microsoft offered multi-year agreements to rival gaming platforms committing that after the merger closed, “Call of Duty” would continue to be made available to them. The series of deals provided for “Call of Duty” to appear on rival cloud streaming services such as Nvidia’s for the first time. Later, Microsoft restructured the deal in negotiations with UK antitrust officials by spinning off Activision’s cloud gaming rights to Ubisoft, another industry publishing titan.
-  
-  On Wednesday, the FTC argued that even if those deals might help some subset of gamers, it would still give Microsoft a monopoly over Activision’s content in other domains, such as in the market for video game subscription services.
-  
-  “I fail to understand how giving somebody a monopoly of something would be pro-competitive,” said Imad Dean Abyad, an FTC attorney, in the argument Wednesday before the appeals court. “It may be a benefit to some class of consumers, but that is very different than saying it is pro-competitive.”
-  
-  Rakesh Kilaru, an attorney representing Microsoft, said Wednesday that Corley’s July ruling made “clear factual findings … that the world will be better with the merger” than without.
-  
-  “It is not a violation of the antitrust laws to give consumers something new, that’s beneficial,” Kilaru said, “unless they present some evidence of it, which they didn’t do.”
-  
-  But Abyad said that Microsoft’s flurry of licensing agreements in response to regulator scrutiny altered the economic picture in ways the FTC did not have an opportunity to fully review but that courts are now forcing it to accept.
-  
-  “What the district court relied on, mostly, are contracts that were entered into after the [FTC] complaint was filed,” Abyad said. “The facts were changing all along. Even after the district court decided the case, Microsoft went ahead and entered into yet another contract [to restructure the cloud licensing rights].”
+version https://git-lfs.github.com/spec/v1
+oid sha256:567b40e4a6cc390c27368cb80d581ae1d23da37ad4e4f3950a6688d12015678d
+size 4278

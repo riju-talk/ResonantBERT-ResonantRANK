@@ -1,23 +1,3 @@
-id: cnn_2024_02891
-title: "Waymo and Zoox are under federal investigation as self-driving cars allegedly behave erratically"
-date: "2024-05-14"
-section: "Business"
-url: "https://www.cnn.com/2024/05/14/business/self-driving-cars-waymo-zoox-regulators-investigating?cid=external-feeds_iluminar_yahoo"
-content: |
-  The National Highway Traffic Safety Administration is investigating two autonomous driving companies following incidents in which the vehicles behaved erratically and sometimes disobeyed traffic safety rules or were involved in crashes.
-  
-  The investigations involve Waymo, the self-driving technology subsidiary of Google’s parent company Alphabet, as well as Zoox, the autonomous vehicle subsidiary of Amazon. The companies are required by regulators to report any crashes or other incidents that occur as their vehicles drive on public roads.
-  
-  NHTSA has learned of 22 incidents in which self-drivingWaymo cars “exhibited driving behavior that potentially violated traffic safety laws,” according to adocument posted online by NHTSA, including situations in which the vehicles “appeared to disobey traffic safety control devices.” In some cases, the vehicles collided with stationary objects such as gates and chains. This sometimes happened after the vehicles “exhibited unexpected behaviors.’
-  
-  In some cases, the Waymo vehicle was driving entirely on its own, but in other cases the vehicle had a human in the driver’s seat supervising its operation. In cases where the human driver was present, the Waymo vehicle’s autonomous driving system was shut off moments before a collision. Information about the accidents waseither reported to the NHTSA as required under federal regulations or was drawn from publicly available reports, according to NHTSA.
-  
-  “At Waymo we currently serve over 50 thousand weekly trips for our riders in some of the most challenging and complex environments,” the company said in a statement emailed to CNN. “We are proud of our performance and safety record over tens of millions of autonomous miles driven, as well as our demonstrated commitment to safety transparency.”
-  
-  Waymo is cooperating with NHTSA in the investigation, the company indicated in its statement.
-  
-  NHTSA is alsoinvestigating self-driving vehicles operated by Zoox,the autonomous technology subsidiary of Amazon. In two separate incidents, self-driving Toyota Highlanders operated by Zoox braked suddenly and unexpectedly,and then were rear-ended by motorcyclists. In one case, a motorcyclist was slightly injured in the crashes, in the other a Zoox safety driver was hurt. The NHTSA investigation will look into the Zoox self-driving system’s “behavior in crosswalks around vulnerable road users, and in other similar rear-end collision scenarios.”
-  
-  “Transparency and collaboration with regulators is of the utmost importance, and we remain committed to working closely with NHTSA to answer their questions,” a Zoox spokesperson said in an email.
-  
-  Cruise, GM’s autonomous driving technology subsidiary, announced Monday that it plans toreturn to testing its vehicles on public roadsthis week. This follows a months-long pause after an October incident in which a pedestrian was badly injured.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce3808a1b58f2c1977926b06f8d1891bd49f3d53f22e65764926509660f24278
+size 3273

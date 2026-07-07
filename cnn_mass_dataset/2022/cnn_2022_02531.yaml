@@ -1,33 +1,3 @@
-id: cnn_2022_02531
-title: "Opinion: 3 signs the labor market isn’t as great as it looks"
-date: "2022-06-13"
-section: "Perspectives"
-url: "https://www.cnn.com/2022/06/13/perspectives/labor-market-economy-jobs?query=query%28%24symbols%3A%20%5BString%5D%29%20%7B%0A%20%20marketIndexes%28symbols%3A%20%24symbols%29%20%7B%0A%20%20%20%20indexes%20%7B%0A%20%20%20%20%20%20symbol%0A%20%20%20%20%20%20index_displayName%0A%20%20%20%20%20%20inSession%0A%20%20%20%20%20%20streamId%3A%20streamSymbol%0A%20%20%20%20%20%20change%0A%20%20%20%20%20%20level%0A%20%20%20%20%20%20changePct%0A%20%20%20%20%20%20link%0A%20%20%20%20%20%20__typename%0A%20%20%20%20%7D%0A%20%20%20%20__typename%0A%20%20%7D%0A%7D%0A&variables=%7B%22symbols%22%3A%5B%22INDU%22%2C%22INX%22%2C%22COMP.IDX%22%5D%7D"
-content: |
-  Editor’s Note:Beth Ann Bovino is chief US economist for S&P Global Ratings. The opinions expressed in this commentary are her own.
-  
-  As markets reel over fears that an inflation-induced recession is on the horizon, the jobs market acts as if everything is fine. Employers added 390,000jobsin May; the unemployment rate is at 3.6%, only slightly higher than before the pandemic began; and workers continue to see fatter paychecks, with average hourly wages up by 5.2% compared to a year ago.
-  
-  While those numbers look strong on the surface, the devil is in the details. The economy is still facing a number of headwinds, with two of the 10 leading indicators inS&P Global Rating’s U.S. Business Cycle Barometer— the S&P 500 and consumer sentiment — flashing negative, signaling a contraction. If the number of negative indicators climbs to four out of 10, the US economy may be heading for a recession.
-  
-  Here are some other signs that the US labor market isn’t as healthy as it seems:
-  
-  While the jobs reading appears to say otherwise, many people have not returned to the labor market. From February 2020 through April 2020, during the first two months of the pandemic in the US, the number of people age 16 and up participating in the labor force dropped by close to 3.9%, with a loss of 8.2 million participants in between February and April, 53% of which were women, according to S&P Global Ratings Economics calculations. The labor force participation rate for people age 16 and up plunged to a 49-year low.
-  
-  And while men have returned in droves, more than 600,000 women are still missing from the labor market, according to S&P Global Ratings’ calculations. And just looking at prime-age workers (age 25 to 54), a critical part of US labor force, 744,000 womenworkersare still missing, while men of prime age have already surpassed the pre-pandemic peak by 176,000.
-  
-  Opinion: Inflation is painfully high, but it should ease soon
-  
-  When we consider current labor force dynamics relative to pre-crisis trends, conditions look far worse.  Both historically, since 1948, and over the last two years leading up to the pandemic, the US workforce has grown, on average, by around 0.1 percentage points per month, according to our calculations. Since the pandemic, average monthly labor force gains have dwindled to less than zero as retirees speed up their pace of retirement and younger families avoid the workplace because of the pandemic. Given that the economy has grown significantly since February 2020 while the workforce slowed dramatically, we are 3.7 million workers short of the jobs market pre-pandemic trend growth, with the majority (2.8 million) of that shortfall being women.
-  
-  It’s likely that many women are still dealing with pandemic-related childcare issues despite the country being open for business. And with many women working in touch-sensitive services sectors, such as leisure and hospitality, their exit helps explain the hiring challenges these businesses face.
-  
-  While missing workers are a concern, there is another equally disturbing trend: the impact inflation has had on wages. Workers continued to see fatter paychecks, but rising prices mean they don’t go as far. For example, on a year-over-year basis, accounting for inflation,wage gainsin real terms have been stuck in negative territory through April. With inflation still around its 40-year high, we expect the same in May.
-  
-  The strong job market and rapidly rising inflation give the Fed more reason to follow an aggressive approach of more than just 50 basis-pointhikes, as it did in May. Given that it’s already behind the curve, baby steps won’t work this time if it’s going to catch up.
-  
-  Still, as we inch toward recession, the Fed taking stronger action could lead to a hiring slowdown and rising unemployment. If either of those takes hold next year, the “cure” for the US economy and jobs market may feel worse than the disease.
-  
-  In March, we worried that a more aggressive Fed policy to combat unbridledinflationwould slow GDP growth considerably next year, to just 1.4%, while the unemployment rate would move closer to 4.0%. But that relatively low rate will be little consolation for those who lose their jobs.
-  
-  We expect that the Fed raising interest rates and reducing its balance sheet will be enough to eventually begin to tame inflation and help restore real wage strength and purchasing power. The question is whether it will push the US into recession and weaken the jobs market, as well.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3204097ee62142386201db0a5b4f75305485e103fed4e72c55d63210233dd46c
+size 5356

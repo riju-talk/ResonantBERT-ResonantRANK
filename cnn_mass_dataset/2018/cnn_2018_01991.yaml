@@ -1,17 +1,3 @@
-id: cnn_2018_01991
-title: "Technical glitch briefly halts trading on Chicago Stock Exchange"
-date: "2018-11-08"
-section: "Investing"
-url: "https://www.cnn.com/2018/11/08/investing/chicago-stock-exchange-halts-trading/index.html"
-content: |
-  Trading briefly ground to a halt at the Chicago Stock Exchange on Thursday because of a technical glitch at the 136-year-old venue.
-  
-  The exchange blamed the pauseon an unspecified “technical issue.” The halt began at 9:20 a.m. ET and was lifted at 10:35 a.m. ET, according to analert.
-  
-  No impact is expected to the broader market because the Chicago Stock Exchange handles less than 1% of all U.S. stock trading,according to the Cboe Global Markets.
-  
-  Complete trading halts are relatively uncommon, but when they have happened in the past, orders are routed to other exchanges. The Chicago Stock Exchange is dwarfed in size by the New York Stock Exchange and Nasdaq.
-  
-  “They’re such a small piece of the puzzle,” said Joe Saluzzi, co-founder of brokerage firm Themis Trading and author of “Broken Markets.” “If this was Nasdaq, that would be a bigger problem.”
-  
-  The Chicago Stock Exchange reached a dealearlier this year to be soldto Intercontinental Exchange (ICE), which also owns NYSE. The buyout came after theSEC rejected a planned saleof the Chicago Stock Exchange to a Chinese-led group.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0c7230991343ad3387da65cf7f8d95d5f888527dd2ccdce0a7c3f84b2873f32
+size 1374

@@ -1,35 +1,3 @@
-id: cnn_2019_00672
-title: "North Korea hackers targeting US ‘critical infrastructure,’ cybersecurity firm says"
-date: "2019-03-04"
-section: "Politics"
-url: "https://www.cnn.com/2019/03/04/politics/north-korea-hackers-intl/index.html"
-content: |
-  A group of North Korean hackers is believed to be actively targeting US businesses and “critical infrastructure,” a report released this week by cybersecurity firm McAfee said.
-  
-  McAfeesaid it foundthat the North Korean hackers have tried to infiltrate nearly 80 business in critical sectors like finance, telecommunications, energy and defense around the world. Governments themselves were also targeted, McAfee said.
-  
-  The hacking is believed to have continued during US President Donald Trump’s summit with Kim Jong Un. The largest number of recent attacks primarily target Germany, Turkey and the United Kingdom as well as the United States, McAfee said.
-  
-  Pyongyang is believed to operate some of the most sophisticated hacking cells in the world, though the North Korean government has long denied any wrongdoing.
-  
-  McAffee said it partnered with a “government entity” in its investigation, though it declined to reveal which government it worked with.
-  
-  The company said the hacking operation shared “numerous technical links” to the Lazarus Group, North Korean hackersbelieved to have been behind bank heists around the world.
-  
-  “McAfee believes that such digital forensic evidence must be complemented by traditional evidence from law enforcement and government agencies to make such assertions,” Raj Samani, McAfee’s chief scientist, told CNN.
-  
-  “That said, McAfee is obligated to report technical similarities between attacks and campaigns to provide its customers cyber threat intelligence they can use to protect themselves from current and future attacks.”
-  
-  The North Koreans have quickly become a major cyber threat in recent years. But unlike the other countries, which focus more on intelligence operations, the North Koreans focus their energy on cash, said John Demers, the assistant attorney general for national security at the Justice Department.
-  
-  “Straight up cyber bank theft – that’s a significant piece of what they do in cyberspace,” Demers said in an exclusive interview with CNN.
-  
-  US officialssaid last weekthat Washington believes the North Korean government has stepped up cyberattacks targeting financial institutions in a desperate bid to acquire cash, as international sanctions levied against Pyongyang have squeezed its economy.
-  
-  Kim and Trump’s meeting in Hanoi ended abruptly without a deal, as the two sides could not agree to a detailed plan exchanging sanctions relief for North Korea to give up its nuclear weapons.
-  
-  Trump saidin a news conference after the meetingthat North Korea insisted that Washington lift all sanctions. North Korean Foreign Minister Ri Yong Ho disputed that assessment in a early morning impromptu press conference just hours after Trump spoke. He said that Pyongyang only asked the Trump administration to remove the sanctions “that hamper the economy and the livelihood of our people.”
-  
-  Demers, the Justice Department official, said much of the hacking is motivated by North Korea’s desire for cash.
-  
-  “They just need money,” Demers said. “They need hard currency. That’s a good way to get it.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae945e33b2e788431058dbdb134e7d92b7f7a546c3d2d0073374f02fb3e0386b
+size 3412

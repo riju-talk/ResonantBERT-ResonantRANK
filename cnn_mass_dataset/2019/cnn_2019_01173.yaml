@@ -1,35 +1,3 @@
-id: cnn_2019_01173
-title: "FCC: Nearly half the calls you receive this year will be spam"
-date: "2019-02-14"
-section: "Politics"
-url: "https://www.cnn.com/2019/02/14/politics/fcc-robocalls-report/index.html"
-content: |
-  Nearly half the calls made to US cell phones in 2019 will be spam, according to a study by First Orion referenced in aFederal Communications Commission reportThursday.
-  
-  Ninety percent of those calls will have familiar caller IDs, but there isn’t an effective way of identifying a call as spam before answering.
-  
-  “Currently, the only certain way to determine whether a call is wanted or unwanted is to answer it or let it go to voicemail, and hope the caller leaves a message,” the report said.
-  
-  Not all robocalls are illegal or unwanted. Businesses such as pharmacies, banks and utility companies use them to provide information and alerts to their customers.
-  
-  But despite laws prohibiting certain types of robocalls, including those made to individuals on the national Do Not Call Registry and those meant to defraud, such calls have risen over the years.
-  
-  YouMail, a third-party robocall blocking software company, estimates that more than 47.8 billion robocalls were made in 2018, a 57% increase over the previous year. In OctoberCNN reportedthat these calls are getting more risky for consumers as technology to manipulate voices is becoming more advanced and available.
-  
-  The FCC report is the first released by the agency evaluating the frequency and prevention of illegal robocalls. It concludes that, while the frequency of calls is on the rise, progress is being made on prevention and enforcement.
-  
-  “We’re steadfastly focused on addressing this serious problem,” FCC Chairman Ajit Pai said in anews release. “There’s no easy or single answer, but by using every tool in our toolbox, we are fighting against the onslaught of unwanted calls that has led a lot of consumers to stop answering the phone altogether.”
-  
-  Major tactics the FCC is using to combat such calls are authorization methods and call tracing. Both require cooperation from phone service providers.
-  
-  Call authorization would determine whether a call is actually coming from the number presented in a user’s caller ID. In November the FCC asked service providers to adopt a method called SHAKEN/STIR to effectively certify to users whether numbers presented in caller ID are accurate. Service providers have agreed to implement the service by the end of this year.
-  
-  The FCC also asked service providers to help trace robocalls back to their original callers by providing records on calls that users have complained about.
-  
-  The FCC’s ability to enforce laws on robocalls depends in part on people’s complaints about specific calls. The agency received 232,000 complaints in 2018.
-  
-  “The number of complaints received does not equal the number of illegal robocalls placed,” the report said. “Many illegal robocalls likely go unreported, while consumers may report calls and file complaints about calls that are lawful, but are simply unwanted.”
-  
-  Other challenges the FCC faces in solving the issue, according to the report, are the need for further cooperation from foreign governments and service providers, as well as a longer statute of limitations on such cases.
-  
-  This story has been updated.
+version https://git-lfs.github.com/spec/v1
+oid sha256:04c85751849f16e8ffc09ec86af9a34373a52a6ab2aa3ff0a26d068f25916bc7
+size 3376

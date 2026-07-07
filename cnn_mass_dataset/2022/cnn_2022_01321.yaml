@@ -1,23 +1,3 @@
-id: cnn_2022_01321
-title: "Subaru recalling 270,000 SUVs due to fire risk"
-date: "2022-12-12"
-section: "Business"
-url: "https://www.cnn.com/2022/12/12/business/subaru-ascent-recall/index.html"
-content: |
-  Subaru is recalling 271,694 SUVs because some of them could catch fire.
-  
-  The company is advising owners of some 2019 to 2022 model year Subaru Ascent SUVs to park them outside, away from garages or other structures, and not to leave the vehicles unattended with the engine running.
-  
-  An electrical grounding bolt connected to the SUVs cabin heating system may have been improperly fastened, according to a company statement on the recall of over a quarter of a million cars.
-  
-  This problem can result in the grounding terminal and surrounding parts melting and increase the risk of fire when the vehicle’s PTC heater, or positive temperature coefficient heater, is on, according to Subaru.
-  
-  The PTC heater is part of a back-up heating system that operates until the engine is warmed up enough to heat the passenger cabin.
-  
-  If drivers notice smoke or odors coming from the vehicle’s dashboard or footwell area while driving, Subaru advises them to immediately pull over, turn off the vehicle and call Subaru Roadside Assistance.
-  
-  There have been no known crashes or injuries resulting from this issue, according to Subaru and only a very small percentage of Ascents are expected to actually have this problem, the company said.
-  
-  To fix the recalled vehicles, Subaru dealers will inspect the parts and, if needed, replace the ground bolt, ground wire and connectors. The work will be done at no cost to Ascent owners.
-  
-  The company said it will contact owners of vehicles involved in the recall by mail within the next 60 days. In the meantime, owners can contact Subaru or go to the National Highway Traffic Safety Administration’srecall websiteand enter their 7-digit vehicle identification number to determine if they are impacted.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1447d1f9e40e79b9fc3f62c76da7d63f4a9614ce864f6460d7c0db1630e6c2d
+size 1974

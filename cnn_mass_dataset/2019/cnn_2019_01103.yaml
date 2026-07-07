@@ -1,21 +1,3 @@
-id: cnn_2019_01103
-title: "Google confirms Pixel 4 face unlock works with eyes closed"
-date: "2019-10-18"
-section: "Tech"
-url: "https://www.cnn.com/2019/10/18/tech/pixel-4-face-unlock-trnd/index.html"
-content: |
-  One of the major security features of the new Google Pixel 4 smartphone is that it can be unlocked through facial recognition. Buta new BBC reportfound the tool can be used even if a person’s eyes are closed.
-  
-  The report said its journalists were able to unlock Pixel 4 multiple times with Face Unlock while their eyes were shut, potentially giving someone other than the owner access to the device. Apple’s iPhone uses similar technology but it does not work if someone’s eyes are closed.
-  
-  “The obvious issue seems to be that you could use it when someone is sleeping or even dead,” said Nasir Memon, a professor and founder of NYU Tandon School of Engineering’s cybersecurity program.
-  
-  The Pixel 4 facial recognition works even if you're asleep / dead. That seems problematic#madebygoogle#pixel4
-  
-  GoogletoldCNN Business that the issue is not a bug and that it “meets the security requirements” and “is resilient against unlock attempts via other means, like with masks.” Although Google did not say it was immediately fixing the issue, it noted “this feature is designed to get better over time with software updates.”
-  
-  Google warns on its Face Unlock support page that the feature could be misused: “Your phone can also be unlocked by someone else if it’s held up to your face, even if your eyes are closed.” It recommends storing the phone in a front pocket or a handbag and in “unsafe situations,” turning off face unlock entirely.
-  
-  The company’s new phones aren’t yet available to the public quite yet: the Pixel 4 and 4 XL ship October 24.
-  
-  If Face Unlock ships without a fix,the line features an option to temporarily turn off the feature. For added security, users can turn on “lockdown mode” via Settings to require a PIN, pattern or password instead.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbf2a9c437a6d77f3bbda19b672aacb2ee489e1d4b9cd5ee184af72cf2ac1f64
+size 2046

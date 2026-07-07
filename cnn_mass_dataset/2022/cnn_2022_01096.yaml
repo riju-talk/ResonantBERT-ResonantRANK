@@ -1,23 +1,3 @@
-id: cnn_2022_01096
-title: "Porsche plans blockbuster IPO in the coming weeks"
-date: "2022-09-06"
-section: "Investing"
-url: "https://www.cnn.com/2022/09/06/investing/porsche-ipo-volkswagen?query=query%28%24symbols%3A%20%5BString%5D%29%20%7B%0A%20%20marketIndexes%28symbols%3A%20%24symbols%29%20%7B%0A%20%20%20%20indexes%20%7B%0A%20%20%20%20%20%20symbol%0A%20%20%20%20%20%20index_displayName%0A%20%20%20%20%20%20inSession%0A%20%20%20%20%20%20streamId%3A%20streamSymbol%0A%20%20%20%20%20%20change%0A%20%20%20%20%20%20level%0A%20%20%20%20%20%20changePct%0A%20%20%20%20%20%20link%0A%20%20%20%20%20%20__typename%0A%20%20%20%20%7D%0A%20%20%20%20__typename%0A%20%20%7D%0A%7D%0A&variables=%7B%22symbols%22%3A%5B%22INDU%22%2C%22INX%22%2C%22COMP.IDX%22%5D%7D"
-content: |
-  The iconic Porsche brand is officially going public despite stomach-churning stock market turbulence that’s frozen out other big deals.
-  
-  Volkswagen(VLKAF)first started looking at spinning off the high-performance automaker in February, just as Russia’s invasion of Ukraine jolted investors.
-  
-  In a statement late on Monday, Volkswagen said it had decided to press ahead with the initial public offering later this month or in early October, “subject to further capital market developments.”
-  
-  Up to 12.5% of Porsche will be offered to investors in the form of preference shares,with nearly half of the proceeds “of a successful IPO” to be distributed to Volkswagen shareholders in the form of a special dividend, the company added.
-  
-  Volkswagen has also said it plans to use the proceeds from the IPO to bolster its efforts to build moreelectric vehicles. The company intends to dole out €89 billion ($88.4 billion) over the next five years on developing EVs, about half of its planned spending in that time. It wants EVs to represent a quarter of sales by the end of 2026.
-  
-  Why the 911 will be the last Porsche model to go electric
-  
-  Reuters has reported the initial public offering could value Porscheas high as €85 billion($84.4 billion), and that Volkswagen could raise more than €10.5 billion ($10.4 billion). That would set it up to be one of Europe’s biggest IPOs ever, according to data from Dealogic.
-  
-  The blockbuster listing will go ahead even as recession fears, soaring energy prices in Europe and uncertainty about plans by central banks to slow inflation roil markets. That’s slowed most dealmaking to a crawl, as companies wait for more certainty before pursuing mergers or public offerings.
-  
-  A leadership shakeup at Volkswagen has added to uncertainty over the listing. Oliver Blume took the reins as chief executive of the German auto giant this month after Herbert Diess wasousted from the job in July.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b74d1b5f1b1064906c34b3cc0060147f3a51346e84e3620a4f9e99c10f17461a
+size 2733

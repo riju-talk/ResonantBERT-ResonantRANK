@@ -1,17 +1,3 @@
-id: cnn_2018_02013
-title: "Read the White House letter denying release of Democratic memo"
-date: "2018-02-09"
-section: "Politics"
-url: "https://www.cnn.com/2018/02/09/politics/democratic-memo-white-house-response/index.html"
-content: |
-  President Donald Trump on Fridaydenied the requestto release the Democratic memo that seeks to undercut Republican claims of FBI surveillance abuses and has sent it back to the House Intelligence Committee for changes.
-  
-  The 10-page memo written by Rep. Adam Schiff, the top Democrat on the House Intelligence Committee, landed on the President’s desk Monday after the committee voted unanimously to make it public, and the FBI and Justice Department subsequently reviewed it this week.
-  
-  Trump won't declassify Democratic memo, sends back to committee
-  
-  In a letter to the committee, White House counsel Donald McGahn said, “Although the President is inclined to declassify the February 5th Memorandum, because the Memorandum contains numerous properly classified and especially sensitive passages, he is unable to do so at this time.”
-  
-  The White House included a letter signed by Deputy Attorney General Rod Rosenstein and FBI Director Christopher Wray that says they have identified portions of the Democratic memo that would raise national security or law enforcement concerns if released publicly.
-  
-  Trump authorized last Friday the release of the highly controversial Nunes memo alleging that the FBI abused its surveillance tools. The FBI has saidthat memo, put together by House Intelligence Chairman Devin Nunes, R-California, omits key information that could impact its veracity.
+version https://git-lfs.github.com/spec/v1
+oid sha256:020cca7eec5480a8f74fd39f698d30028ea4531319835c1840d75f96bc8ce4df
+size 1650

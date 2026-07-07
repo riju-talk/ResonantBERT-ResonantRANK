@@ -1,35 +1,3 @@
-id: cnn_2020_01531
-title: "Taxing sugar levels in soda could prevent  2 million US cases of diabetes and cardiovascular disease, study says"
-date: "2020-06-22"
-section: "Health"
-url: "https://www.cnn.com/2020/06/22/health/soda-tax-sugar-content-wellness/index.html"
-content: |
-  Cities, states and nations have been turning to sugar taxes as a potential way to improve public health in their communities, but the jury has been out on how best to implement the fine.
-  
-  What makes soda so addictive?
-  
-  Taxes on sugary drinks, anew studyhas revealed, can lead to major health gains and reductions in health care costs — but just how much of a benefit they provide can vary by the design of the tax.
-  
-  Many sugar-sweetened beverage taxes are volume-based, meaning the tax may be 2 cents per ounce of the beverage’s overall volume, for instance, or 3 cents per teaspoon of sugar, which aims to reduce the consumption of a product by increasing its cost. The city of San Francisco and the nations of Mexico, Norway and the Philippines have implemented such tax designs, according to the study.
-  
-  Yet a tiered tax, which the study noted are in effect in the United Kingdom, Chile and France, can have differing volume tax levels based on the drinks’ sugar content per ounce of its volume. There also are taxes based on a product’s absolute sugar content, which the study noted can be found in South Africa, Sri Lanka and Mauritius. They are designed as a tax per total grams of added sugar.
-  
-  Want to live longer? You may want to ditch these drinks
-  
-  The health and economic benefits of taxes based on sugar content — so either tiered or absolute taxes — were about twice as large as those of taxes based on the overall volume of a beverage, the new study, published in the journal Circulation on Monday, suggested.
-  
-  “Current sugar-sweetened beverage taxes in US localities and many other nations are volume based. Our findings suggest that taxing sugar-sweetened beverages on the basis of sugar content could be even more effective,” the researchers wrote in the study.
-  
-  Specifically, while a volume tax was estimated in the study to prevent 1.12 million cardiovascular disease and diabetes cases in the United States as well as save about $53.2 billion, the study found that a tiered tax would prevent about 2.2 million cases and save $105 billion.
-  
-  The top 5 ways to cut sugar from your diet
-  
-  The study involved a microsimulation model called Cardiovascular Disease Policy Model for Risk, Events, Detection, Interventions, Costs and Trends — or, CVD-PREDICT — to estimate the various outcomes of the different tax designs if one were implemented in the United States.
-  
-  The researchers — from Tufts University, Harvard T.H. Chan School of Public Health, Brigham & Women’s Hospital in Boston and the University of New South Wales in Australia — incorporated data on adults ages 35 to 80 in the model to estimate incremental changes in diabetes and cardiovascular disease cases and costs. The data came from National Health and Nutrition Examination Survey.
-  
-  Sign up here to getThe Results Are In with Dr. Sanjay Guptaevery Tuesday from the CNN Health team.
-  
-  The study had some limitations. Since it’s based on modeling, it cannot prove the health and cost effects of these tax designs among US adults — rather, it simply provided estimates. The model also was based just on adults and did not include children, teens or young adults under the age of 35.
-  
-  The researchers noted in the study that they hoped their findings could help “inform ongoing health policy discussions on optimal designs of sugar-sweetened beverage taxes to reduce consumption and improve health in the United States.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:c929459b2fb5c139d2cec07c83669aa5e51d3987ac130baa8326e45310bad19e
+size 3769

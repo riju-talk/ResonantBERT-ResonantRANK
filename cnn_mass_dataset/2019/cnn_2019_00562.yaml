@@ -1,25 +1,3 @@
-id: cnn_2019_00562
-title: "The hidden features of iOS 13"
-date: "2019-09-21"
-section: "Tech"
-url: "https://www.cnn.com/2019/09/21/tech/ios-13-hidden-features/index.html"
-content: |
-  Applepushed out the iOS 13software update on Thursday and there are a few hidden features to check out.
-  
-  The latest version of Apple (AAPL)’s mobile operating system is available to anyone with an iPhone 6S model or later.
-  
-  The splashiest change is the addition of dark mode, which gives users the option to have a dark background that is said to be easier on the eyes. There are a couple other highly-publicized ones like swiping to type and getting Siri to read your texts aloud if you have AirPods on.
-  
-  Here are some interesting hidden features you may have missed.
-  
-  In iOS 13, you can automatically silence any calls from unknown numbers and send them straight to voicemail. In “Settings,” scroll down to “Phone,” and you’ll have the option to toggle on a feature called “Silence Unknown Callers.” This feature doesn’t affect calls from your contacts or any numbers you’ve recently dialed.
-  
-  Are you looking for something you texted earlier in the week but now can’t quite remember? iMessages in iOS 13 are faster to search through. When you open up iMessages, pull down on the page to get the search bar to appear, and links and photos you’ve sent and received will immediately appear.
-  
-  In Apple’s Books app, you can create reading goals for yourself. The default is five minutes of reading, but you’re able to set custom goals as well, all the way up to 24 hours a day.
-  
-  There’s now an emoji button on the keyboard, sandwiched between the button for numbers and the space bar. You can tap the button to bring up all your emoji options. Before this new update, you had to slowly cycle through your keyboard options, which was more tedious, especially if you have opted into multiple language keyboards besides English.
-  
-  Apple really wants you to game with the new iPhone and it’spushing its Arcade gaming subscription servicehard. If touch controls aren’t a gamer’s cup of tea, they can pair a console controller using Bluetooth.
-  
-  Just switch on your controller’s Bluetooth (a small button or two that you hold onto), head to your iPhone settings and head into “Bluetooth.” From there, your iPhone will do a search in the nearby area for devices it can pair with, and you can select your controller when it appears. Some games are compatible with controllers, and in some cases, it makes it easier to control your character as you move through levels.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ecff5e2d9159c555e0c3ca1a1b92f209b1071912ef25335a75fad477ff6c18f
+size 2617

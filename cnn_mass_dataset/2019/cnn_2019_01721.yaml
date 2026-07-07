@@ -1,35 +1,3 @@
-id: cnn_2019_01721
-title: "How Alexa knows the difference between a breaking window and a wine glass"
-date: "2019-01-15"
-section: "Tech"
-url: "https://www.cnn.com/2019/01/15/tech/amazon-alexa-guard/index.html"
-content: |
-  For Amazon, getting Alexa’s new security-guard feature to work meant literally breaking a lot of windows.
-  
-  In December, the company started invitingAmazon Echo usersto try out Alexa Guard, a new setting that turns thesmart speakersinto home security devices. It listens for suspicious sounds when you’re away and sends a smartphone alert if it detects, say, a window breaking and a possible break in.
-  
-  According to Prem Natarajan, vice president of Alexa’s AI division, Amazon employees had to destroy different types of glass, such as window glass, wine glasses and drinking glasses, with tools like baseballs or hammers to train the technology.
-  
-  Considering most of us have all kinds of glass things in our homes, it was important for Alexa to learn the difference between a cat knocking over a wine glass and a burglar smashing a living-room window.
-  
-  “You don’t want [Alexa] to respond to any glass breaking,” Natarajan told CNN Business.
-  
-  Rollable TVs and butler robots: Gadgets that caught our eye at CES 2019
-  
-  Machine learning – a type of artificial intelligence that learns from data and improves over time – underpins Alexa’s ability to respond to a trigger word and command.
-  
-  Alexa Guard is activated by the spoken command, “Alexa, I’m leaving,” which is picked up by the Echo’s built-in microphones. In addition to detecting broken glass, the feature lets the Echo keep an ear out for a smoke or carbon-monoxide detector blaring, and can turn on smart lights to make it look like someone is home.
-  
-  Natarajan said Amazon first tried to train Alexa Guard to recognize window-smashing sounds with audio of glass breaking from movies. But that proved unsuccessful when the software was tasked with sorting through real-world sounds.
-  
-  However, breaking real windows and dropping glass from different heights allowed Amazon to collect data that showed differences in acoustic characteristics for various objects and scenarios. This data was then used to train a machine-learning algorithm to recognize the right kind of noise.
-  
-  This quirky experiment highlights AI's biggest challenges
-  
-  Alexa Guard is a way for Amazon todifferentiate AlexafromGoogle’s Assistant,Apple’s Siri, and others in therapidly growing market for voice assistants. Plenty of home-security systems can detect breaking glass, but they typically require a separate sensor and may only work over a small area.
-  
-  According to MIT spoken language systems group leader Jim Glass – yes, that’s his real last name – Amazon should be able to train Alexa to recognize anything that average human can learn to discern with their ears.
-  
-  “They can use it to try and pick up the sound of a breaking window; maybe they can train it to try and learn when your bathtub is overflowing,” he suggested.
-  
-  But perhaps the team will need to stock up on bathtubs first.
+version https://git-lfs.github.com/spec/v1
+oid sha256:218d9b24bde19c42977f07481e1533d3a3fae4d9a2803903e35aa30a6946f4b0
+size 3141

@@ -1,33 +1,3 @@
-id: cnn_2023_01398
-title: "Life expectancy gap between men and women in the US widened significantly during the Covid-19 pandemic"
-date: "2023-11-13"
-section: "Health"
-url: "https://www.cnn.com/2023/11/13/health/life-expectancy-gender-gap"
-content: |
-  Women in the United States can expect to live nearly six years longer than men, as disparities in deaths from Covid-19 and drug overdoses drive the life expectancy gap to the widest it’s been in decades.
-  
-  Overall, life expectancy in the US fell more than two and a half years since the start of the pandemic — down to 76.1 years in 2021, according todatafrom the US Centers for Disease Control and Prevention. Life expectancies for both men and women were affected, but not equally.
-  
-  US has been falling behind on life expectancy for decades, study shows
-  
-  The lifespan for women has been consistently longer than men, with the lowest difference of 4.8 years in 2010. But the gap grew by 0.2 years in the decade that followed and by 0.7 years in the first two years of the Covid-19 pandemic. In 2021, life expectancy for women was 79.3 years, compared with 73.5 years for men — a gap of 5.8 years, the largest difference since 1996.
-  
-  Differences in cardiovascular and lung cancer death rates. largely related to patterns in smoking behavior, have been key reasons why women have outlived men in the US over the past century.
-  
-  But men have had significantly higher mortality rates from many other leading causes of death in recent years, according to a newstudy, and multiple converging factors are driving a wider gap.
-  
-  Between 2010 and 2019, the largest drivers of the growing life expectancy gap were higher mortality rates among men for unintentional injuries, diabetes, suicide, homicide and heart disease. Some of that gap was offset by more similar mortality rates from cancer and Alzheimer’s disease among men and women.
-  
-  During the pandemic, differences in mortality rates from Covid-19 became the leading factor in the widening gender life expectancy gap. In 2021, the age-adjusted mortality rate for Covid-19 was 131 deaths per 100,000 men compared with 82 deaths per 100,00 women — leading to a 0.33 year difference in life expectancy since 2019, according to the study.
-  
-  Men were more than twice as likely to die from unintentional injuries than women in 2010 and that gap was even greater in 2021 — leading to a 0.27 year difference in life expectancy since 2019. The vast majority of unintentional injuries were drug overdoses.
-  
-  Sign up here to getThe Results Are In with Dr. Sanjay Guptaevery Tuesday from the CNN Health team.
-  
-  Increasing maternal deaths among women and some improvement in cancer deaths among men “partially mitigated the increasing gap,” according to the study.
-  
-  “This analysis finds that COVID-19 and the drug- overdose epidemic were major contributors to the widening gender gap in life expectancy in recent years,” the study authors wrote. Some reasons for this difference could include higher rates of comorbidities and health behaviors among men, as well as some socioeconomic factors such as rates of incarceration and homelessness, they said.
-  
-  “The increase in overdose deaths, homicide, and suicide underscore twin crises of deaths from despair and firearm violence,” the authors wrote.
-  
-  The study was limited by a binary classification of gender and did not explore overlap across disease classifications and different demographic subgroups.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b46f5ea750e2f815de6b3134067d36aa1ddd3e0c48a5a6c1aee2ac3ba693d050
+size 3513

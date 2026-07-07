@@ -1,25 +1,3 @@
-id: cnn_2023_01901
-title: "US watchdog teases crackdown on data brokers that sell Americans’ personal information"
-date: "2023-08-15"
-section: "Tech"
-url: "https://www.cnn.com/2023/08/15/tech/privacy-rules-data-brokers/index.html"
-content: |
-  The US government plans to rein in the vast data broker industry with new, privacy-focused regulations that aim to safeguard millions of Americans’ personal information fromdata breaches, violent criminals and even artificial intelligence chatbots.
-  
-  The coming proposal by the Consumer Financial Protection Bureau would extend existing regulations that govern credit reports, arrest records andother datato what the agency describes as the “surveillance industry,” or the sprawling economy of businesses that traffic in increasingly digitized personal information.
-  
-  The potential rules, which are not yet public or final, could bar data brokers from selling certain types of consumer information — including a person’s income or their criminal and payment history — except in specific circumstances, the CFPB said.
-  
-  The push could also see new restrictions on the sale of personal information such as Social Security numbers, names and addresses, which the CFPB said data brokers often buy from the major credit reporting bureaus to create their own profiles on individual consumers.
-  
-  Issued under the Fair Credit Reporting Act, the regulations would seek to ensure that data brokers selling that sensitive information do so only for valid financial purposes such as employment background checks or credit decisions, and not for unrelated purposes that may allow third parties to use the data to, for example, train AI algorithms or chatbots, the CFPB said.
-  
-  The announcement follows an agency study into the data broker industry this year that found widespread concerns about how consumer data is being collected, used and shared. The inquiry received numerous submissions from the public warning about the disproportionate risks that unregulated data sharing can have on minorities, seniors, immigrants and victims of domestic violence.
-  
-  “Reports about monetization of sensitive information — everything from the financial details of members of the U.S. military to lists of specific people experiencing dementia — are particularly worrisome when data is powering ‘artificial intelligence’ and other automated decision-making about our lives,” CFPB Director Rohit Chopra said in a statement. “The CFPB will be taking steps to ensure that modern-day data brokers in the surveillance industry know that they cannot engage in illegal collection and sharing of our data.”
-  
-  The CFPB’s proposal will first be floated with a group of small businesses for feedback before being publicly unveiled in a formal rulemaking, the agency said.
-  
-  The CFPB isn’t the only US agency clamping down on the massive data industry. Last year, the Federal Trade Commission proposed asweeping set of regulationsthat may restrict how all businesses collect and use consumer data, taking aim at what FTC Chair Lina Khan has described as the “persistent tracking and routinized surveillance of individuals.”
-  
-  The agency initiatives reflect how Congress has continually failed to produce a comprehensive, national-level consumer privacy law, despite years of lawmaker negotiations and the rise of privacy regulations overseas that increasingly affect US businesses.
+version https://git-lfs.github.com/spec/v1
+oid sha256:378f583cb97f858c5a2c236368e8e674e72fe4e69a0ef7006645aafd0e84984c
+size 3456

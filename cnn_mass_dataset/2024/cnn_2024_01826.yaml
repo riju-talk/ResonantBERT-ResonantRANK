@@ -1,19 +1,3 @@
-id: cnn_2024_01826
-title: "Finland investigates outage of undersea power link to Estonia, Finnish PM says"
-date: "2024-12-25"
-section: "Europe"
-url: "https://www.cnn.com/2024/12/25/europe/finland-estonia-power-under-sea-intl/index.html"
-content: |
-  Finland’s Prime Minister Petteri Orpo said on Wednesday authorities in his country were investigating an undersea power cable outage on a line connectingFinlandandEstonia.
-  
-  An unplanned break in service on the Estlink 2 interconnector occurred at 1026 GMT, operator Fingrid said in a statement on the Nordpool regulatory web site, reducing its available capacity to 358 megawatts (MW) from an installed capacity of 1,016 MW.
-  
-  “Even at Christmas the authorities are on standby to investigate the matter,” Orpo said in a post on X.
-  
-  The interruption did not affect Finland’s electricity supply, he added.
-  
-  Authorities in the region have beenon high alertfor potential acts of sabotage following a string of outages of power cables, gas pipelines and telecom links in the Baltic Sea in recent years, although subsea cables are also subject to technical malfunctions and outages caused by accidents.
-  
-  “An investigation into the incident has been initiated,” Fingrid control room manager Arto Pahki said in a statement.
-  
-  At the time of the outage the electricity had been flowing in the direction from Finland to Estonia at a rate of 658 MW, Fingrid said.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e1838b37b69c0470d23a569beab9a0a8fe8fac808896532bf3a1c132211ba9d
+size 1437

@@ -1,31 +1,3 @@
-id: cnn_2025_01634
-title: "Elon Musk threatens to sue Apple over app store ranking of his AI app"
-date: "2025-08-12"
-section: "Tech"
-url: "https://www.cnn.com/2025/08/12/tech/elon-musk-threat-sue-apple-xai-app-intl-hnk?tenant_id=related.en&iid=cnn_buildContentRecirc_end_recirc&recs_exp=up-next-article-end"
-content: |
-  Elon Musk said his artificial intelligence start up xAI will sue Apple for allegedly favoring AI competitors in its App Store in what he called a breach of antitrust regulations.
-  
-  In a series of posts on X on Monday, a social media platform he owns, he accused Apple of only allowing xAI rival OpenAI’s ChatGPT to claim the top spot in its rankings for mobile applications, and said his AI company would take “immediate legal action.”
-  
-  “Apple is behaving in a manner that makes it impossible for any AI company besides OpenAI to reach #1 in the App Store, which is an unequivocal antitrust violation,” he wrote.
-  
-  Grok, xAI’s AI model, currently ranks 6th in the App Store’s “Top Free Apps” section for iPhones in the United States, while ChatGPT tops the list.
-  
-  “Hey @Apple App Store, why do you refuse to put either X or Grok in your ‘Must Have’ section when X is the #1 news app in the world…Are you playing politics? What gives?” he wrotein a pinned post.
-  
-  “Apple’s App Store curation appears biased, favoring established AI like ChatGPT (overall) over innovative challengers,” Grok wrotein a post on X, which was reposted by Musk. “Editorial picks may reflect caution toward xAI’s unfiltered style, but this stifles competition. Truth matters more than politics,” it wrote.
-  
-  Neither Grok nor Musk provided evidence to their claims.
-  
-  In June 2024, Applepartnered with OpenAIto integrate ChatGPT services into its devices.
-  
-  In response, Muskthreatened to ban Apple devicesat his companies, including X, Tesla and SpaceX. It was unclear if he ultimately followed through.
-  
-  This is not the first time Apple’s App Store operations has faced legal challenges.
-  
-  In April, a federal judge in California ruled the iPhone maker hadviolated a court orderto reform its App Store for greater competition in app downloads and payment methods.
-  
-  The order stemmed from ahigh-profile antitrust suitin 2021 filed by the maker of the hit video game Fortnite, Epic Games, over Apple’s monopoly on the distribution of IOS apps. The court then found Apple violated a California competition law and ordered the company to allow developers more freedom to direct users to alternative payment options.
-  
-  In a separate case in April, the European Commissionfined Apple€500million ($570 million) for breaching a digital competition law by restricting app developers from steering users toward cheaper options outside the App Store. Last month, Apple appealed the fine to an European court.
+version https://git-lfs.github.com/spec/v1
+oid sha256:478f2ba907bc967aca489983adca39bcc140acce47f98ae0ecbcf1f7bba5f930
+size 2881

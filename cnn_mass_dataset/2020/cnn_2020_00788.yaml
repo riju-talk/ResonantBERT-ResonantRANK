@@ -1,33 +1,3 @@
-id: cnn_2020_00788
-title: "Azar lays part of blame for Covid-19 death toll on state of Americans’ health"
-date: "2020-05-17"
-section: "Politics"
-url: "https://www.cnn.com/2020/05/17/politics/us-health-conditions-coronavirus-alex-azar-cnntv/index.html"
-content: |
-  Health and Human Services Secretary Alex Azaron Sunday suggested that the underlying health conditions of Americans, in particular in minority communities, contributed significantly to the death tollfrom the coronavirus.
-  
-  “Unfortunately the American population is a very diverse … It is a population with significant unhealthy comorbidities that do make many individuals in our communities, in particular African American, minority communities particularly at risk here because of significant underlying disease health disparities and disease comorbidities – and that is an unfortunate legacy in our health care system that we certainly do need to address,” he told CNN’s Jake Tapper on “State of the Union.”
-  
-  When Tapper pushed back, asking Azar if he was implying the reason so many Americans had died from Covid-19 was because they were “unhealthier than the rest of the world,” Azar said no, that wasn’t what he meant.
-  
-  But the head of the HHS emphasized again that the US had a “significantly disproportionate burden of comorbidities … (including) obesity, hypertension, diabetes,” adding that “these are demonstrated facts that do make us at risk for any type of disease burden.”
-  
-  Earlier in the show, Tapper pointed out that theUS death toll is approaching 90,000from the disease. Azar later said the health of Americans was a contributing factor to that toll.
-  
-  When Tapper asked Azar if he meant to suggest that the death toll from coronavirus was the fault of the American people, Azar explained “this is not about fault.”
-  
-  While Obama calls out 'so-called grown-ups,' Trump administration takes a victory lap
-  
-  “Oh, no, Jake, please, please don’t – please don’t distort – no, this is not about fault. It’s about simple – simple epidemiology and stating that, if we have hypertension, if we have diabetes, we present with greater risk of severe complications from corona – from this coronavirus,” Azar responded. “That’s – that’s all I was saying. And you know that,” he said.
-  
-  Azar continued, saying, “This is not – one doesn’t blame an individual for their health conditions. That would be – that – that – that would be absurd. It’s simply a statement that – that we do have greater risk profiles here in the United States.”
-  
-  As of May 11, according toan analysis from the American Public Media (APM) Research Lab, 17,155 black Americans are known to have died due to Covid-19.
-  
-  The approximately 17,000 known African American deaths is out of nearly 65,000 fatalities for which race and ethnicity data was available. More than 80,000 people in total had lost their lives to the coronavirus at the time of the analysis.
-  
-  To put those numbers into context, African Americans make up about 13% of the population in those places but 27% of Covid-19 deaths for which race and ethnicity is known, APM research showed.
-  
-  By contrast, about 62% of the population in places reporting race and ethnicity is white, but white residents make up 49% of Covid-19 deaths, the research showed. Hispanics or Latinos comprise about 18% of the population and 16% of deaths. Americans of Asian descent make up about 5% of the population and 5% of deaths.
-  
-  APM compiled its data fromthe 39 statesand the District of Columbia reporting the race and ethnicity of residents who have died of the virus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c8c11ee3c7a23eb77f3dc83413b111e30d0a7233a4b2a996144cd28d037c590
+size 3686

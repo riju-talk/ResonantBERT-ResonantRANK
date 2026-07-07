@@ -1,33 +1,3 @@
-id: cnn_2022_02624
-title: "Apple plans new feature to protect journalists and human rights workers from spyware"
-date: "2022-07-06"
-section: "Tech"
-url: "https://www.cnn.com/2022/07/06/tech/apple-spyware-lockdown-mode/index.html"
-content: |
-  Apple on Wednesday said it willrelease a new feature thisfall for iPhone, Mac and iPad operating software that is designed to protect high-risk users such as journalists and human rights workers from sophisticated spyware that has been linked to human rights abuses.
-  
-  It’s one of the biggest steps yet by a major tech firm to combat the lucrative spyware industry, whose tools can break into devices without the victim clicking on anything. It also comes as the Biden administration continues to try to curb the use of spyware.
-  
-  FCC commissioner calls on Apple and Google to remove TikTok from their app stores
-  
-  The new feature, called Lockdown Mode, will let anyone, with a flick of a button, effectively cordon off parts of their iPhone and other devices from avenues of attack, including email attachments and unsolicited FaceTime calls.
-  
-  But there are some tradeoffs for users while in Lockdown Mode. Device owners won’t be able to use certain Apple(AAPL)features such as physically connecting to other computers when the phone is on the lockscreen, or enrolling in mobile device management programs that some employers use to administer work phones.
-  
-  There are more than a billion iPhones around the world; the new feature is meant for the very small fraction of Apple users who have been targeted by spyware. Apple declined to specify the number of customers who had been targeted by spyware, citing ongoing litigation. But the company said it has now notified customers in about 150 countries that they may have been targeted by spyware. Android, Google’s mobile operating system and the most widely used, hashad to contend with spyware, too.
-  
-  The announcement is a recognition that spyware is a global problem that pits the top engineering talent at surveillance firms like NSO Group and tech giants against each other. Spyware makers will likely try to find ways of circumventing Lockdown Mode. To account for that, Apple said it will pay security researchers who report vulnerabilities in the new feature up to $2 million.
-  
-  While Apple continues to emphasize that spyware rarely breaks into its devices, there have been a few high-profile cases of it happening. Last September, Applereleased a critical updateto its operating software after the discovery that spyware allegedly developed by NSO Group had been used to track a Saudi dissident. Apple thensued NSO Groupfor allegedly violating a federal anti-hacking law. NSO Group has long maintained that it only sells its software to authorized users for law enforcement and counterterrorism purposes.
-  
-  From Morocco to Mexico to Singapore, digital forensic experts have uncovered spywaretargeting multiple tech platforms — and built by a range of sellers — that was being used to track the movements of human rights workers, embassy workers and other targets. One such target was said to be the wife of a slain Mexican journalist who was investigating drug cartels, according a 2019 investigation by the Citizen Lab, a digital rights research center at the University of Toronto.
-  
-  “There’s now undeniable evidence … that the mercenary spyware industry is facilitating the spread of authoritarian practices and contributing to massive human rights abuses,” Citizen Lab Director Ron Deibert told journalists this week ahead of the Lockdown Mode announcement.
-  
-  Apple also said Wednesday that it was giving $10 million to the Dignity and Justice Fund, a grantmaker advised by the Ford Foundation, that will support efforts to investigate and build awareness of spyware. (Deibert is on the advisory board of that grantmaking fund.)
-  
-  The Biden administration has tried to crack down on the proliferation of spyware by adding NSO Group and Candiru, another Israeli vendor, to a Commerce Department list that restricts US business with the firms.
-  
-  The potential national security threat of spyware came into focus last year when the iPhones of about a dozen US State Department employees serving in Africa were hacked with NSO Group’s signature product,CNN previously reported.
-  
-  An NSO Group spokesperson said in a response at the time that once the firm learned of the incident, it “decided to immediately terminate relevant customers’ access to the system, due to the severity of the allegations.” The spokesperson also said it had not received “any indication that NSO’s tools were used in this case.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:d852b66ef9df9794fabb52802597d4b406837d3c1bb30a91de66a1d024c540fe
+size 4684

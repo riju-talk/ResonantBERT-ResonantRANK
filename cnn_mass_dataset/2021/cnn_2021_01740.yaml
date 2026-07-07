@@ -1,29 +1,3 @@
-id: cnn_2021_01740
-title: "Kronos ransomware attack could impact employee paychecks and timesheets for weeks"
-date: "2021-12-16"
-section: "Tech"
-url: "https://www.cnn.com/2021/12/16/tech/kronos-ransomware-attack/index.html"
-content: |
-  Ultimate Kronos Group, one of the largest human resources companies,discloseda crippling ransomware attack on Monday, impacting payroll systems for a number of workers. After noticing “unusual activity” on Saturday, Kronos noted that its systems were down and could remain that way for several weeks.
-  
-  Kronos has a long list of notable customers across the public and private sector, including the city of Cleveland, New York’s Metropolitan Transportation Authority (MTA), Tesla and MGM ResortsInternational. It also works with many hospitals across the country.
-  
-  Some employers find themselves having to makecontingency plansin order to pay workers, such as shifting to paper checks.And some impacted employees have been unable to access payroll systems.
-  
-  The ransomware attack impacts Kronos Private Cloud solutions, a data storing entity for several of the company’s services, including UKG Workforce Central, which is used by employees to track hours and schedule shifts.
-  
-  “UKG recently became aware of a ransomware incident that has disrupted the Kronos Private Cloud, which houses solutions used by a limited number of our customers. We took immediate action to investigate and mitigate the issue, have alerted our affected customers and informed the authorities, and are working with leading cybersecurity experts,” a Kronos spokesperson told CNN Business.
-  
-  “We recognize the seriousness of the issue and have mobilized all available resources to support our customers and are working diligently to restore the affected services,” the spokesperson added.
-  
-  It is still possible in most cases to log hours on the offline Kronos timesheet system, though it is unclear when these systems will come back online.
-  
-  “[E]very employee will get paid for every hour they work. We have complete confidence that we will be able to determine how many hours employees work and pay them for those hours and we continue to ask employees to keep time the way they always have,” MTA spokesperson Tim Minton told CNN Business.
-  
-  News of the ransomware incident came after a security flaw in widely used software across the internet, called Log4j, was made public late last week, opening the door in many companies’ systems to hackers. Kronos has not confirmed that the ransomware attack is linked to theLog4j vulnerabilityand did not respond to CNN Business’s request for comment on a possible connection.
-  
-  A separate banner on Kronos’ website, which was not part of the HR company’s specific messaging on the ransomware attack, warned about the potential impact of the Log4j vulnerability and noted that the company had “invoked emergency patching processes” to address it.
-  
-  In addition to the potential payroll issues, there’s also data privacy concerns.The city of Cleveland said in astatementMondaythat Kronos alerted it that sensitive information may have been compromised in the attack. Employee names, addresses and the last four digits of social security numbers may have been stolen by the hackers inside Kronos’s network.
-  
-  In anFAQ pageon its site about the security incident, Kronos said its “investigation is ongoing, and we are working diligently to determine whether customer data has been compromised.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ed04605084b472a71f95602e516bd347dc13643dd7abd50bf9e81eced556974
+size 3525

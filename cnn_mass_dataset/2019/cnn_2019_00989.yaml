@@ -1,25 +1,3 @@
-id: cnn_2019_00989
-title: "CVS to test drone delivery for your medications"
-date: "2019-10-21"
-section: "Tech"
-url: "https://www.cnn.com/2019/10/21/tech/cvs-ups-drone/index.html"
-content: |
-  The drones are coming — and they’re bringing your aspirin.
-  
-  CVSis the latest drug store to explore delivering to you via a drone. The pharmacy chain is partnering with UPS, which received a Federal Aviation Administration certificateearlier this monthto make limited drone deliveries.
-  
-  CVS(CVS)said in a brief statement Monday that it believes customers will value fast delivery, especially in rural areas.
-  
-  Focusing their businesses on health care gives drone companies a way to win public support. There are significant regulatory hurdles before drone delivery becomes mainstream. The FAA is developing important rules, such as giving authorities a way to remotely identify drones.
-  
-  UPS broke into drone deliveries shuttling medical samples. Now it's ready to take off
-  
-  CVS and UPS(UPS)have not said when or where deliveries will begin, or how many will be made. CVS’s announcement follows a similar one from its rival Walgreens, which launched a smalldrone delivery servicein Christiansburg, Virginia, on Friday. Walgreens is relying on Wing, the drone delivery company operated by Google’s parent company Alphabet.
-  
-  The drones making CVS deliveries will be automated, flying on pre-planned routes. They will carry packages up to five pounds and leave them on a household’s front or back yard. A human will supervise the flights and take over if needed for safety’s sake. Deliveries will be made as quickly as five or 10 minutes, according to Bala Ganesh, who leads the UPS advanced technology group.
-  
-  “This is a quantum leap in terms of what’s possible,” Ganesh told CNN Business. “Speed can make the difference between life and death.”
-  
-  UPS is focused on health care in its drone delivery program and approached CVS about working together. UPS has said it has already made 1,100 medical sample deliveries at a Raleigh, North Carolina, hospital as part of a government pilot program. It’s also expanding to a Utah hospital in the coming weeks, in partnership with the drone company Matternet.
-  
-  Using drones for health care has become popular overseas, too.Zipline, a Silicon Valley startup, has said it’s made more than 20,000 deliveries of medical supplies in Rwanda and Ghana.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7fd7e2f0297aa82aec32efbdbb5a3dfd5af365d88d5bd808a72e30667fb2446
+size 2437

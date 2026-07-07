@@ -1,29 +1,3 @@
-id: cnn_2023_03520
-title: "Amazon’s stock surges as Q2 earnings show profit and sales jump"
-date: "2023-08-03"
-section: "Tech"
-url: "https://www.cnn.com/2023/08/03/tech/amazon-earnings-second-quarter?cid=external-feeds_iluminar_yahoo"
-content: |
-  Amazon(AMZN)’s sales boomed on strong demand in the second quarter for its wide range of products, from fast delivery forPrime deals to ads, fueling a massive jump in profit from a year ago.
-  
-  Sales grew 11% to $134.4 billion. That’s an increase from $121.2 billion in the second quarter of 2022. The number exceeded analyst predictions of $131.4 billion revenue.
-  
-  The stock surged nearly 10% in after-hours trading. Amazon’s stock has risen 52% year to date, one of a handful of tech stocks that has helped power the market higher this year.
-  
-  The company’s profit jumped sharply compared to this quarter last year. Its net income was $6.7 billion in the second quarter, compared to a net loss of $2 billion in second quarter of 2022. It soared past Refinitiv analyst predictions of $3.592 billion in earnings.
-  
-  Investors were closely watching customer spending in both the cloud and retail markets.
-  
-  On the retail side, CEO Andy Jassy said in a statement thatthe company was able to save both time and cost on delivery.
-  
-  In addition,Amazon Web Services has long been a cash cow for the company. Last quarter, that segment’s sales rose 16% after a period of slowed growth as cloud users worried about the economy’s health. This quarter’s AWS sales increased 12%, a smallslowdown.
-  
-  In thestatement, Jassy said “a slew of generative AI releases” has allowed its cloud business to remain a leader, competing with the likes of Google(GOOG)and Microsoft(MSFT). Jassy also added thatAWS growth has “stabilized.”
-  
-  Though a big bet on AI hasn’t translated into faster gainsfor AWS yet, the tech giant is optimistic about its future, experimenting with the e-commerce shopping experience as well. It’s working to use AI tosum up customer feedbackabout products on the site.
-  
-  Jassy added there is continued “strong demand” for Amazon’sadvertising services. Its ad business jumped 22% to $10.7 billion.
-  
-  “We continued lowering our cost to serve in our fulfillment network, while also providing Prime customers with the fastest delivery speeds we’ve ever recorded,” Jassy said in thestatement.
-  
-  Amazon said it expects its third-quarter sales to grow between 9% and 13% compared to the previous year’s quarter.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e8a312ee9c733f6cf6d1dbf142263cb39e14ba87d57060892e8afc060c5655e
+size 2531

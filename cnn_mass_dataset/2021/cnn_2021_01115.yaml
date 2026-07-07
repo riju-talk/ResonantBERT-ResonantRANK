@@ -1,23 +1,3 @@
-id: cnn_2021_01115
-title: "Fighter jet intercepts small aircraft that violated Presidential Airspace over Delaware"
-date: "2021-05-17"
-section: "Politics"
-url: "https://www.cnn.com/2021/05/17/politics/aircraft-intercepted-presidential-airspace-delaware/index.html"
-content: |
-  A North American Aerospace Defense Command fighter jet intercepted a small aircraft that had violated Presidential airspace over Wilmington, Delaware, on Sunday, according to a statement fromNORAD, which is responsible for protecting the skies over the US and Canada.
-  
-  The fighter jet dispensed signal flares to alert the pilot and direct the aircraft, which was not in communication with air traffic controllers, out of the restricted zone, the statement said.
-  
-  The aircraft, identified on the ground as a single-engine, four-seat Grumman American based in New York, landed at New Garden Airport just north of the Delaware state line shortly after 1 p.m. ET.
-  
-  The flight track from FlightAware, a website that tracks commercial and other flights, shows the aircraft leaving Ocean City Municipal Airport in Maryland shortly after noon on Sunday. It then flew north-northwest over Delaware and Maryland before making two complete turns and descending to land at New Garden Airport.
-  
-  WithPresident Joe Bidenspending the weekend in Wilmington, Delaware, there was a Presidential Temporary Flight Restriction surrounding his location. Presidential TFRs can have a radius of 30 nautical miles, severely restricting flight in this area.
-  
-  The Federal Aviation Administration keeps an up-to-date list of restricted airspace on its website, something pilots are supposed to check prior to departure.
-  
-  The penalties for violating restricted airspace can be severe according to the FAA. Pilots can face possible suspension or loss of their pilot’s license.
-  
-  Not all aircraft are equal when it comes to restricted air space.
-  
-  Commercial flights are in contact with the FAA during their flights and have a flight plan, so they’re allowed to fly into and out of the cordoned-off area, according to the FAA. Police helicopters and air ambulance aircraft are also permitted in the no-fly zone.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2e3c8f4e87dd24c37b7ba8712935bcfb2e0e5dd0e684f5ad9e575764f097185
+size 2192

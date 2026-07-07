@@ -1,33 +1,3 @@
-id: cnn_2022_01447
-title: "Supreme Court backs HHS approach to Medicare payments for hospitals serving low-income patients"
-date: "2022-06-24"
-section: "Politics"
-url: "https://www.cnn.com/2022/06/24/politics/medicare-payments-low-income-hhs-supreme-court/index.html"
-content: |
-  The Supreme Court on Fridayupheld the approachtaken by the Department of Health and Human Services in calculating certain Medicare payments for hospitals that serve a large number of low-income patients.
-  
-  The legal challenge targeted HHS’ interpretation of the formula used to calculate Medicare’s disproportionate share hospital adjustments, known as DSH payments.
-  
-  The high court said that the agency did not misinterpret the law with a policy it rolled out in the mid-2000s that dictated the payments hospitals received for treating a disproportionate share of low-income patients.
-  
-  “Today, we approve HHS’s understanding of the Medicare fraction,” Justice Elena Kagan wrote for the 5-4 majority, adding that “HHS’s regulation correctly construes the statutory language at issue.”
-  
-  The case was closely watched for the potential that the conservative wing would use the case to rein in executive agency power, and it is notable that the court declined to do so.
-  
-  The majority was made up of an eclectic coalition of justices, with Justices Clarence Thomas, Stephen Breyer, Sonia Sotomayor and Amy Coney Barrett signing on to Kagan’s opinion. Justice Brett Kavanaugh penned a dissent joined by the remaining members of the court.
-  
-  “HHS’s misreading of the statute has significant real-world effects: It financially harms hospitals that serve low-income patients, thereby hamstringing those hospitals’ ability to provide needed care to low-income communities,” Kavanaugh wrote.
-  
-  “In my view, HHS’s 2004 interpretation is not the best reading of this statutory reimbursement provision,” he added in a brief, 4-page dissent.
-  
-  Empire Health Foundation challenged HHS’ interpretation of the Medicare statute that includes a formula used to calculate the payments, arguing that the methodology results in lower payments than the hospitals should receive. Billions of dollars are at stake.
-  
-  The “disproportionate share hospital adjustments,” known as DSH payments, are intended to offset hospitals’ uncompensated costs for treating for Medicaid and uninsured patients and to improve their access to medical care. The payments also serve to help the financial stability of safety net hospitals that treat mostly lower-income Americans.
-  
-  HHS has changed its interpretation of the DSH payments’ statue multiple times. The question in the Empire Health Foundation case is whether the HHS’ 2004 interpretation of the rule is consistent with the statutory formula – or, if the statute is unclear, whether the court should defer to the agency, according to the O’Neill Institute for National and Global Health Law at Georgetown University.
-  
-  At issue in the case was whether the days patients spend in the hospital after their Medicare Part A benefits expire are factored into the hospital’s DSH payment.
-  
-  The Supreme Court last week also said thatHHS failed to follow the proper proceduresin varying reimbursement rates for Medicare’s 340B drug program.
-  
-  This story has been updated with additional reporting.
+version https://git-lfs.github.com/spec/v1
+oid sha256:776de533bdf3104b37ee098d484429baeb3a0d49c56fc3155fb706bdf51df399
+size 3383

@@ -1,29 +1,3 @@
-id: cnn_2022_03033
-title: "A 5.1 magnitude earthquake strikes near San Jose, US Geological Survey reports"
-date: "2022-10-25"
-section: "US"
-url: "https://www.cnn.com/2022/10/25/us/san-jose-california-earthquake/index.html"
-content: |
-  The US Geological Survey (USGS) reported a 5.1 magnitude earthquake in Seven Trees, near San Jose, California on Tuesday.
-  
-  Preliminary information from the USGS says the quake was 6.9 kilometers (4.2 miles) deep and hit around 11:42 a.m. PT.
-  
-  About 100,000 people received an advanced notification from theEarthquake Warning California app, the state’s early warning system, before shaking started, according to Brian Ferguson, deputy director for crisis communication and public affairs for the California Governor’s Office of Emergency Services.
-  
-  “Advance notice varied from two seconds for those very near the epicenter to 18 seconds for those in the San Francisco,” Ferguson said.
-  
-  Preliminary reports do not indicate any significant damage or injuries, the emergency services office told CNN.
-  
-  Dr. Annemarie Baltay, a USGS seismologist, said Tuesday “there could be 10-15 aftershocks of magnitude 3 or greater in the next week.”
-  
-  “Aftershocks of this magnitude and duration are totally normal for an event of this type,” she said. “If you do feel shaking don’t forget to drop, cover and hold on.”
-  
-  Watch this video to learn more about today’s San Francisco Bay Area earthquake with Dr. Annemarie Baltay.https://t.co/vkLou5Pvqfpic.twitter.com/EQCZ4r07AT
-  
-  The USGS did report another earthquake Tuesday – this time a 3.6 magnitude that struck around 3:08 p.m. PT. Preliminary information from USGS shows the earthquake was 7.2 kilometers (4.5 miles) deep.
-  
-  Seven Trees also experienced a smaller 2.9 magnitude earthquake at 11:47 a.m. PT, USGS data shows, which was about five minutes after the original 5.1 magnitude earthquake.
-  
-  The situation is still fluid and the agency is “actively coordinate with local police and fire personnel to evaluate things like roofs, foundations and infrastructure at sensitive sites like schools and hospitals,” Ferguson said.
-  
-  Earthquakes are measured using seismographs, which monitor the seismic waves that travel through the Earth after an earthquake strikes. Quakes between 2.5 and 5.4 in magnitude are often felt, but only cause minor damage, according toMichigan Tech’s UPSeis website.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6d49ff254d63ead817c236a35d642d80b6bd54feb18a378344220fee2b1d8f5
+size 2442

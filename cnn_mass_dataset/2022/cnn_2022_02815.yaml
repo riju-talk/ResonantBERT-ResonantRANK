@@ -1,35 +1,3 @@
-id: cnn_2022_02815
-title: "Tesla Model Y’s Autopilot gets highest grade in European safety tests"
-date: "2022-09-07"
-section: "Business"
-url: "https://www.cnn.com/2022/09/07/business/tesla-euro-ncap-autopilot"
-content: |
-  The Tesla Model Y received the highest grade of any vehicle in aEuropean safety testthat ranked driver-assist systems like the automaker’s controversial Autopilot system.
-  
-  The 2022 Model Y’s 98% score in the “safety assist” category, which evaluated safety technologies like lane-keeping and automatic emergency braking, beat out vehicles from automakers like Mercedes-Benz, Volvo, Lexus and Volkswagen.
-  
-  Overall, theModel Y receiveda five-star ranking in the European tests, called Euro NCAP, which stands for “new car assessment program.” A five-star scoreindicatesthat a vehicle has excellent performance in crash protection and robust crash avoidance tech.
-  
-  The Model Y received the highest marks of any tested vehicle in two of four test categories, and the second highest score in a third category — vulnerable road users, which focuses on pedestrian and cyclist interactions.
-  
-  Tesla’s other vehicles were not tested, but its new models have the same standard driver-assist technology as the Model Y. In 2019, a Tesla Model 3received an overall five-starscore.
-  
-  Tesla’s European version of Autopilot has more limitations than the US version. For example, the Smart Summon function, in which the car slowly drives to meet its owner, is limited to 20 feet rather than 213 feet. Tesla also has not yet announced a release of the beta version of “full self-driving” in Europe.
-  
-  Tesla’s driver-assist technologies, called Autopilot and “full self-driving,” have long pushed boundaries of what car technology is capable of. Many drivers say they feel less fatigued after using Autopilot’s automatic steering function on long highway drives. But the system’s safety record has been questioned, including concerns about if the automaker does enough to keep drivers engaged and attentive. The National Transportation Safety Board has called for Tesla to improve its driver-assist technologies following severalheadline-grabbingfatalcrashes. Research has found thatdrivers are more distractedwhen they use Autopilot.
-  
-  Tesla began to use acabin camerain 2021 inside its newer vehicles to monitor driver engagement after competitors, like General Motors and Ford, included them.
-  
-  The National Highway Traffic Safety Administration isinvestigating casesin which Tesla vehicles using Autopilot have rear-ended emergency vehicles stopped on roadways. It expanded its investigation this summer, which could lead to a recall. It’s also examining multiple fatal crashes this summer of vehicles with Autopilot striking and killing motorcyclists. The crashes have raised questions about if the Tesla cabin camera can adequately detect distracted drivers at night when visibility in the vehicle may be more difficult. Some competitors like Ford and General Motors use infrared technology instead, which may be better suited evening conditions.
-  
-  Tesla did not immediately respond to a request for comment and generally does not engage with the professional news media.
-  
-  Recently, a video of Teslas equipped with what the company calls “full self-driving” running over a child mannequin led to Tesla supportersconducting tests with their own childrento evaluate the vehicles’ safety.
-  
-  Euro NCAP concluded that the Model Y’s automatic emergency braking system “performed well” in its response to pedestrians. The tests include scenarios like a child running from behind parked vehicles and a pedestrian crossing a road into which a car is turning. Tesla received a score of 7.7 out of 9 points on the emergency braking near pedestrians.
-  
-  Euro NCAP also noted that the Tesla system uses a camera-based system to monitor for distracted drivers and automatically changes the sensitivity of its forward collision warning system to be more reactive.
-  
-  Euro NCAP’s testing protocol for driver-assist technologydoes not sayif it evaluates systems during nighttime conditions.
-  
-  It did not immediately respond to a request for comment.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e2b6b453aee92ebb6e6abdcb760814e916621906d7323ab9c0ccb6134e8b241
+size 4237

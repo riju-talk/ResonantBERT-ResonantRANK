@@ -1,17 +1,3 @@
-id: cnn_2023_03465
-title: "Estee Lauder hit by hack, some business operations affected"
-date: "2023-07-18"
-section: "Tech"
-url: "https://www.cnn.com/2023/07/18/tech/estee-lauder-hack/index.html"
-content: |
-  Cosmetics maker Estee Lauder on Tuesday said a hacker had obtained some data from its systems, with the cyber incident causing, and expected to further cause, disruption to parts of the company’s business operations.
-  
-  The firm said it was working to understand the nature and scope of the data that was stolen. It did not reveal further details about the impact on its operations.
-  
-  The MAC Cosmetics owner said it was working to restore the affected systems and had implemented measures to secure its operations.
-  
-  The New York-based company also took down some of its systems to mitigate the incident, it said, adding that it had begun an investigation, coordinating with law enforcement as well as cybersecurity experts.
-  
-  Estee Lauder did not immediately respond to a Reuters request for further comment.
-  
-  The cosmetics maker in May forecast weaker sales and profit for the year than previously estimated, blaming slow recovery at duty-free and travel destinations, especially in Asia
+version https://git-lfs.github.com/spec/v1
+oid sha256:39ef39213148a774f540b05312f8d62fe98fa720f6947f241733fa00ce24be11
+size 1216

@@ -1,25 +1,3 @@
-id: cnn_2020_00761
-title: "Gmail is getting a new logo in a G Suite revamp"
-date: "2020-10-06"
-section: "Business"
-url: "https://www.cnn.com/2020/10/06/business/g-suite-google-workspace"
-content: |
-  Google is overhauling its suite of collaborative office product that includes Gmail, Drive and Calendar, aiming to better integrate the platform and redesign some of its most recognized logos.
-  
-  On Tuesday, the company announced it is rebranding G Suite as Google Workspace and adding features that is says will help streamline collaboration as more and more companies are extending work-from-home measures during the pandemic.
-  
-  Google will also redesign the icons for Gmail, Drive, Calendar, and other services in the coming weeks with the company’s four-color palette.
-  
-  “This is the end of the ‘office’ as we know it,” Javier Soltero, vice president and general manager of Google Workspace,said in a statement. “From here on out, teams need to thrive without meeting in person, protect their time to focus on the most impactful work, and build human connection in new ways.”
-  
-  Google had previously announced a revamped G Suite in July, previewing features that limited the need to switch between different apps — including the ability to join a video call straight from the Gmail inbox.
-  
-  Among the platform’s new features are the ability to preview links in other Google apps without leaving one’s original window, and the introduction of “smart chips” that display contact information when somebody is @-mentioned.
-  
-  These features are available for businesses now, while others will roll out “in the coming weeks.” Businesses can buy Google Workspace under a $6-per-user “Business Starter” plan, or a heftier $18-per-user “Business Plus” plan that includes additional security and compliance capabilities.
-  
-  The features will be available for all users in “the coming months,” according to a press release.
-  
-  More broadly, the launch of Google Workspace represents the latest step in the company’s efforts to dominate the virtual productivity sector, especially against competitors such as Microsoft Office 365, which added a popular cross-app integration feature in May.
-  
-  Google may have an insider advantage: Soltero, before joining Google in October 2019, was a corporate vice president at Microsoft for four years, where — according to his LinkedIn profile — his duties included “making Office and a few other things awesome.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b2fbeba76171d6e43d57675a29c882598f235177915007cb884a6b9245c0d32
+size 2517

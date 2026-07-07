@@ -1,29 +1,3 @@
-id: cnn_2024_03461
-title: "Duolingo lays off staff as language learning app shifts toward AI"
-date: "2024-01-09"
-section: "Tech"
-url: "https://www.cnn.com/2024/01/09/tech/duolingo-layoffs-due-to-ai/index.html"
-content: |
-  Duolingo laid off around 10% of its contract workers, the company told CNN Tuesday, as the educational technology app moves to rely more heavily on artificial intelligence.
-  
-  While not all layoffs were due to the technology, the language learning company let go of some contractors at the end of 2023 to make room for AI-related changes in how content is generated and shared. Duolingo says no full-time employees were involved in the layoffs and that it attempted to find alternate roles for all those being let go before turning to “off-boarding” as a last option.
-  
-  A virtual language tutor, Duolingo says it has 24.2 million daily active users, 5.8 million paid subscribers and more than 100 available courses, according to the Pittsburgh-based company.
-  
-  It has been proactive in adding AI to its platform, creating a new subscription tier dubbed “Duolingo Max” in March that incorporates OpenAI’s advanced language model GPT-4 to add AI-powered features that include having full conversations with a chatbot to practice skills and getting AI-generated explanations about why an answer is right or wrong.
-  
-  “Generative AI is accelerating our work by helping us create new content dramatically faster,” CEO Luis von Ahn wrote in a Novembershareholder letter.
-  
-  Following the contractor lay-offs, Duolingo says AI will increasingly be used to perform tasks such as creating sentences for courses, producing lists of acceptable translations and reviewing user error reports in order to correct mistakes quicker.
-  
-  While trimming its workforce to increasingly rely on AI to create and check content, Duolingo says it still uses humans to check AI-completed work.
-  
-  “We are not swapping the expertise of human experts for AI,” the company told CNN. “AI is a tool we are using to increase productivity and efficiency, to add new content, and improve our courses faster so that we can continue to teach to higher levels of proficiency.”
-  
-  Duolingo is not alone in its move to get rid of people in favor or AI. According to a November report fromResumeBuilder, 37% of companies surveyed say AIreplaced workersin 2023. Looking ahead, 44% say the technology will cause layoffs in 2024.
-  
-  Chegg, an education technology company, disclosed in aregulatory filingin June that it was cutting 4% of its workforce, or about 80 employees, “to better position the Company to execute against its AI strategy and to create long-term, sustainable value for its students and investors.”
-  
-  IBM CEO Arvind Krishnasaid in an interviewwith Bloomberg in May that the company expects to pause hiring for roles it thinks could be replaced with AI in coming years. In asubsequent interviewwith Barrons, however, Krishna said he felt his earlier comments were taken out of context and stressed that “AI is going to create more jobs than it takes away.”
-  
-  And in late April, file-storage service Dropbox said it was cutting about 16% of its workforce, or about 500 people, also citing AI.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b91069bc712291316f9526db4a91de90d94e7486747036ca4b42b84adc926b5
+size 3247

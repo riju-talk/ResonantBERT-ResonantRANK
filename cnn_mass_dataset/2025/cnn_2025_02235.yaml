@@ -1,27 +1,3 @@
-id: cnn_2025_02235
-title: "Passengers face more disruption after cyberattack hits European airports"
-date: "2025-09-22"
-section: "Travel"
-url: "https://www.cnn.com/2025/09/22/travel/cyberattack-european-airports-hack-disruption-intl"
-content: |
-  Several of Europe’s biggest airports faced moredisruptionon Monday after hackers knocked out automatic check-in systems provided by Collins Aerospace, owned by RTX, affecting dozens offlightsand thousands of passengers since Friday.
-  
-  Thedisruptionswere caused by a cyberattack, the EU’s cybersecurity agency confirmed on Monday, highlighting the growing risks of such attacks to critical infrastructure and industries.
-  
-  Law enforcement was involved to investigate, the agency ENISA said in a statement, without providing details on where the cyberattack originated from.
-  
-  Governments and companies have been the targets of cyberattacks in recent months, including luxury carmaker Jaguar Land Rover, which had to pause production as a result.
-  
-  Collins said on Monday that it was working with the affected airports, including Brussels and London Heathrow, Europe’s busiest airport, and was in the final stages of completing updates to help restore full functionality.
-  
-  Berlin airport, which was facing higher passenger numbers than usual on Monday due to the Berlin Marathon, still did not have its check-in systems restored and reported delays of over an hour for departures.
-  
-  Self-driving vehicles could be coming to an airport near you
-  
-  One passenger described the boarding process as akin to the early decades of commercial air travel, with handwritten boarding passes.
-  
-  Brussels Airport was using iPads and laptops to check passengers in online. Of roughly 550 departing and arriving flights, 60 had to be cancelled on Monday, it said.
-  
-  Dublin Airport was experiencing “minimal impact” and had some manual processes in place.
-  
-  A survey of some 1,000 companies by German industry group Bitkom found that ransomware - malicious software that locks data until the victim pays to have access restored - was the most common form of cyberattack, with one in seven companies having paid a ransom.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ab2179d473ff9a4e903c67d372cfe0de33439d83efd9d74db356d19dd9661e1
+size 2190

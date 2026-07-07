@@ -1,27 +1,3 @@
-id: cnn_2022_02545
-title: "Walmart enters the metaverse with Roblox experiences"
-date: "2022-09-26"
-section: "Business"
-url: "https://www.cnn.com/2022/09/26/business/walmart-roblox-metaverse?query=query%28%24symbols%3A%20%5BString%5D%29%20%7B%0A%20%20marketIndexes%28symbols%3A%20%24symbols%29%20%7B%0A%20%20%20%20indexes%20%7B%0A%20%20%20%20%20%20symbol%0A%20%20%20%20%20%20index_displayName%0A%20%20%20%20%20%20inSession%0A%20%20%20%20%20%20streamId%3A%20streamSymbol%0A%20%20%20%20%20%20change%0A%20%20%20%20%20%20level%0A%20%20%20%20%20%20changePct%0A%20%20%20%20%20%20link%0A%20%20%20%20%20%20__typename%0A%20%20%20%20%7D%0A%20%20%20%20__typename%0A%20%20%7D%0A%7D%0A&variables=%7B%22symbols%22%3A%5B%22INDU%22%2C%22INX%22%2C%22COMP.IDX%22%5D%7D"
-content: |
-  Walmart(WMT)has entered the metaverse.
-  
-  The retail giant announced Monday it is launching two immersive online experiences with Roblox, a metaverse mega-platform extremely popular with young kids.
-  
-  Walmart said it is targeting the next generation of customers – Covid-19 altered consumers’ shopping habits and caused asurge in e-commerce sales.
-  
-  ‘Walmart Land’ will featurea Netflix trivia experience with “Stranger Things” star Noah Schnapp, a virtual dressing room and a music festival with popular artists. It will also sell “verch” for avatars that match real life merchandise in Walmart’s stores.
-  
-  The second experience, Walmart’s Universe of Play, will offer immersive games featuring characters from its most popular toy products for the holiday season, from L.O.L Surprise! to Paw Patrol.
-  
-  In particular, Walmart wants to draw Gen Z into virtual reality. Walmart Land’s Electric Fest will feature performances from Madison Beer and Kane Brown. Its virtual dressing room offers products such as afp4, Halsey’s makeup brand, and YouTubers Brooklyn and Bailey’s skincare line with Walmart.
-  
-  Walmart’s chief marketing officer, William White, said he knows customers are spending “loads of time” on Roblox, in a press release from the company.
-  
-  Roblox, a gaming platform founded in 2004, is a leader in the metaverse – although tech giants Facebook, Microsoft and Epic Games have released big plans to join the hype. Robloxbegan trading last March, immediately valuing the company at $45 billion when it debuted on Wall Street.
-  
-  “We think teenagers, and potentially adults, could eventually view Roblox as a multi-purpose platform, similar to how social networks were viewed as such as they grew beyond their core university student demographic,” Bank of America analyst Omar Dessoukysaid earlier this year.
-  
-  Despite the buzz around the metaverse, Roblox shares have dropped almost 64% year-to-date. Its stock is up more than 2% in trading today.
-  
-  – CNN’s Paul R. La Monica and Julia Horowitz contributed to this report.
+version https://git-lfs.github.com/spec/v1
+oid sha256:762041947521ff4ed42254c3a5d3c8ec288f4ad6717a6b3a344d90b2806bfe27
+size 2871

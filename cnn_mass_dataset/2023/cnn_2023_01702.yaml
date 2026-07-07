@@ -1,27 +1,3 @@
-id: cnn_2023_01702
-title: "Apple launches buy now, pay later service"
-date: "2023-03-28"
-section: "Tech"
-url: "https://www.cnn.com/2023/03/28/tech/apple-pay-later-release"
-content: |
-  Apple on Tuesday launched an option in its digital wallet allowing customers to pay for online purchases in installments, making it the latest company to embrace the buy now, pay later trend.
-  
-  The new feature, called Apple Pay Later, lets customers split payments for purchases into four installments over six weeks, with the first installment due at the time of purchase. Apple users can also apply for a loan within the Wallet app, ranging from $50 to $1000, with no interest or fees, to make online or in-app purchases.
-  
-  The payment option is rolling out to select users in the United States now, with plans to offer it to all eligible customers over the next several months, according to acompany release. Applefirst teasedthe feature last year.
-  
-  Amazon to let customers pay with Venmo at checkout
-  
-  Apple’s move comes as a growing number of consumers have turned to buy now, pay later services to stretch their budgets at a time of high inflation and broader economic uncertainty. Other popular services that offer the same payment option include Affirm, Klarna andAfterpay.
-  
-  But some economists and consumer advocates haveraised concernsthat these services could cause shoppers to take on more debt.
-  
-  The installment process makes it seem like someone is paying practically nothing for the goods or service they’re acquiring, Terri R. Bradford, a research specialist in payment systems for the Kansas City Federal Reserve, previously told CNN. “So the possibility is that you could, in your mind, think of everything that you’re buying in those four installments and, as a result, take on more debt than you would if you had to pay for them in full each and every time.”
-  
-  But Apple says the new feature is “designed with users’ financial health in mind.”
-  
-  “There’s no one-size-fits-all approach when it comes to how people manage their finances,” said Jennifer Bailey, Apple’s vice president of Apple Pay and Apple Wallet, in Tuesday’s release. “Many people are looking for flexible payment options, which is why we’re excited to provide our users with Apple Pay Later.”
-  
-  Apple users will be able to track and manage upcoming loan payments in the Wallet app. Any loan application can also be done in the app with no impact on credit, according to the company.
-  
-  Apple’s Pay Later option is enabled through the Mastercard Installments program.
+version https://git-lfs.github.com/spec/v1
+oid sha256:94f35e9d3d172befc41f06028008d3394fe7ace88d8f76fda39b4a34b70eb12c
+size 2606

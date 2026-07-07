@@ -1,23 +1,3 @@
-id: cnn_2023_02328
-title: "Tesla faces Justice Department probe of range claim"
-date: "2023-10-25"
-section: "Business"
-url: "https://www.cnn.com/2023/10/25/business/tesla-justice-probe-range-claim"
-content: |
-  The Justice Department is investigating whether or not Tesla cars can live up to the EPA’s official estimates of how far they can go on a single charge.
-  
-  In the company’s most recent SEC filing,it disclosed that the DOJ is looking at questions surrounding a number of issues, including “vehicle range.”
-  
-  The range of electric vehicles can be affected by the outdoor temperature, with cars going farther in warm weather. ButConsumer Reportshas conducted tests that it said shows Tesla vehicles fall well short of the advertised range, no matter the weather.
-  
-  The organization conducted its own range tests on the Tesla Model Y as well as the Volkswagen ID.4, the Hyundai Ioniq 5 and the Ford Mustang Mach-E. The ID.4 and Mach-E both did slightly better than claimed in warm weather, the Ioniq 5 got within two miles of the claim of a 256-mile range.
-  
-  Toyota’s electric cars will adopt Tesla’s charging standard
-  
-  But the Model Y fell far short of the official EPAnumber, even though it went farther in total milesthan either the ID.4 or Ioniq 5 and about as far as the Mach-E. It went 274 miles in warm weather in the Consumer Reports test, compared to the official EPA stated range of 326 miles.
-  
-  The Tesla filing said that “to our knowledge no government agency in any ongoing investigation has concluded that any wrongdoing occurred.” The company did not respond to a request for comment and the Justice Department declined to comment on the investigations.
-  
-  The official EPA estimates are based on a number of factors, including data provided by the automakers. If the data is shown to be false, it can cause legal problems for the automaker.
-  
-  Most famously, Volkswagen pleaded guilty to providing deceptive information on the emissions from its diesel vehicles, agreeing to pay$4.3 billion in fines, including $2.8 billion criminal penalties, to the US government.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ad6bbfa9f70574d7e6129d80b65c1a5650f11327f11035e6fe6bcdfe39e2159
+size 2127

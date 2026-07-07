@@ -1,33 +1,3 @@
-id: cnn_2022_02413
-title: "Elon Musk’s unsolicited idea for Taiwan welcomed by Beijing, slammed in Taipei"
-date: "2022-10-10"
-section: "Media"
-url: "https://www.cnn.com/2022/10/10/media/elon-musk-china-taiwan-intl-hnk?query=query%28%24symbols%3A%20%5BString%5D%29%20%7B%0A%20%20marketIndexes%28symbols%3A%20%24symbols%29%20%7B%0A%20%20%20%20indexes%20%7B%0A%20%20%20%20%20%20symbol%0A%20%20%20%20%20%20index_displayName%0A%20%20%20%20%20%20inSession%0A%20%20%20%20%20%20streamId%3A%20streamSymbol%0A%20%20%20%20%20%20change%0A%20%20%20%20%20%20level%0A%20%20%20%20%20%20changePct%0A%20%20%20%20%20%20link%0A%20%20%20%20%20%20__typename%0A%20%20%20%20%7D%0A%20%20%20%20__typename%0A%20%20%7D%0A%7D%0A&variables=%7B%22symbols%22%3A%5B%22INDU%22%2C%22INX%22%2C%22COMP.IDX%22%5D%7D"
-content: |
-  As tensions betweenChinaandTaiwansimmer at their highest point in decades, officials in both places have clashed in recent days over an unsolicited idea from billionaire Elon Musk.
-  
-  The world’s richest man suggested in an interview that hostilities between the two could be resolved if Taipei handed some control of the democratically governed island to Beijing, prompting praise from China and predictable outrage in Taiwan.
-  
-  “My recommendation … would be to figure out a special administrative zone for Taiwan that is reasonably palatable, probably won’t make everyone happy,” Musk told the Financial Times in an interview published on Friday. “And it’s possible, and I think probably, in fact, that they could have an arrangement that’s more lenient thanHong Kong.”
-  
-  China’s ambassador to the United States, Qin Gang, thanked Musk for his suggestion in atweetSaturday, calling for “peaceful unification and one country, two systems.”
-  
-  ButTaiwan’s representative to the US, Bi-khim Hsiao,wrote: “Taiwan sells many products, but our freedom and democracy are not for sale.”
-  
-  China’s ruling Chinese Communist Party views Taiwan as part of its territory, despite having never governed it, and has long vowed to “reunify” the island with the Chinese mainland, by force if necessary. Taiwan, a democracy of 23 million people, strongly objects to Beijing’s  claims to the island.
-  
-  Beijing has offered Taiwan a “one country, two systems” system of governance, similar to Hong Kong, but that has been rejected by all of the island’s mainstream political parties and the proposal has received very little public support.
-  
-  In a briefing on October 7, China’s Foreign Ministry spokesperson Mao Ning said the “Taiwan question is China’s internal affair.”
-  
-  “China’s position on resolving the Taiwan question is consistent and clear. We remain committed to the basic principle of peaceful reunification and ‘one country, two systems,’” she said. “At the same time, we will resolutely defeat attempts to pursue the ‘Taiwan independence’ separatist agenda, push back interference by external forces, and safeguard our sovereignty and territorial integrity.”
-  
-  'No room for compromise' on Taiwan's sovereignty, President Tsai says in National Day speech
-  
-  Wang Ting-yu, a senior lawmaker for Taiwan’s ruling Democratic Progressive Party, slammed Musk in a Facebook post on Saturday. “Musk’s solution is all about victim concessions,” he said.
-  
-  Musk’s comments about Taiwan come days after he angered Ukrainian President Volodymyr Zelensky for tweeting a “peace” plan between Russia and Ukraine, proposing that Kyiv permanently cede Crimea to Moscow and hold new referendums in regions annexed by Russia – this time under the supervision of the United Nations.
-  
-  “Which Elon Musk do you like more?” Zelenskyaskedhis Twitter followers, using the social media platform’s poll function.
-  
-  “One who supports Ukraine,” or “One who supports Russia.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:65f423f39be23d2d4f52be3fc3fab2ada997b9e9487d49b269fe2386d6000be5
+size 3870

@@ -1,23 +1,3 @@
-id: cnn_2022_02741
-title: "Instagram tests new tools for age verification"
-date: "2022-06-23"
-section: "Tech"
-url: "https://www.cnn.com/2022/06/23/tech/instagram-age-verification-tool/index.html"
-content: |
-  Instagram said on Thursday it is testing new options for users to verify their age on the platform, starting with people in the United States.
-  
-  The photo-sharing service owned by Meta Platforms Inc (META) said it is testing two new ways to verify a person’s age, in addition to allowing them to upload their identity proof online.
-  
-  “When we know if someone is a teen (13-17 years), we provide them with age-appropriate experiences like defaulting them into private accounts, preventing unwanted contact from adults they don’t know and limiting the options advertisers have to reach them with ads,” Erica Finkle, director of data governance at Meta, said in a blog post.
-  
-  TikTok moves US users' data to Oracle servers to address security concerns
-  
-  Instagram said it has partnered with Yoti, a company that specializes in online age verification to ensure users’ privacy.
-  
-  Users can upload a video selfie to verify their age, after which Yoti’s technology estimates their age based on facial features. Both Meta and Yoti will delete the image once the age has been verified, Instagram said.
-  
-  Another option is for people to select three mutual followers to confirm the user’s age, and the person vouching must be at least 18 years old.
-  
-  The move comes after Instagram paused the launch of Instagram Kids last year, after receiving criticism and opposition for the project.
-  
-  Instagram Kids was touted as requiring parental permission to join, and was supposed to provide ad-free, age-appropriate content, but U.S. lawmakers and advocacy groups urged the company to drop its launch plans, citing safety concerns.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0bbbd71b69d17b57c2a8fc7d1871e27cf1074c34228f86ae4f3c57f4fa7617fe
+size 1864

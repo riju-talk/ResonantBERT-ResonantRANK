@@ -1,33 +1,3 @@
-id: cnn_2022_02526
-title: "Opinion: Texas’ new social media law affects all of us"
-date: "2022-05-25"
-section: "Perspectives"
-url: "https://www.cnn.com/2022/05/25/perspectives/texas-social-media-censorship-law?query=query%28%24symbols%3A%20%5BString%5D%29%20%7B%0A%20%20marketIndexes%28symbols%3A%20%24symbols%29%20%7B%0A%20%20%20%20indexes%20%7B%0A%20%20%20%20%20%20symbol%0A%20%20%20%20%20%20index_displayName%0A%20%20%20%20%20%20inSession%0A%20%20%20%20%20%20streamId%3A%20streamSymbol%0A%20%20%20%20%20%20change%0A%20%20%20%20%20%20level%0A%20%20%20%20%20%20changePct%0A%20%20%20%20%20%20link%0A%20%20%20%20%20%20__typename%0A%20%20%20%20%7D%0A%20%20%20%20__typename%0A%20%20%7D%0A%7D%0A&variables=%7B%22symbols%22%3A%5B%22INDU%22%2C%22INX%22%2C%22COMP.IDX%22%5D%7D"
-content: |
-  Editor’s Note:Kara Alaimo, an associate professor in the Lawrence Herbert School of Communication at Hofstra University, writes about issues affecting women and social media. She was spokeswoman for international affairs in the Treasury Department during the Obama administration. The opinions expressed in this commentary are her own.
-  
-  Earlier this month, a federal appeals court ruled that a Texas law, which allows residents to sue social media companies for “censoring” what they post, could go into effect. The state law, referred to asHB 20, makes it illegal for large social networks like Facebook and Twitter to “block, ban, remove, de-platform, demonetize, de-boost, restrict, deny equal access or visibility to, or otherwise discriminate against expression.”
-  
-  This law leaves social media companies with three choices, all of which are unacceptable: They can remove toxic content like misinformation and hate speech and get tied up in bottomless, costly lawsuits. They can let their platforms turn into cesspools of hate and misinformation and watch people stop using them altogether. Or they can just stop offering their services inTexas, which also exposes them to potential liability since the law makes it illegal for social media platforms to discriminate against Texans based on their location.
-  
-  This law poses an existential threat to social networks as we know them. (Facebook and Twitter chose not to comment for aCNN analysisof the ruling, while YouTube didn’t respond to a request for comment.) And while there’s plenty wrong with social media platforms right now, the only thing worse than not fixing them would be to watch one of the three scenarios above play out. That’s why federal lawmakers should step in immediately to prevent that from happening. They can start by protecting the rights of social networking sites to moderate their content, so they can be healthy places for users to find accurate information and make the kinds of connections that empower us.
-  
-  The biggest challenge facing social media companies today is doing exactly what HB 20 seems to disallow: removingmisinformationand hate speech.
-  
-  Game developer Zoe Quinn has certainly seen the dark side of social media. In their 2017 book, “Crash Override,” Quinn wrote that, starting in 2014, Internet trolls deluged them with threats of rape and violence and mailed nude photos of Quinn to their friends and family. It was all part of a coordinated attack on female game developers known as Gamergate. Quinn, who has since come out as non-cisgender, had to live in hiding and had to take PTSD medication.
-  
-  But even Quinn, who has experienced social networks at their very worst, seems to recognize their value to society and to users. Quinn wrote, “Everything I have, everything good in my life, I owe to the internet’s ability to empower people like me, people who wouldn’t have a voice without it.” That’s because when Quinn said they were depressed, they met people in chatrooms who made them stop wanting to kill themself. Craigslist helped Quinn and their then-husband find jobs when they were homeless. Quinn also said they avoided potentially overdosing on drugs thanks to information they found in online communities and wrote that these communities were their “only effective way to date other girls.” Quinn also established a career as a game developer online.
-  
-  Opinion: WEF president: How the world can rebuild cooperation
-  
-  These are the things people would lose out on if social networks failed due to laws like this: opportunities to find communities of support and, in some cases, make a living. Quinn was able to find hope and help through social platforms, and others can, too. So instead of letting social networks fail, we should be trying to improve them by making them platforms for healthy content that empowers and educates people and helps users make connections and improve our lives.
-  
-  HB 20does carve out exemptions, including those that allow social networks to remove content that “directly incites criminal activity or consists of specific threats of violence targeted against a person or group” based on certain characteristics, or that “is unlawful expression.” I hope that would mean that social networks would also not be penalized for removing content that depicts violence, like the video of the mass shooting inBuffalo, though even this could be open to interpretation. One expert told CNN Business that the law is ambiguous enough to create enormous uncertainty for the social media companies. The platforms could still face legal pressure to leave violent content, like theBuffalo shooting video, in place.
-  
-  Astonishingly, the law makes it harder for social networks to take action against toxic content like misinformation. That could mean that people might cast ballots or make decisions about their health, for example, based on totally inaccurate claims they read online.
-  
-  That’s why Congress needs to step in — fast — to pass a law affirming the right of social media companies to moderate content on their platforms, which would make the Texas law powerless.
-  
-  Meanwhile, twolobbying groupsthat represent the tech industry have asked the Supreme Court to block Texas’ HB 20 law. That would, of course, be ideal. In the meantime, the Court is considering whether to grant anemergency stayof the decision.
-  
-  We need to fix social networks by removing toxic content. This month’s appeals court ruling does the exact opposite and could even deal a fatal blow to social media as we know it. The only thing worse than not fixing the social platforms we have now would be to see them be subject to a constant slew of lawsuits or devolve into platforms that become bastions of hate speech and misinformation. Let’s hope Congress doesn’t let us down.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7413305b10cd5d07ca9ab70ed8846bf0a2013a0ecb16a39a1a119a81a5a5644
+size 6671

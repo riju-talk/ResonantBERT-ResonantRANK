@@ -1,19 +1,3 @@
-id: cnn_2022_03121
-title: "Russia says it’s blocking access to Facebook"
-date: "2022-03-04"
-section: "Tech"
-url: "https://www.cnn.com/2022/03/04/tech/russia-blocks-facebook/index.html"
-content: |
-  Russia moved to block access to Facebook within its borders on Friday, seeking to shut down the world’s biggest social media platform and drawing a rebuke from the Biden administration.
-  
-  “In March 2022, a decision was made to block access to the Facebook network (owned by Meta Platforms, Inc.) in the Russian Federation,”said a statementfrom Roskomnadzor, Russia’s communications regulator.
-  
-  The Russian government said its decision came after Facebook had limited access to state media channels including RT and Sputnik. Russian officials accused Facebook of more than two dozen cases of “discrimination” against Russian media.
-  
-  Roskomnadzor said its bid to cut off Facebook from Russian users was intended “to prevent violations of the key principles of the free flow of information and unhindered access Russian users to Russian media on foreign Internet platforms.”
-  
-  In response, Meta president of global affairsNick Clegg saidthe company was doing “everything we can to restore our services” but that “millions of ordinary Russians” will soon “find themselves cut off from reliable information.
-  
-  “The move to crack down on Facebook prompted White House Press Secretary Jen Psaki to respond during Friday’s press briefing.
-  
-  “This is part of their effort, as you know, to cut off a range of information from their public,” Psaki said, highlighting steps Russia has taken to limit the flow of information about the war in Ukraine. “This is a pattern. This is not necessarily a new approach that they have taken, but to crack down on information in their country to reach the people. So, certainly we are deeply concerned about this and concerned about the threat to freedom of speech in the country.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:8816d848e2a640b221f9e5013c2e8de953dc494c0821f63164cbafcf854b7160
+size 1966

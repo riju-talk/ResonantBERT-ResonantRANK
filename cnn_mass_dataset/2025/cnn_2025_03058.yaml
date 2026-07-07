@@ -1,25 +1,3 @@
-id: cnn_2025_03058
-title: "Anthropic tells US judge it will pay $1.5 billion to settle author class action"
-date: "2025-09-05"
-section: "Business"
-url: "https://www.cnn.com/2025/09/05/business/anthropic-ai-settlement-authors-claude"
-content: |
-  Anthropic told a San Francisco federal judge on Friday that it has agreed to pay $1.5 billion to settle a class-action lawsuit from a group of authors who accused the artificial intelligence company of using their books to train its AI chatbot Claude without permission.
-  
-  Anthropic and the plaintiffs in a court filing asked U.S. District Judge William Alsup to approve the settlement, after announcing the agreement in August without disclosing the terms or amount.
-  
-  “If approved, this landmark settlement will be the largest publicly reported copyright recovery in history, larger than any other copyright class action settlement or any individual copyright case litigated to final judgment,” the plaintiffs said in the filing.
-  
-  The proposed dealmarks the first settlement in a string of lawsuits against tech companies including OpenAI, Microsoft and Meta Platforms over their use of copyrighted material to train generative AI systems.
-  
-  Writers Andrea Bartz, Charles Graeber and Kirk Wallace Johnson filed the class action against Anthropiclast year. They argued that the company, which is backed by Amazon and Alphabet, unlawfully used millions of pirated books to teach its AI assistant Claude to respond to human prompts.
-  
-  The writers’ allegations echoed dozens of other lawsuits brought by authors, news outlets, visual artists and others who say that tech companies stole their work to use in AI training.
-  
-  The companieshave arguedtheir systems make fair use of copyrighted material to create new, transformative content.
-  
-  Alsupruled in Junethat Anthropic made fair use of the authors’ work to train Claude, but found that the company violated their rights by saving more than 7 million pirated books to a “central library” that would not necessarily be used for that purpose.
-  
-  A trial was scheduled to begin in December to determine how much Anthropic owed for the alleged piracy, with potential damages ranging into the hundreds of billions of dollars.
-  
-  The pivotal fair-use question is still being debated in other AI copyright cases. Another San Francisco judge hearing a similar ongoing lawsuit against Metaruled shortly after Alsup’s decisionthat using copyrighted work without permission to train AI would be unlawful in “many circumstances.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:2aa64e88701d983d34929ef128d36ef4b03e6792eb9d341a550c3682fcf9601a
+size 2559

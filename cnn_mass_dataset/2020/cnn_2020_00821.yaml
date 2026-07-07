@@ -1,29 +1,3 @@
-id: cnn_2020_00821
-title: "Federal judge issues scathing decision to allow more ballot drop boxes in Ohio"
-date: "2020-10-08"
-section: "Politics"
-url: "https://www.cnn.com/2020/10/08/politics/ohio-injunction-ballot-boxes-election/index.html"
-content: |
-  A federal judge on Thursday blocked an order from Ohio’s secretary of state that would have required counties in the state to install ballot drop boxes just at the local election office, allowing additional drop boxes to be placed in areas that need them.
-  
-  At issue wasan order earlier this week from Republican Secretary of State Frank LaRosethat limited ballot drop boxes to one location per county: a county’s election office. LaRose had been interpreting an Ohio law that states the only two ways to return an absentee ballot are to mail it or “personally deliver it to the director” as meaning that if a voter chooses to use a drop box, it must be at the County Board of Elections office, because that is still considered to be delivering the ballot directly to the director.
-  
-  But federal Judge Dan Polster said LaRose’s order puts a burden on more populous counties – like Cuyahoga, which includes Cleveland – and which he says has “a very serious looming problem” that could jeopardize the right to vote.
-  
-  “While it may be said that the 7,903 registered voters in Noble County may find a single drop box location sufficient, the record demonstrates that the 858,041 registered voters in Cuyahoga County will likely not,” Polster wrote in a scathing opinion.
-  
-  Polster reserved his harshest language for LaRose, who, he says, under Ohio law has the ability to allow counties to expand the number of locations where drop boxes can be. Cuyahoga wants them at public libraries.
-  
-  “The Secretary is continuing to restrict boards from implementing off-site collection, and he appears to be doing so in an arbitrary manner,” Polster wrote. “The Court has given the Secretary every opportunity to address the problem … and he has been unwilling or unable to do so.”
-  
-  With less than a month until Election Day, the injunction is sure to please Democrats in the state, who have cast LaRose’s directive as a form of voter suppression. The ruling comes amidan election in which officials are expecting to see an unprecedented number of mailed and dropped-off ballotsas voters look for ways to avoid going to polling centers, where the coronavirus could spread.
-  
-  Polster’s ruling makes him the latest judge to say that claims of election fraud are unsubstantiated: “It is even easier to reject the Secretary’s second justification. No evidence was introduced at the hearing to support the conclusory reference to fraud in the Secretary’s brief.”
-  
-  LaRose had asked Polster to stay any decision so that he would have time to appeal, but Polster wrote that he was not willing to do so.
-  
-  “The Court will not issue a stay. As stated above, we are in the middle of the worst pandemic in a century coupled with reasonable concern over the ability of the U.S. Postal Service to handle what will undoubtedly be the largest number of absentee voters in Ohio’s history. The Secretary has not advanced any legitimate reason to prohibit a county board of elections from utilizing off-site drop boxes and/or off-site delivery of ballots to staff,” the judge wrote.
-  
-  Kristen Clarke, executive director of the National Lawyers Committee for Civil Rights Under Law, praised the ruling, saying it will benefit voters of color in particular.
-  
-  “The court’s order protects the right to vote for tens of thousands of Ohioans, especially Black voters and people of color who disproportionately reside in some of the state’s major population centers. No voter should have to sacrifice their health and well-being to cast their ballot,” Clarke said. “Drop boxes have proven to be a secure method of collecting ballots, and are crucial in allowing voters to safely cast their vote during this unprecedented pandemic.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:782f847b9e4b50b911afcb8f605284d38e558803fd0cf5003c23a0db39f5c4f8
+size 4045

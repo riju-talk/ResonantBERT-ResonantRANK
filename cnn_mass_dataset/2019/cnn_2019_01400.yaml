@@ -1,31 +1,3 @@
-id: cnn_2019_01400
-title: "The Fed is getting into the real-time payments business"
-date: "2019-08-05"
-section: "Investing"
-url: "https://www.cnn.com/2019/08/05/investing/fed-real-time-payments/index.html"
-content: |
-  The Federal Reserve wants to make paying bills and transferring money easier and faster.
-  
-  The Fedannounced Mondaythat it will develop a real-time payment service called “FedNow” to help move money around the economy more quickly. It’s the kind of government service that companies and consumers have been requesting for years — one that already existsin other countries.The service could also compete with solutions alreadydeveloped in the private sectorby big banks and tech companies.
-  
-  The Fed itself is not setting up a consumer bank, but it has always played a behind-the-scenes role facilitating the movement of money between banks and helping to verify transactions. This new system would help cut down on the amount of time between when money is deposited into an account and when it is available for use. FedNow would operate all hours and days of the week, with an aim to launch in 2023 or 2024.
-  
-  Under the current system, the process of sending and receiving money can take up to 72 hours, leaving businesses and consumers, and especially low-income people, in limbo. For example, the current system can create problems for people paid by check at the end of a month, because they must deposit the check into their bank accounts and wait for it to be cleared before they can use that money to pay a utility bill at the start of the next month.
-  
-  Many of America’s largest banks are already part of a coalition called The Clearing House, which offers real-time payment-processing services. Members include Bank of America(BAC), JPMorgan Chase(JPM)and US Bank(USB), among others. And individuals can now instantly transfer funds to one another through apps like Venmo and PayPal, although those services often charge customers to make those funds immediately accessible in their bank accounts. Existing real-time payment systems also typically notify payers immediately that their money has been received.
-  
-  But those perks have yet to extend to every financial institution and business across the country. That’s been one of the arguments for blockchain-based payment systems like Facebook(FB)’sLibra, which would circumvent the need for third-party payment settlement. Duringtwo Congressional hearingson Libra last month, some lawmakers called on the Fed to create a real-time payment system itself rather than having to rely on a network developed by Facebook(FB).
-  
-  US lawmakers grill Facebook executive in charge of Libra
-  
-  “FedNow will permit banks of every size in every community across the country to provide real-time payments to their customers,” Fed Board Governor Lael Brainard said in a statement.
-  
-  Business leaders lauded the Fed’s announcement. Retailers, community banks, technology firms and consumers have been asking for such a service, the Retail Industry Leaders Association said in a statement. It noted that the current system can force businesses to rely more heavily on credit, and impose higher fees for transfers or bill payment on consumers.
-  
-  And although the Fed’s system could compete with the solution developed by large banks, the American Bankers Association also released a statement in support of the announcement.
-  
-  “We believe every bank in the country and their customers will benefit from a seamless and ubiquitous system,” American Bankers Association CEO Rob Nichols said in the statement. “We hope today’s decision by the Federal Reserve to create its own real-time payments network will speed that transition.”
-  
-  Nichols added that, in the meantime, the Bankers Association would continue to encourage banks to join The Clearing House’s real-time payment network. He also asked that the Fed ensure its new system be interoperable with the private banks’ existing one.
-  
-  For now, the Fed said it is accepting comment on the design of the new system.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7d6c4cd5224d6a695119d804d65f819bcfae176f338f58b03288fcb8a654d1c
+size 4097

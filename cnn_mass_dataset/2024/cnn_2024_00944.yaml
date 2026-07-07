@@ -1,25 +1,3 @@
-id: cnn_2024_00944
-title: "How exit polls work and what they will tell us on election night"
-date: "2024-11-05"
-section: "Politics"
-url: "https://www.cnn.com/2024/11/05/politics/how-exit-polls-work-election/index.html"
-content: |
-  What are exit polls? They’re a set of surveys that ask voters whom they voted for, as well as additional questions about their political opinions, the factors they considered in the election and their own backgrounds more broadly.
-  
-  That helps us better understand who came out to vote, how different groups of people voted and how they feel about some of the biggest issues of the campaign.
-  
-  The earliest results from this year’s exit polls will be reported after 5 p.m. ET onElection Day. Data that could characterize the outcome of a race is not reported until after the polls have closed.
-  
-  Exit polls are conducted by Edison Research for the National Election Pool on behalf of a consortium of media companies: CNN, ABC, CBS and NBC. They get their name because interviewers on Election Day are stationed outside roughly 500 polling locations throughout the country, where they conduct surveys with a randomly selected sample of voters who’ve just cast their ballots. The polling locations were themselves selected through random sampling, meaning the resulting interviews should be representative of Election Day voters across the state or nationally. The interviewers call back to report their results several times throughout the day – which means that the early numbers will likely change as more data comes in.
-  
-  But the exit poll doesn’t start on Election Day: It also seeks to represent the views of the millions of Americanswho cast their ballots before November 5. Interviewers are also posted at roughly 100 early in-person voting locations in some states.
-  
-  And the results also include voters who cast early absentee ballots or voted by mail. This part of the electorate is reached by more traditional preelection surveys, which are conducted by calling, emailing and sending text messages to people chosen from lists of all registered voters.
-  
-  In addition to the national exit poll, there are also exit polls conducted in specific states with key, competitive presidential or down-ballot races. This year, those states include Arizona, Georgia, Florida, Michigan, Nevada, North Carolina, Ohio, Pennsylvania, Texas and Wisconsin.
-  
-  In-person exit polls are conducted using paper surveys that respondents fill out themselves; those reached by email or text message answer the questions online, while those reached by telephone answer questions asked by a live interviewer. Each exit poll includes about 20 to 25 questions and is designed to take around five minutes to complete. Each voter’s answers are anonymous.
-  
-  Ultimately, exit polls will include interviews with tens of thousands of voters. That scope makes them a powerful tool for understanding the demographic profile and political views of voters in this year’s election. And their findings will eventually be weighted against the ultimate benchmark: the results of the elections themselves.
-  
-  Even so, exit polls are still polls, with margins for error – which means they’re most useful when treated as estimates, rather than precise measurements. That’s particularly true for the earliest exit poll numbers, which won’t yet have been adjusted to match the final election results.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f53b25e3379bffd11e03355a1ea1ae944473037ff8f352bcbdcd6ef49a940d2
+size 3442

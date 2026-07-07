@@ -1,29 +1,3 @@
-id: cnn_2019_00702
-title: "The UK company turning waste plastic into fuel for hydrogen cars"
-date: "2019-10-14"
-section: "Energy"
-url: "https://www.cnn.com/2019/10/14/energy/powerhouse-energy-plastic-hydrogen/index.html"
-content: |
-  Britain produces about5 million metric tonsof plastic waste every year, but less than a third of that is recycled. Roughly half ends up in landfills.
-  
-  UK company Powerhouse Energy wants to turn this plastic deluge into an opportunity by producing energy from non-recyclable plastics and other waste.
-  
-  Powerhouse Energy has developed a process where it shreds the waste and then heats it to around 1,800 degrees Fahrenheit to produce syngas — a mixture of hydrogen, methane and carbon monoxide. Syngas can either be burned to produce electricity, or the hydrogen can be separated out topower fuel cells in vehicles.
-  
-  Hydrogen fuel cell vehicles are powered by electric motors, but instead of carrying their energy in a battery pack, they create electricity by combining hydrogen with oxygen from the air in a fuel cell. Water vapor and heat are the only byproducts at the tailpipe.
-  
-  The world needs to get serious about combating carbon emissions
-  
-  Hydrogen cars havetwo big advantagesover battery-powered electric vehicles: they can usually drive farther before needing to refuel, and refueling takes only a few minutes, not the hours it can take to charge an electric battery.
-  
-  “For road transport, hydrogen is the perfect fuel,” says David Ryan, CEO of Powerhouse Energy. “For large lorries [trucks] and buses it is probably the future of clean fuel, because its emission is water.”
-  
-  One downside is that hydrogen fueling stations are few and far between; in the United Kingdom there are fewer than 20. Yet countries are forging ahead with the technology: Japan aims to have200,000 hydrogen carson its roads by 2025, served by 320 fueling stations.
-  
-  Aboutthree quartersof the world’s hydrogen supplies are made from natural gas, a process that produces carbon emissions. But even cars powered this way can reduce carbon emissions by more than 30% compared with conventional vehicles, according to theUnion of Concerned Scientists, a US non-profit.
-  
-  Powerhouse Energy says its own production process emits much less CO2 than using natural gas, giving motorists a significantly greater emissions saving — while using up rubbish that would otherwise go to landfill.
-  
-  Powerhouse Energy’s process is still at demonstration level, but it plans to soon expand to 11 sites in the United Kingdom. It ultimately hopes to have a number of small facilities near cities worldwide, using local waste to provide communities with power and hydrogen. Locating a plant at or close to a hydrogen cell refueling point would reduce the carbon emissions created by transporting the hydrogen.
-  
-  “The vision is that fuel-cell vehicles can be used in the place of hybrids now — so you might have a fuel-cell car with a battery backup,” says Ryan. “But for lorries and buses, the vision is that they could be totally hydrogen fueled. We can provide enough fuel for a day’s transportation and then they return to base to refuel for the next day.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:da2a6791cdeed05ede6da58824173dc8123cb46dce1bcfdfd8ea27e7a6fc2a07
+size 3226

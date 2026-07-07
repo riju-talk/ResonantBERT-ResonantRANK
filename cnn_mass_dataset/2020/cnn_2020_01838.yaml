@@ -1,31 +1,3 @@
-id: cnn_2020_01838
-title: "Daimler to pay $1.5 billion in emissions cheating settlement with the US"
-date: "2020-09-14"
-section: "Business"
-url: "https://www.cnn.com/2020/09/14/business/daimler-diesel-emissions-cheating-settlement/index.html"
-content: |
-  Mercedes-Benz’s parent company, Daimler AG, has agreed to pay $1.5 billion in penalties and settlements to US and California state regulators in order to resolve allegations that its vehicles were rigged to cheat on diesel emissions tests.
-  
-  Engineers at the Environmental Protection Agency said they had found that the software in Daimler’s vehicles included software designed to cheat on emission tests.
-  
-  The company agreed to an $875 million settlement with the EPA, the Department of Justice and the California Air Resources Board. As part of the agreement, Daimler will be required to fix the more than 250,000 diesel-powered vans and passenger vehicles that it manufactured, imported and sold between 2009 and 2016 in order to bring them into legal compliance, and to mitigate the effects on the environment of the excess emissions the software allowed.
-  
-  “Let me point out that Daimler will pay a civil penalty of $875 million in total. This is the second largest civil penalty under the Clean Air Act. On a per-vehicle basis, this penalty is larger than both the 2017 Volkswagen penalty and the 2019 Fiat Chrysler penalty,” EPA administrator Andrew Wheeler said.
-  
-  McLaren is betting on hybrids for its supercar future
-  
-  The total cost of the settlement is estimated by the agencies and Daimler to be about $1.5 billion.
-  
-  “The company has fully cooperated with the U.S. authorities. Daimler has not received a Notice of Violation (NOV) from the EPA or the CARB during this process,” the companysaid in a statement.
-  
-  Separately, lawyers representing plaintiffs in a class action lawsuit against Daimler for allegedly cheating on diesel emissions test announced details of a $700 million settlement with the automaker.
-  
-  Despite the settlement, Daimler denies any wrongdoing.
-  
-  “As stated in the consent decrees and the class action settlement, the company denies the authorities’ allegations as well as the class action plaintiffs’ claims and does not admit any liability to the United States, California, plaintiffs, or otherwise,” the company said.
-  
-  Diesel engines are more fuel-efficient than gasoline engines, but they tend to release more dangerous emissions that can have adverse health effects.
-  
-  “Long-term, if you cheat, you’re going to get caught. Daimler is finding that out today. But they’re not the first — nor likely the last — to try,” California Attorney General XavierBecerra said in a statement.
-  
-  Correction:An earlier version of this story mischaracterized a quote from EPA administrator Andrew Wheeler. The $875 million civil penalty Daimler will pay will be the second largest civil penalty in the history of the Clean Air Act. On a per-vehicle basis, Wheeler said this penalty is larger than both the 2017 VW penalty and the 2019 Fiat Chrysler Automobiles penalty.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f29f9d52ad43bdb52e2616501df0e97bcc8326b2a6b6568c4097cf54c4bf2d6
+size 3124

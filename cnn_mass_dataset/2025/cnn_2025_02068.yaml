@@ -1,27 +1,3 @@
-id: cnn_2025_02068
-title: "UBS reports a data leak after a cyber attack on a provider"
-date: "2025-06-18"
-section: "Business"
-url: "https://www.cnn.com/2025/06/18/business/ubs-data-leak-cyber-attack-intl"
-content: |
-  Swiss banks UBS and Pictet said Wednesday that they had suffered a data leak due to a cyber attack on a provider in Switzerland, which did not compromise client information, although a report said thousands of UBS workers’ data was affected.
-  
-  Swiss newspaper Le Temps said files containing details of tens of thousands of UBS (UBS) employees were stolen from the Baar-based business service company Chain IQ, whose website lists KPMG and Mizuho among its clients.
-  
-  “A cyber attack at an external supplier has led to information about UBS and several other companies being stolen. No client data has been affected,” UBS said.
-  
-  “As soon as UBS became aware of the incident, it took swift and decisive action to avoid any impact on its operations.”
-  
-  The leaked cache also included the number of a direct internal line to UBS CEO Sergio Ermotti, Le Temps reported.
-  
-  Cybercriminal group targets multiple US retailers after wreaking havoc in UK
-  
-  Chain IQ said it and 19 other companies were targeted in the attack, resulting in leaked data being published online on the dark net – a part of the internet not accessible through standard search engines.
-  
-  Steps and countermeasures were promptly taken and the situation was contained, it said in a statement.
-  
-  Chain IQ, which said the data was published on the afternoon of June 12, said that it could not provide any information on potential ransom demands or interactions with the attackers, for security and investigative reasons.
-  
-  Private bank Pictet said the information stolen in the incident did not contain its client data and was limited to invoice information with some of the bank’s suppliers, such as technology providers and external consultants.
-  
-  Pictet said it took data breaches seriously and had protocols and agreements in place to stop unauthorized access.
+version https://git-lfs.github.com/spec/v1
+oid sha256:470e4012346aad275895aa7048fb1dafaad957bd5d8473a661793aa5b56a3943
+size 2089

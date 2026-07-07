@@ -1,27 +1,3 @@
-id: cnn_2020_00740
-title: "Stimulus payments sent to dead people must be returned, IRS says"
-date: "2020-05-06"
-section: "Politics"
-url: "https://www.cnn.com/2020/05/06/politics/irs-stimulus-checks-dead-people/index.html"
-content: |
-  Federalstimulus paymentssent to people who have died must be returned, the Internal Revenue Service said in new guidance released Wednesday.
-  
-  In a rush to getstimulus paymentsout as fast as possible, some of the money was sent to people who had died but had filed taxes within the past two years – even asmillions continue to wait for their payments to arrive.
-  
-  The IRS has to cross-check with another federal agency to get a list of the deceased.
-  
-  It was previously unclear whether family members could keep the money, but the IRS now says the full payment must be returned, unless the deceased was married and filed tax returns jointly with a spouse who is still alive. In that case only the portion of the payment belonging to the deceased needs to be returned, the agency said. If the couple received $2,400, for example, $1,200 needs to be sent back.
-  
-  If a check was received, it must be mailed back to the Treasury Department. If the check was cashed or the payment was directly deposited into the bank account, the IRS is asking people to send a personal check or money order. Further instructions werepostedonlineby the IRS.
-  
-  The IRS started by sending money to those who had already filed a 2018 or 2019 tax return. The IRS has sent more than 122 million payments, for a total of $207 billion, since April 11.
-  
-  The agency also clarified on Wednesday that other people who may have received a payment but are ineligible, including those who are incarcerated, must also return the money.
-  
-  Eligibility is largely based on income, and it excludes individuals earning more than $99,000, head of household filers with one child who earn more than $136,500, and married couples without children earning more than $198,000.
-  
-  Families earning a little more may still be eligible if they have children. The phase-out limit depends on how many children they have. For a typical family of four, the amount is completely phased out for those with incomes exceeding $218,000.
-  
-  Those who can be claimed as a dependent for tax purposes, like many college students, are also ineligible for the payments, as well as undocumented immigrants who don’t have Social Security numbers.
-  
-  Payments are worth up to $1,200 for individuals, and $2,400 for couples – plus $500 per dependent.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ea6a8436e3ef22c16a3140c13034a90fe2a3bd09d87d855bf69598357dd00cd
+size 2552

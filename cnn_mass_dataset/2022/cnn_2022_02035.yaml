@@ -1,31 +1,3 @@
-id: cnn_2022_02035
-title: "Dow falls 800 points on recession fears"
-date: "2022-04-26"
-section: "Investing"
-url: "https://www.cnn.com/2022/04/26/investing/markets-plunge-tech-down"
-content: |
-  US markets plunged on Tuesday.
-  
-  TheDow fell810 points, or 2.4%, as an April sell-off spurred by fears of an economic slowdown continued following Monday’s short-lived recovery.
-  
-  The losses were led by mega cap tech stocks as investors await key corporate earnings reports this week.
-  
-  First quarter results from Google’s parent company Alphabet(GOOGL)missed estimates on Tuesday afternoon, bringing in $24.62 per share, versus the $25.91 expected, according to Refinitiv. The stock fell more than 5% in extended trading. Microsoft’s earnings exceeded analysts’ expectations, but the stock remained flat in extended trading.
-  
-  The tech-heavy Nasdaq dropped about 4%, further retreating into bear-market territory. It’s now 22% off of its high, and posted a 52-week low Tuesday. The S&P fell by 2.8%.
-  
-  After Federal Reserve chairman Jerome Powell indicated last Friday that there will likely be aggressive interest rate hikes next month, the Dow fell about 980 points, or 2.8%. The rate increases are meant to quell runaway inflation, but investors are more worried that an interest rate spike will slow consumer spending and the housing market, ushering in the next recession.
-  
-  Dow falls nearly 1,000 points on rate hike fears and poor earnings from Verizon
-  
-  Fast-growing tech stocks are closely linked to the decisions of the Federal Reserve. These rate-sensitive companies have high price-to-earnings ratios because they’re typically valued on future profits and pay no dividends. Higher rates mean that future earnings will be worth less than they are today.
-  
-  Cyclical stocks also dropped Tuesday. Dow component 3M fell nearly 3%, and shares of UPS fell more than 3%, even though both companies beat earnings expectations.
-  
-  General Electric plummeted nearly 10% after warning that its 2022 outlook was “trending toward the low end of the range.”
-  
-  Asian markets also retreated Tuesday as economic shutdowns in China, triggered by the country’s zero-Covid policy, disrupted global supply chains. China is a big customer in the US tech and semiconductor markets.
-  
-  Investors also remain worried about the geopolitical turmoil linked to Russia’s invasion of Ukraine. A top Russian official said Tuesday that the threat of nuclear war is real.
-  
-  The CNN Business Fear & Greed Index, which measures seven indicators of market sentiment, fell deeper into fear mode Tuesday.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e828d33dc589e0dcd612d1a26c7a003b466cce602855ff394921085be919a15
+size 2627

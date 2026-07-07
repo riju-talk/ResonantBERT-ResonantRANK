@@ -1,35 +1,3 @@
-id: cnn_2019_01189
-title: "Terrorists are using crypto to pay for attacks. It’s time to stop them"
-date: "2019-12-27"
-section: "Perspectives"
-url: "https://www.cnn.com/2019/12/27/perspectives/cryptocurrency-blockchain-terrorism/index.html"
-content: |
-  Editor’s Note:Tarun Wadhwa is CEO of Day One Insights, a strategy and advisory firm focusing on corporate reinvention, and a visiting fellow at Emory University’s Department of Political Science. Anish Mohammed is a researcher and consultant who has been working in the security and cryptography area for the past two decades. He is a former adviser to Ripple. The opinions expressed in this commentary are their own.
-  
-  Since Bitcoin arrived in 2009, there has been growing economic and ideological interest in perfecting money that is native to the internet, and its popularity has sparked thousands of iterations. Blockchain-based digital money was indeed supposed to make our financial systems more free, fair and transparent. But where visionaries saw improvements over traditional finance, criminal enterprises saw opportunities.
-  
-  Sure, the traditional financial system is regularly used by traffickers and terrorists, but cryptocurrencies have some attributes that are especially attractive for illicit activity. Unlike payments through banks, blockchain-based transactions settle in a matter of minutes. There’s no central authority to handle disputes, and transfers are irreversible. One currency can be rapidly traded for another. Security companyCipherTracenotes that while only a fraction of Bitcoin transactions is used for crime, it’s also true that “nearly all dark market commerce is transacted in cryptocurrencies.”
-  
-  One key area that has been repeatedly attacked are cryptocurrency exchanges, companies that allow customers to purchase and trade different types of digital assets. They “handle the money,” so they have the most sensitiverole. Despite that, these businesses are notorious for theshady practicesthey enable, like insufficient verification of listings, abusive trading activity and rampant conflicts of interest. Cryptocurrency exchanges are rife withfraudand constantly being hacked. While this has led to many lost fortunes, there’s far more than money at stake.
-  
-  Take North Korea. A March report from theUnited Nations Security Councilfound that Kim Jong Un and theNorth Korean regimehave been exploiting vulnerabilities in cryptocurrency exchanges to evade sanctions and fund their military ambitions. So far, it’s been a huge success. Between January 2017 and September 2018, state-sponsored hackers have stolen $571 million worth of tokens from cryptocurrency exchanges across Asia, according to one estimate cited in the UN report.
-  
-  North Korea is not the only rogue state looking to leverage cryptocurrencies.Venezuelahad explored creating its own cryptocurrency to bypass sanctions imposed by the United States.
-  
-  Non-state actorsare constantly evolving their tactics, too. The United States has accusedtwo Iraniansof using Bitcoin in a digital extortion campaign.Middle East Media Research Institute, a research and analysis organization, has observed an uptick in jihadi organizations soliciting donations in cryptocurrency through social media, particularly on the messaging app Telegram.The founder of Telegram has defended the company’s policies and said during a“60 Minutes” interviewin 2016 that it is trying to do more to stop terrorist groups from using the service.
-  
-  Fighters around the region are using cryptocurrency to fund attacks, purchase weapons, obtain equipment and support their families.Elliptic, a company that develops tools to track how cryptocurrencies are used in criminal activity, has found that Hamas, the Palestinian fundamentalist militant organization, has deployed a method to make some of their donations nearly untraceable by providing each visitor a different Bitcoin address to send payments to.
-  
-  Staging a terrorist attackcan cost as little as a few thousand dollars. With cryptocurrencies, that sort of money can be raised almost instantly by scamming users, attacking businesses or manipulating financial markets. For a state-sponsored hacker with nearly unlimited resources, the potential earnings can be far greater.
-  
-  Blockchain entrepreneurs and developers now need to develop and adopt the guardrails, protections and the oversight necessary for a global financial system. That means learning from the existing financial system while still embracing the security advantages unique to blockchain. Banks can be greedy and ineffective, but they have built complex and reliable ways to build, test and maintain systems that are worth emulating. With a cultural focus on reducing risk, these institutions have clear guidelines, train employees extensively and strictly adhere to compliance laws.
-  
-  Most blockchains allow you to build policies and rules in the data, which requires a more thoughtful strategy, but can be used to prevent problems and create a system that is capable of correcting itself. Entrepreneurs should develop a set of standards, limits and restrictions directly into the function of the blockchain itself. This could include mandating advanced forms of cryptography, building in insurance policies if data is misused, or setting rules for how updates can be made in the future.
-  
-  Public policy groups can be helpful here by creating and disseminating clear procedures for the industry to follow. Most notably,The Financial Action Task Force, an intergovernmental organization, has produced guidelines on how cryptocurrency businesses should share the identity information of users who transact in their markets.
-  
-  Heavy-handed regulation is not the way to go. But if developers fail to improve, governments will be forced to step in and take drastic action. That will likely lead to burdensome regulations, or worse, criminalization. In fact,US Deputy Secretary of the Treasury Sigal Mandelkerwarned that if foreign financial institutions, including cryptocurrency exchanges, do not build appropriate safeguards, then the United States will work to make sure “that non-compliant networks and fintechs do not survive.”
-  
-  A much more aggressive policing approach appears to be on the horizon. Law enforcement priorities will outweigh the efficiencies and opportunities made possible by blockchain, constraining a promising field of economics.
-  
-  Blockchain’s greatest asset is the passionate community of developers behind it. But the work they’ve done to improve the world is now being hijacked by those who wantto commit acts of violence and create instability. We need to fix this situation in order to move the industry forward. Without serious course corrections, a movement to create government-less currency is on track to become yet another tool for nations to undermine each other.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2bce83e5b038f0d1d31528ee986b07f023f2fd68d3c228bf2dfb133f6afb1910
+size 6928

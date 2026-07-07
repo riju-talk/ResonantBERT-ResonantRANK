@@ -1,21 +1,3 @@
-id: cnn_2020_01974
-title: "Google Chrome will soon allow users to group their tabs together"
-date: "2020-05-13"
-section: "Tech"
-url: "https://www.cnn.com/2020/05/13/tech/google-chrome-tabs/index.html"
-content: |
-  We’ve all beenthere: 27browser tabs open and struggling to find the one we need. Google(GOOGL)wants to help.
-  
-  The tech giant is rolling out a new tool to organize tabs in itsChrome browserand group them together, it announced Wednesday.
-  
-  Users can right click on tabs to add them to groups and then label those groups with a custom name, color, emoji or a combination of the three, Chrome engineer Edward Jung said in ablog post. Google’s initial research showed some popular ways that people tend to group their tabs — by topic, by urgency (“ASAP,” “this week” or “later”) or by progress (“haven’t started,” “in progress” or “completed”).
-  
-  “Tab groups are customizable so you can decide how to use them,” Jung said.
-  
-  (This writer’s trick is to open a new browser window for each story he is working on or when he hits a certain threshold of tabs, which means instead of having 36 tabs open he has three windows with 12 tabs each).(The editor of this story has 18 tabs open in one window right now).
-  
-  While tab organizers aren’t a new concept — services such asOneTab,ClusterandTobyoffer Chrome extensions for this purpose, for example — this is the first time Google is offering its own.
-  
-  The feature, which Google has been testing for months, is currently only available on Chrome’s beta version. The company will add it to the new version of Chrome starting next week, rolling it out gradually to avoid impacting the browser’s “stability and performance.”
-  
-  One thing that won’t change no matter what Google does, however, is the joy of closing dozens of tabs when you’re done working on something.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d07f0e284fa3fb7bdb174822036c82eb44df0c553b1871f7f0797b12f8ce5cb2
+size 1899

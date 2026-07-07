@@ -1,33 +1,3 @@
-id: cnn_2025_03031
-title: "Google says 90% of tech workers are now using AI at work"
-date: "2025-09-23"
-section: "Tech"
-url: "https://www.cnn.com/2025/09/23/tech/google-study-90-percent-tech-jobs-ai"
-content: |
-  The overwhelming majority of tech industry workers use artificial intelligence on the job for tasks like writing and modifying code, a new Google study has found.
-  
-  The report, coming from Google’s DORA research division and based on 5,000 responses from technology professionals around the world, found that 90% of respondents are using AI in their job, up 14% from last year.
-  
-  The findings come as the rise of AI has prompted a mix of concern, hype and promise around how the technology could impact jobs and the economy. Anthropic CEO Dario Amodei made headlines in May when he said AI could lead toa spike in unemployment, a sentiment thatother tech industry professionalshave since tamped down. But some data does suggest﻿ it’sgetting harder for entry-level workers to find jobsin software engineering, a trend that comes amid a wave of layoffs in the tech industry.
-  
-  Google is one of many companies looking to capitalize on the shift to AI-assisted software development; it offers tools that range from free to $45 per month for helping with code generation and deploying agents that can handle software development tasks. And the companyfaces widespread competition, not just from rivals like Microsoft, OpenAI and Anthropic but also AI coding startups such as Replit and Anysphere, which are seeing theirvaluationssoaras tech companies increasingly adopt AI.
-  
-  Ryan J. Salva, who oversees Google’s coding tools like Gemini Code Assist, said the “vast majority” of teams at Google are using AI, saying the technology has been embedded into everything from the way documentation is written to Google’s code editors.
-  
-  150 job applications, rescinded offers: Computer science grads are struggling to find work
-  
-  “If you are an engineer at Google, it is unavoidable that you will be using AI as part of your daily work,” he said in an interview with CNN ahead of the report’s release.
-  
-  But just because coders use AI doesn’t necessarily mean they’re all finding value in it. Forty-six percent of tech professionals who participated in the survey said they “somewhat” trust the quality of AI-generated code, while 23% said they only trust it “a little” and 20% said they trust it “a lot.” And 31% said AI “slightly improved” code quality, while 30% said it had “no impact.”
-  
-  Salva says on a scale of one to five, with one being basic text prediction and five being the ability to give AI a general vague command, AI software development is somewhere between stage three and four. That’s to say AI can troubleshoot across systems but still needs human review and “lots of safety nets.”
-  
-  The adoption of AI tools comes at a challenging time for entry-level tech workers. The unemployment rate for recent computer science and computer engineering graduates is now higher than that for fields like art history and English, according toThe New York Fed, and job listings for software engineering roles on Indeedfell by 71%between February 2022 and August 2025.
-  
-  Recent computer science graduateswho spoke with CNNearlier this year were generally optimistic about future career prospects but acknowledged that AI is changing the nature of the job. One recent graduate, Julio Rodriguez, said he applied to more than 150 jobs before landing a role.
-  
-  While AI adoption is advancing fast, Salva is in the camp of those who believe that there are critical parts of software developmenthat cannot be automated and that AI will streamline the parts that workers find mundane.
-  
-  But he acknowledges that at least some of the uptick in adopting AIhas probably come from the buzz surrounding the technology.
-  
-  “Software development is a fashion industry… We’re all chasing the next style of jeans,” he said. “And when there’s that much conversation about it, everyone’s just excited to try the new thing.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:16d75e540c714dbacac76ce3170cd3a1e8448027dc8c3f208476b5484902514b
+size 4118

@@ -1,31 +1,3 @@
-id: cnn_2025_01907
-title: "Alibaba launches DeepSeek rival, sending stock surging"
-date: "2025-03-06"
-section: "Tech"
-url: "https://www.cnn.com/2025/03/06/tech/china-alibaba-ai-model-deepseek-hnk-intl/index.html"
-content: |
-  Chinese tech giant Alibaba unveiled its latest artificial intelligence reasoning model on Thursday, boasting that its capabilities beat those of rival models from OpenAI and startup DeepSeek.
-  
-  The news prompted Alibaba’s Hong Kong-listed shares to close 8% higher on the day and helped boost the Hang Seng’s China Enterprises Index.
-  
-  The release of Alibaba’s new AI model comes a day after the launch of a “general AI agent” called Manus by another company. A video on thewebsitededicated to Manus says the software can carry out complex, multi-step tasks such as screening resumés and creating a website. According to Reuters, Manus is the creation of Chinese company Monica.
-  
-  The video also says the AI agent is more advanced than a chatbot because it doesn’t only generate ideas but delivers tangible results, such as producing a report recommending properties to buy based on specific criteria.
-  
-  Alibaba touted its new model, QwQ-32B, in anonline statementas delivering “exceptional performance, almost entirely surpassing OpenAI-o1-mini and rivaling the strongest open-source reasoning model, DeepSeek-R1.” OpenAI-o1-mini is the American company’s cost-efficient reasoning model released last year.
-  
-  Alibaba added the model has achieved a “qualitative leap in mathematics, coding, and general capabilities, with overall performance on par with DeepSeek R1,” it said in the statement.
-  
-  The company claimed that its model has 32 billion parameters compared with DeepSeek’s R1, which has 671 billion parameters. Fewer parameters imply a model is smaller and more efficient to train.
-  
-  DeepSeek stunned the world in January with its high-performing reasoning model R1 that it said cost far less to train than established Western rivals. Its success has shored up confidence among global investors in Chinese companies’ ability to innovate at the time when the US-China tech rivalry intensifies. The Hang Seng China Enterprises Index hassurged over 30% since January.
-  
-  Alibaba, the owner of Chinese e-commerce platforms Taobao and Tmall, first launched its ChatGPT-equivalent service Tongyi Qianwen in 2023, after OpenAI launched its industry-defining AI reasoning model.
-  
-  In January, Alibaba released another model, Qwen 2.5 Max, which it said surpassed the performance of DeepSeek’s highly acclaimed V3 model, released just a few weeks before.
-  
-  Last week, Alibabapledgedto invest at least 380 billion yuan ($52.4 billion) in its AI and cloud computing infrastructure over the next three years. It said the amount exceeded what it had invested in those areas over the past decade.
-  
-  On Wednesday, Chinese leaderspledged supportfor “emerging industries and industries of the future,” including increasing funding for artificial intelligence, humanoid robots and quantum technology.
-  
-  Anna Cooban in London contributed to this article.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9266c2e6b951a0cc17ac6ed056834d1e4b5b5c713563c9a5d091c98c6deef8dd
+size 3139

@@ -1,33 +1,3 @@
-id: cnn_2024_02905
-title: "Justice Department and Microsoft disrupt Russian hacking operations aimed at US officials and civil society"
-date: "2024-10-03"
-section: "Politics"
-url: "https://www.cnn.com/2024/10/03/politics/justice-department-microsoft-disrupt-russian-hacking/index.html"
-content: |
-  The Justice Department and Microsoft on Thursday announced the seizure of more than 100 web domains that a Russian intelligence agency allegedly used to try to hack current and former US officials, civil-society groups and Russians living in the US.
-  
-  The sweeping hacking campaign sought to gather intelligence on US and allied efforts to support Ukraine, and to infiltrate and undermine pro-democracy and human rights organizations in the US, United Kingdom and Eastern Europe, according to US officials and private experts.
-  
-  It’s the latest in a series of moves from the Justice Department to expose alleged covert Russian operations targeting US democracy in the runup to the 2024 presidential election. In this case, the hackers did not directly target political campaigns or election infrastructure; rather they aimed to degrade the civil-society groups that support functioning democracies, according to Microsoft.
-  
-  From January 2023 to August 2024, the hackers targeted 30 organizations such as media outlets, think tanks and non-government organizations, stealing their sensitive internal data and trying to undermine their activities, according to Steven Masada, an assistant general counsel at Microsoft.
-  
-  Data collected by the hackers have also included “sensitive information” related to the identity of US government employees and US defense and security policies, according to an affidavit filed by an FBI agent in the case. All of that information, the affidavit said, “is particularly valuable to the Russian government’s effort to engage in malign foreign influence operations within the United States.”
-  
-  It was not immediately clear how recently the hackers stole that sensitive US government information in the activity cited in the affidavit. CNN has requested comment from the Justice Department.
-  
-  A US indictment unsealed last year against alleged members of the same hacking group said the hackers had stolen “valuable intelligence” related to US defense and security policies as well as information on nuclear energy technology from 2016 and 2022.
-  
-  The UK government last year accused the same Russian hacking group of conducting a “sustained unsuccessful attempts to interfere in UK political processes” over several years that hacked politicians, civil servants and journalists.
-  
-  The hackers operate on behalf of Russia’s FSB intelligence agency, the prime successor to the Soviet-era KGB, according to US officials. The FSB has a broad mandate to use its extensive hacking capabilities to surveil dissidents at home and abroad. Another FSB-linked hacking group has posed a direct threat to US critical infrastructure by targeting energy facilities, according to US officials.
-  
-  Since Russia’s full-scale invasion of Ukraine in 2022, the FSB and other Russian intelligence agencies have been relentless in using cyber campaigns to try to understand and thwart Western efforts to support Ukraine with military aid.
-  
-  “A single account compromise of a journalist or dissident can ripple throughout a whole network of people, with consequences for their safety and liberty,” said John Scott-Railton, a researcher at the University of Toronto’s The Citizen Lab, who has investigated the activity. “This is why it is so important to see platforms taking actions to impose cost on Russian hacking operations.”
-  
-  The NGO Information Sharing and Analysis Center, a nonprofit that protects civil-society groups from hacking, filed the lawsuit with Microsoft in federal court that allowed the tech firm to seize the internet domains.
-  
-  Natalia Krapiva, senior tech-legal counsel at nonprofit Access Now, which helped support the case, praised “the courageous victims who came forward and shared their stories and data that made this action possible.”
-  
-  This story has been updated with additional developments.
+version https://git-lfs.github.com/spec/v1
+oid sha256:134b46f32f025bd581b919531e6d620b86367eebe7c34cd2531c8d20988d0657
+size 4215

@@ -1,13 +1,3 @@
-id: cnn_2018_02073
-title: "YouTube back online after brief outage"
-date: "2018-10-16"
-section: "Tech"
-url: "https://www.cnn.com/2018/10/16/tech/youtube-outage/index.html"
-content: |
-  A collective “What the heck?” swept the World Wide Web Tuesday night as users of video giant YouTube couldn’t get content to play for about an hour.
-  
-  “Thanks for your reports about YouTube, YouTube TV and YouTube Music access issues,” the California-based company tweeted before the problem appeared to be resolved. “We’re working on resolving this and will let you know once fixed. We apologize for any inconvenience this may cause and will keep you updated.”
-  
-  Some users were met by an “internal service error” message. Visits to individual video pages started to load, but then showed a message that read “An error occurred. Please try again later.” The rough animation behind the text mimicked the static of a TV screen.
-  
-  The outage appeared to begin some time around 9:45 p.m. ET and ended about an hour later.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1d40958952883ca2a077517759f0e0e4efb97cc807dacb402909eb4e1c6d542
+size 1036

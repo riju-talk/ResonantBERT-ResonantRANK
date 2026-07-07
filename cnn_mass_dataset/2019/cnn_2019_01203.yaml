@@ -1,33 +1,3 @@
-id: cnn_2019_01203
-title: "Climate change will even change the color of the oceans, study says"
-date: "2019-02-04"
-section: "World"
-url: "https://www.cnn.com/2019/02/04/world/climate-change-ocean-color-study/index.html"
-content: |
-  The ocean will not look the same color in the future. It won’t turn pink or anything radically different; the change will be more apparent through optic sensors than though the human eye. But it serves as anearly warning sign that global warming is significantly altering the planet’s ecosystems, according to a new study.
-  
-  Essentially, climate change will make the blues of the ocean bluer and the greens greener. Scientists figured this out by creating a global model that simulates the growth of a tiny creature that lives in the oceans and affects the color we see. Their research was published Monday in the journal Nature Communications.
-  
-  Climate change: The more we know, the worse it seems
-  
-  The ocean looks blue or green to us because of a combination of how sunlight interacts with water molecules and with whatever else lives in that water.
-  
-  The molecules in water absorb all but the blue part of the spectrum of sunlight, and the water reflects that blue color back. That’s the color we see.
-  
-  The water looks greener when it has morephytoplankton, tiny, microscopic organisms that, like plants, can use chlorophyll to capture mostly the blue portions of the spectrum of sunlight. They then use photosynthesis to create the chemical energy they need to live. When there are more of these creatures in the water absorbing sunlight, they make the water look greener. Conversely, if there are fewer phytoplankton, the water looks bluer.
-  
-  The creatures’ growth is dependent on how much sunlight, carbon dioxide and nutrients are around. Climate change is altering the ocean currents, meaning there will be fewer nutrients for phytoplankton to feed on in some areas, so there will be a decline in their number in those regions.
-  
-  2018 was the hottest year ever recorded for the planet's oceans
-  
-  Since the 1990s,satellites have taken regular measurementsof how much chlorophyll is in the ocean. Those levels can change because of weather events or because of climate change. But using those images to look at reflected light alone, the researchers in the new study could distinguish what is specifically due to climate change. And they noticed that there will be a significant shift in the color of the oceans much earlier than was previously predicted, just looking at chlorophyll changes.
-  
-  The study predicts that the blues will intensify, most likely in subtropical regions where phytoplankton will decrease. These are areas near the equator like Bermuda and the Bahamas that are already quite low in phytoplankton.
-  
-  Regions where there are a lot of nutrients, like in the Southern Ocean or parts of the North Atlantic, will see even faster-growing phytoplankton because those waters are warming with climate change. Those waters will look greener.
-  
-  Climate change will bring a color change to half of the world’s oceans by the end of the21st century,the study says. That’s bad for climate change on several levels: For one, phytoplankton remove about as much carbon dioxide from the air as plants and help regulate our climate,research shows. They are also key to other animals’ survival.
-  
-  Sign up here to getThe Results Are In with Dr. Sanjay Guptaevery Tuesday from the CNN Health team.
-  
-  “The change is not a good thing, since it will definitely impact the rest of the food web,” said study co-authorStephanie Dutkiewicz, a principal research scientist in MIT’s Department ofEarth, Atmospheric, and Planetary Sciences. “Phytoplankton are at the base, and if the base changes, it endangers everything else along the food web, going far enough to the polar bears or tuna or just about anything that you want to eat or love to see in pictures.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:40ca947ed0d2241d21fbc6c41d2906ec275fb38a6e893e6779ab9e01eb85347c
+size 3960

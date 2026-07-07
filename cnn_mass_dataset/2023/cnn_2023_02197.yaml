@@ -1,29 +1,3 @@
-id: cnn_2023_02197
-title: "AI fears overblown? Theoretical physicist calls chatbots ‘glorified tape recorders’"
-date: "2023-08-13"
-section: "Business"
-url: "https://www.cnn.com/2023/08/13/business/ai-quantum-computer-kaku?cid=external-feeds_iluminar_yahoo"
-content: |
-  The public’s anxiety over new AI technology is misguided, according to theoretical physicist Michio Kaku.
-  
-  In an interview with CNN’s Fareed Zakaria on Sunday, the futurologist said chatbots like OpenAI’s ChatGPT will benefit society and increase productivity. But fear has driven people to largely focus on the negative implications of the programs, which he terms “glorified tape recorders.”
-  
-  “It takes snippets of what’s on the web created by a human, splices them together and passes it off as if it created these things,” he said. “And people are saying, ‘Ohmy God, it’s a human, it’s humanlike.’”
-  
-  However, he said, chatbots cannot discern true from false: “That has to be put in by a human.”
-  
-  According to Kaku, humanity is in its second stage of computer evolution. The first was the analog stage, “when we computed with sticks, stones, levers, gears, pulleys, string.”
-  
-  After that, around World War II, he said, we switched to electricity-powered transistors. It made the development of the microchip possible and helped shape today’s digital landscape.
-  
-  But this digital landscape rests on the idea of two states like “on” and “off,” and uses binary notation composed of zeros and ones.
-  
-  “Mother Nature would laugh at us because Mother Nature does not use zeros and ones,” Kaku said. “Mother Nature computes on electrons, electron waves, waves that create molecules. And that’s why we’re now entering stage three.”
-  
-  He believes the next technological stage will be in the quantum realm.
-  
-  Quantum computing is an emerging technology utilizing the various states of particles like electrons to vastly increase a computer’s processing power. Instead of using computer chips with two states, quantum computers use various states of vibrating waves. It makes them capable of analyzing and solving problems much faster than normal computers.
-  
-  Several tech giants – IBM(IBM), Microsoft(MSFT), Google(GOOG)and Amazon(AMZN), among others –are developing their own quantum computers, and have granted access to a number of companies to use their technology through the cloud. The computers could help businesses with risk analysis, supply chain logistics, and machine learning.
-  
-  But beyond business applications, Kaku said quantum computing could also help advance health care. “Cancer, Parkinson’s, Alzheimer’s disease – these are diseases at the molecular level. We’re powerless to cure these diseases because we have to learn the language of nature, which is the language of molecules and quantum electrons.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a783b5549ad54ee37bf38b987b14f1c5b86c31ecf7f85e25226cdc9b3ac31a9
+size 2906

@@ -1,19 +1,3 @@
-id: cnn_2019_00824
-title: "Nearly half of US oil refineries are in states hit by earthquakes and hurricanes"
-date: "2019-10-16"
-section: "US"
-url: "https://www.cnn.com/2019/10/16/us/oil-refineries-earthquakes-hurricanes"
-content: |
-  After firefighters contained flamesat an oil refinery in California, investigators are trying to determine if a recent earthquake is to blame.
-  
-  The fire at a NuStar Energy oil refinery happened after a 4.5 magnitude earthquake hit California’s Bay area on Monday. About 15 miles away, the shock waves disrupted operationsat two oil refineries in Martinez.
-  
-  NuStar Energy says it’s investigating the cause of the fire and whether Monday’s earthquake may have contributed,reported CNN affiliate KPIX.
-  
-  California, home to periodic earthquakes, is also home to 15 operating oil refineries, according tothe US Energy Information Administration. Only two states boast more, Louisiana with 17 and Texas with 29.
-  
-  These three states combined represent almost half of all oil refineries in the US. They also have something else in common – they are prone to natural disasters.
-  
-  Hurricane Harvey crippled refineries after the 2017 storm devastated parts of Texas and Louisiana.About 2.4 million barrelsof daily refining capacity in Texas remained offline two weeks after, according to S&P Global Platts. That’s about 13% of the country’s total ability to turn oil into gasoline, jet fuel and other products.
-  
-  The Gulf of Mexico is one of the most important regions for energy resources and infrastructure,the EIA says. And it’s also more likely to be in the path of major hurricanes, which are projected to increase, according tothe National Oceanic and Atmospheric Administration.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6005837e69377e456c93cc55b33ac5241a33b3937e6ba170607d22723246179d
+size 1745

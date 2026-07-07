@@ -1,29 +1,3 @@
-id: cnn_2022_02879
-title: "Google’s stock just got a lot cheaper"
-date: "2022-07-18"
-section: "Investing"
-url: "https://www.cnn.com/2022/07/18/investing/google-alphabet-stock-split?query=query%28%24symbols%3A%20%5BString%5D%29%20%7B%0A%20%20marketIndexes%28symbols%3A%20%24symbols%29%20%7B%0A%20%20%20%20indexes%20%7B%0A%20%20%20%20%20%20symbol%0A%20%20%20%20%20%20index_displayName%0A%20%20%20%20%20%20inSession%0A%20%20%20%20%20%20streamId%3A%20streamSymbol%0A%20%20%20%20%20%20change%0A%20%20%20%20%20%20level%0A%20%20%20%20%20%20changePct%0A%20%20%20%20%20%20link%0A%20%20%20%20%20%20__typename%0A%20%20%20%20%7D%0A%20%20%20%20__typename%0A%20%20%7D%0A%7D%0A&variables=%7B%22symbols%22%3A%5B%22INDU%22%2C%22INX%22%2C%22COMP.IDX%22%5D%7D"
-content: |
-  One share of Google’s parent company Alphabet is suddenlya lot more affordablefor Main Street investors — following a massive stock split that took effect Monday.
-  
-  Alphabet(GOOGL)split its two classes of shares(GOOG)by a 20-to-1 margin, a move that reduced the price of one share from just over $2,200 on Friday to about $110 on Monday.
-  
-  The stock split doesn’t change Alphabet’s market capitalization. The company is still worth nearly $1.5 trillion, making it one of the most valuable firms on the planet.
-  
-  But the split has two potential benefits. First, it may make Alphabet shares more enticing for everyday investors. Second, it increases the odds that Alphabet could eventually be added to the prestigious Dow Jones Industrial Average.
-  
-  Amazon and Alphabet could give the Dow a 21st century facelift
-  
-  That’s because theDow, which lists only 30 stocks, is weighted by price — in contrast to theS&P 500and many other indexes that weight by market value. So if the Dow were to include a stock with a super high price, that would heavily skew the index’s daily performance.
-  
-  Insurer UnitedHealth(UNH), which trades at more than $525 a share, currently has the highest weighting in the Dow, making up about 11% of the average. Meanwhile Apple(AAPL)is the 13th biggest Dow component, despite the fact that it has a market value of $2.4 trillion, nearly five times that of UnitedHealth(UNH).
-  
-  Apple wasadded to the Dow in 2015, but only after astock split in 2014reduced its share price.
-  
-  The list of Dow components is the subject of some discussion. Even though Dow includes Apple, Microsoft(MSFT)and business software giants Salesforce(CRM)and IBM(IBM), some critics think the century-old market barometer still needs afurther revamp for the 21st century.That could mean adding Alphabet as well as Amazon(AMZN), another market behemoth that recentlysplit its stock20 to 1.
-  
-  Amazon's stock price is set to drop, but that won't make it cheaper
-  
-  Amazon(AMZN)now trades at about $115 a share, down from pre-split levels above $2,000. But the company is still worth about $1.2 trillion, nearly double the combined market valuations of retail giants Walmart(WMT)and Home Depot(HD), both of which are in the Dow.
-  
-  Several other high-profile companies have also recentlyannounced intentions to split their stocks, including Tesla(TSLA)and meme favorite GameStop(GME). That could lead to more interest from average investors, especially those who look for momentum plays on social media sites like Reddit.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b163ca9df63b7ab061c25bc3b116d549414be6c31dbcac33b3a9c30f5475c80
+size 3314

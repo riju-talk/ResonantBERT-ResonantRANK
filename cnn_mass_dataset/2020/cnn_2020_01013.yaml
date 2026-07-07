@@ -1,29 +1,3 @@
-id: cnn_2020_01013
-title: "Utah sent every phone in the state an emergency alert warning about rapidly rising Covid-19 cases and overwhelmed hospitals"
-date: "2020-10-30"
-section: "US"
-url: "https://www.cnn.com/2020/10/30/us/utah-emergency-alert-covid-19-trnd/index.html"
-content: |
-  The alarming alert was sent to everyone in Utah who had a phone capable of receiving one: the state has reached arecord number of Covid-19 cases, and it was time to get serious.
-  
-  “State of Utah: COVID-19 is spreading rapidly. Record cases. Almost every county is a high transmission area. Hospitals are nearly overwhelmed,” read the alert. “By public health order, masks are required in high transmission areas. Social gatherings are limited to 10 or fewer.”
-  
-  “Be careful!” it warned, alongside a link containing more information about the ever-worsening coronavirus surge.
-  
-  The messages were sent beginning at 2 p.m. on Friday and remained active for 15 minutes.
-  
-  Typically used for severe weather and AMBER Alerts, state and local officials are increasingly deploying these Wireless Emergency Alerts (WEA) to warn of Covid-19 spikes as well. Through late September, according to the Federal Emergency Management Agency (FEMA), local officials had sent the public than 400 such alerts.
-  
-  Typically they are targeted to a city; New Yorkers have gotten a few. But Utah’s appears to be the first time a WEA was sent to an entire state. Officials explained ina news statementthat the “dire situation” there drove them to try the stark approach.
-  
-  “Despite the ongoing pandemic, there are a number of people who are not aware of the dire situation we find ourselves in,” state officials said. “As a result, the emergency alert was an effort to “make sure nearly everyone is aware of the serious nature of the pandemic.”
-  
-  The alert came as the state hit a grim milestone, as Utah hits record highs in several Covid-19 measures, including number of new cases, 7-day case average, and test positivity percentage, the state data dashboard shows.
-  
-  In a press conference on Thursday, Utah Gov. Gary Herbert called the state’s situation “one of the worst outbreaks in the country.”
-  
-  The state reported a record 2,281 new Covid-19 cases Friday, according to state data. Previously, its record high was 1,989 cases on October 22. Furthermore, its 7-day case average now sits at a record of 1,621.7 cases, and its percentage of positive tests is at a record 18.17% as of Friday. All of these barometers are steadily climbing.
-  
-  Meanwhile, 72.5% of Utah’s ICU beds are occupied, along with 54% of its traditional beds, according to the state dashboard, meaning that hospitals are quickly running out of space for new patients.
-  
-  All this comes as the US hitsa record of 9 million Covid-19 cases, a number that experts are warning will continue to surge.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc218c1460ae74818704d58a57acfae0428443c28bb9d57951184ae0a6ae4159
+size 2900

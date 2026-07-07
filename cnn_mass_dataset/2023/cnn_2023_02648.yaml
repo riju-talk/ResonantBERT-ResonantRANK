@@ -1,29 +1,3 @@
-id: cnn_2023_02648
-title: "Twitter says portions of source code leaked online"
-date: "2023-03-27"
-section: "Tech"
-url: "https://www.cnn.com/2023/03/27/tech/twitter-source-code-leaked/index.html"
-content: |
-  Twitter said parts of its proprietary code were posted online and had been exposed until Friday, when the company had the material removed from the web and filed for a court order to hunt down the source of the leak.
-  
-  The leak saw excerpts of Twitter’s source code — the programming that powers the Twitter platform and its internal tools — posted to the online software repository GitHub, according to acourt filingFriday by a Twitter attorney. The files were posted by a pseudonymous GitHub user, identified only by the handle FreeSpeechEnthusiast. The account wascreated on Jan. 3and does not appear to have posted any other material besides the Twitter code.
-  
-  Pay $84 a year for Twitter Blue or lose your checkmark beginning April 1, Twitter says
-  
-  The code leak represents the latest mishap for Twitter as CEO Elon Musk has sought to reverse a sharp decline in revenues through substantial layoffs and other cost cutting measures that some experts had already said risked making the platform less safe. Leaked source code can not only provide insight into how a company designs its product but can also give criminals the chance to find or exploit security flaws and vulnerabilities.
-  
-  Twitter has launched an effort to identify the person or group behind the FreeSpeechEnthusiast GitHub account, as well as anyone who may have interacted with the leaked code. On Friday, Twitter filed for a subpoena at the US District Court for the Northern District of California, which Twitter hopes will compel GitHub to hand over IP addresses, contact information, and access logs associated with the incident.
-  
-  “The purpose for which Twitter’s DMCA Subpoena is sought is to obtain the identity of an alleged infringer or infringers, and such information will only be used for the purpose of protecting Twitter’s rights,” Twitter wrote in itsfilingto the court.
-  
-  GitHub removed the content on Friday after Twitter submitted a copyright claim to the company. GitHub declined to comment on the matter but said it publicly posts all copyright takedown requests and referred CNN toTwitter’s request. Twitter, which has cut much of its public relations team under Musk, automatically responded to a request for comment with an email containing a poop emoji.
-  
-  The leak was first reported byThe New York Times.
-  
-  The leak comes as Musk has sought to place more of his own imprint on the social media platform he purchased last year. The acquisition prompted a wave of advertisers to flee the platform over fears the deal would lead to a rise in hate speech and an increase in reputational risks for brands. Musk has blamed the advertiser revolt for steep losses at the company, and has aggressively pushed the company’s subscription service, Twitter Blue, as an alternative revenue stream. He has also said Twitter will charge fees for other software applications to access Twitter’s platform.
-  
-  On Saturday,reportson an internal memo by Musk outlining employee stock awards suggested that Twitter was valued at about $20 billion, or less than half of the $44 billion Musk paid for the company. (CNN has not independently confirmed the memo’s existence or its contents.) In the memo, Musk reportedly defended the changes he has made at the company and claimed that Twitter’s valuation could someday exceed $250 billion.
-  
-  The same day, Musk tweeted that prior to the changes he made, Twitter only had $1 billion in cash, which he said represented about four months’ worth of expenses and an “extremely dire situation.” But, he added, things are looking up.
-  
-  “Now that advertisers are returning, it looks like we will break even in Q2,” he said.
+version https://git-lfs.github.com/spec/v1
+oid sha256:773ad969b5d7c4b76db950bcf3d6d657ab4f0a7d66cd12aff1ace6bc48c549f5
+size 3913

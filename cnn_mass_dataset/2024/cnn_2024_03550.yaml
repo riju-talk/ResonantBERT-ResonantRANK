@@ -1,27 +1,3 @@
-id: cnn_2024_03550
-title: "Federal judge orders Alabama to reverse program that purged more than 3,000 names from state voter rolls"
-date: "2024-10-16"
-section: "Politics"
-url: "https://www.cnn.com/2024/10/16/politics/alabama-voting-purge"
-content: |
-  A federal judge ordered Alabama’s Republican secretary of state on Wednesday toreverse a program that purgedmore than 3,000 names from the state’s voter rolls, agreeing with theBiden administration’s argumentthat the purge took place too close to the election.
-  
-  “For decades, federal law has given states a hard deadline to complete systematic purges of ineligible persons from voter rolls: no later than ninety days before a federal election. This year, Alabama Secretary of State Wes Allen blew the deadline when he announced a purge program to begin eighty-four days before the 2024 General Election,” US District Judge Anna Manasco wrote in a5-page preliminary injunction.
-  
-  Manasco, who was appointed to the bench by former President Donald Trump, added that Allen “admitted” that his purge program “included thousands of United States citizens (in addition to far fewer noncitizens, who are ineligible to vote),” and that the secretary of state referred all of the individuals to the state’s attorney general for criminal investigation.
-  
-  The ruling is a major victory for the US Justice Department and several voters in the state who sued Allen last month, alleging he unlawfully removed 3,251 names from the state’s registration lists. It comes as Republicans continue to make noncitizen voting a major issue ahead of the 2024 election, even though voting in US elections by noncitizens is illegal and exceedingly rare.
-  
-  Manasco said the injunction will expire after the 2024 election.
-  
-  An attorney representing several voters in the state who challenged the purge program described Wednesday’s order as “a win for voters and for all Alabamians who value a fair and free election.”
-  
-  “The evidence in court – which showed over a 60% error rate in the state’s list – underscores the importance of the National Voter Registration Act to protect voters from last-minute threats to their voting rights,” Michelle Kanter Cohen of the Fair Elections Center said in a statement.
-  
-  Allenannounced on August 13that he had begun a process of removing 3,251 individuals previously identified as being noncitizens from the state’s voter rolls – even as he acknowledged the possibility that some of those people have since become naturalized citizens who are eligible to vote.
-  
-  But the lawsuits argued that the move ran afoul of the National Voter Registration Act, which governs how and when most states can execute large-scale changes to their lists of registered voters. The federal law requires states to observe a 90-day quiet period during which officials cannot “systematically remove the names of ineligible voters from the official lists of eligible voters.”
-  
-  Exhaustive studies from both liberal and conservative think tanks havefound only a tiny number of examples of noncitizens votingin elections where they are ineligible. Nonpartisan election law experts say it’s almost always caught when it does happen, and that itisn’t a widespread problem plaguing US elections.
-  
-  In asimilar lawsuitbrought last week in Virginia, the Justice Department alleged that state officials violated the NVRA “quiet period” by recently purging voters flagged as potential noncitizens.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5fd42c23fc242659a00fb1109b307243b84c492a3d164f0faf603ccc5194c5dc
+size 3519

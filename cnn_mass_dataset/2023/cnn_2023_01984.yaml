@@ -1,31 +1,3 @@
-id: cnn_2023_01984
-title: "Threads user count falls to new lows, highlighting retention challenges"
-date: "2023-08-03"
-section: "Tech"
-url: "https://www.cnn.com/2023/08/03/tech/threads-user-count-falls?cid=external-feeds_iluminar_msn"
-content: |
-  Threads, Meta’s Twitter rival, is struggling to retain users roughly a month after itshighly publicized launch, according to fresh industry estimates showing that app engagement has fallen to new lows.
-  
-  The data from market research firms Similarweb and Sensor Tower highlight the challenges facing Meta as it seeks to exploit the opening created by the chaos surrounding Twitter’s management.
-  
-  Threads’ daily active user count is down 82% from launch as of July 31, according to Sensor Tower, with just eight million users accessing the app each day. That is the lowest it has been since the day after the app’s release when daily active users peaked at roughly 44 million, Sensor Tower said.
-  
-  People are also opening the app less frequently and spending less time there, Sensor Tower added.
-  
-  On its launch day, Threads users opened the app an average of 14 times and spent an average of 19 minutes scrolling through it, the company reported. By the end of the month, however, those figures had fallen sharply.
-  
-  As of August 1, Threads’ daily average time spent fell to just 2.9 minutes a day, and people spent only 2.6 sessions per day using the app, said Abe Yousef, a senior insights analyst at Sensor Tower.
-  
-  Findings from Similarweb showed the same pattern of decline. Threads’ user count peaked at roughly 49 million on July 7, the day after launch, and fell steadily to just over 11 million by July 29, said David Carr, a senior insights manager at Similarweb.
-  
-  The steepest drop-off occurred in the two weeks immediately following Threads’ launch. But the new data show how the decline has continued and is ongoing.
-  
-  According to Sensor Tower, Threads’ daily active user count is still falling at a rate of roughly 1% per day.
-  
-  Speaking on the company’s earnings call last month, Meta CEO Mark Zuckerberg said he was “quite optimistic” about the app.
-  
-  “We saw unprecedented growth out of the gate and more importantly we’re seeing more people coming back daily than I’d expected,” he said. “And now, we’re focused on retention and improving the basics. And then after that, we’ll focus on growing the community to the scale we think is possible.”
-  
-  Threads launched with only a handful of features and later promised to add in highly requested tools like a reverse-chronological content feed, a desktop version of the app and direct messages.
-  
-  On July 10, Zuckerberg announced that more than 100 million people had signed up for Threads, making it one of the fastest-growing apps in history. The company has reportedly looked into adding “retention-driving hooks” that can keep users engaged.
+version https://git-lfs.github.com/spec/v1
+oid sha256:03ca939c06ea81b643a1f1df9d764c0fe5ec200a75333bc181d1780b078d166f
+size 2939

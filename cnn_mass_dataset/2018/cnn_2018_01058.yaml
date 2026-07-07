@@ -1,35 +1,3 @@
-id: cnn_2018_01058
-title: "Travelers teams up with Amazon to sell home security kits"
-date: "2018-10-10"
-section: "Business"
-url: "https://www.cnn.com/2018/10/10/business/travelers-amazon-partnership/index.html"
-content: |
-  Travelers and Amazon are joining forces as the insurance industry looks for new ways to find customers online.
-  
-  Travelers, one of the country’s largest insurance companies, announced Wednesday that it had launched anAmazon storefrontwhere its customers can buy discounted home security equipment. The security kits can include cameras, motion detectors, water sensors and Echo Dots, and are cheaper for Travelers customers.
-  
-  Those who buy the kits also get discounts on their home insurance policies.
-  
-  The program is initially available to home insurance customers in California, Colorado, Missouri and Wisconsin. Travelers expects to add more states later this year.
-  
-  Additionally, all home insurance customers are now eligible for free Echo Dots. Travelers has added Alexa “skills” that can provide information like when an upcoming insurance bill is due.
-  
-  Travelers is teaming up with Amazon (AMZN) to try and expand its reach to both new and existing customers even as the internet retailer is reportedlyinterested in getting into insurance itself.
-  
-  The company hopes the security devices will reduce risk. By encouraging customers to catch problems early, such as detecting leaks with sensors, the company aims to pay out fewer claims.
-  
-  “There’s an immediate potential for cost savings,” said James Lynch, chief actuary at the Insurance Information Institute.
-  
-  The partnership also gives Travelers a new avenue to connect with policyholders. Like many of its competitors, the company wants to better integrate its products into customers’ daily lives.
-  
-  “One of the reasons we are pursuing this program is we see a continued increase in consumers who want to have a digital relationship with their financial services company,” said Michael Klein, Travelers’ president of personal insurance.
-  
-  Meanwhile, the Echo Dot can provide the company with valuable data.
-  
-  In addition to its Alexa skill for customers, Travelers has rolled out another skill that lets anyone — not just policyholders — tap into the company’s property maintenance and home safety tips. This feeds Travelers important information about common questions and concerns.
-  
-  “One thing insurance companies are very interested in the amount of data that will be generated from the internet of things,” Lynch said.
-  
-  Working with Amazon is a way to attract customers, too. Travelers says it’s the first insurance company to offer a digital storefront on the platform.
-  
-  Though people can’t buy Travelers insurance directly through Amazon, a link directs users to the Travelers site, where they can get a quote.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f19b524a742d1965bc0ab1875d12e24892af0a647f922a5bffec5f37247d5a5
+size 2888

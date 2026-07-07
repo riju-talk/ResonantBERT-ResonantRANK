@@ -1,29 +1,3 @@
-id: cnn_2025_04241
-title: "NTSB report reveals what was going on inside the San Diego control tower when two planes nearly collided on the runway"
-date: "2025-09-30"
-section: "US"
-url: "https://www.cnn.com/2025/09/30/us/ntsb-2023-near-collision"
-content: |
-  A distracted controller, along with a supervisor trying to fix a broken printer, led to two planes nearly colliding in 2023,a new reportfrom the National Transportation Safety Board found.
-  
-  Southwest Airlines Flight 2493 was waiting to take off on San Diego International Airport’s Runway 27, when controllers cleared a Cessna Citation private jet to land on the same runway,CNN reported at the time.
-  
-  The Citation pilot saw the Southwest Boeing 737 and asked the tower what was going on.
-  
-  “Verify 4HV is still clear to land?” asked the pilot of the Citation.
-  
-  “Citation 4HV, go around. Fly the published missed approach,” the controller responded.
-  
-  Now, the final investigative NTSB report illustrates what was happening in the air traffic control tower during those crucial moments.
-  
-  The local controller was distracted, the report said, talking to another air traffic control facility about the wrong altitude assigned to a different departing aircraft.
-  
-  “They stated that they had used poor judgment in prioritizing their duties,” the report read. ”This duty prioritization was not consistent with guidance.”
-  
-  Meanwhile, the operations supervisor in the tower was focused on trying to fix a printer which prints strips of paper with flight information and had jammed.
-  
-  “They stated that they chose to troubleshoot the primary printer rather than switching to the backup, and that this drew their attention away from the operation at the time of the incident,” the report read.
-  
-  A surface radar alarmed in the tower and warned the controllers about the near collision, but the planes were already dangerously close.
-  
-  The NTSB report concluded the controller’s “poor judgment in duty prioritization” caused the incident, and the supervisor’s focus on the printer contributed.
+version https://git-lfs.github.com/spec/v1
+oid sha256:820b48cdf9124a7bf7bf258680fa934cc45c6295f121b475d5c598e7b4f0a68a
+size 2111

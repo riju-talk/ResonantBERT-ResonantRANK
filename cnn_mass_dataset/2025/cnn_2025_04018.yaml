@@ -1,33 +1,3 @@
-id: cnn_2025_04018
-title: "Google says China-linked cyber operations targeted Southeast Asia diplomats"
-date: "2025-08-26"
-section: "Business"
-url: "https://www.cnn.com/2025/08/26/business/google-china-linked-hacking-southeast-asia-diplomats-intl-hnk?utm_source=substack&utm_medium=email"
-content: |
-  Diplomats in Southeast Asia were among global entities targeted by a China-linked cyber espionage group earlier this year, Google has announced, adding the group “likely aligned with the strategic interests” of the Chinese government.
-  
-  Google Threat Intelligence Group found that the campaign in March hijacked target web traffic, downloaded malware, and ultimately deployed a backdoor, it said in aTuesday blog postdetailing the findings.
-  
-  Google said it sent alerts to all users impacted by this campaign.  The scope of impact and which Southeast Asian countries were targeted were not disclosed in the post. CNN has reached out to Google for further details.
-  
-  Asked about the Google findings on Tuesday, a spokesperson for China’s foreign ministry said it was unaware of the specific situation, while accusing Google of spreading “false information about so called ‘Chinese hacker attacks’ more than once.”
-  
-  For years, US officials across Republican and Democratic administrations have tried to come to grips with China’s formidable cyber capabilities. The FBI has said that China has a bigger hacking program than all other foreign governments combined.
-  
-  Multiplerecent hackshave been highlighted by the US government, includingat least two major incidentsthis year.
-  
-  Tech companies are also becoming more open in publicly naming when they detect state sponsored or state-aligned hacking campaigns.
-  
-  Google’s findings came after recent Microsoft reports of hacking attempts that also involved Chinese state-linked actors. Last month, Microsoft found that vulnerabilities of its servers for SharePoint, its online collaborative platform, wereexploited by some Chinese state actors.
-  
-  That incident prompted the United States government’s Cybersecurity and Infrastructure Security Agency toissue a notice, saying it notified “critical infrastructure organizations impacted,” as many US government agencies and companies use its service.
-  
-  Beijing denied its involvement in the hacking of Microsoft previously.
-  
-  Google attributed this latest hacking campaign to a China-linked cyber espionage group called UNC6384, which is believed to be associated with a China-linked threat actor known as Mustang Panda, or TEMP.Hex, it said.
-  
-  “UNC6384 and TEMP.Hex are both observed to target government sectors, primarily in Southeast Asia, in alignment with PRC strategic interests,” Google wrote in the post, referring to the People’s Republic of China.
-  
-  “This campaign is a clear example of the continued evolution of UNC6384’s operational capabilities and highlights the sophistication of PRC-nexus threat actors.”
-  
-  The malware deployed, called SOGU.SEC, is a “sophisticated, and heavily obfuscated, malware backdoor with a wide range of capabilities” and is commonly deployed by UNC6384 in cyber espionage activity, it added.
+version https://git-lfs.github.com/spec/v1
+oid sha256:658a9e2495da5b0ad50c38a9b0b14cc2f498cfa9e5b68152cdcaab44ff6ac04b
+size 3212

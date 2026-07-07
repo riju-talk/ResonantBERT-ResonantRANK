@@ -1,35 +1,3 @@
-id: cnn_2021_00534
-title: "Europe opens twin antitrust investigations into Facebook"
-date: "2021-06-04"
-section: "Tech"
-url: "https://www.cnn.com/2021/06/04/tech/facebook-antitrust-investigation-eu/index.html"
-content: |
-  Facebook is confronting two separate antitrust investigations by European regulators that will probe whether the social network’s use of data gives it an unfair advantage inonline advertising.
-  
-  The investigations could eventually result in hefty fines, and increase pressure on Facebook tomake changesto its business model, which is already the focus of alawsuitbrought by the US government.
-  
-  In astatementFriday, the European Commission said it is assessing whether Facebook breached EU competition rules by using data gathered from advertisers on its platform to compete against them.
-  
-  European Competition Commissioner Margrethe Vestager, who has launched multiple investigations intoUS tech companies, said in a statement that data collected via social networks “should not be used in ways that distort competition.”
-  
-  “We will look in detail at whether this data gives Facebook an undue competitive advantage in particular on the online classified ads sector, where people buy and sell goods every day, and where Facebook also competes with companies from which it collects data,” she said in a statement.
-  
-  Facebook could, for example, use information on user preferences gleaned from advertisers’ activity to adapt its own classified ads service, Facebook Marketplace, according to the Commission, which in December proposed legislation that would give regulatorssweeping new powersto take on US tech giants.
-  
-  The UK Competition and Markets Authority (CMA) is also examining whether Facebook’s use of data has given it “an unfair advantage over competitors in providing services for online classified ads and online dating.”
-  
-  “The CMA will look into whether Facebook has unfairly used the data gained from its advertising and single sign-on to benefit its own services, in particular Facebook Marketplace … and Facebook Dating,” it said in astatementon Friday. Facebook Marketplace allows users and businesses to sell new and second-hand items such as clothing, books and furniture.
-  
-  “Any such advantage can make it harder for competing firms to succeed, including new and smaller businesses, and may reduce customer choice,” Andrea Coscelli, the CEO of the Competition and Markets Authority added. “We will be working closely with the European Commission as we each investigate these issues,” he said.
-  
-  UK launches antitrust probe into Apple
-  
-  This is the third investigation into a suspected breach of competition law by US tech giants that the CMA hasopened recently. The other two are directed at Google(GOOG)and Apple(AAPL).
-  
-  A Facebook(FB)spokesperson said the company will cooperate fully with the investigations “to demonstrate that they are without merit.”
-  
-  “We are always developing new and better services to meet evolving demand from people who use Facebook. Marketplace and Dating offer people more choices and both products operate in a highly competitive environment with many large incumbents,” the spokesperson added.
-  
-  Facebook was sued by dozens of US states and the federal government in December in parallel suits for alleged anticompetitive behavior. The lawsuit filed by the Federal Trade Commission could force a breakup of Facebook, requiring the company to divest assets such as Instagram and WhatsApp.
-  
-  — Chris Liakos contributed reporting.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7df31f0d9796d47a9f678c00aceffa8e3e72e08f21a5d2e6ec333d512658187
+size 3592

@@ -1,21 +1,3 @@
-id: cnn_2021_02101
-title: "Crypto exchange Bitmart says hackers took $150 million"
-date: "2021-12-06"
-section: "Tech"
-url: "https://www.cnn.com/2021/12/06/tech/bitmart-ethereum-bsc-hack/index.html"
-content: |
-  Hackers stole at least $150 million from crypto exchange Bitmart, the platform said Monday.
-  
-  Ina statementaddressed to users, Bitmart said an initial security check has been completed and impacted assets identified.
-  
-  The assets were stolen from two “hot wallets,” one hosted on the Ethereum blockchain and the other on the Binance Smart Chain. A “hot wallet” refers to crypto assets that are connected to the internet and more easily accessible to owners than offline “cold wallets.” While keeping cryptocurrency in a hot wallet is more convenient, there’s an added risk of hacks such as the Bitmart breach.
-  
-  The hack was first reported by blockchain security and data analytics firmPeckshieldand was later confirmed by Bitmart CEO Sheldon Xia.
-  
-  According to Peckshield’s analysis, unidentified hackers used a stolen private key to open the two wallets and extract funds. Peckshield claims the hackers could have stolen up to $196 million in assets. All Bitmart assets not held in these wallets are secure, according to the company.
-  
-  Bitmart will use its own funding to cover losses and compensate impacted users. Crypto exchange Huobi Global came out in support of the company as it race to mitigate the hack. HuobitweetedMonday that it will assist Bitmart by reporting and handling any incoming assets potentially originating from the hack.
-  
-  All withdrawals from Bitmart were suspended Saturday. XiatweetedMonday that deposit and withdrawal functions will be gradually restored beginning Tuesday.
-  
-  Xia will conduct an AMA at 8 p.m. EST on Telegram Monday to share more information on the hack, compensation of users impacted and next steps in resuming business, according to the BitMart Twitter account.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b737190738b8e6f05b325b129b62c831f64206157b2204a94255acbb4813fa7
+size 1961

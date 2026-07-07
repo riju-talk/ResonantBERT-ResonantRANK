@@ -1,29 +1,3 @@
-id: cnn_2023_02690
-title: "US and UK sanction Russian cybercriminal gang accused of infecting millions of computers worldwide"
-date: "2023-02-09"
-section: "Politics"
-url: "https://www.cnn.com/2023/02/09/politics/us-uk-sanctions-russia-cybercrime/index.html"
-content: |
-  The US and UK governments on Thursday sanctioned six Russians and one Ukrainian for their alleged involvement in an infamous Russia-based cybercrime network that infected millions of computers worldwide, including those in American hospitals.
-  
-  The sanctions target seven alleged core members of a cybercrime gang known as Trickbot, whose eponymous hacking tool has for years stalked US critical infrastructure, the US Treasury Department said in a statement.
-  
-  The malicious code has often been used to deploy ransomware – locking computers until hackers are paid off. The Pentagon grew concerned enough about the potential for Trickbot-enabled ransomware to disrupt voting that the US military hackers knocked some Trickbot infrastructure offline ahead of the 2020 election.
-  
-  The seven sanctioned people — Vitaly Kovalev, Maksim Mikhailov, Valentin Karyagin , Mikhail Iskritskiy, Dmitry Pleshevskiy, Ivan Vakhromeyev and Valery Sedletski — are accused of developing hacking tools for the crime group or having other prominent roles such as laundering money.
-  
-  Current members of the criminal group are “associated with Russian intelligence services,” the US Treasury said.
-  
-  In one alleged Trickbot-backed hack at the height of the Covid-19 pandemic in 2020, ransomware was used against three Minnesota medical facilities, forcing ambulances to be diverted, according to the Treasury Department.
-  
-  It’s the latest attempt by US and European authorities to crack down on cybercriminal groups that threatens public health. The FBI and European agencies last month took down hacking infrastructureused by another ransomware gang to target US hospitals, officials said.
-  
-  Any faint hopes of substantive cooperation between Washington and Moscow on cybercrime dimmed with Russia’s full-scale invasion of Ukraine a year ago.
-  
-  “Russia is a haven for cybercriminals, where groups such as Trickbot freely perpetrate malicious cyber activities against the U.S., the U.K., and allies and partners,” the Treasurystatementsaid.
-  
-  In a statement Thursday, US Secretary of State Antony Blinken pledged to “continue to work with the United Kingdom and with other international partners to expose and disrupt cybercrime emanating from Russia.”
-  
-  Some of the sanctioned men appear to involved in the business operations of a type of ransomware called Conti, which was used to hobble computer systems at Ireland’s multi-billion-dollar public health system in 2021. ( “Trickbot” and “Conti” are sometimes used interchangeably to describe the criminal gangs behind the hacking, but are distinct hacking tools.)
-  
-  After Russia’s full-scale invasion of Ukraine, a Ukrainian cybersecurity researcherexacted revengeon the Conti hackers by leaking troves of data that exposed their alleged connections with the Russian government.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3942e99f3fd6a8add0504b7edd529d0f04cfd540222a0ce60078df69f36fa777
+size 3147

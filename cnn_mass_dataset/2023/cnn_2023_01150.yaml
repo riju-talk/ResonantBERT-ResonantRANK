@@ -1,27 +1,3 @@
-id: cnn_2023_01150
-title: "EU officials warn Google and YouTube about Hamas-Israel disinformation and graphic content"
-date: "2023-10-13"
-section: "Tech"
-url: "https://www.cnn.com/2023/10/13/tech/google-youtube-hamas-israel-disinformation/index.html"
-content: |
-  The European Commission sent a warning letter Friday to Google and its subsidiary YouTube over disinformation and graphic content linked to the Hamas-Israel conflict, in the European Union’s latest effort to scrutinize Big Tech’s handling of the war.
-  
-  The letter from European Commissioner Thierry Breton, addressed to Google CEO Sundar Pichai and also sent to YouTube CEO Neal Mohan, reminded the company about its content moderation obligations under the EU’s Digital Services Act (DSA). Bretonshared the letter on X.
-  
-  Breton highlighted legal requirements for Google to keep graphic content such as hostage videos away from underage users; to act swiftly when authorities flag content that violates European laws; and to mitigate disinformation.
-  
-  “This brings me to a second area of pressing concern: tackling disinformation in the context of elections, a priority which we personally discussed when we met in Brussels in May,” Breton wrote, referencing upcoming elections in a number of EU countries.
-  
-  It also warned of possible penalties if a future investigation were to find Google (GOOGL) is not complying with the DSA.
-  
-  Breton’s warning comes after similar letters he sent this week to X, the platform formerly known as Twitter, as well as Meta and TikTok.
-  
-  Unlike some of those previous letters, however, Breton’s letter to Google does not directly suggest the company has spread misleading or illegal content. And where Breton had asked some of Google’s counterparts to respond to his letter within 24 hours, Friday’s letter to Google merely requests a report “in a prompt, accurate and complete manner.”
-  
-  In response, YouTube spokeswoman Ivy Choi said the company has been actively working to take offensive videos down.
-  
-  “Following the devastating attacks on civilians in Israel and the escalating conflict in Israel and Gaza, our teams have removed thousands of harmful videos, and our systems continue to connect people with high-quality news and information,” Choi said. “Our teams are working around the clock to monitor for harmful footage and remain vigilant to take action quickly across YouTube, including videos, Shorts and livestreams.”
-  
-  YouTube previously told CNN its teams have removed thousands of videos since Hamas’ attacks on Israel began, and that it continues to monitor for hate speech, extremism, graphic imagery and other content that violates its policies.
-  
-  According to CNN’s own review of the platform, YouTube is also surfacing almost entirely videos from mainstream news organizations in searches related to the war.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e58e68d9b6bfb418fb21a988dc946305592e7c2233f491c4af6946e8e66cecad
+size 2895

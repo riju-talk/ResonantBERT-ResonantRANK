@@ -1,35 +1,3 @@
-id: cnn_2018_00955
-title: "Democrat who challenged GOP congressman said he was hacked"
-date: "2018-08-15"
-section: "Politics"
-url: "https://www.cnn.com/2018/08/15/politics/dana-rohrabacher-opponent-cyberattack-hack/index.html"
-content: |
-  A former US House candidate in California told CNN on Wednesday that his campaign to unseat Republican Rep. Dana Rohrabacher was hacked, the latest example of alleged cyberattacks interfering with US elections.
-  
-  Dr. Hans Keirstead, a Democratic candidate and a neuroscientist, finished third in the 48th district’s primary and said the hacking attempts, whichwere first reported by Rolling Stone, were “sophisticated.”
-  
-  “They wanted full control of my email,” Kierstead said. “They were fairly sophisticated. Mimicking personalities in order to extract money and info. It was pretty amazing how sophisticated it was.”
-  
-  It’s unclear where the cyberattack Kierstead alleges originated or if it was a targeted attack.
-  
-  Rohrabacher is seen as one of the most pro-Russian members of Congress, and he has earned him the moniker“Putin’s favorite congressman.”
-  
-  Keirstead was one of several Democrats vying to unseat Rohrabacher, before he failed to advance to the general election after the state’s jungle primary in June.
-  
-  Rohrabacher’s campaign had no comment about the attack.
-  
-  The FBI declined to comment on the allegations.
-  
-  According to the magazine, Keirstead alleges that the first attack happened in August 2017 when a fake email that tries to trick users into typing in their passwords or other critical information was sent to Keirstead. Keirstead was fooled by the bogus email and tried to get his company to secure the email system before it was compromised, according to the report.
-  
-  In December, campaign officials noticed repeated attempts to get into the campaign’s website, Hansforca.com. Different username and password combinations were used over a two-and-a-half month period. The campaign also said there were 130,000 attempts to gain administrator access through the cloud server that was used to house the site, according to Rolling Stone.
-  
-  Then in January, campaign officials said there were attempts to hack into the campaign’s Twitter account along with other attempts to get into Keirstead’s company. Campaign officials also told the magazine that though there were attempts to hack into the campaign, none were successful.
-  
-  Campaign officials reported the attacks to the Democratic Congressional Campaign Committee and the FBI. When asked about the attack on Keirstead’s company, the DCCC did not confirm or deny that the hack attempts took place
-  
-  “We take cybersecurity extremely seriously and have taken extensive measures to protect our committee as well as Democratic campaigns across the country,” according to a statement from a DCCC aide. “While we don’t have control over the operations of individual campaigns, we continue to work with and encourage candidates and their staffs to utilize the resources we have offered and adopt best cybersecurity practices.”
-  
-  The DCCC, which said it has modernized its cybersecurity practices, advises campaigns to not speak publicly about attacks and to only report them to authorities so as to not become more of a target. Keirstead’s campaign manager told the magazine that the campaign is now going public for voter awareness.
-  
-  Rohrabacher will face Democratic congressional candidate Harley Rouda in this fall’s general election.
+version https://git-lfs.github.com/spec/v1
+oid sha256:66fd84f5328665fde4bda6a23184356f55d847eb3af66b94f6a349a97020f971
+size 3545

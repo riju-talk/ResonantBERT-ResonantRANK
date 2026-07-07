@@ -1,33 +1,3 @@
-id: cnn_2020_02108
-title: "Study finds no benefit, higher death rate in patients taking hydroxychloroquine for Covid-19"
-date: "2020-04-21"
-section: "Health"
-url: "https://www.cnn.com/2020/04/21/health/hydroxychloroquine-veterans-study/index.html"
-content: |
-  Coronavirus patients taking hydroxychloroquine, a treatment touted by President Trump, were no less likely to need mechanical ventilation and had higher deaths rates compared to those who did not take the drug, according to a study of hundreds of patients at US Veterans Health Administration medical centers.
-  
-  The study, which reviewed veterans’ medical charts, was posted Tuesday onmedrxiv.org, a pre-print server, meaning it was not peer reviewed or published in a medical journal. The research was funded by the National Institutes of Health and the University of Virginia.
-  
-  French study finds hydroxychloroquine doesn't help patients with coronavirus
-  
-  In the study of 368 patients, 97 patients who took hydroxychloroquine had a 27.8% death rate. The 158 patients who did not take the drug had an 11.4% death rate.
-  
-  “An association of increased overall mortality was identified in patients treated with hydroxychloroquine alone. These findings highlight the importance of awaiting the results of ongoing prospective, randomized, controlled studies before widespread adoption of these drugs,” wrote the authors, who work at the Columbia VA Health Care System in South Carolina, the University of South Carolina and the University of Virginia.
-  
-  Researchers also looked at whether taking hydroxychloroquine or a combination of hydroxychloroquine and the antibiotic azithromycin, had an effect on whether a patient needed to go on a ventilator.
-  
-  4 ways Trump was wrong about hydroxychloroquine studies
-  
-  “In this study, we found no evidence that use of hydroxychloroquine, either with or without azithromycin, reduced the risk of mechanical ventilation in patients hospitalized with Covid-19,” the authors wrote.
-  
-  There are currently no products approved by the US Food and Drug Administration to prevent or treat Covid-19, although research is underway on many drugs.
-  
-  Hydroxychloroquine has been used for decades to treat patients with diseases such as malaria, lupus and rheumatoid arthritis. Trump has touted the drug as a “game changer” for Covid-19 and said hydroxychloroquine shows “tremendous promise.”
-  
-  Physicians have warned that while Trump is enthusiastic about the drug, it still needs to be studied to see if it works and if it’s safe.
-  
-  Sign up here to getThe Results Are In with Dr. Sanjay Guptaevery Tuesday from the CNN Health team.
-  
-  Inanother recent study, researchers in France examined medical records for 181 Covid-19 patients who had pneumonia and required supplemental oxygen. About half had taken hydroxychloroquine within 48 hours of being admitted to the hospital, and the other half had not.
-  
-  It found there was no statistically significant difference in the death rates of the two groups, or their chances of being admitted to the intensive care unit. However, it found eight patients who took the drug developedabnormal heart rhythmsand had to stop taking it. This research also has not yet been peer-reviewed or published in a medical journal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a48bb5f4dadb5be44121f4a2c5a30b04e2b5fd13cbfea09bac841e12cba7ab90
+size 3306

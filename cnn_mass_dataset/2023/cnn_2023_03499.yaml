@@ -1,13 +1,3 @@
-id: cnn_2023_03499
-title: "Today’s news in 10 minutes"
-date: "2023-03-08"
-section: "Cnn10"
-url: "https://www.cnn.com/2023/03/08/cnn10/ten-content-thurs/index.html"
-content: |
-  This page includes the show Transcript
-  
-  Today CNN 10 is looking at an annual gathering in China called the “Two Sessions,” which brings together thousands of government delegates across the country. While the event is usually a rare chance for media to get up close to China’s government, this year is different. Then, for centuries humans have looked to the sky and wondered what’s out there. CNN 10 is examining one of Jupiter’s moons, to see if life could grow there or even exists now. And before you go, CNN 10 is exploring another cosmic event called a conjunction. All that and more on this episode of CNN 10.
-  
-  Click here to access the printable version of today’s CNN 10 transcript
-  
-  Thank you for using CNN 10
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4ba1aa79c0404e2c6b56fe3a698166a1c5198b1e7383636b7363777239cc807
+size 921

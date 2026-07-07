@@ -1,35 +1,3 @@
-id: cnn_2024_00974
-title: "News publishers group urges government to investigate Google for blocking some California news outlets"
-date: "2024-04-16"
-section: "Media"
-url: "https://www.cnn.com/2024/04/16/media/news-publishers-group-urges-government-investigate-google/index.html"
-content: |
-  An organization that represents more than 2,000 news publishers sent letters on Tuesday to federal agencies, urging them to launch an investigation into Google after the tech behemoth began removing links to California-based news outlets.
-  
-  The move from Google, which drew swift backlash, came over a proposed law that would require tech companies to pay for news content.
-  
-  The News/Media Alliance, which represents US newspapers and online publications, said it had sent letters to the Department of Justice, Federal Trade Commission and the California Attorney General to request an investigation into whether Google broke any laws when it limited some Californians’ ability to access news websites from Google search last week.
-  
-  On Friday,Google announced it had begun removing links to California news websites for some users in response to the bill that would force Google, Meta and others to pay news outlets for their content. The MountainView-based search giant said it launched the “test” to gauge “the impact of the legislation on our product experience.”
-  
-  The letter asked the federal and state agencies to investigate whether Google’s move violates the Lanham Act, the Sherman Antitrust Act, and the Federal Trade Commission Act as well as California’s Unruh Civil Rights Act, prohibitions against false advertising and misrepresentation, the California Consumer Privacy Act, and California’s Unfair Competition Law (UCL).
-  
-  “Google released no further details on how many Californians will be affected, how the Californians who will be denied news access were chosen, what publications will be affected, how long the compelled news blackouts will persist, and whether access will be blocked entirely or just to content Google particularly disfavors,” the letter stated. “Because of these unknowns, there are many ways Google’s unilateral decision to turn off access to news websites for Californians could violate [various] laws.”
-  
-  In a statement, News/Media Alliance president and chief executive Danielle Coffey said that Google has too much power.
-  
-  “No one company should be permitted to control information so singularly that it can make decisions to the detriment of society, as Google has done in California,” Coffey said. “We call on government agencies to take action to address the various ways this activity could violate existing antitrust and other relevant laws.”
-  
-  In a statement Tuesday, a Google spokesperson said, “These baseless claims deflect the real issues with [the California Journalism Preservation Act] — this bill is unworkable and will hurt small, local publishers to benefit large, out-of-state hedge funds.”
-  
-  The California Journalism Preservation Act would require digital platforms like Google and Meta to pay a “journalism usage fee” to eligible news outlets when they use their content alongside digital ads.
-  
-  “We have proposed reasonable alternatives to CJPA that would increase our support for the California news ecosystem and support Californians’ access to news,” the Google spokesperson said. “We’ve long said CJPA isn’t the right approach, and we’ve taken a responsible and transparent step to prepare for its possible implementation
-  
-  Earlier, California State Senate President Pro-Tempore Mike McGuire, a co-author of the California Journalism Preservation Act, called the move an act of “bullying” and an “abuse of power.”
-  
-  “This is a dangerous threat by Google that not only sets a terrible precedent here in America, but puts public safety at risk for Californians who depend on the news to keep us informed of life-threatening emergencies and local public safety incidents,” he wrote in a post on X, formerly known as Twitter. “This is a breach of public trust and we call on Google Executives to answer for this stunt.”
-  
-  Charles F. Champion, the president and CEO of the California News Publishers Association, said the move by Google was suppressing California news.
-  
-  “The fact that one company can shut down the means by which 90% of the public find online content in order to achieve their own political and business ends show just how much policymakers need to act, and act now,” he posted Friday on X. “Google is not above the law, and they should not be allowed to act as if they are.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:db2245120abe64b19c9c40c68edb897224be3ba9c986067af7805ac591ae48e7
+size 4693

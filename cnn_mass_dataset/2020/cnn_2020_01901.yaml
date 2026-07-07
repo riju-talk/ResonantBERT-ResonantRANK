@@ -1,33 +1,3 @@
-id: cnn_2020_01901
-title: "Older patients, women and those with variety of early symptoms most at risk of ‘long Covid,’ paper suggests"
-date: "2020-10-21"
-section: "Health"
-url: "https://www.cnn.com/2020/10/21/health/long-covid-symptoms-women-wellness-intl/index.html"
-content: |
-  Older people,womenand those with awide range of symptomsin the first week of their illness appear to be most likely to develop “long Covid,” according to a preprint paper posted online by researchers at King’s College London on Wednesday.
-  
-  The paper defines “long Covid” as having symptoms persist for more than four weeks, while a short duration of Covid was defined as less than 10 days, without a subsequent relapse.
-  
-  About 1 in 20 people with Covid-19, or 4.5%, are likely to experience symptoms for eight weeks or more, the preprint analysis of data from the Covid Symptom Study app showed. The analysis has not been published in a peer-reviewed journal.
-  
-  The data was collected from 4,182 users of the app in the UK who reported testing positive for coronavirus and regularly logged their health information in the app.
-  
-  When it came to the sets of symptoms reported, the research identified two main groups of long Covid sufferers. One group experienced mainly respiratory symptoms, such as a cough and shortness of breath, plus fatigue and headaches. The other group experienced “multi-system” symptoms in many parts of the body, such as heart palpitations, gut issues, pins and needles or numbness, and “brain fog.”
-  
-  “It’s important we use the knowledge we have gained from the first wave in the pandemic to reduce the long-term impact of the second. This should pave the way for trials of early interventions to reduce the long term effects,” said Dr. Claire Steves, clinical academic and senior author from King’s College London, in a news release.
-  
-  What we know about what it's like to recover from Covid-19 and its long-term effects
-  
-  While most of the people with Covid-19 in the study reported being back to normal in 11 days or less, about 1 in 7 reported symptoms lasting for at least four weeks, about 1 in 20 for at least eight weeks and about 1 in 50 for at least 12 weeks.
-  
-  Long Covid sufferers were also twice as likely to report a relapse after they recovered compared with those who had “short Covid” (16% vs 8.4%).
-  
-  About 1 in 5 adults older than 70, or 21.9%, who tested positive for coronavirus developed long Covid, compared with about 1 in 10 18- to 49-year-olds, the study found. Women were more likely to suffer from long Covid than men – at 14.9% of women compared to 9.5% of men – but only in the younger age group.
-  
-  People who developed long Covid also had a slightly higher average BMI than those with short Covid, according to the paper. The researchers also found that people with asthma were more likely to develop long Covid, but found no clear links to any other underlying health conditions.
-  
-  The analysis has several limitations, including that it is based on self-reported information, was conducted online via an app, and the app users were disproportionately female and younger than 70.
-  
-  The researchers used the information to develop a model to predict who is most at risk of long Covid based on their age, sex, and count of early symptoms. Statistical tests showed that this simple prediction was able to detect more than two thirds (69%) of people who went on to get long Covid (sensitivity), and 73% effective at avoiding false alarms (specificity).
-  
-  The team then tested this model against an independent dataset of 2,472 people who reported a positive coronavirus antibody test result with a range of symptoms and found that it gave similar predictions of risk.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b994e232a145c4346d8978ac0a6e1f41501f5cf23f3d530a2b72e20401852d86
+size 3785

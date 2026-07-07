@@ -1,33 +1,3 @@
-id: cnn_2020_02727
-title: "‘Mighty mice’ splash down to Earth after stay on space station"
-date: "2020-01-07"
-section: "World"
-url: "https://www.cnn.com/2020/01/07/world/mighty-mice-space-station-trnd/index.html"
-content: |
-  Genetically enhanced “mighty mice” that were part of a heath experiment on the International Space Station have successfully returned to Earth. The mice splashed down in  a SpaceX Dragon capsule on Tuesday morning in the Pacific Ocean.
-  
-  The mice, provided by the nonprofitJackson Laboratoryin Maine, were genetically manipulated for muscle growth in an experiment to better understand how zero gravity affects the human body.
-  
-  During long-term spaceflight missions on the space station, astronauts have experienced muscle and bone loss. Although the astronauts exercise every day to mitigate this, experiments like this can help scientists understand how the loss occurs and better ways to manage it.
-  
-  Treating the first known blood clot in space
-  
-  These mice are just one of many groups of rodents that have flown on the space station over the years in the name of research.
-  
-  The mice began their stay on the space station after docking onDecember 8.
-  
-  Astronaut exercise programs may help cancer patients, researchers say
-  
-  The experiment was calledRodent Research-19and it was used to study both myostation and activin, which are the molecular signaling pathways that can influence muscle degradation, according to NASA. Researchers believe these pathways could be targets to prevent muscle and bone loss during missions and help with recovery efforts once astronauts return to Earth.
-  
-  As is usually the case with space station experiments, the findings could also help develop therapies for those dealing with muscle and bone loss due to various conditions on Earth. This includes muscular dystrophy, osteoporosis and diseases that cause muscle wasting like cancer, heart disease, sepsis and AIDS.
-  
-  The findings could provide support for future clinical trials.
-  
-  Spaceflight alters human heart cells but they return to (mostly) normal on Earth
-  
-  While on the space station, the mice were treated with an agent that actually blocked the pathways to see how it impacted their bone and muscle loss. Blocking these pathways has also been known to induce muscle and bone growth.
-  
-  Because they were genetically engineered to lack myostatin, they had twice the average muscle mass – hence, the nickname “mighty mice.”
-  
-  The 40 female mice who flew on the space station will be compared with a control group of 40 female mice who remained on Earth. The findings can also be applied to future long-term spaceflight missions to the moon and Mars.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17b9d87a643d7fbbbdc696032a9370f53bb776ece4fad951dd9e626a6d116d3d
+size 2728

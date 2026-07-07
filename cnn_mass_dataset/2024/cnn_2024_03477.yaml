@@ -1,29 +1,3 @@
-id: cnn_2024_03477
-title: "Palestinian-American sues Meta, alleging speech discrimination on platform"
-date: "2024-06-05"
-section: "Tech"
-url: "https://www.cnn.com/2024/06/05/tech/palestinian-american-sues-meta-instagram/index.html"
-content: |
-  A Palestinian-American engineer has sued the social media giant Meta, accusing his former employer of discriminating against pro-Palestinian speech on its platforms and ofwrongfully firing him after he investigated the issue as part of his official duties.
-  
-  The lawsuit by Ferras Hamad — a Meta engineer assigned to review Instagram content filters related to the wars in Gaza and Ukraine — claims Meta fired him because of his Palestinian background and for raising concerns about the company’s handling of a prominent Palestinian war photographer’s Instagram account.
-  
-  The lawsuit highlights how divisions over the conflict in Gaza have not only played out on social media but also, according to Hamad, within the companies that operate those same online platforms.
-  
-  “The employee was dismissed for violating Meta’s data access policies, which we make clear to employees will result in immediate termination,” Meta spokesperson Andy Stone said in a statement to CNN.
-  
-  According to the complaint filed Tuesday in California state court in Santa Clara County, the photographer’s account, with more than 17 million followers, had been incorrectly labeled as pornographic.
-  
-  When Hamad flagged the matter late last year to colleagues within the same team, he allegedly began to receive communications from Meta employees outside of the team pressuring him to drop the investigation.
-  
-  While trying to understand the photographer’s case, Hamad claims he “followed the guidance provided for debugging such issues, including checking the publicly accessible posts of the user.”
-  
-  Weeks later, following an employment investigation, Hamad was abruptly fired, the lawsuit said, with Meta allegedly claiming that Hamad had violated the company’s user-data access policies despite both his manager and Meta’s security team affirming that no policy violations had occurred.
-  
-  The firing took place against the backdrop of other examples of company bias against pro-Palestinian speech, Hamad alleges. Those examples include situations where Meta allegedly deleted employees’ internal posts mentioning deaths of relatives in Gaza; mentions of Palestinian refugees from an internal group dedicated to refugee support; and an internal letter from employees to Meta executives flagging concerns about Meta’s moderation of content related to Palestinians, Muslims and Arabs, according to the complaint.
-  
-  The lawsuit also cites a December 2023 report byHuman Rights Watchdocumenting claims that Meta unreasonably suppressed peaceful pro-Palestinian speech.
-  
-  Hamad “was scrutinized, interrogated, and terminated because he was of Palestinian national origin and/or Muslim investigating a SEV [severe issue] related to one of the most famous Palestinian photojournalists during the conflict in Gaza,” the lawsuit alleges.
-  
-  As part of the suit, Hamad is accusing Meta of illegal discrimination, harassment, retaliation and wrongful termination, requesting a jury trial to determine damages he has suffered including lost income and benefits as well as lost career opportunities and undue stress.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17b74e27c7e1a6fda550800db5c64a19c1565acb6c1f88806688d2cd38571e2f
+size 3398

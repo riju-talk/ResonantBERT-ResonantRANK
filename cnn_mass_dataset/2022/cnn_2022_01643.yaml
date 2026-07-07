@@ -1,25 +1,3 @@
-id: cnn_2022_01643
-title: "The White House released an ‘AI Bill of Rights’"
-date: "2022-10-04"
-section: "Tech"
-url: "https://www.cnn.com/2022/10/04/tech/ai-bill-of-rights?query=query%28%24symbols%3A%20%5BString%5D%29%20%7B%0A%20%20marketIndexes%28symbols%3A%20%24symbols%29%20%7B%0A%20%20%20%20indexes%20%7B%0A%20%20%20%20%20%20symbol%0A%20%20%20%20%20%20index_displayName%0A%20%20%20%20%20%20inSession%0A%20%20%20%20%20%20streamId%3A%20streamSymbol%0A%20%20%20%20%20%20change%0A%20%20%20%20%20%20level%0A%20%20%20%20%20%20changePct%0A%20%20%20%20%20%20link%0A%20%20%20%20%20%20__typename%0A%20%20%20%20%7D%0A%20%20%20%20__typename%0A%20%20%7D%0A%7D%0A&variables=%7B%22symbols%22%3A%5B%22INDU%22%2C%22INX%22%2C%22COMP.IDX%22%5D%7D"
-content: |
-  The White House on Tuesday released a set of guidelines it hopes will spur companies to make and deploy artificial intelligence more responsibly and limit AI-based surveillance, despite the fact that there are few US laws compelling them to do so.
-  
-  The guidelines, which have been in the works for a year, are not binding in any way. But the White House hopes it will convince tech companies to take additional steps to protect consumers, including clearly explaining how and why an automated system is in use and designing AI systems to be equitable. The blueprint joins a number of other voluntary efforts to adopt rules regarding transparency and ethics in AI, which have come fromgovernment agencies,companiesand non-government groups.
-  
-  Though the use of AI has proliferated in recent years — being used for everything fromconfirming people’s identities for unemployment benefitstogenerating a highly realistic picturein response to a written prompt— the US legislative landscape has not kept pace. There are no federal laws specifically regulating AI or applications of AI, such as facial-recognition software, which has been criticized by privacy and digital rights groups for years over privacy issues and leading to the wrongful arrests,of at least several Black men, among other issues.
-  
-  A handful of individual states have their own rules. Illinois, for instance, has a law known as theBiometric Information Privacy Act (BIPA), which forces companies to get permission from people before collecting biometric data like fingerprints or scans of facial geometry. Italsoallows Illinois residents to sue companies for alleged violations of the law. Since 2019, a number of communities and some states have alsobanned the use of facial-recognition softwarein various ways, though a fewhave since pulled back on such rules.
-  
-  TheBlueprint for an AI Bill of Rightsincludes five principles: That people should be protected from systems deemed “unsafe or ineffective;” that people shouldn’t be discriminated against via algorithms and that AI-driven systems should be made and used “in an equitable way;” that people should be kept safe “from abusive data practices” by safeguards built in to AI systems and have control over how data about them is used; that people should be aware when an automated system is in use and be aware of how it could affect them; and that people should be able to opt out of such systems “where appropriate” and get help from a person instead of a computer.
-  
-  “Much more than a set of principles, this is a blueprint to empower the American people to expect better and demand better from their technologies,” said Alondra Nelson, the deputy director of the White House Office of Science and Technology Policy, during a press briefing.
-  
-  While some privacy and technology advocates responded positively to the guidelines, they also pointed out that they are just that, guidelines — and not legally binding.
-  
-  In a statement, Alexandra Reeve Givens, president and CEO of the Center for Democracy and Technology, a Washington, DC-based nonprofit,said, “Today’s agency actions are valuable, but they would be even more effective if they were built on a foundation set up by a comprehensive federal privacy law.”
-  
-  In a separate statement, ReNika Moore, director of the American Civil Liberties Union’s Racial Justice Program, called the principles “an important step in addressing the harms of AI” and added that “there should be no loopholes or carve-outs for these protections.”
-  
-  “It’s critical that the Biden administration use all levers available to make the promises of the Bill of Rights blueprint a reality,” Moore said.
+version https://git-lfs.github.com/spec/v1
+oid sha256:709d120bd2bc784fa8bd5bf2faf4da783737ca7f4d0d9d5c3bdaa56fe4ce7703
+size 4488

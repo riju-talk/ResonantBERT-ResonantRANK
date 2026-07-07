@@ -1,31 +1,3 @@
-id: cnn_2022_01180
-title: "Binance investigates hack affecting a number of crypto tokens"
-date: "2022-12-02"
-section: "Business"
-url: "https://www.cnn.com/2022/12/02/business/binance-withdrawals-hnk-intl"
-content: |
-  The crypto industry just can’t catch a break this year.
-  
-  Binance, the world’s biggest cryptocurrency exchange, is investigating a hacking incident that affected a number of crypto tokens Friday. According to its founder and CEO Changpeng Zhao, a private key, used to encrypt or decrypt data, had been hacked.
-  
-  “Initial analysis is developer private key was hacked, and the hacker updated the smart contract to a more malicious one,” Zhaosaidon Twitter, adding that the Ankr and Hay tokens were affected.
-  
-  Binance paused withdrawals a few hours ago, CZ tweeted. He appeared to be referring to Ankr’s loyalty token aBNBc, which was targeted by the hack, according to Binance. Hay is a stablecoin, a kind of cryptocurrency that is pegged to another asset.
-  
-  “Smart contract” is a term used to describe computer code that automatically executes all or parts of an agreement. It is usually stored on a blockchain-based platform.
-  
-  “A hacker managed to exploit a vulnerability in the code of aBNBc that allowed them to mint 6 quadrillion tokens, which was converted into BNB tokens [Binance’s own coin] and transferred through the crypto mixer platform Tornado Cash,” said Matt Hussey, who writes a crypto newsletter called Zero Knowledge.
-  
-  “It’s another example of the vulnerability in many of the contracts that power protocols and exchanges in the crypto space,” he added.
-  
-  In a separate tweet, Binance reassured its users by saying that “this is not an attack” against the company, and that its team was working to investigate.
-  
-  Ankr, meanwhile, said onTwitter, that it is “committed to compensating affected users.”
-  
-  “The team at Ankr has assessed the damage and it is max 5 [million US dollars] worth of BNB,” it said.
-  
-  Binance did not immediately respond to a request for more information.
-  
-  The apparent attack comes at a time when the digital assets industry is struggling with the financial contagion unleashed by the fall of crypto exchange FTX.
-  
-  Blockchain analytics firm Chainalysis said in October that more than$3 billionhad been hacked from the crypto industry across 125 attacks in the first ten months of the year, and that 2022 was on track to be a record year for such exploits.
+version https://git-lfs.github.com/spec/v1
+oid sha256:35da54ef35d4c0f68e96169cf6bacac9244786a72fffb66593cbf3e5f60c99cb
+size 2494

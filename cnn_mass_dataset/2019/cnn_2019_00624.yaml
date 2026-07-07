@@ -1,31 +1,3 @@
-id: cnn_2019_00624
-title: "The Democratic Party deepfaked its own chairman to highlight 2020 concerns"
-date: "2019-08-09"
-section: "Tech"
-url: "https://www.cnn.com/2019/08/09/tech/deepfake-tom-perez-dnc-defcon/index.html"
-content: |
-  The Democratic National Committee wanted to demonstrate the potential threat to the 2020 election posed bydeepfake videos— clips created with artificial intelligence that can make people appear to do or say things they never did. So the committee came up with a novel solution: It had experts make one, with its chair as the victim.
-  
-  The deepfake video was shown Friday in Las Vegas atthe A.I. VillageatDef Con, one of the world’s biggest conventions for hackers.
-  
-  People in the room for a presentation by the DNC were told that DNC Chair Tom Perez was supposed to be there, but was unable to make it. They said he going to connect by Skype instead. Then Perez came on screen and apologized for not being in attendance — except that he’d said no such thing.
-  
-  With the cooperation of the DNC’s chief security officer Bob Lord, experts in artificial intelligence had altered Perez’s facial expressions to make it appear as if he was apologizing. Then they’d used Lord’s voice to put the words in Perez’s fake mouth.
-  
-  Researchers can now use AI and a photo to make fake videos of anyone
-  
-  While many people in Washington might have recognized a difference in Perez’s voice, the audience at Def Con largely appeared not to. And when the video was over and the audience was told what had happened, they clapped.
-  
-  Speaking in Vegas, Lord told CNN Business that the Perez deepfake was a demonstration to warn about what could possibly happen in 2020. Lord is a former tech executive who was hired by the DNC aspart of an overhaul of its cyber securityafter it was hacked in 2016. Experts, lawmakers and the intelligence community have all said deepfakes couldpose a threat to national securityand may be used as part of disinformation campaigns targeting the United States.
-  
-  One of the potential problems that could arise from deepfake videos is that they may make people feel that all video can’t be trusted, leading to what some observers have termed an “information apocalypse.” By creating the deepfake of Perez, the DNC could risk contributing to that effect — but Lord says it is important to educate people about deepfakes so they are on the lookout for them.
-  
-  On the other hand, some critics say the threat of deepfakes has been overblown and point out that there is no known case of a deepfake being used to interfere in the political process.
-  
-  House Intel chair sounds alarm in Congress' first hearing on deepfake videos
-  
-  But some people who study the issue say it’s only a matter of time. Last month, Symantec, a cybersecurity company,said that one companyhad been duped by fake audio. In that case, Symantec said, scammers had used fake audio of a company’s CEO to steal hundreds of thousands of dollars by calling a senior finance employee at the company and asking for an urgent cash transfer.
-  
-  Symantec did not publicly release the name of the company involved.
-  
-  The audience at Def Conis a prime one for the DNC’s warning. Besides hackers, multiple members of Congress and dozens of congressional staffers and members of the intelligence community are expected to attend. Election security has been a growing area of interest at the conference since 2016.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0518d27f407dd06831367d588fdda22abba05c366e3dab4645a3c373f3c878bd
+size 3481

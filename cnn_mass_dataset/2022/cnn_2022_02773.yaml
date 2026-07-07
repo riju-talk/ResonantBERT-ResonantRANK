@@ -1,25 +1,3 @@
-id: cnn_2022_02773
-title: "Weekly jobless claims fall again, underscoring tight job market"
-date: "2022-09-08"
-section: "Economy"
-url: "https://www.cnn.com/2022/09/08/economy/us-jobless-claims/index.html"
-content: |
-  Despite fears of a recession, the labor market is showing no signs of weakening. The number of first-time claims for unemployment benefits fell by 6,000 to 222,000 for the week ended September 3, according to Department of Labor data released Thursday.
-  
-  The initial weekly claims figure, which is at its lowest level in just over three months, is belowthe previous week’sdownwardlyrevised level of 228,000 and lower than economists’ expectations of 240,000, according to Refinitiv estimates.
-  
-  Billionaire: The Fed won't say it out loud, but it really wants a higher unemployment rate
-  
-  Continuing jobless claims for the week ended September 3 increased by 36,000 to 1.47 million, the highest level in nearly five months,according to the Labor Department.
-  
-  “We don’t expect initial claims to continue to fall, but don’t look for a sharp spike either,” Nancy Vanden Houten, lead US economist with Oxford Economics, told CNN Business. “Even as the economy is weighed down by higher interest rates, labor markets are only starting to loosen slightly. So we think employers will be reluctant to let go of workers, and will slow hiring first.”
-  
-  Vanden Houten added that she expects continuing claims to track more closely with initial claims, and that the latest uptick likely reflects volatility from non-seasonally adjusted estimates provided by California.
-  
-  The nation’s labor market hasremained strong despiteslumps in other areas of the economy, but has shown hints of deceleration. Following a blowout monthly job gain of526,000 in July,a more moderate 315,000 jobs were addedin August, representing the second-lowest monthly total in 16 months.
-  
-  August’s job gains, however, still remain well above pre-pandemic times, when the monthly average was about 200,000, Bureau of Labor Statistics data shows.
-  
-  And despite a recent spate of layoff announcements from large firms in sectors such as tech and retail, job openings remain plentiful. In July, the number ofavailable positions ticked up to 11.2 million jobs— almost double the number of unemployed people looking for work.
-  
-  The weekly initial jobless claims numbers are preliminary and subject to revision.
+version https://git-lfs.github.com/spec/v1
+oid sha256:635cc5a7d6ea119cf5d7e58c042850a8834bbe28dea136369fd03dfa273756e4
+size 2436

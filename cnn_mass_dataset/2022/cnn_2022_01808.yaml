@@ -1,31 +1,3 @@
-id: cnn_2022_01808
-title: "Former CIA employee convicted for carrying out largest data leak in agency’s history"
-date: "2022-07-13"
-section: "Politics"
-url: "https://www.cnn.com/2022/07/13/politics/cia-employee-convicted-joshua-schulte-data-leak/index.html"
-content: |
-  A former CIA employee charged with carrying outthe largest leak of classified data in the agency’s historywas convicted on all counts in federal court Wednesday.
-  
-  Joshua Schulte – who was accused of handing over reams of classified data to WikiLeaks in 2016 – was convicted of illegally gathering and transmitting national defense information and obstructing a criminal investigation and grand jury proceeding, among other charges.
-  
-  He had worked as a computer engineer within the CIA’s Center for Cyber Intelligence, and created cyber tools that could grab data undetected from computers. Schulte defended himself at trial. An earlier trial ended in a hung jury in 2020.
-  
-  Schulte had access to “some of the country’s most valuable intelligence-gathering cyber tools used to battle terrorist organizations and other malign influences around the globe,” US Attorney for the Southern District of New York Damian Williams said in a statement on Wednesday.
-  
-  “When Schulte began to harbor resentment toward the CIA, he covertly collected those tools and provided them to WikiLeaks, making some of our most critical intelligence tools known to the public – and therefore, our adversaries,” Williams said.
-  
-  Schulte’sissues at the CIAbegan in the summer of 2015 when he began to feud with management and a co-worker, ultimately filing a restraining order against the co-worker in state court, court records show. Schulte and the co-worker were both transferred as a result of the feud.
-  
-  Investigators alleged that Schulte became enraged when CIA officials wanted to hire a contractor to build a cyber tool similar to one he was building, prosecutors said.
-  
-  A year later, investigators said Schulte stole cyber tools and source code andtransferred them to WikiLeaks, according to court records. He then went on to try to cover his tracks, erasing any and all traces of him accessing the computer system, prosecutors said.
-  
-  Schulte quit the CIA in November 2016. But in March 2017, WikiLeaks published the first installment of itsVault 7 leaks, which originated from two programs that Schulte had access to, court records show.
-  
-  WikiLeaks put out a news release to go with the information, saying that the data had been provided anonymously by a source who wanted to raise policy questions, specifically about whether the CIA had overstepped its hacking capabilities and exceeded its authority.
-  
-  Schulte, who also allegedly lied to CIA and FBI investigators to cover his tracks, was arrested in August 2017 on child pornography charges. He was indicted on the charges related to the data breach months later.
-  
-  “Schulte was aware that the collateral damage of his retribution could pose an extraordinary threat to this nation if made public, rendering them essentially useless, having a devastating effect on our intelligence community by providing critical intelligence to those who wish to do us harm,” Williams added Wednesday.
-  
-  “Today, Schulte has been convicted for one of the most brazen and damaging acts of espionage in American history.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:beb08a2c99a6c410de5b845326147199ace40546650a8b8a91b2ca8807bdf193
+size 3387

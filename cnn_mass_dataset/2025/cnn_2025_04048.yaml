@@ -1,27 +1,3 @@
-id: cnn_2025_04048
-title: "After a wave of lawsuits, Character.AI will no longer let teens chat with its chatbots"
-date: "2025-10-29"
-section: "Tech"
-url: "https://www.cnn.com/2025/10/29/tech/character-ai-teens-under-18-app-changes?Date=20251030&Profile=CNN"
-content: |
-  EDITOR’S NOTE:This story contains discussion of suicide. Help is available if you or someone you know is struggling with suicidal thoughts or mental health matters. In the US: Call or text 988, the Suicide & Crisis Lifeline. Globally: The International Association for Suicide Prevention and Befrienders Worldwide have contact information for crisis centers around the world.
-  
-  Chatbot platform Character.AI will no longer allow teens to engage in back-and-forth conversations with its AI-generated characters, its parent company Character Technologiessaid on Wednesday. The move comes after a string of lawsuits alleged the app played a role in suicide and mental health issues among teens.
-  
-  The company willmake the change by November 25, and teens will have a two-hour chat limit in the meantime. Instead of open-ended conversations, teens under 18 will be able to create videos, stories and streams with characters.
-  
-  “We do not take this step of removing open-ended Character chat lightly – but we do think that it’s the right thing to do given the questions that have been raised about how teens do, and should, interact with this new technology,” the company said in its statement.
-  
-  Character.AI has been at the center of controversy over how teens and children should be permitted to interact with AI, prompting calls from online safety advocates and lawmakers for tech companies to bolster their parental controls. A Florida motherfiled a lawsuitagainst the company last year alleging the app was responsible for the suicide of her 14-year-old son. Three more familiessued the company in September, alleging that their children died by or attempted suicide and were otherwise harmed after interacting with the company’s chatbots.
-  
-  The company said in a previous statement on the September lawsuits that it cares “very deeply about the safety of our users,” adding that it invests “tremendous resources in our safety program.” It also said it has “released and continue to evolve safety features, including self-harm resources and features focused on the safety of our minor users.”
-  
-  Here’s how Character.AI’s new CEO plans to address fears around kids’ use of chatbots
-  
-  Character Technologies said it decided to make the changes after receiving questions from regulators and reading recent news reports.
-  
-  The company is also launching new age verification tools and plans to establish an AI Safety Lab run by an independent non-profit focusing on safety research related to AI entertainment. The changes follow previous Character AI safety measures, such as a notification directing users to the National Suicide Prevention Lifeline when suicide or self-harm is mentioned.
-  
-  Character Technologies is the latest AI company to announce or launch new protections for teens amid concern about the technology’s impact on mental health. Multiple reports have emerged this year about users experiencingemotional distressorisolationfrom loved ones after prolonged conversations with ChatGPT.
-  
-  OpenAI in late Septemberrolled outthe ability for parents to link their account to a teen’s and limited certain types of content for teen accounts, such as “graphic content, viral challenges, sexual, romantic or violent roleplay and extreme beauty ideals.” Metasaid this monthit will soon allow parents to prevent teens from chatting with AI characters on Instagram.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6387bfba4d66c3b8f6cf8524a3a0c7e622d7bd9b92ecc2e9f6d91109ea19cfe0
+size 3709

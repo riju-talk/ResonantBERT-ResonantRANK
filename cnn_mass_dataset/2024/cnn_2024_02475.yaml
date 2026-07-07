@@ -1,19 +1,3 @@
-id: cnn_2024_02475
-title: "Adult entertainment industry asks Supreme Court to block Texas age-verification requirements for porn sites"
-date: "2024-04-16"
-section: "Politics"
-url: "https://www.cnn.com/2024/04/16/politics/supreme-court-porn-texas/index.html"
-content: |
-  A trade group representing the adult entertainment industryasked the Supreme Courton Tuesday to temporarily block a Texas age-verification law that it says violates the First Amendment by making it more difficult to access porn sites on the internet.
-  
-  Texas’ law requires any website that publishes a substantial amount of content that is “harmful to minors” to verify the age of users. But the challengers say the law also forces adults to identify themselves before accessing pornography, which the group’s lawyers say violates access to free speech online.
-  
-  The group filed a formal appeal to the Supreme Court last week, and, on Tuesday, it asked the court to block the law while that appeal is considered – or at least order an expedited review.
-  
-  The emergency request follows a 2-1 decision last month from the 5th US Circuit Court of Appeals that cited Texas’ “legitimate interest in preventing minors’ access to pornography” and allowed the law to take effect.
-  
-  “Americans hold a wide range of views about sexual content online,” the group, which is represented in part by the American Civil Liberties Union, wrote in their formal appeal. “Some view it as offensive or indecent; for others, it is artistic, informative, or even essential to important parts of life.”
-  
-  The Supreme Court in 1997 unanimously invalidated provisions of a federal law intended to protect minors from indecent material online because it also imposed First Amendment burdens on adults. But in reviewing the Texas law, the 5th Circuit relied instead on a 1968 precedent in which the Supreme Court let stand a New York law barring the distribution of obscene material to minors.
-  
-  “The record is replete with examples of the sort of damage that access to pornography does to children,” the appeals court wrote. “Because it is never obvious whether an internet user is an adult or a child, any attempt to identify the user will implicate adults in some way.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf3d50f13d0d6bc4071e7075a875d63a34dac0aadacdb67592a0d1faf5767566
+size 2268

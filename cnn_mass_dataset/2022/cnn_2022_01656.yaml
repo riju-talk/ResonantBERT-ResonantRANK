@@ -1,29 +1,3 @@
-id: cnn_2022_01656
-title: "Hurricane Ian deals a devastating blow to the uninsured"
-date: "2022-10-07"
-section: "Business"
-url: "https://www.cnn.com/2022/10/07/business/hurricane-ian-uninsured-losses?query=query%28%24symbols%3A%20%5BString%5D%29%20%7B%0A%20%20marketIndexes%28symbols%3A%20%24symbols%29%20%7B%0A%20%20%20%20indexes%20%7B%0A%20%20%20%20%20%20symbol%0A%20%20%20%20%20%20index_displayName%0A%20%20%20%20%20%20inSession%0A%20%20%20%20%20%20streamId%3A%20streamSymbol%0A%20%20%20%20%20%20change%0A%20%20%20%20%20%20level%0A%20%20%20%20%20%20changePct%0A%20%20%20%20%20%20link%0A%20%20%20%20%20%20__typename%0A%20%20%20%20%7D%0A%20%20%20%20__typename%0A%20%20%7D%0A%7D%0A&variables=%7B%22symbols%22%3A%5B%22INDU%22%2C%22INX%22%2C%22COMP.IDX%22%5D%7D"
-content: |
-  Homeowners could be hit with as much as $17 billion in uninsured losses due to flooding fromHurricane Iandue to the latest estimate on damage caused by the storm.
-  
-  The damage estimate comes from CoreLogic, a leading research firm that tracks and estimates the cost of damages from natural disasters. It puts uninsured flood losses at between $10 billion and $17 billion, which nearly matches the insured flood losses of between $8 billion and $18 billion.
-  
-  While wind damage is a part of standard homeowner’s insurance policy coverage, flood damage is typically not covered by those policies. Instead damage from flood waters, either from storm surge or rain, is covered by the National Flood Insurance Program, which is offered by FEMA.
-  
-  But only about 13% of homes in Florida are have policies under NFIP, according to the Insurance Information Institute. Homeowners frequently pass up coverage unless they live in a designated flood plain – ares FEMA judges to be at risk for flooding. In the counties that had mandatory or voluntary evacuation orders in place ahead of the storm,only about 18% of homes had flood insurance, according to analysis by actuarial firm Milliman.
-  
-  Many people who do not live in designated flood plains do not get flood insurance, because their mortgage lender does not require the coverage. But many of those homes could be damaged by flooding nonetheless, especially with record surges of water from the Gulf of Mexico that rushed on shore during Ian, flooding streets and homes. And heavy rainfalls that accompanied Hurricane Ian dumped as much as 12 inches of rain in some areas in what is estimated to be a 1-in-1,000 year event.
-  
-  Even among homes in flood plains in the path of Hurricane Ian, only 47% of homes had flood insurance, according Milliman.
-  
-  People with flood insurance can have uninsured flood damage as well, as the federal policy pays a maximum of $250,000 for damage to a structure and a maximum of $100,000 for damage to a home’s contents.
-  
-  Although private homeowners insurance won’t pay for the initial flood damage claim, homeowners can purchase excess flood protection from private insurers.
-  
-  Wind damage likely caused an additional $23 billion to $35 billion in insured damages, putting Ian’s total losses at as much as $70 billion, according to CoreLogic. That would make it Florida’s most expensive storm ever, and one of the six most expensive US storms when losses are adjusted for inflation.
-  
-  Florida's home insurance market was a mess before Ian. It's about to get worse
-  
-  It would be slightly less expensive than Hurricane Ida last year, which caused $74 billion in damage along the East Coast. The most expensive storm on record was Hurricane Katrina, which caused $125 billion in losses in 2005, which equates to $186 billion in current dollars according to estimates from the National Oceanic and Atmospheric Administration.
-  
-  Beyond the dollar losses, Hurricane Ian has been responsible for at least109 deaths, according to the most recent estimates.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed5b84dc26390e20c61c14e759ed49a6bf4819b068c5c255a6f37710a20bad8d
+size 3848

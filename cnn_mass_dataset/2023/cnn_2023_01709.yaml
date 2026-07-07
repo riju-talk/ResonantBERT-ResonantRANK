@@ -1,25 +1,3 @@
-id: cnn_2023_01709
-title: "Bankrupt cryptocurrency lender Celsius Networks allegedly defrauded investors out of billions of dollars"
-date: "2023-01-05"
-section: "Business"
-url: "https://www.cnn.com/2023/01/05/business/celsius-crypto-fraud-lawsuit?cid=external-feeds_iluminar_msn"
-content: |
-  The New York attorney general filed a civil lawsuit Thursday against the co-founder of now-bankrupt cryptocurrency lender Celsius Networks for allegedly defrauding hundreds of thousands of investors who deposited billions of dollars into the platform.
-  
-  The lawsuit against Alex Mashinsky alleges he made false and misleading statements to encourage investors to place billions of dollars in digital assets with Celsius, which filed for bankruptcy court protection last year. Mashinsky resigned soon after.
-  
-  The lawsuit is the latest action against a high-profile figure in the cryptocurrency industry, which faced a reckoning last year amid volatility in the market. It comes as regulators warn banks and investors about their exposure to the unregulated industry.
-  
-  New York Attorney General Letitia James is seeking damages, restitution, and disgorgement. In addition, she is seeking to ban Mashinsky from doing business in New York or serving as an officer or director of a company.
-  
-  “The law is clear that making false and unsubstantiated promises and misleading investors is illegal,” James said in a statement Thursday.
-  
-  James alleges that Mashinsky touted Celsius as safer than a bank, and said he would generate high returns by making low-risk collateralized loans to established institutions and crypto exchanges, among others.
-  
-  As Celsius grew larger it had trouble generating enough revenue to pay the high returns and “moved into significantly riskier investments, extending hundreds of millions of dollars in uncollateralized loans, and investing hundreds of millions of dollars in unregulated decentralized finance platforms,” the lawsuit alleges. When faced with losses, the lawsuit alleges, Mashinsky hid them from investors and continued to tout the safety of the platform to recruit new investors.
-  
-  “Alex Mashinsky denies these allegations. He looks forward to vigorously defending himself in court,” said Benjamin Allee, an attorney for Mashinsky.
-  
-  James’ office alleges that, among the risky investments Mashinsky made, included $1 billion in loans to Alameda Research, the hedge fund backed byFTX founder Sam Bankman-Fried. In extending many of the loans, Celsius accepted FTX’s token, FTT, as collateral. The value of FTT crashed, leaving the collateral on any still outstanding loans worthless. It is not clear how much of the $1 billion debt was still outstanding at the time.
-  
-  Celsius is facing numerous lawsuits and investigations stemming from its collapse last July.
+version https://git-lfs.github.com/spec/v1
+oid sha256:72f3e4467d9cf8231c883ab6450519f1a1dc7abad400063f20ba163ad487e15b
+size 2839

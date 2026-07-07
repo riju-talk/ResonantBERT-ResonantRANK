@@ -1,31 +1,3 @@
-id: cnn_2024_01807
-title: "US and allies disrupt Russian cyber espionage operation against US and Europe, FBI chief says"
-date: "2024-02-15"
-section: "Politics"
-url: "https://www.cnn.com/2024/02/15/politics/us-allies-disrupt-russian-hacking/index.html"
-content: |
-  The FBI and its international allies disrupted a network of over 1,000 hacked internet routers that Russia’s military intelligence agency was using for cyber espionage operations against the United States and its European allies, FBI Director Christopher Wray said Thursday.
-  
-  The law enforcement operation used a court order to cut off access to the home and small-business routers hacked by the Russian GRU military intelligence agency, kicking them out and “lock[ing] the door behind them,” Wray said at the Munich Security Conference.
-  
-  The Russian hackers were using the network of hacked routers, which is known as a botnet, to target US and foreign governments, and “military, security and corporate organizations” for intelligence gathering, theJustice Department announced.
-  
-  The Russian Embassy in Washington, DC, did not immediately respond to a request for comment on Wray’s allegations.
-  
-  Wray also used his podium in Munich — where intelligence officials from around the world gather every year — to reiterate US warnings that Russia and China-backed hacking teams have long sought a foothold in US energy and telecommunications networks. US officials worry that Beijing could use that access to take networks offline in the event of a crisis.
-  
-  Following Russia’s full-scale invasion of Ukraine two years ago, “we’ve seen Russia conducting reconnaissance on the US energy sector,” Wray said. “And that’s a particularly worrisome trend because we know that once access is established, the hacker can switch from information gathering to attack quickly and without notice.”
-  
-  The disclosure of the FBI operation comes as US officials and lawmakers grapple with another more concerning Russian capability. The US hasnew intelligenceon Russian military capabilities related to its efforts to deploy a nuclear anti-satellite system in space, CNN reported Wednesday.
-  
-  “Russia has made murder, rape and mayhem its stock and trade, so no one should question its continued willingness to launch destructive cyberattacks before and during military conflict,” the FBI chief added.
-  
-  Wray delivered a stark warning to US lawmakers last month that Chinese hackers were preparing to “wreak havoc” on US critical infrastructure in the event of a crisis. In Munich on Thursday, Wray said that Beijing’s hackers had been “prepositioning” in US oil and natural gas company networks since 2011, “but these days it’s [reached] something closer to a fever pitch.”
-  
-  “What we’re seeing now is China’s increasing buildout of offensive [cyber] weapons within our critical infrastructure, poised to attack whenever Beijing decides the time is right.”
-  
-  The Chinese government routinely denies those allegations and in turn accuses the US of conducting hacking operations against China.
-  
-  Wray’s announcement is the latest move by the FBI to use court orders to try to stifle complex hacking operations from Russian spy agencies. Weeks after Russia’s full-scale invasion of Ukraine in 2022, the FBI went public with a similar operation to neutralize another botnet allegedly controlled by a different GRU hacking team that comprised thousands of infected hardware devices.
-  
-  US intelligence agencies also use hacking operations to try to thwart Russia, China and other rival governments. But unlike the FBI’s court-authorized work, details of those US cyber operations rarely, if ever, are made public.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d70724664a65c1d16f6eb2ee37a81d667c2e073e48c35b9dc863d5e8ed7cca3b
+size 3766

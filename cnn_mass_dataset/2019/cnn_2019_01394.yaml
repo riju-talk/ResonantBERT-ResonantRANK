@@ -1,29 +1,3 @@
-id: cnn_2019_01394
-title: "With the promise of verification, hackers are targeting Instagram influencers"
-date: "2019-03-01"
-section: "Tech"
-url: "https://www.cnn.com/2019/03/01/tech/instagram-hackers/index.html"
-content: |
-  A blue verified badge on Instagram is among the most sought after status symbolsin the digital world, a must-have for many so-called influencers. But now a group of hackers are taking advantages of our obsession with appraisal online.
-  
-  The hackers have sent emails claiming to be from the “Instagram Verify Team,” offering users the chance to apply for a verified check mark, the cybersecurity firmTrend Micro found.It’s unclear when the hacking scheme began.
-  
-  Users that fall for the phishing email are asked to input their Instagram username, password, email address, and date of birth — an effort that allows hackers to gain control of accounts.
-  
-  Trend Micro said that in one case it had seen the hackers threaten to delete an account unless the user pays a ransom or sends nude pictures or videos.
-  
-  Brands are flocking to this Instagrammable penthouse
-  
-  “We’ve seen cases where owners of Instagram profiles with followers between 15,000 and 70,000 were hacked and were never retrieved. The victims ranged from famous actors and singers to owners of startup businesses like photoshoot equipment rentals,” Trend Micro said in ablog postpublished Thursday.
-  
-  The company said to look out for emails with “dubious font styles” and incorrect grammar and punctuation.
-  
-  Although it’s unclear as of now who is behind the hacking, the company said they appear to be Turkish speakers.
-  
-  Trend Micro said that it had disclosed its findings to Instagram and its parent company Facebook but has not yet heard back.
-  
-  In a statement sent to CNN Business, Instagram warned users to be wary of any communication alleging to be from the company.
-  
-  “We will never proactively email you about verification, and we will certainly never attempt to sell you verification. Beyond ads, Instagram does not sell any products or services and will not make any offers to you via email,” the statement said.
-  
-  The company said it advises its users to implement two-factor authentication to make accounts even more secure.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9281c94974d634d622899c3b1ecbf7128f916119e167f15ea768965f5c2b2cca
+size 2285

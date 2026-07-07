@@ -1,33 +1,3 @@
-id: cnn_2025_03362
-title: "Thousands of Norwegians mistakenly told they’d won life-changing sums in lottery error"
-date: "2025-06-30"
-section: "Europe"
-url: "https://www.cnn.com/2025/06/30/europe/norwegian-lottery-winners-error-scli-intl"
-content: |
-  Norway’s national lottery has apologized after thousands of players were mistakenly told that they had won large sums in the Eurojackpot draw due to a coding error.
-  
-  Norsk Tipping receives the prize amounts from Germany in euros, then coverts them to Norwegian kroner. However, it was during the conversion that an error occurred and winnings were multiplied by 100, rather than divided by 100, the company said in a statement Friday.
-  
-  Norsk Tipping sent messages and push notifications to customers that showed the wrong, inflated winnings, before later issuing a correction.
-  
-  “Norsk Tipping sincerely apologizes to everyone who was notified of an incorrect prize amount,” it said.
-  
-  The company blamed the issue on a “manual coding error.”
-  
-  “No customers have been paid the wrong prize,” it added.
-  
-  In a separate statement on Saturday, Norsk Tipping CEO Tonje Sagstuen also apologized for the error.
-  
-  “I am terribly sorry that we have disappointed so many, and I understand that people are angry with us,” said Sagstuen in the statement.
-  
-  “I have received many messages from people who had managed to make plans for holidays, buying an apartment or renovating before they realized that the amount was wrong,” she said.
-  
-  “To them I can only say: Sorry! But I understand that it is a small consolation,” added Sagstuen, who later stepped down and was replaced by acting CEO Vegar Strand.
-  
-  The company then sent out another apology message signed by Strand.
-  
-  “On Friday evening, thousands of Norwegians were mistakenly told that they had won a large prize in Eurojackpot. This was an error that affected many and which we take very seriously,” it read.
-  
-  “We deeply regret what has happened, and on behalf of us at Norsk Tipping I would like to apologize to everyone who was affected by this,” said Strand, who added that the company was “working intensively” to make sure that something similar doesn’t happen again.
-  
-  As no one correctly matched all of the numbers in Friday’s draw, the Eurojackpot has now reached 377 million Norwegian kroner ($37.3 million), with the next draw scheduled to take place on Tuesday.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4fa7e167e4a8fa02d7448880546284f3a2d3e84ce95c9f4d64199edf7e9e3eb6
+size 2462

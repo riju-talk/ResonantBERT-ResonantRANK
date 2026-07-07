@@ -1,31 +1,3 @@
-id: cnn_2022_02655
-title: "Smartphones, laptops and oddball gadgets: CES 2022 showcases tech’s latest innovations"
-date: "2022-01-04"
-section: "Tech"
-url: "https://www.cnn.com/2022/01/04/tech/ces-2022-tech-highlights/index.html"
-content: |
-  CES, one of the world’s biggest tech trade shows, kicks off Wednesday in Las Vegas with its first in-person event since the start of the pandemic. While the conferencemay look a little differentin 2022, it’s still showcasing the familiar mix of innovative and wacky products that make an appearance year after year.
-  
-  Beyond the laptops, tablets and smartphones, the event will feature a number of oddball gadgets, including dehumidifying earbuds (yes, you read that right), smart light bulbs that monitor your sleep and even smart bath technology that lets a bathtub fill itself.
-  
-  Here’s a look at some of the buzziest products to watch for at CES 2022, based on company announcements and a press day on Tuesday.
-  
-  Samsung’s newGalaxy S21 FE 5Gsmartphone — FE stands for “fan edition” — borrows some of the best features from its existing S21 line and packages it into a more affordable device. The smartphone, which starts at $699 and is available on January 11, costs$100 less than last year’s S21 for the same processors, refresh rates and triple camera system. With a 6.4-inch Dynamic AMOLED display, it’s slightly larger than the S21 and comes with an aluminum frame, a slight camera bump from the phone’s edge and a fingerprint scanner. It may not be as flashy as the S21, but the cheaper price and different colors — olive, lavender, white or silver —could make it a compelling alternative.
-  
-  Alienware, Dell’s gaming hardware division, showed off a gaming setup calledConcept Nyxthat would allow you to seamlessly switch from playing a game on a PC in the bedroom to playing on a TV screen in the living room, picking up right where a gamer left off using a single controller. The system, currently still in the prototype stage, would rely on edge computing, which could also mean higher bandwidth and fewer lags when they’re playing.
-  
-  Sengled’s newsmart light bulbtracks your sleeping patterns without you needing to wear a smartwatch. The lighting company has added radar technology to its bulbs that monitors biometric measurements such as heart rate, body temperature and other vital signs. Multiple Bluetooth-enabled bulbs used together in a home can create a mesh network to “help detect human behavior and determine if someone has fallen and send for help,” according to the company.
-  
-  If you’ve ever wished to get up-close and personal with the feathered friends that visit your backyard,Bird Buddy— a $199 camera-enabled bird feeder — could help. The feeder, which is available for pre-orders now and ships in June, connects to your home WiFi network, captures photos and videos of visiting birds, and streams live to an app on your phone. The app uses artificial intelligence to let you know what kinds of birds you’re looking at, and will save an album tracking the history of bird visitors to share with family and friends.
-  
-  Tired of waiting for your bathtub to fill at the end of the day? Most people have probably never thought of it as an issue, but Kohler has announced new “PerfectFill Smart Bathing” technology that will let users preset their preferences (and their kids’ or partner’s) for bath temperature and fill levels, and draw a bath with a voice command. The product, which starts at $2,700, hasn’t yet shipped but the company has a link for customers to get notified when it’s available on its website.
-  
-  Samsung’sC-Lab startups— the company’s internal acceleratorprogram — didn’t disappoint this year, with some unusual but delightful products.ThePetnowapp lets you use your dog’s nose print to identify them if they get lost rather than using implanted microchips. The app uses AI to analyze the unique wrinkles in the dog’s nose — which remain unchanged over time, much like fingerprints — and aims to help reconnect pets with owners.
-  
-  Prinker Korea’s app creates temporary tattoos by picking the design and then printing it on your skin via a handheld device, which starts at $199. And Linkface’sDearBuds— Bluetooth-enabled earbuds — tracks humidity inside the ear, which the creators say cause bacteria overgrowth, as well as releases light and heat to alleviate sticky and moist ear canals. (The startup surpassed its Kickstarter goal last year, but it put funding on hold due to issues with sourcing parts for the earbuds and said it planned to redesign the product.)
-  
-  John Deere has long offered tractors with GPS-guided automated steering but its latest model, coming later this year, will till the fields all on its own. Theautonomous farm tractorpacks six stereo cameras and lots of sensors, so farmers can monitor its progress using a smartphone app that provides data and video in real time. Meanwhile, built-in AI will keep an eye out for obstacles or problems. If anything looks wrong, the tractor can stop and ask the farmer for help.
-  
-  Dell made a handful of significant changes to its XPS 13 laptop, most notably with a “capacitive function row” in place of the F keys — that lets you adjust the brightness and volume — not unlike Apple’s controversial digital touch bar. But earlyreviewsapplaud the change, along with the introduction of a glass haptic trackpad, a growing trend in thinner laptops. The sleek premium laptop will launch this spring starting at $1,100.
-  
-  Samsung’s neat new Freestyle gadget ($899) offers the customization capabilities of Samsung’s smart TVs with portability. Coming in at less than two pounds, the versatile,fancy projector creates exciting entertainment experiences, at any time and in any place. It’ll play music, display decorative lighting, project videos onto the walls or ceiling as you lay in bed.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f1bce6831106f70f7789a055dcf8a36274fbda6985651c659d91b9587791a64
+size 5976

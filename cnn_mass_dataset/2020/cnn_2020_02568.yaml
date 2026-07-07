@@ -1,33 +1,3 @@
-id: cnn_2020_02568
-title: "Analysis: Thanksgiving exposes America’s unhealthy information diet"
-date: "2020-11-25"
-section: "Media"
-url: "https://www.cnn.com/2020/11/25/media/thanksgiving-information-diet-reliable-sources/index.html"
-content: |
-  A version of this article first appeared in the “Reliable Sources” newsletter.You can sign up for free right here.
-  
-  Few holidays underscore America’s unhealthy info diet more than Thanksgiving. While this year’s holiday will certainly be different, and hopefully gatherings will be kept small or scrubbed entirely to limit the health risk, my suspicion is that in one way or another, this will prove true yet again, either through Zoom gatherings or at in-person dinners.
-  
-  In fact, fresh off the heels of a heated election and amid a surging pandemic, it might even prove to be worse than usual. I suspect that quite a few families will have relatives who believe that the election was rigged or stolen. Other families might encounter members who refuse to wear masks or abide by other safety protocols. And some might see their loved ones espouse QAnon-related rhetoric.
-  
-  Certainly, Fox News and talk radio certainly play a role in this. There is no question about that. But social media platforms such as Facebook and YouTube also factor heavily into the equation. Not only do these platforms empower bad faith and dishonest actors, but they algorithmically encourage them. These sites were once places that you’d sign on to and see some family photos or a funny viral video. Now, they’re both loaded with disinformation and hyper-partisan rhetoric that circulates and influences the people we care most about.
-  
-  It is important to remember that platforms like Facebook don’t have to allow for their sites to be littered with bad info. It’s a choice. Kevin Roose, Mike Isaac, and Sheera Frenkel’sTuesday storyhighlighted one tweak in the algorithm that Facebook temporarily implemented that helped weed out some of the poisonous info that regularly finds its way to large audiences. According to the trio, in the aftermath of the election when misinfo was going viral, Mark Zuckerberg OK’d a decision for news feed to emphasize “a secret internal ranking it assigns to news publishers based on signals about the quality of their journalism.” In other words, credible outlets with good scores had their content weighted heavier than other sources.
-  
-  The change “resulted in a spike in visibility for big, mainstream publishers like CNN, The New York Times and NPR, while posts from highly engaged hyperpartisan pages, such as Breitbart and Occupy Democrats, became less visible,” Facebook sources told Roose, Isaac, and Frankel. It offered a peek at what a “calmer, less divisive Facebook might look like.” According to NYT, some employees argued the tweak should have been made permanent. But that didn’t happen.
-  
-  >>Nate Silver’spoint:“One thing that’s striking here is the extent to which Facebook is maximizing for short-term, measurable gains as opposed to long-term brand equity. A better news feed could result in more trust from readers, more partnerships with news organizations, higher internal morale, etc. Publishers understand this, which is why they employ editors. If the NYT wanted to maximize traffic *next week*, they could publish lots of highly sensationalist or even conspiratorial stories about Trump, etc. But this would likely be very damaging to them in the long term…”
-  
-  >> The key question: Why not make permanent a change that gives weight to credible, authoritative news sources? Doesn’t that seem like common sense?
-  
-  That question becomes more urgent when you consider just how corrosive to the public conversation that Facebook can be. Charlie Warzel’smust-read storyon “what Facebook fed the baby boomers” does an excellent job detailing that. Warzel lived for weeks inside the news feeds of two older Americans who provided him with their login info. What he found was a news feed comprised of “a dizzying mix of mundane middle-class American life and high-octane propaganda.”
-  
-  >> One of Warzel’s key takeaways was the “problem of comments” which he pointed out often descend “into intense, acrimonious infighting.” Warzel wrote, “The more I scrolled through them, the more comments felt like a central and intractable issue. Unlike links to outside articles, comments aren’t subject to third-party fact checks or outside moderation. They are largely invisible to those people who study or attempt to police the platform. Yet in my experience they were a primary source of debunked claims, harassment and divisive rhetoric…”
-  
-  Over at The Markup, Aaron Sankin examined Facebook’s promise to ban content that “denies or distorts the Holocaust.” Sankin found that the platform was failing at this. “As of mid-November, The Markup has found, numerous Facebook pages for well-known Holocaust denial groups remain active—and for users who find the pages, Facebook’s algorithms continue to recommend related content, effectively creating a network for pushing anti-Semitic content,”Sankin reported. Facebook didn’t respond to his requests for comment…
-  
-  >> This isn’t unique to Facebook’s promise to ban content that denies the Holocaust. The company has a history of announcing crackdowns, generating good PR, and then not fully executing on its promises…
-  
-  Donie O’Sullivan emails:“From speaking to Facebook staffers, my sense is some have considered how history is going to judge them and their association with the company… but they also view it as unfair how much scrutiny Facebook gets when (and perhaps correctly) YouTube might be even worse. There are also Facebook staffers, of course, who think the news industry, particularly the NYT and CNN, just go after the company unfairly and thus tune out critical coverage…”
-  
-  It’s not just Facebook, as O’Sullivan pointed out. YouTube also has a misinfo problem that is often overlooked (notice how, for instance, Susan Wojcicki isn’t being hauled onto Capitol Hill to testify). On Tuesday, Axios’ Ashley Goldbroke newsthat the platform had temporarily suspended and demonetized OAN’s account. The account, O’Sullivanexplained, was “banned from posting new videos to YouTube for a week for spreading Covid-19 misinformation.” It’s worth noting, however, YouTube has failed in the past to take any action when OAN has spread deranged conspiracy theories about George Soros and the so-called “deep state…”
+version https://git-lfs.github.com/spec/v1
+oid sha256:c70272f8a4e28b5d4e78718ea918fce8c38b7aed837217c7485425254d66e6e4
+size 6610

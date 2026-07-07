@@ -1,35 +1,3 @@
-id: cnn_2025_03439
-title: "FAA investigates brief communications outage at air traffic facility responsible for flights at Newark"
-date: "2025-05-19"
-section: "US"
-url: "https://www.cnn.com/2025/05/19/us/newark-airport-outage-monday"
-content: |
-  The Federal Aviation Administration is investigating another radio outage at the troubled air traffic approach control facility responsible for flights approaching and departing Newark Liberty International Airport.
-  
-  The Newark terminal radar approach control facility, also known as Philadelphia TRACON Area C, experienced a radio outage for approximately two seconds around 11:35 a.m. Monday, the FAA said.
-  
-  All aircraft remained safely separated and operations are normal, the agency said, adding it is investigating.
-  
-  The outage comes after the FAA insisted new upgrades to the facility, which moved from Long Island to Philadelphia last July, would blunt new outages. After the May 11 outage, the FAA said a newly installed software patch and a backup line kicked in, though the agency implemented a 45-minute ground stop for Newark flights just in case.
-  
-  Monday, the FAA implemented new delays for flights to Newark averaging 23 minutes due to short air traffic controller staffing in the facility. A 90-second loss of radar coverage and radio communications on April 28 caused five controllers to take 45-day trauma leave, saddling the Newark airport with rolling flight delays.
-  
-  The outage isthe latest after a series of failuresthat have occurred in recent weeks, cascaded by a facility experiencing staffing shortages and severe problems with decades-old technology. The issues have stretched beyond the New Jersey airport and unveiled a serious problem within the FAA’s antiquated air traffic control system. Despite the challenges, Department of Transportation officials still say the system is safe.
-  
-  Don’t expect the problems at Newark Airport to end anytime soon, experts say
-  
-  Three outages over the past several weeks placed Newark in the spotlight and punished passengers with severe delays and cancellations while the airport attempted to meet demand for the days ahead.
-  
-  On the afternoon of April 28,an outage of radar and communications at the same facility left controllers unable to talk to planes or see where they were. At least five controllers took 45 days of trauma leave after the incident, leading to a staffing shortage that canceled and delayed more than a thousand flights.
-  
-  Inside the multi-day meltdown at Newark airport
-  
-  On May 9,controllers handling flights approaching and departing Newark Airport experienced another blackout, losing radar for about 90 seconds early in the morning.
-  
-  Days later, on May 11,another telecommunications issue occurred at the Philadelphia TRACON, placing a brief ground stop on the airport’s operations.
-  
-  Last week,airline leaders and the FAA met over a three-day periodto discuss reducing the number of flights at Newark Airport.
-  
-  The FAA is proposing a maximum arrival rate of 28 aircraft an hour until the airport completes construction on its runway, with daily work expected to end June 15 and continue on Saturdays until the end of the year.
-  
-  After the construction period, the FAA said the maximum arrival rate would be 34 aircraft an hour until October 25. A final determination on arrival rates is expected at the end of May.
+version https://git-lfs.github.com/spec/v1
+oid sha256:de5715267f4d04635e28eba1c70085b380ccd3815b755df7133eef17abf63ad0
+size 3411

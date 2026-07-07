@@ -1,27 +1,3 @@
-id: cnn_2018_01969
-title: "Volkswagen will use 3D printers to mass produce parts"
-date: "2018-09-28"
-section: "Tech"
-url: "https://www.cnn.com/2018/09/28/tech/volkswagen-3d-printing-parts/index.html"
-content: |
-  Editor’s Note:This story was originally published September 11, 2018
-  
-  Volkswagen has found a new way to use a 3D printer: To mass produce car parts.
-  
-  The world’s largest carmaker unveiled plans Tuesday to start using HP metal printing technology to manufacture select parts including gear knobs and custom tailgate lettering.
-  
-  Volkswagen said that it wants to mass produce structural parts using the technology within two to three years.
-  
-  “A complete vehicle will probably not be manufactured by a 3D printer any time soon, but the number and size of parts from the 3D printer will increase significantly,” said Martin Goede, the automaker’s head of technology planning and development.
-  
-  3D printing is not unheard of in auto manufacturing, but it has so far been used for prototypes and individual components. The typical Volkswagen is built using up to 8,000 parts.
-  
-  “A big advantage of [3D printing] is it allows us to produce many of these parts without first having to build manufacturing tools,” said Goede.
-  
-  Volkswagen (VLKAF) already has 90 3D printers in its plants, which are used to make replacements for rare parts.
-  
-  But the carmaker said the new technology will allow for even “highly stressed” parts like pistons to be printed. The printer spits out layer upon layer of material until they are baked into a single piece.
-  
-  HP (HPQ) said its new metal printing service won’t be limited to car parts.
-  
-  “The implications are huge — the auto, industrial, and medical sectors alone produce billions of metal parts each year,” HP CEO Dion Weisler said in a statement.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0bbb087181b820eda9e87de94bc9286626da2d65d7a4d433e2e054a374b3abb6
+size 1854

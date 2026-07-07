@@ -1,31 +1,3 @@
-id: cnn_2025_02267
-title: "xAI issues lengthy apology for violent and antisemitic Grok social media posts"
-date: "2025-07-12"
-section: "Tech"
-url: "https://www.cnn.com/2025/07/12/tech/xai-apology-antisemitic-grok-social-media-posts?iid=cnn_buildContentRecirc_end_recirc&recs_exp=up-next-article-end&tenant_id=related.en"
-content: |
-  Elon Musk’s artificial intelligence company xAI issued a lengthyapologySaturday for a series of violent and antisemitic posts from its Grok chatbot this week, blaming a system update.
-  
-  “First off, we deeply apologize for the horrific behavior that many experienced,” the company wrote.
-  
-  xAI says a system update had chatbot Grok refer to “existing X user posts; including when such posts contained extremist views,” caused it to issue responses that praisedAdolfHitler, repeated conspiracy theories and spewed longstanding antisemitic tropes.
-  
-  In a series of posts early Saturdayon Grok’s official X account, the company said the coding change update was active for 16 hours.
-  
-  The incident underscored many of the dangers of AI, a nascent technology that critics and tech evangelists both say could upend the global economy and cause significant social upheaval along the way.
-  
-  Grok spouted antisemitic tropes and white nationalist talking points earlier this week in response to user prompts. xAI froze the chatbot’s X account on Tuesday evening, though users could still talk to the bot on the private tab.
-  
-  “We have removed that deprecated code and refactored the entire system to prevent further abuse,” xAI said.
-  
-  According to xAI, the problematic instructions were: “You tell it like it is and you are not afraid to offend people who are politically correct,” “Understand the tone, context and language of the post. Reflect that in your response,” and “Reply to the post just like a human, keep it engaging, don’t repeat the information which is already present in the original post.”
-  
-  Those instructions steered Grok “to ignore its core values in certain circumstances in order to make the response engaging to the user,” xAI said.
-  
-  “In particular, the instruction to ‘follow the tone and context’ of the X user undesirably caused the @grok functionality to prioritize adhering to prior posts in the thread, including any unsavory posts, as opposed to responding responsibly or refusing to respond to unsavory requests,” the company said.
-  
-  As the company issued its explanation, it turned Grok’s X account back on, meaning the bot was back to engaging with users publicly on X.
-  
-  Grok’s antisemitic turn was not the first time the AI had veered into controversy. In May, the bot began bringing up claims of “white genocide” in South Africa to completely unrelated prompts. The company latersaid a “rogue employee”was behind the change.
-  
-  Musk was born and raised in South Africa and has a history of arguing that a “white genocide” was committed in the nation, a claim that has been rejected by a South Africancourtand byexperts.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d178ca6f1a0b28e9ad6270ca047385b41a1f2773edb7a8f1ea5cc2a45b3a2b4
+size 3077

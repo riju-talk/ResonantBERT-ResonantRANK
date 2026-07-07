@@ -1,27 +1,3 @@
-id: cnn_2025_02249
-title: "Trump admin tries to kill the most indisputable evidence of human-caused climate change by shuttering observatory"
-date: "2025-07-01"
-section: "Climate"
-url: "https://www.cnn.com/2025/07/01/climate/trump-cuts-mauna-loa-keeling"
-content: |
-  The Trump administration’s proposed budget seeks to shut down the laboratory atop a peak in Hawaii where scientists have gathered the most conclusive evidence of human-caused climate change since the 1950s.
-  
-  The Mauna Loa laboratory in Hawaii has measured atmospheric carbon dioxide, which — along with other planet-warming pollution — has led directly to climate change, driving sea level rise, supercharging weather and destroying food systems.
-  
-  The president’s budget proposal would also defund many other climate labs, including instrument sites comprising the US government’s greenhouse gas monitoring network, which stretches from northern Alaska to the South Pole.
-  
-  But it’s the Mauna Loa laboratory that is the most prominent target of the President Donald Trump’s climate ire, as measurements that began there in 1958 have steadily shown CO2’s upward march as human activities have emitted more and more of the planet-warming gas each year.
-  
-  The curve produced by the Mauna Loa measurements is one of the most iconic charts in modern science, known as the Keeling Curve, after Charles David Keeling, who was the researcher who painstakingly collected the data. His son, Ralph Keeling, a professor at the Scripps Institution of Oceanography at UC San Diego, now oversees collecting and updating that data.
-  
-  Today, the Keeling Curve measurements are made possible by the National Oceanic and Atmospheric administration, but the data gathering and maintenance of the historical record also is funded by Schmidt Sciences and Earth Networks, according to the Keeling Curve website.
-  
-  In the event of a NOAA shut down of the lab, Scripps could seek alternate sources of funding to host the instruments atop the same peak or introduce a discontinuity in the record by moving the instruments elsewhere in Hawaii.
-  
-  In 1958, when the Keeling Curve began, the concentration of CO2 in the Earth’s atmosphere was 313 parts per million. In 2024, that had risen to 424.61 ppm, and this year, monthly average CO2 levels at Mauna Loa exceeded 430 ppm for the first time.
-  
-  The proposal to shut down Mauna Loa had been made public previously but was spelled out in more detail on Monday when NOAAsubmitted a budget document to Congress. It made more clear that the Trump administration envisions eliminating all climate-related research work at NOAA, as had been proposed in Project 2025, the conservative blueprint for overhauling the government.
-  
-  It would do this in large part by cutting NOAA’s Office of Oceanic and Atmospheric Research entirely, including some labs that are also involved in improving weather forecasting.
-  
-  NOAA has long been one of the world’s top climate science agencies, but the administration would steer it instead towards being more focused on operational weather forecasting and warning responsibilities.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4966ac771161b879e017cd54ade5f19184b195279ded1403cebdbca2e624aa77
+size 3154

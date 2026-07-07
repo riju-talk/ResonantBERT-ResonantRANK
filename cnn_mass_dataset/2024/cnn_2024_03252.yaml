@@ -1,25 +1,3 @@
-id: cnn_2024_03252
-title: "Boeing CEO: We’re going to learn from the Alaska Airlines incident"
-date: "2024-01-18"
-section: "Business"
-url: "https://www.cnn.com/2024/01/18/business/boeing-ceo-spirit-aerosystems-alaska-airlines/index.html"
-content: |
-  Boeing says its CEO told workers of Spirit AeroSystems — its subcontractor that builds the 737 Max 9 fuselage — that “we’re going to learn from” this month’s blowout on Alaska Airlines flight 1282.
-  
-  Boeing says CEO Dave Calhoun addressed 200 Spirit AeroSystems employees as part of a town hall meeting held in Wichita, Kansas, on Wednesday. Alongside Calhoun was Spirit AeroSystems President and CEO Pat Shanahan, Boeing says.
-  
-  “We’re going to get better,” a Boeing news release says Calhoun told employees. “Not because the two of us are talking, but because the engineers at Boeing, the mechanics at Boeing, the inspectors at Boeing, the engineers at Spirit, the mechanics at Spirit, the inspectors at Spirit. They’re going to speak the same language on this in every way, shape or form.”
-  
-  Earlier Wednesday, the Federal Aviation Administrationspecifically named Spirit AeroSystemsfor the first time as part of its investigation into Boeing’s quality control, triggered by this month’s Alaska Airlines incident. Investigators are determining why a door plug, which is supposed to cover up a space left by a removed emergency exit door in the side of the plane, blew off Alaska Airlines flight 1282 on January 5 andleft a gaping holein the side of the plane.
-  
-  The Boeing 737 Max 9 remains grounded in the United States until the FAA releases a final directive on how airlines should conduct ungrounding inspections on 171 airplanes. The FAA said Wednesday it has received new data from preliminary inspections of 40 of those airplanes, and once it approves an inspection and maintenance process, it will require every airline with 737-9 Max planes to complete that inspection before the planes can return to the skies.
-  
-  Alaska Airlines said Thursday it is cancelling all Boeing 737 Max 9 flights through Sunday as it continues to wait for the FAA to issue the final directive for ungrounding the planes.
-  
-  In a Thursday update posted to its website, Alaska Airlines says the grounding of its 65 Max 9s “continues to have a tremendous impact on our operation,” causing the cancelation of 110 to 150 flights per day. Alaska Airlines says its techs have finished early inspections of some of its Max 9 jets and shared that information with Boeing who in turn is sharing it with the FAA
-  
-  Spirit AeroSystems is a major Boeing contractor that builds the fuselages of several Boeing jets, including the 737 Max. But the Alaska Airlines incident is not the first time that there have been problems with the quality of its work causing problems for Boeing planes.
-  
-  In April Boeing announced that a “non-standard manufacturing process” discovered during the installation of two fittings in the rear fuselage made by Spirit AeroSystems for the 737 Max caused delays in deliveries and production and required additional inspection by its airline customers. The FAA allowed the planes that had been delivered to keep flying in that instance.
-  
-  The supplier used to be part of Boeing but Boeing spun-off its Wichita division and Oklahoma operations into Spirit AeroSystems. While the company now has customers other than Boeing, it is by far its largest customer, accounting for 62% of its revenue during the first nine months of this year.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b81d09356d8f9955e75df7b7bdbd4edf09bad2abc00aef1f7a0e8c2fa7899657
+size 3553

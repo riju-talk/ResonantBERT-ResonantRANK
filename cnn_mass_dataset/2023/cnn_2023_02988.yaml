@@ -1,25 +1,3 @@
-id: cnn_2023_02988
-title: "GM signs exclusive deal for US semiconductor production"
-date: "2023-02-09"
-section: "Business"
-url: "https://www.cnn.com/2023/02/09/business/gm-globalfoundries-chip-production"
-content: |
-  General Motors has signed an agreement with tech manufacturer GlobalFoundries to make semiconductors for GM’s various electronics suppliers. The electronic components will be made in GlobalFoundries facilities in upstate New York.
-  
-  Semiconductors are a major component of electronic parts such as the computer modules that are required to make automobiles. Disruptions in supplies of computer parts, such as microchips or semiconductors, havecaused problems with auto manufacturingin recent years, leading to reduced supplies of new vehicles and high prices for new cars, trucks and SUVs.
-  
-  GM’s direct relationship with GlobalFoundries will give the automaker a secure supply of chips and will help control costs, said CEO Thomas Caulfield. GM will not have to pay mark-ups to its parts suppliers for semiconducter manufacturing.
-  
-  It’s an unusual agreement in that GM is contracting directly with a firmthat will supply manufacturing services to companies that, in turn, provide parts to GM. Under this agreement, the various electronic component manufacturers that make parts for GM will use GlobalFoundries to make semiconductors for them.  As a manufacturer, GlobalFoundries can make semiconductors of any design for a variety of different customers, said Caulfield.
-  
-  “It’s capacity they want on technology they want, where they want it at the best economics,” Caulfield said in an interview with CNN.
-  
-  GlobalFoundries announced last July that it would expand its manufacturing capabilities around the company’s Malta, New York, headquarters.  The company also has semiconductor manufacturing capabilitieselsewhere in the US including Essex Junction, Vermont, and in other parts of the world such as Germany and Singapore.
-  
-  Last summer, the federal governmentpassed legislation to boost computer chip manufacturingin the United States so companies could import fewer computer components from China.
-  
-  The agreement is also part of an overall plan by GM(GM)to reduce the number of different chips needed to build GM(GM)vehicles. GM(GM)’s stock rose 2% this morning.
-  
-  “The supply agreement with GlobalFoundries will help establish a strong, resilient supply of critical technology in the U.S. that will help GM meet this demand, while delivering new technology and features to our customers,” Doug Parks, GM executive vice president in charge of purchasing and supply chain, said in an announcement.
-  
-  The companies declined to say how much money or how many semiconductors are involved in the agreement. They also did not say how long the agreement is for beyond describing it as “long term.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ef1f3742114f6c498f8d6037eefc656b88c3ed71f585c43ab1c4fd09d0aa797
+size 2871

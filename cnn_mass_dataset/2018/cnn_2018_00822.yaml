@@ -1,33 +1,3 @@
-id: cnn_2018_00822
-title: "Facebook’s top AI scientist says it’s ‘dust’ without artificial intelligence"
-date: "2018-12-05"
-section: "Tech"
-url: "https://www.cnn.com/2018/12/05/tech/ai-facebook-lecun/index.html"
-content: |
-  Without artificial intelligence there wouldn’t be much left of Facebook as we know it today.
-  
-  That’s according to Yann LeCun, who founded Facebook’s artificial intelligence research lab five years ago.
-  
-  “If you take the deep learning out of Facebook today, Facebook’s dust,” LeCun, Facebook’s chief AI scientist, recently told CNN Business. “It’s entirely built around it now.”
-  
-  The technology is included in everything from the posts and translations you see in your news feed to advertisements.
-  
-  When LeCun established the lab, Facebook was already dabbling in deep learning — a type of machine learning he’s worked on and championed since the 1980s. Deep-learning software, modeled after the way neurons work in the brain, ingests loads of data and learns to make its own predictions.
-  
-  Back in 2013 , the social network knew AI would be a key part of its future, and like a number of other tech companies, it looked at deep learning specifically for classifying photos and for face recognition.
-  
-  While it appeared promising, it wasn’t clear how useful it would be. But years later, aided by loads of data collected from users and increasingly powerful computers, the technology has improved rapidly. Facebook and other companies — such as Google, Microsoft and Amazon — are using it for many different things, such astagging people in photos and enabling virtual assistants to tell you the weather.
-  
-  LeCun said the social network in particular couldn’t function today without deep learning. It’s used “absolutely everywhere,” he said.
-  
-  This is true not just of what users can see but what they may not see. Deep learning aids Facebook’s content filtering, too, and helps remove things like hate speech from the social network.
-  
-  But Facebook’s AI efforts have been met with criticism, too. For example, thecompany is turning to AI to help alert human moderators to hate speech shared on the platform, but plenty of these posts are able to slip through cracks of the system. While deep learning and other AI methods are evolving,it could take years for AIto excelat moderating content.
-  
-  Despite the technology’s increasing capabilities, however, LeCun stresses AI is nowhere close to what he likes to call a “Terminator scenario,” during which robots would take over.
-  
-  Sure, itcanbeat humans at games like Go, but we’re still far from creating what’s known as artificial general intelligence. This type of AI can dohuman-liketasks and has enough common sense to help out in daily life rather than just performing fairly scripted tasks like Amazon’s Alexa does today.
-  
-  LeCun said even extraordinarily AI systems won’t have the same drive to do the things humans do unless that’sbuilt into them.
-  
-  “The desire to dominate is not correlated with intelligence,” he said. “In fact, we have many examples of this…in theworld. It’s not the smartest of us that necessarily wants to be the chief.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:080eb404d2b03cebfc27662fc5469dbc8b5b71491a0458f6b262928bf6482ac7
+size 3244

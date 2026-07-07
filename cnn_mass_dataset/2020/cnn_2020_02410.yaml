@@ -1,31 +1,3 @@
-id: cnn_2020_02410
-title: "Toyota and Honda recall millions of vehicles"
-date: "2020-01-22"
-section: "Business"
-url: "https://www.cnn.com/2020/01/22/business/toyota-honda-recall/index.html"
-content: |
-  Two of Japan’s biggest automakers, Toyota(TM)and Honda(HMC), are recalling millions of cars over unrelated safety issues.
-  
-  Toyota said Tuesday it would recall 3.4 million cars, 2.9 million of which are in the United States, because of potentially defective equipment meant to protect passengers during a crash.
-  
-  The affected models in North America, Central America and South America include some Corolla, Corolla Matrix, Avalon, and Avalon HV lines that were produced between 2010 and 2019.
-  
-  In a separate announcement Tuesday, Honda said that it would recall 2.7 million cars: 2.4 million in the United States, and 300,000 in Canada. The carmaker said some Acuras produced between 1996 and 2003 might have dysfunctional Takata airbag inflators that might have been produced without the “appropriate seals” needed to deploy properly.
-  
-  The Toyota vehicles are being called back because they could be equipped with a defective electronic control unit (ECU) that is meant to help protect passengers during a crash, according to the company.
-  
-  This device is supposed to communicate with a car’s sensors and help trigger its airbags and seat belt pretensioners, which is a part of the harness that is designed to tighten and hold riders back during a collision and help lower the risk of injury.
-  
-  Toyota said this week it learned that the ECU in these cars might not work properly due to certain noises that could interfere with the device’s connectivity, which “can lead to incomplete or non-deployment of the airbags and/or seat belt pretensioners.”
-  
-  The company plans to notify everyone that is affected in the United States by mid-March. Drivers will be asked to get their cars checked at Toyota dealerships, where they may be offered a new noise filter to help mitigate sensor communication problems if necessary.
-  
-  The Honda recall, meanwhile, is another headache for the Japanese airbag maker Takata.
-  
-  Takata airbag fault forces recall of another 1.4 million vehicles
-  
-  Honda says its most recent issue isunrelated to Takata’smassive safety scandal, which involves faults that can cause airbag inflators to explode, under-inflate or spew shrapnel at passengers. But that problem has already prompted the Japanese airbag maker tofile for bankruptcyand issuethe largest auto recall in history, involving tens of millions of cars.
-  
-  Under that recall, 34 auto brands have been affected, from Ferrari(RACE)to Ford(F). The crisis has led to fatal consequences, and islinked toat least 29 deaths and hundreds of injuries around the globe, according to the Australian government.
-  
-  Honda is also now calling on car owners to sign up for inspections, though it says it might not be able to help anytime soon. Due to a shortage of “alternative replacement parts,” the automaker says it won’t be able to start free inspections or repairs for about a year.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7898d3cc0293b417aa5a2199a3eed945b2021b915a786c5365094acff5efe73b
+size 3118

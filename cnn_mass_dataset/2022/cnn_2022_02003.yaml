@@ -1,35 +1,3 @@
-id: cnn_2022_02003
-title: "Opinion: Binance CEO explains why it’s misleading to say crypto is anonymous"
-date: "2022-04-06"
-section: "Perspectives"
-url: "https://www.cnn.com/2022/04/06/perspectives/binance-ceo-crypto-sanctions/index.html"
-content: |
-  Editor’s Note:This interview has been edited for length and clarity.
-  
-  Ever since governments across the globe started slapping sanctions on Russia over its invasion of Ukraine, cryptocurrencies have been under scrutiny. The concern is that Russian banks and individuals who have had their assets frozen could potentially use the digital money to evade sanctions.
-  
-  The US and European Union rely heavily on banks to flag and block transactions by sanctioned businesses or people. But digital currencies operate outside of the traditional financial system. Government officials worry that cryptocurrency exchanges won’t comply with the sanctions and that transactions on these digital exchanges will be difficult to track.
-  
-  Coinbase Global and Binance, two of the world’s largest exchanges, have said they are complying with all government sanctions, but they are rejecting any other calls for an outright ban on Russian users unless governments impose one.
-  
-  Quest:Tellme where your platform is standing in the attempts by those who may be sanctioned, or others just to evade sanctions through using cryptocurrencies. What’s your position on this now?
-  
-  Zhao:First of all, Binance follows all of the sanction rules very strictly, so we will block anyone that’s on the sanction list or even anyone that’s remotely related to them … their wives, their lawyers … and their friends… We also view that we do not have the ability to freeze other normal Russian users’ assets because we view that’s illegal for us to do. It’s not for us to decide whose assets we can freeze and not freeze. That’s for governments to decide.
-  
-  On the second point of using crypto to avoid sanctions, I think that’s a myth. If you look at the data, nobody smart does that. Crypto is too traceable. The governments around the world are increasingly very good at tracing crypto transactions. So crypto is not good for that.
-  
-  Quest:To be clear, have you and will you now take a stand on the war? Because a lot of people feel that crypto, the new distributed finance mechanisms…a lot of people seem unwilling to say ‘right or wrong,’ ‘yes or no,’ ‘for or against.’
-  
-  Zhao:Yeah, we’re totally against the war. We’re totally against politicians, dictators that start the wars. So that part we’re totally against. We’re not against the people … There are many people on both sides of Ukraine and Russia that are suffering. And we want to help those people. In fact, I think we are the first company to pledge $10 million US dollars to help the Ukraine refugees, and we have given most of that out already through UN international charity refugee organizations. So yeah, we have a very strong stand on that.
-  
-  Quest:Last question on this area, do you think a lot of people in the fintech industry — and I’m asking you this because you’ve taken a strong stand yourself — do you think too many people are going around saying, ‘see no evil, hear no evil’? It reminds me of the old shared platforms arguments at the beginning on copyright issues: “We’re just a shared platform.” Do you think that fintech does need to…as an industry, come off the fence more often?
-  
-  World Bank President: How we can ease food shortages
-  
-  Zhao:I think fintech, if you include traditional finance, that is true. I think there’s way too many people focusing on crypto. Crypto is actually not good for avoiding sanctions. And if you look atthe Bitfinex hackers,they hacked Bitfinex for billions of dollars in 2016. They held onto the money until recently. The minute they started using it, they got caught … The data shows that crypto is much safer, yet everybody is focused on crypto sanctions. Nobody is talking about banks, cash, oil, etc.
-  
-  Quest:Because originally crypto made a great virtue of anonymity, and you know our old friend Bitcoin came along and said, “You won’t be able to trace or follow or know who’s behind the transaction.” And that gave the[industry the]reputation…
-  
-  Zhao:Yeah, so that’s a bit unfortunate because that’s very misleading right now… Most transactions do need to go through a centralized exchange, any large transactions of value, because the decentralized exchanges don’t have enough liquidity yet.
-  
-  And when they go through centralized exchanges, like us, we KYC [orverify the identityof] everybody — there are small exchanges who still don’t do that. But the larger exchanges, the more compliant exchanges, KYC everybody, and once you know that one transaction is associated with somebody on theblockchain, it’s very easy to follow that along afterward. So that’s a misconception that Bitcoin is anonymous. Bitcoin’s anonymous feature is very, very weak.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a839b76ef69566b46d4b5c74ceef8792a6dfe6896581482674634c2e5eff1b8
+size 5041

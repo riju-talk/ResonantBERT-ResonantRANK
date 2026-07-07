@@ -1,19 +1,3 @@
-id: cnn_2020_01768
-title: "Struggling to use Face ID with your mask? Apple will soon solve that problem"
-date: "2020-05-01"
-section: "Tech"
-url: "https://www.cnn.com/2020/05/01/tech/apple-face-id-mask-trnd/index.html"
-content: |
-  Withmasks becoming a commonplacetool to stop the spread of thenovel coronavirus,someiPhone owners are finding their once-useful Face ID function mostly useless.
-  
-  Apple(AAPL)is changing that. In thelatest beta release of iOS 13.5, multiple developers said a new Face ID feature makes it easier to unlock the iPhone without having to take off a mask.
-  
-  In the new version of iOS, Face ID will recognize when someone is wearing a mask, and the iPhone will pull up the passcode entry screen after swiping up from the bottom of the screen – no more constant searching for your face. The Face ID tool still won’t unlock your iPhone unless you take off your mask, but it will make the switch to the passcode-unlock option significantly faster.
-  
-  As pointed out by@Sonikku_a2, if you’re wearing a mask, iOS 13.5 goes straight to the passcode screen if you try to unlock with Face ID (keypad not shown because iOS hides it in screen recordings)pic.twitter.com/bQCzu5u20p
-  
-  It’s unclear when the fix will be rolled out, but it could be within weeks if other iOS updates are a clue. Apple didn’t immediately return request for comment.
-  
-  The upcoming iOS update is also loaded with new software that app developers can use to help iPhone users be notified if they’ve come in contact with a person having Covid-19. It’s ajoint project with Googlethat will help track the spread of the virus using Bluetooth technology.
-  
-  The companies will first release interfaces built on existing public health apps in May that can work on iOS or Android systems, followed by a more comprehensive platform in the coming months to which users will be able to opt in. However, millions of people need to use toit for it become effective.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c149a45d426ad78d607abaa30f0b38cabcab8547eb4808e7103fe618df8d4cd9
+size 1974

@@ -1,15 +1,3 @@
-id: cnn_2023_00979
-title: "New York Times: Twitter lays off another 10% of staff"
-date: "2023-02-27"
-section: "Tech"
-url: "https://www.cnn.com/2023/02/27/tech/twitter-layoffs/index.html"
-content: |
-  Twitter’s massive job cuts continued this weekend, as the company cut about 10% of its remaining staff, according to a report in theNew York Times.
-  
-  The latest axing of about 200 jobs takes the company’s headcount down to under 2,000 staffers, according to the Times. That’s down from the 7,500 who worked for the social media platform before Elon Muskbought the company last fall for $44 billion.
-  
-  The paper reported that the cuts hit product managers, data scientists and engineers who worked on machine learning and site reliability, which, it said, helps keep Twitter’s various features online. The “monetization infrastructure team,” which maintains the services through which Twitter makes money, was reduced to fewer than eight people from 30, according to the report.
-  
-  Twitter did not respond to a request for comment from CNN on the Times report.
-  
-  Twitter has beenlosing advertiserssince Musk took over. Ad revenue had been responsible for more than 90% of company revenue. Musk’s plans to raise revenue directly from Twitter users byselling verification of accountshas thus far not worked as planned.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c3d5992f650d697abb67105ba313d6b1d4146964babf4853c13a4aa69d252aa9
+size 1341

@@ -1,29 +1,3 @@
-id: cnn_2022_03131
-title: "Trump’s SPAC surges after Elon Musk tries to get out of Twitter deal"
-date: "2022-07-11"
-section: "Tech"
-url: "https://www.cnn.com/2022/07/11/tech/donald-trump-spac-stock-price?query=query%28%24symbols%3A%20%5BString%5D%29%20%7B%0A%20%20marketIndexes%28symbols%3A%20%24symbols%29%20%7B%0A%20%20%20%20indexes%20%7B%0A%20%20%20%20%20%20symbol%0A%20%20%20%20%20%20index_displayName%0A%20%20%20%20%20%20inSession%0A%20%20%20%20%20%20streamId%3A%20streamSymbol%0A%20%20%20%20%20%20change%0A%20%20%20%20%20%20level%0A%20%20%20%20%20%20changePct%0A%20%20%20%20%20%20link%0A%20%20%20%20%20%20__typename%0A%20%20%20%20%7D%0A%20%20%20%20__typename%0A%20%20%7D%0A%7D%0A&variables=%7B%22symbols%22%3A%5B%22INDU%22%2C%22INX%22%2C%22COMP.IDX%22%5D%7D"
-content: |
-  Bad news for Twitter could turn out to be good news for former President Donald Trump.
-  
-  Shares of Digital World Acquisition Corp., the special purpose acquisition company that has agreed to merge with Trump Media & Technology Group, surged 15% in premarket trading Monday morning after Elon Musk said he would back out of his deal to buy Twitter(TWTR).
-  
-  The surge comes afterMusk announced late Fridaythat he was pulling out of his agreement to buy Twitter, citing the lack of information about the percentage of Twitter accounts that are bots. Musk’s lawyer said that placed Twitter “in material breach of multiple provisions” of the original agreement.
-  
-  At a rally in Alaska on Saturday, former President Donald Trumpcalled Musk a “bullsh*t artist”and claimed he knew all along that Musk wouldn’t buy Twitter.
-  
-  “He told me he voted for me,” Trump said. He also said that he had predicted months ago that “Elon is not gonna buy Twitter,” adding, “Where did you hear that before?”
-  
-  Then, Trump urged the crowd to switch to Truth Social. Trump Media & Technology Group owns Truth Social, the Twitter-like app that Trump now uses following his ban from Twitter and Facebook(FB)in January 2021 after the violence at the Capitol.
-  
-  “Sign up for Truth,” Trump said about his struggling social network. “We love the Truth.”
-  
-  Musk has previously hinted he wouldallow Trump back on Twitterif he bought the company.
-  
-  “I do think it was not correct to ban Donald Trump, I think that was a mistake,” Musk said in May. “I would reverse the perma-ban. … We should not have perma-bans.”
-  
-  Digital World Acquisition Corp. revealed in aregulatory filing late last monththat its board members have received subpoenas from a federal grand jury in the Southern District of New York related to due diligence regarding the deal. Shares are down more than 50% for the year.
-  
-  Following the disclosure, the company responded that “we encourage — and will cooperate with — oversight that supports the SEC’s important mission of protecting retail investors.”
-  
-  – CNN Business’ Chris Isidore contributed to this report.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e8b479b16384c7141dd455793964f599fa100e1953f363600ee6633da9b1e6d
+size 2970

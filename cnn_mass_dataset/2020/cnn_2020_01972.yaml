@@ -1,27 +1,3 @@
-id: cnn_2020_01972
-title: "Twitter looking into racial bias in tweet image previews"
-date: "2020-09-21"
-section: "Tech"
-url: "https://www.cnn.com/2020/09/21/tech/twitter-racial-bias-preview/index.html"
-content: |
-  Some Twitter users are pointing out that the automatic method the platform employs to display previews of images may be biased toward showing pictures of white people. Twitter agreed the issues was something it needs to work on.
-  
-  On Saturday, user @basculetweeted, “Trying a horrible experiment… Which will the Twitter algorithm pick: Mitch McConnell or Barack Obama?” Along with his words were two long, rectangular images. The first consisted of a picture of US Senate majority leader McConnell on the top, who is White, with a slender white rectangle in the middle, and a picture of former US President Obama, who is Black, at the bottom. The second featured the opposite, with Obama at the top and McConnell at the bottom. When a viewer looks at the tweet, a preview version of the images, which are side by side, shows just McConnell.
-  
-  Trying a horrible experiment...Which will the Twitter algorithm pick: Mitch McConnell or Barack Obama?pic.twitter.com/bR1GRyCkia
-  
-  This came after another Twitter user, @colinmadland, on Fridaynoticeda similar preview result when he posted a picture that he said showed himself, a White man, side by side with a picture of a Black man with whom he attended an online meeting; Twitter’s preview defaulted to showing just the White man.
-  
-  A number of other Twitter users responded to the post, some sharing the same or similar results. One got the opposite result after digitally adding glasses to Obama’s face and removing them from McConnell’s. A respondingtweetfrom Anima Anandkumar, director of artificial intelligence research at Nvidia and a professor at the California Institute of Technology, pointed out that she had posted in 2019 about Twitter’s preview feature automatically cropping the heads off of images of women in the AI field, but not men.
-  
-  In aresponseto @bascule, the company tweeted that it didn’t see evidence of racial or gender bias during testing before releasing the preview feature.
-  
-  “But it’s clear that we’ve got more analysis to do. We’ll continue to share what we learn, what actions we take, & will open source it so others can review and replicate,” the company wrote. A Twitter spokeswoman said the company has no further comment.
-  
-  This may be America's first known wrongful arrest involving facial recognition
-  
-  When a Twitter user posts an image to the social network, it uses an algorithm to automatically crop a preview version that viewers will see before clicking through to the full-size image. Twitter said in an engineeringblog postin 2018 that it previously used face detection to help figure out how to crop images for previews, but the face-detecting software was prone to errors. The company scrapped that approach and instead had its software home in on what’s known as “saliency” in pictures, or the area that’s considered most interesting to a person looking at the overall image. As Twitter noted, this has been studied bytracking what people look at; we tend to be interested in things like people, animals, and text.
-  
-  Zehan Wang, an author of the 2018 blog post and a Twitter engineer,tweetedon Saturday that the company’s image-preview algorithm currently does not use face detection. He wrote that Twitter tested the algorithm with pairs of pictures of faces from different ethnic backgrounds and genders, and the company found “no significant bias” when running tests for saliency.
-  
-  Most users aren’t posting the kind of image that @bascule did, with two points of interest that are far apart, which could present a conundrum for an algorithm designed to pick just one area to focus on. But it serves as yet another example of how bias can creep into computer systems that are created by humans and meant to perform tasks that humans are often uniquely good at doing. Additionally, it shows that how an algorithm is tested and how users might interact with it can be meaningfully different.
+version https://git-lfs.github.com/spec/v1
+oid sha256:00f922c735de6b6259beab856956d756fe8de3e1b90d1c7c1f29d53e1dd6a9ee
+size 4181

@@ -1,35 +1,3 @@
-id: cnn_2020_02464
-title: "We need a nationwide Covid alert-level system to save lives and restore jobs, former CDC director says"
-date: "2020-11-24"
-section: "Health"
-url: "https://www.cnn.com/2020/11/24/health/covid-alert-system-frieden-opinion/index.html"
-content: |
-  Editor’s Note:Dr. Tom Friedenwas director of the US Centers for Disease Control and Prevention during the H1N1 influenza, Ebola and Zika emergencies. He is now President and CEO ofResolve to Save Lives, an initiative of Vital Strategies, andSenior Fellow for Global Healthat the Council on Foreign Relations. The opinions expressed in this commentary are his own.
-  
-  Covid is surging exponentially in much of the country,with six new infections every second and one death every minute. Many states are hitting record highs every week. Things are going to get worse – possibly much worse – before they get better. Vaccines will be life-saving and may allow us to curb the pandemic, but are months away from widespread availability.
-  
-  The only way to get cases back down is to decrease contacts, including by selectively shutting businesses. But there’s little clarity or consistency about what the risk is in different areas, or what criteria are used to decide what to close, leading to frustration and anger.
-  
-  There’s a way to reduce this confusion, and it’s one people are already familiar with.Alert-level systems– similar to those used to warn about bad weather, heavy traffic, poor air quality and other community-wide risks – give people an at-a-glance indication of current status so they can adapt their behavior.
-  
-  Nationwide surge in Covid-19 cases has officials planning new restrictions ahead of Thanksgiving
-  
-  A color-coded system with nationwide agreed-on evidence triggering each level change empowers people to know the equivalent of how hard it’s raining coronavirus in their community. This empowers people to protect themselves, their families and others. The system also increases accountability by making clear how well the community is reducing risk. Most importantly, alert-level systems get an entire community – government, businesses and individuals – on the same page, with everyone understanding what the current risk level is, and guidance on what they need to do to reduce it in order to allow more personal and commercial activity.
-  
-  My organization,Resolve to Save Lives, proposed a four-tiered, color-coded system ranging from “4 – Red – Very High Risk” to “1 – Green – Lower Risk.” Given the scale of transmission in the US at the moment, these levels may not be enough. A fifth level – an emergency circuit breaker call to action – may be needed to slam the breaks and stop transmission, in order to protect hospitals and health care workers from becoming overwhelmed. We must preserve hospital capacity, not just for Covid but also for heart attacks, strokes, injury care and more. We shouldn’t reach this stage, but we have. When the breaker is tripped, the community does everything it can to stop transmission. In England, Australia and Toronto, that has meant lockdowns. US transmission intensity now suggest that several states,including parts or all of South Dakota, are at a level where the circuit-breaker approach may be needed. Many other states are at the Red – Very High Risk level, although communities within those states can be at different risk levels. Unless urgent action is taken, they, too, will need a circuit-breaker approach.
-  
-  There was a 28% increase in child Covid-19 cases over the last two weeks, American Academy of Pediatrics says
-  
-  Some states have already adopted Covid alert-level systems, with varying degrees of success. This is a good step, but leaves a patchwork in which a specific level means different things in different places. People traveling or who see a news story about risk levels in another location can have only a vague idea what it actually means.
-  
-  The incoming Biden Administration should establish an alert-level system for Covid that each state and county would use, with full transparency about the criteria behind the alert levels. “Red” should mean “red” wherever you are. It is possible to distill complex data – including rates of reported new cases, testing and test positivity, and hospitalization – to a single overall risk level for a state or community, with uniform criteria. Different parts of states are likely to be at different risk levels.
-  
-  Although we should measure the level of risk – how hard it’s raining coronavirus – in a standardized way, implications of this risk are best decided at state and local levels. Some core decisions as to what can stay open – and what should not – are based soundly on evidence and should be the same in all communities. At “red,” for example, restaurants and bars need to stop indoor service. But some choices allow tradeoffs, depending on the values of different communities. One community may decide to close churches for in-person services at the orange level, and another might leave them open but with reduced capacity – masks required and singing deferred.
-  
-  And because evidence changes, thresholds and decisions on what to close and when may also change. We must communicate this clearly and transparently to prevent the type of confusion that occurred over recommendations for mask wearing, which evolved over time. People are more likely to adhere to recommendations if they understand the basis for establishing them, what they need to do and why, and, most importantly, what needs to happen for restrictions to end.
-  
-  Sign up here to getThe Results Are In with Dr. Sanjay Guptaevery Tuesday from the CNN Health team.
-  
-  Let’s focus on what people can do rather than what they can’t. Ultimately, people will make their own determination of risk. It’s crucial that communication is clear so that people are more likely to voluntarily limit social activities such as small gatherings and parties – restrictions which are nearly impossible to monitor and enforce. An easily understood risk-level system can provide guidance to help people make what can be very tough decisions. Implementing such a system won’t be easy, and will require political leadership and technical excellence.
-  
-  Covid levels will come down before there’s widespread vaccination. At that point, to avoid a fourth wave, we’ll need much more effective public health programs, including programs to get infectious people tested and isolated quickly and a more nuanced, more transparent approach to restrictions and closures that protects both our economy and our health – through a risk-alert level system.
+version https://git-lfs.github.com/spec/v1
+oid sha256:190870069a1d28e2547390bacfa8e828a4130067ff313dc0070c0d5ab87a253b
+size 6736

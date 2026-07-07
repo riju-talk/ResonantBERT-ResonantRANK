@@ -1,27 +1,3 @@
-id: cnn_2023_03519
-title: "NYT: Architect of Trump fake electors plot thought SCOTUS would ‘likely’ reject plan, but pushed ahead anyway"
-date: "2023-08-09"
-section: "Politics"
-url: "https://www.cnn.com/2023/08/09/politics/fake-electors-plot-trump-campaign-memo-chesebro/index.html"
-content: |
-  An internal Trump campaign memo from December 2020, made public Tuesday byThe New York Times, reveals new details about how the campaign initiated its plan to subvert the Electoral College process and install fake GOP electors in multiple states after losing the 2020 presidential election.
-  
-  In the December 6, 2020,memo, pro-Trump lawyer Kenneth Chesebro laid out the plan to put forth slates of Republican electors in seven key swing states that then-President Donald Trump lost. The memo then outlines how then-Vice President Mike Pence, while presiding over the Electoral College certification on January 6, 2021, should declare “that it is his constitutional power and duty, alone, as President of the Senate, to both open and count the votes” from the GOP electors.
-  
-  Chesebro conceded in the memo that this idea was a “controversial” long shot that would “likely” be rejected by the Supreme Court – but nonetheless promoted the strategy. He wrote that despite the legal dubiousness, “letting matters play out this way would guarantee that public attention would be riveted on the evidence of electoral abuses by the Democrats and would also buy the Trump campaign more time to win litigation that would deprive Biden of electoral votes and/or add to Trump’s column.”
-  
-  The fake electors scheme has become an integral part of therecent federal indictment against Trump, which alleges the plot took shape after it became clear that efforts to convince state officials to not certify Joe Biden’s victories would be unsuccessful.
-  
-  According to Trump’s January 6-related indictment and previous CNN reporting, there were multiple planning calls between Trump campaign officials and GOP state operatives, and Giuliani participated in at least one call. The Trump campaign lined up supporters to fill elector slots, secured meeting rooms for the fake electors to meet on December 14, 2020, and circulated drafts of fake certificates that they later signed.
-  
-  At the time, their actions were largely dismissed as an elaborate political cosplay. But it eventually became clear that this was part of an orchestrated plan.
-  
-  “Under the plan, the submission of these fraudulent slates would create a fake controversy at the certification proceeding and position the Vice President-presiding on January 6 as President of the Senate to supplant legitimate electors with the Defendant’s fake electors and certify the Defendant as president,” the indictment states.
-  
-  Prosecutors say Chesebro told Guiliani – both identified in the indictment only as co-conspirator 5 and co-conspirator 1, respectively – that he had been told by state-level operatives that “it could appear treasonous for the AZ electors to vote on Monday if there is no pending court proceeding.”
-  
-  “I recognize that what I suggest is a bold, controversial strategy, and that there are many reasons why it might not end up being executed on Jan. 6,” Chesebro wrote in the December 6 memo, despite pushing the idea and outlining a plan in the days to come. “But as long as it is one possible option, to preserve it as a possibility it is important that the Trump-Pence electors cast their electoral votes on Dec. 14.”
-  
-  That is ultimately what ended up happening on December 14, 2020.
-  
-  Many of the fake GOP electors who signed the phony certificates that day have since come under legal scrutiny: The fake electors from Michigan are facingstate-level felony chargesfor forgery and publishing a counterfeit record, and many of the fake electors from Georgia are targets of the 2020-related criminal probe in Fulton County.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b565fc33603d6389c915ae4dfe35df2c49779d6770cd16b2796ad06adab7a0b8
+size 3960

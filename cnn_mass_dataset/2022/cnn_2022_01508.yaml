@@ -1,25 +1,3 @@
-id: cnn_2022_01508
-title: "Meta is using AI to generate videos from just a few words"
-date: "2022-09-29"
-section: "Tech"
-url: "https://www.cnn.com/2022/09/29/tech/meta-ai-text-to-video-research"
-content: |
-  Artificial intelligence is getting better and better at generating an image in response to a handful of words, with publicly available AI image generators such as DALL-E 2 and Stable Diffusion. Now, Meta researchers are taking AI a step further: they’re using it to concoct videos from a text prompt.
-  
-  Meta CEO Mark Zuckerbergposted on Facebook on Thursday about the research, calledMake-A-Video, with a 20-second clip that compiled several text prompts that Meta researchers used and the resulting (very short) videos. The prompts include “A teddy bear painting a self portrait,” “A spaceship landing on Mars,” “A baby sloth with a knitted hat trying to figure out a laptop,” and “A robot surfing a wave in the ocean.”
-  
-  The videos for each prompt are just a few seconds long, and they generally show what the prompt suggests (with the exception of the baby sloth, which doesn’t look much like the actual creature), in a fairly low-resolution and somewhat jerky style. Even so, it demonstrates a fresh direction AI research is taking as systems become increasingly good at generating images from words. If the technology is eventually released widely, though, it will raise many of the same concerns sparked by text-to-image systems, such as that it could be used to spread misinformation via video.
-  
-  A web pagefor Make-A-Video includes these short clips and others, some of which look fairly realistic, such as a video created in response to the prompt“Clown fish swimming through the coral reef”or one meant to show“A young couple walking in a heavy rain.”
-  
-  In his Facebook post, Zuckerberg pointed out how tricky it is to generate a moving image from a handful of words.
-  
-  This guy is using AI to make a movie — and you can help decide what happens next
-  
-  “It’s much harder to generate video than photos because beyond correctly generating each pixel, the system also has to predict how they’ll change over time,” he wrote.
-  
-  A research paperdescribing the work explains that the project uses a text-to-image AI model to figure out how words correspond with pictures, and an AI technique known asunsupervised learning— in which algorithms pore over data that isn’t labeled to discern patterns within it — to look at videos and determine what realistic motion looks like.
-  
-  As with massive, popular AI systems that generate images from text, the researchers pointed out that their text-to-image AI model was trained on internet data — which means it learned “and likely exaggerated social biases, including harmful ones,” the researches wrote. They did note that they filtered data for “NSFW content and toxic words,” but as datasets can include many millions of images and text, it may not be possible to remove all such content.
-  
-  Zuckerberg wrote that Meta plans to share the Make-A-Video project as a demo in the future.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b27c8b1a7e9058ee8a2604734826eda91d6ccebaa9d9973336d02f4056ebce5
+size 3120

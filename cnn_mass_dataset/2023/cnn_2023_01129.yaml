@@ -1,35 +1,3 @@
-id: cnn_2023_01129
-title: "Ex-Celsius CEO is charged with fraud"
-date: "2023-07-13"
-section: "Business"
-url: "https://www.cnn.com/2023/07/13/business/celsius-alex-mashinsky-charged-with-fraud/index.html"
-content: |
-  US prosecutors charged the former CEO of bankruptcryptocurrency platform Celsius Networkswith defrauding customers and misleading them about the company’s business.
-  
-  An indictment unsealed Thursday in New York charges Alexander Mashinsky with securities fraud, wire fraud and commodities fraud.
-  
-  Mashinsky and Roni Cohen-Pavon, Celsius’ chief revenue officer, were also charged with multiple counts of manipulating the price of the platform’s native crypto token, CEL, while they were offloading their own tokens at inflated prices.
-  
-  Judge denies Sam Bankman-Fried's motion to dismiss charges
-  
-  “Mashinsky portrayed Celsius as a modern-day bank, where customers could safely deposit crypto assets and earn interest,” the indictment states. “In truth, however, Mashinsky operated Celsius as a risky investment fund, taking in customer money under false and misleading pretenses and turning customers into unwitting investors in a business far riskier and far less profitable than what Mashinsky had represented.”
-  
-  Mashinsky pleaded not guilty and was released on a $40 million bond. His attorney, Jonathan Ohring, said that Mashinsky “vehemently denies the allegations” and “looks forward to vigorously defending himself in court.”
-  
-  Celsius was one of several prominent crypto companies that imploded last year as the value of digital assets cratered, in some cases revealing signs of widespread fraud. Federal prosecutors and regulators have been aggressively pursuing charges against the companies and their founders,including Sam Bankman-Fried, who was arrested in December and charged with orchestrating one of the largest financial frauds in US history through his FTX platform. He has pleaded not guilty and is expected to stand trial in October.
-  
-  In the fallout of FTX, US regulators have accused Binance and Coinbase, two of the world’s biggest crypto platforms,of running illegal exchanges.
-  
-  Damian Williams, the US attorney for the Southern District of New York, said Thursday the latest indictment represents “another significant step in our drive to root out corruption in the crypto economy.” To potential customers or investors in crypto, Williams said, “proceed with caution.”
-  
-  Mashinsky and Celsius were also sued by the Commodity Futures Trading Commission on Thursday. Earlier this year, the New York attorney general’s office also sued Mashinsky for fraud.
-  
-  In response to that lawsuit, Mashinsky’s attorney, Benjamin Allee, said, “Alex Mashinsky denies these allegations. He looks forward to vigorously defending himself in court.”
-  
-  Allee could not immediately be reached on Thursday.
-  
-  SEC sues Coinbase for allegedly acting as an unregistered crypto broker
-  
-  Meanwhile, the Federal Trade Commission announced a civil settlement with Celsius and its affiliates for $4.7 billion. Under the terms of the deal, the payment is suspended to allow Celsius, which filed for bankruptcy in July last year, to return money to its customers.
-  
-  The Securities and Exchange Commission also filed civil fraud charges against Celsius and Mashinsky, and is seeking to permanently ban him from running an exchange and from buying or selling cryptocurrencies.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0124a59e97343c6a4bcc8c336529667432087b58631c27330e25da67d1ef2038
+size 3471

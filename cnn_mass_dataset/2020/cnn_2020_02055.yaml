@@ -1,19 +1,3 @@
-id: cnn_2020_02055
-title: "Read: The methodology behind new polling project The Breakthrough"
-date: "2020-08-16"
-section: "Politics"
-url: "https://www.cnn.com/2020/08/16/politics/election-2020-polls-the-breakthrough-methodology/index.html"
-content: |
-  TheBreakthrough is a projectfrom CNN, Georgetown University, the University of Michigan and SSRS.
-  
-  Interviews are conducted over a six-day period each week, typically Tuesdays through Sundays, by telephone, in English and Spanish, among a nationwide, random sample of approximately 1,000 adults per week via the SSRS Omnibus survey. Roughly 70% of interviews each week are completed with respondents reached via cellphone. Interviewing for this project began on June 29 and will run through the Sunday before Election Day.
-  
-  Respondents are asked, “What, if anything, have you heard, read or seen in the past few days about Donald Trump?” and “What, if anything, have you heard, read or seen in the past few days about Joe Biden?”
-  
-  Here are the words defining the 2020 presidential campaign
-  
-  The order in which the two questions are asked is randomized, so that some respondents are asked about Trump first and others are asked about Biden first. Exact responses to these questions are transcribed by interviewers, then coded based on programming developed by Lisa Singh at Georgetown University with input from her research team and the Massive Data Institute Technical Team.
-  
-  As the campaign progresses, the words associated with individual topics may change, which could result in changes to the relative position of those topics in older results. Those changes are necessary in order for current comparisons to be valid. Sentiment is coded based on the Lexicoder Sentiment Dictionary.
-  
-  The research team conducting analysis of the results of The Breakthrough are Jennifer Agiesta and Grace Sparks from CNN, Lisa Singh and Jonathan Ladd from Georgetown University and Josh Pasek, Michael Traugott, Ceren Budak and Stuart Soroka from the University of Michigan.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd3f63b1e4e07c8095cbb9524384ca5303d27dd7cec1f8f1d51bd11b832528d2
+size 2048

@@ -1,27 +1,3 @@
-id: cnn_2024_02924
-title: "This bank says ‘millions’ of people could be targeted by AI voice-cloning scams"
-date: "2024-09-18"
-section: "Tech"
-url: "https://www.cnn.com/2024/09/18/tech/ai-voice-cloning-scam-warning?utm_medium=email&utm_source=cnn_LinkedIn-Newsletter"
-content: |
-  “Millions” of people could fall victim to scams usingartificial intelligence to clonetheir voice﻿s, a UK bank has warned.
-  
-  Starling Bank, an online-only lender, said fraudsters are capable of using AI to replicate a person’s voice from just three seconds of audio found in, for example, a video the person has posted online. Scammers can then identify the person’s friends and family members and use the AI-cloned voice to stage a phone call to ask for money.
-  
-  These types of scams have the potential to “catch millions out,” Starling Bank said in a press release Wednesday.
-  
-  They have already affected hundreds. According to a survey of more than 3,000 adults that the bank conducted with Mortar Research last month, more than a quarter of respondents said they have been targeted by an AI voice-cloning scam in the past 12 months.
-  
-  The survey also showed that 46% of respondents weren’t aware that such scams existed, and that 8% would send over as much money as requested by a friend or family member, even if they thought the call seemed strange.
-  
-  Why OpenAI should fear a Scarlett Johansson lawsuit
-  
-  “People regularly post content online which has recordings of their voice, without ever imagining it’s making them more vulnerable to fraudsters,” Lisa Grahame, chief information security officer at Starling Bank, said in the press release.
-  
-  The bank isencouragingpeople to agree a “safe phrase” with their loved ones — a simple, random phrase that’s easy to remember and different from their other passwords — that can be used to verify their identity over the phone.
-  
-  The lender advises against sharing the safe phrase over text, which could make it easier for scammers to find out, but, if shared in this way, the message should be deleted once the other person has seen it.
-  
-  As AI becomesincreasingly adeptat mimicking human voices, concerns are mounting about its potential to harm people by, for example, helping criminals access their bank accounts, and spread misinformation.
-  
-  Earlier this year, OpenAI, the maker ofgenerative AIchatbot ChatGPT, unveiled itsvoice replication tool, Voice Engine, but didn’t make it available to the public at that stage,citingthe “potential for synthetic voice misuse.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:eadc8a711f066ea789416bc21bda06d9e8fa8e30750daa3da5df51bbfc1604e7
+size 2582

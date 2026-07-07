@@ -1,35 +1,3 @@
-id: cnn_2020_02634
-title: "Wanted urgently: People who know a half century-old computer language so states can process unemployment claims"
-date: "2020-04-08"
-section: "Business"
-url: "https://www.cnn.com/2020/04/08/business/coronavirus-cobol-programmers-new-jersey-trnd/index.html"
-content: |
-  On top of ventilators,face masksandhealth care workers, you can now add COBOL programmers to the list of what several states urgently need as they battle thecoronavirus pandemic.
-  
-  In New Jersey, Gov. Phil Murphy has put out a call for volunteers who know how to code the decades-old computer programming language called COBOL because many of the state’s systems still run on older mainframes.
-  
-  In Kansas,Gov. Laura Kellysaid the state’s Departments of Labor was in the process of modernizing from COBOL but then the virus interfered. “So they’re operating on really old stuff,” she said.
-  
-  Connecticut has also admitted that it’s struggling to process the large volume of unemployment claims with its “40-year-old system comprised of a COBOL mainframe and four other separate systems.” The state is working to develop a new benefits system with Maine, Rhode Island, Mississippi and Oklahoma. But the systemwon’t be finished before next year.
-  
-  “Literally, we have systems that are 40-plus-years-old,” New Jersey Gov. Murphy said over the weekend. “There’ll be lots of postmortems and one of them on our list will be how did we get here where we literally needed COBOL programmers?”
-  
-  For instance,with more than 362,000 New Jersey residents filing for unemploymentin the past two weeks, the 40-year-old mainframes that process those claims are being overloaded.
-  
-  COBOL, which stands for Common Business Oriented Language, is a computer programming language that was developed back in 1959,according to the National Museum of American History.
-  
-  “It’s a programming language that was used to create a very significant percentage of business systems over the period of the 60s, 70s and even into the 80s,” Joseph Steinberg, anexpert on cybersecurity, told CNN.
-  
-  But over time, coders have moved away from the aging language.
-  
-  “The general population of COBOL programmers is generally much older than the average age of a coder,” Steinberg said. “Many American universities have not taught COBOL in their computer science programs since the 1980s.”
-  
-  Despite a dwindling number of COBOL programmers, a2017 report by Reutersfound that there are still 220 billion lines of COBOL in use today. 43% of banking systems are built on COBOL and 95% percent of ATM swipes rely on COBOL code.
-  
-  Even in the federal government, COBOL is being used in agencies such as the Department of Veterans Affairs, Department of Justice and Social Security Administration, according to a 2016 report by theGovernment Accountability Office.
-  
-  A2018 reportby the inspector general for the Social Security Administration found that the administration maintained more than “60 million lines of COBOL” with “millions more lines of other legacy programming languages.” The inspector general urged the administration to modernize its systems.
-  
-  With more than44,000 Covid-19 casesin New Jersey, the last thing the governor should have to worry about are computer systems, Steinberg, the cybersecurity expert, said.
-  
-  “Governors should not have to think about computer systems during a pandemic,” he said,  “and we should have systems that if there are emergency situations, should not make the emergencies worse.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:05ac64c030285b0030b29e545a0687edad65d8d53b81ba6c4bef8e0326c1d38b
+size 3583

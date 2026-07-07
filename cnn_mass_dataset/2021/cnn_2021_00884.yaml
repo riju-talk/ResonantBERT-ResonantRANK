@@ -1,25 +1,3 @@
-id: cnn_2021_00884
-title: "Boeing and Airbus want Biden administration to delay rollout of 5G cell service, citing safety concerns"
-date: "2021-12-21"
-section: "Business"
-url: "https://www.cnn.com/2021/12/21/business/boeing-airbus-5g-biden-administration/index.html"
-content: |
-  The world’s biggest commercial airplane manufacturers are telling the Biden Administration to delay the rollout of5G cell servicenext month.
-  
-  Boeing(BA)CEO David Calhoun and Airbus Americas CEO Jeffery Knittel sent a letter to Transportation Secretary Pete Buttigieg to say the January 5 rollout could cause interference that could “adversely affect the ability of aircraft to safely operate.”
-  
-  At issue are instruments known as radar altimeters that pilots of commercial airliners need to make safe landings in low visibility conditions. An industry analysis says interference could affect hundreds of thousands of flights each year, delaying flights or causing them to divert.
-  
-  FAA issues aircraft restrictions linked to 5G technology, warns of possible flight diversions
-  
-  The CEOs say they have developed a new proposal to limit the power of 5G transmissions near airports, and call on the Biden administration to work with the Federal Communications Commission to adopt such a plan.
-  
-  The impacts of allowing 5G to deploy, “are massive, and come at a time when our industry is still struggling from the COVID-19 pandemic,” the CEOs said.
-  
-  he Federal Aviation Administrationannounced a new ruleearlier this month that forbids pilots from using auto-landing and other certain flight systems at low altitudes where 5G wireless signals could interfere with onboard instruments that measure a plane’s distance to the ground.
-  
-  The rule, which affects more than 6,800 US airplanes and dozens of aircraft manufacturers, could lead to disruptions in some flight routes involving low-visibility conditions, There is a potential risk, the FAA said, that the 5G signals could lead to faulty readings that may make flying unsafe in these conditions.
-  
-  Characterizing the orders as urgent, the FAA bypassed the typical public feedback process in issuing the restrictions.
-  
-  – CNN’s Brian Fung contributed to this report
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d34ba87a1ef4dfbf26f19210d18c5d2541068c0d9eeac2aefbb703b30706a66
+size 2239

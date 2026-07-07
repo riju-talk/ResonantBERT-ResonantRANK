@@ -1,27 +1,3 @@
-id: cnn_2024_02208
-title: "FBI seizes websites that North Koreans allegedly used to impersonate American companies"
-date: "2024-11-21"
-section: "Politics"
-url: "https://www.cnn.com/2024/11/21/politics/fbi-seizes-websites-north-korea-impersonate/index.html"
-content: |
-  The FBI has seized multiple websites thatNorth Koreanoperatives used to impersonate legitimate US and Indian businesses in a likely effort to raise money for the nuclear armed-North Korean regime, according to statements on the websites and security researchers who investigated the activity.
-  
-  All four websites identified by cybersecurity firm SentinelOne as North Korean fronts on Thursday had a statement in English and Korean saying they had been seized pursuant to a warrant issued by the US District Court of Massachusetts as part of a “coordinated law enforcement action” against the North Korean government. SentinelOne researchers traced the front companies to a larger set of organizations based in China.
-  
-  Tracking down and thwarting these fake companies is an immense national security challenge that the Biden administration has tried to tackle and that the Trump administration will inherit. About half ofNorth Korea’smissile program has been funded by cyberattacks and cryptocurrency theft, a White House officialsaidlast year.
-  
-  The front companies closely mimicked the websites of multiple US software and consulting firms, and encouraged prospective clients to get in touch,accordingto SentinelOne’s analysis.
-  
-  The FBI declined to comment.
-  
-  The statement from the FBI and other US law enforcement agencies on the seized websites directs visitors to a 2022 warning from US officials that North Korea was using thousands of IT workers abroad to stealthily raise money for the regime.
-  
-  A CNNinvestigationthat year found that North Korean operatives were aggressively trying to infiltrate US cryptocurrency and other tech firms by posing as other nationalities. One American entrepreneur told CNN that, according to the FBI, his company had unwittingly sent tens of thousands of dollars to the North Korean government.
-  
-  In some cases, the North Koreans may be getting help from Americans. US federal prosecutors in Maychargedan Arizona woman with participating in an elaborate fraud scheme to help foreign IT workers pose as Americans, get hired by major US companies and earn $6.8 million in revenue that could benefit Pyongyang.
-  
-  “These front companies and websites are just the tip of the iceberg,” Tom Hegel, principal threat researcher at SentinelOne, told CNN on Thursday of the new findings. “What we’ve uncovered represents a fraction of a much larger, deeply entrenched operation designed to stay hidden in plain sight.”
-  
-  Hegel and his colleague Dakota Cary traced some of the front-company activity to an address in Liaoning, the Chinese province that borders North Korea.
-  
-  It’s not the first time that researchers have traced North Korean IT worker operations to northeast China. CNNreportedin April on a North Korean computer server that contained illustrations that appeared to have been produced for US animation studios. Logs from the North Korean computer server showed multiple visits from internet connections in northeast China.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b55bf50a1fa7bc2d6d0808149c8e2616f31321adbb878c0bafc3cd8288c36e9
+size 3291

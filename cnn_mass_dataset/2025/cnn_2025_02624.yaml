@@ -1,19 +1,3 @@
-id: cnn_2025_02624
-title: "Southwest Airlines’ new planes fly with barrier to protect the cockpit when the door is opened mid-flight"
-date: "2025-09-01"
-section: "Travel"
-url: "https://www.cnn.com/2025/09/01/travel/secondary-cockpit-barriers-takeoff"
-content: |
-  Southwest Airlines’ newest jets are now flying with a barrier that can protect the cockpit when pilots need to open the door during flight, according to the airline.
-  
-  The company’s first Boeing 737 equipped with the retractable barrier entered service in time for the Labor Day weekend, making it one of the first US air carriers to use it.
-  
-  The “secondary barrier,” which looks more like a gate than a solid door, was originally required to be installed on all new aircraft starting this summer by a2023Federal Aviation Administration rule, however the airline agreed to push back the implementation of the rule by a year.
-  
-  Aviation labor unions have long argued following the Sept. 11, 2001 attacks that secondary barriers were needed to protect the flight deck when pilots had to open the door – such as to access the lavatory.
-  
-  “For Southwest, this was the right decision,” the airline said in a statement. “We have a robust safety management system that takes a proactive approach when it comes to enhancing safety wherever possible.”
-  
-  Southwest said “every new aircraft” it takes delivery of will come with the barrier installed. There is currently not a certified method of adding the barriers to existing planes, however Southwest says it remains in communication with Boeing and the FAA.
-  
-  Airlines currently use procedures like blocking the aisle at the front of the plane with a beverage cart when pilots need to open the door and exit the cockpit.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6639c515b57860e9e05eb12a073e82a7d07eaa6a33ba2c55181de6c1744dbe3b
+size 1771

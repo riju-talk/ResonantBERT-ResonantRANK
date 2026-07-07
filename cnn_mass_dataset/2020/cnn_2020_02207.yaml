@@ -1,29 +1,3 @@
-id: cnn_2020_02207
-title: "Prosecutors allege Michael Avenatti may have violated the terms of his temporary release"
-date: "2020-06-07"
-section: "Politics"
-url: "https://www.cnn.com/2020/06/07/politics/michael-avenatti-temporary-release/index.html"
-content: |
-  Prosecutors allegeMichael Avenatti, the celebrity attorney whose clients once included adult film star Stormy Daniels, may have violated the terms of his temporary release from jail by accessing a computer connected to the internet,according to a new court filing.
-  
-  In a filing made Sunday, prosecutors with the US attorney’s office for the Central District of California allege Avenatti may have used the computer belonging to his friend, Jay Manheimer, to write and file five recent filings made in the case, which include several online news articles.
-  
-  Prosecutors conducted a review of metadata associated with the court filings, which they say indicate the “author” of the documents was Manheimer. Avenatti was released into home confinement at Manheimer’s home.
-  
-  “The government believes that defendant has likely violated the conditions of his temporary release by using his third-party custodian Jay Manheimer’s internet-accessible computer to draft his last five filings in this case.  At a minimum, defendant and his counsel have not been candid with this Court,” prosecutors wrote in the 33-page filing. Avenatti recently told the judge that he needs access to a computer to prepare for trial.
-  
-  If the judge finds Avenatti is in violation he could send him back to jail.
-  
-  Avenatti’s attorney won him a temporary release from the Metropolitan Correctional Center in New York for 90 daysdue to the coronavirus pandemic. As part of his release he is forbidden from using any computers or devices that are connected to the internet.
-  
-  Dean Steward, Avenatti’s lawyer, said in a court filing that the government’s interpretation of metadata on recent legal filings is “inaccurate” and said the metadata shows that the legal documents were saved to PDF using a program registered to Manheimer.
-  
-  “There is also nothing prohibiting Mr. Manheimer from printing to PDF the final agreed-upon filing,” Steward wrote.
-  
-  Prosecutors said they compared the recent court filings with ones submitted earlier before Avenatti was released from jail. Those filings, prosecutors say, have metadata indicating they were authored by a different person. Prosecutors also point to a recent teleconference where, they say, Avenatti directed the judge to a specific page and footnote as evidence of his direct familiarity with the documents.
-  
-  Prosecutors asked the judge to allow pre-trial services to search Manheimer’s house and computer and question him under oath. They also asked the judge to hold a hearing on the matter, while adding they are prepared to address it at a hearing previously scheduled for Monday.
-  
-  The judge revoked Avenatti’s bail earlier this year after finding that the celebrity lawyer violated the terms of his initial bail package by engaging in certain financial transactions. Avenatti has been charged in this case with embezzling millions of dollars from his clients and tax fraud. He has pleaded not guilty. He was convicted earlier this year of attempting to extort more than $20 million from Nike and awaits sentencing. Avenatti will face a separate trial on charges that he embezzled more than $300,000 from Daniels. He has denied those allegations.
-  
-  This story has been updated to include comment from Avenatti’s attorney.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a7d0b67f149d8105cd215c39b74b0cedaa9998b5f4078f5f528f80df466755a
+size 3581

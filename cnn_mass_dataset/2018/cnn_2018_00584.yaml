@@ -1,31 +1,3 @@
-id: cnn_2018_00584
-title: "Mueller wants judge to lock down documents shared with Russian company"
-date: "2018-06-12"
-section: "Politics"
-url: "https://www.cnn.com/2018/06/12/politics/robert-mueller-russia-documents/index.html"
-content: |
-  Special counsel Robert Mueller’s office is asking federal Judge Dabney Friedrich for an order that would lock down documents shared with the Russian company Concord Management and Consulting, because of the potential for the information to be shared with foreign nationals and intelligence officials still working to sow discord in the US.
-  
-  Prosecutors must turn over millions of pieces of data to the alleged Russian troll farm-backer in the coming months because the company has pleaded not guilty to a conspiracy charge Mueller filed in February and is preparing for a trial.
-  
-  “Public or unauthorized disclosure of this case’s discovery would result in the release of information that would assist foreign intelligence services, particularly those of the Russian Federation, and other foreign actors in future operations against the United States,” prosecutors wrote in the court request Tuesday.
-  
-  Protective orders on discovery as cases progress to trial are fairly typical – especially in high-profile cases like this one, which arose out of Mueller’s investigation into Russian influence during the 2016 US election. But Concord’s and Mueller’s teams haven’t agreed on the terms of the protective order.
-  
-  Prosecutors want to bar Concord’s team from sharing the documents with 13 Russian co-defendants and two Russian companies that allegedly conspired to spread pro-Trump propaganda on social media. Prosecutors also seek restrictions on sharing the data with other foreigners, such as lawyers outside the US.
-  
-  If shared too widely, the prosecutors warn, the data could help foreign intelligence services and tip off people and groups that “continue to engage in interference operations like those charges in the present indictment.”
-  
-  If the data were to be physically sent outside of US law offices, “foreign individuals may try [to] use that avenue as a way to obtain sensitive materials as part of an intelligence collection effort,” the prosecutors added.
-  
-  They’re particularly concerned about the information that could be shared with Yevgeny Prigozhin, a Russia-based oligarch known as “Putin’s chef,” before he appears in the US court. Prigozhin is charged as a co-defendant in the case and also faces financial sanctions in the US but – like 12 others named in the indictment and two companies, the Internet Research Agency and Concord Catering – he is still technically a fugitive in the case. Because he is thought to be in Russia, Prigozhin may never face the charges in court here.
-  
-  In the filing Tuesday, Mueller’s team alludes to the steps it took to bring the troll farm charges, and that investigators have used cooperating witnesses to build the case.
-  
-  They’ve uncovered “techniques used by foreign parties to mask their true identities while conducting operations online; the relationships of charged and uncharged parties to other uncharged foreign entities and governments” and the identities of others who have not been charged with a crime.
-  
-  Among the two terabytes of information they’ve collected in the case are thousands of documents that reveal the personal details of US citizens whose identities were allegedly stolen to open fake bank accounts, and other US citizens who were “unwittingly recruited” by the propagandists to attend Russian-organized political rallies in the US.
-  
-  “If statements of these individuals were indiscriminately released, the result would be unnecessary embarrassment to these individuals who believed they were communicating about US political activities with other US persons,” prosecutors wrote.
-  
-  In all, prosecutors seek a court order barring the sharing of case documents outside of Concord Management, witnesses and their attorneys. They’ve also suggested the use of a “firewall” federal attorney as an intermediary during the discovery process.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a89ad77a2e719e7fd0f6fdaf12474b3b89a10ded5847bc1f82d1d61974fc000f
+size 4166

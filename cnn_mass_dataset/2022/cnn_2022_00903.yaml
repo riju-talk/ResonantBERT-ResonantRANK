@@ -1,31 +1,3 @@
-id: cnn_2022_00903
-title: "Dollar General’s newest shoppers: People making $100,000 a year"
-date: "2022-09-08"
-section: "Business"
-url: "https://www.cnn.com/2022/09/08/business/dollar-general-shopping-retail?query=query%28%24symbols%3A%20%5BString%5D%29%20%7B%0A%20%20marketIndexes%28symbols%3A%20%24symbols%29%20%7B%0A%20%20%20%20indexes%20%7B%0A%20%20%20%20%20%20symbol%0A%20%20%20%20%20%20index_displayName%0A%20%20%20%20%20%20inSession%0A%20%20%20%20%20%20streamId%3A%20streamSymbol%0A%20%20%20%20%20%20change%0A%20%20%20%20%20%20level%0A%20%20%20%20%20%20changePct%0A%20%20%20%20%20%20link%0A%20%20%20%20%20%20__typename%0A%20%20%20%20%7D%0A%20%20%20%20__typename%0A%20%20%7D%0A%7D%0A&variables=%7B%22symbols%22%3A%5B%22INDU%22%2C%22INX%22%2C%22COMP.IDX%22%5D%7D"
-content: |
-  Middle-income and wealthier shoppers, pinched by inflation, are shopping more at Dollar General for essentials and discretionary items.
-  
-  Dollar General(DG)CEO Todd Vasos this week said the retail giant has been attracting customers earning $100,000 a year in recent weeks. Inflation has pushed up prices for groceries and gas, and now these shoppers are turning to Dollar General(DG)and others to try to save money.
-  
-  “The highest trade-in that we’ve seen and the most robust has actually been between the $75,000 and $100,000 group,” Vasos said at a retail conference Wednesday. Some of these customers first shopped at Dollar General earlier in the pandemic and have now returned, he added.
-  
-  Dollar General has been a lifeline for lower-income shoppers, particularly in rural areas with few other retail options. The company says its “core customer” makes under $40,000 a year.
-  
-  It's not just you. Tommy Bahama beach chairs are everywhere
-  
-  In recent years the chain has added morediscretionary productsto its shelves, such as home goods and beauty products, to attract wealthier customers.
-  
-  The trends at Dollar General show that inflation has impacted consumers’ shopping habits across multiple income levels, and it’s not the only company benefiting from the shift.
-  
-  “We’re seeing a very value-oriented consumer at all demographic bands and income strata,” Best Buy CEO Corie Barry said on a call with reporters last week.
-  
-  Rivals Dollar Tree(DLTR)and Walmart(WMT)have also noted that they’re seeing more higher-income consumers in their stores.
-  
-  Dollar Tree CEO Mike Witynski last month said that the bulk of the chain’s new customers in the past year have an annual household income over $80,000.
-  
-  And Walmart CFO John David Rainey toldCNBClast month that about three-quarters of the company’s second quarter market share gains in food came from customers with annual household incomes of $100,000 or more.
-  
-  High-income diners are also dropping pricier restaurants for budget-friendly chains like Applebee’s and IHOP.
-  
-  Sales at the two chains, both owned by Dine Brands(DIN), grew about 6% to 8% among households earning over $75,000 per year in the second quarter, according to company CEO John Peyton.
+version https://git-lfs.github.com/spec/v1
+oid sha256:90579c9e774a9330c85a452b7c7ad3394763410ec2b77ea6bc98af33bf26c0b8
+size 3069

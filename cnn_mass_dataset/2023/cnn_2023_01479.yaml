@@ -1,33 +1,3 @@
-id: cnn_2023_01479
-title: "How reports of hate crimes in the US were already at record highs, in 4 charts"
-date: "2023-10-29"
-section: "US"
-url: "https://www.cnn.com/2023/10/29/us/hate-crimes-antisemitism-anti-muslim-dg/index.html"
-content: |
-  US-based advocacy groups are reporting a sustained spike in hate incidents against Jewish and Muslim individuals since the outbreak of war between Israel and Hamas. The Anti-Defamation League found that in the eight weeks since the Oct. 7 Hamas attack, antisemitic incidents in the US increased 337%, according todata shared with CNN.
-  
-  The ADL cited 2,031 antisemitic incidents between October 7 and December 7, 1,411 of which were linked to the fighting in Israel and Gaza and 400 of which occurred on college and university campuses. By comparison, there were 465 incidents over the same time frame in 2022.
-  
-  The Council on American-Islamic Relations also reported an increase in Islamophobic incidents. Between October 7 and December 2, CAIR recorded a 2,171 reports of bias or requests for help — 172% more than the 2022 two-month average.
-  
-  Jews, Palestinians and Muslims in the UStold CNN they’re experiencing a growing fearabout bigotry and hatred in the wake of the Hamas attack.
-  
-  But the recent uptick from the war is part of a years-long rise in hate crimes in the US, according to data from the Federal Bureau of Investigation. FBI data released in October shows hate crimes in the US are the highest since collection began in 1991.
-  
-  The FBI collects and publishes hate crime data but reporting is voluntary and only about 80% of agencies submit data. Compliance changes from year to year. The data is also an undercount: fewer than half of hate crime victims report to police, according to the FBI’s National Crime Victimization Survey.
-  
-  FBI records show a rise in anti-Muslim incidents starting in 2015, with more bias-driven assaults against Muslims in 2016 than in 2001.
-  
-  Antisemitic crimes were on the rise long before Oct. 7. Between 2021 and 2022, the number of antisemitic hate crimes increased by 36% to a total of 1,124 – the highest ever recorded by the FBI.
-  
-  The ADL’s data, which captures bias incidents outside crimes, matches the pattern in the FBI numbers.
-  
-  CAIR Research Director Corey Saylor said the organization has been flooded with reports since October 7.
-  
-  “We are responding to incidents around the clock,” Saylor said. “The last time we saw something like this was in December 2015, with Trump’s Muslim ban [proposal].”
-  
-  As a candidate in late 2015, former President Donald Trumpcalled for a banon Muslims entering the US. Anti-Muslim events sparked in tandem with his statements on the campaign trail, CAIR said.
-  
-  Trump enacted his ban in January 2017, initially against a handful of Muslim countries, and expanded it to include some African countries. President Joe Bidenreversed the ban in early 2021,but Trump (currently the frontrunner for the Republican presidential nomination) recently said he wouldreinstate and expandthe restrictions, pointing to Hamas’ attack on Israel as vindication of his initial policy.
-  
-  CAIR’s record of anti-Muslim bias incidents trends differently than the FBI’s hate crime data, showing a consistent increase in reports until 2022, when reports dropped by 23%. In its annual report on the data, CAIRattributed the changeto decreased volatility in domestic politics and increased federal targeting of white supremacist groups in the wake of the Jan. 6, 2021 attack on the US Capitol.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ea560c2f00720489295088ab51fa6055f184a038e3309d1a86c313e863909b3
+size 3577

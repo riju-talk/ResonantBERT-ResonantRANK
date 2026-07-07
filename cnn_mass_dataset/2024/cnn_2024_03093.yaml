@@ -1,15 +1,3 @@
-id: cnn_2024_03093
-title: "Suspicious packages sent to election officials in at least 6 states"
-date: "2024-09-17"
-section: "Politics"
-url: "https://www.cnn.com/2024/09/17/politics/suspicious-packages-election-officials/index.html"
-content: |
-  Suspicious packages were sent to election officials in at least six states on Monday, but there were no reports that any of the packages contained hazardous material.
-  
-  Powder-containing packages were sent to secretaries of state and state election offices in Iowa, Kansas, Nebraska, Tennessee, Wyoming and Oklahoma, officials in those states confirmed. The FBI and U.S. Postal Service were investigating. It marked the second time in the past year that suspicious packages were mailed to election officials in multiple state offices.
-  
-  The latest scare comes as early voting has begun in several states less than two months ahead of the high-stakes elections for president, Senate, Congress and key statehouse offices around the nation, causing disruption in what is already a tense voting season.
-  
-  Several of the states reported a white powder substance found in envelopes sent to election officials. In most cases, the material was found to be harmless. Oklahoma officials said the material sent to the election office there contained flour. Wyoming officials have not yet said if the material sent there was hazardous.
-  
-  The packages forced an evacuation in Iowa. Hazmat crews in several states quickly determined the material was harmless.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f292e24ecddd235ce5f9a4a0c98b300262f7e34928937dfdc0ac63f25d29be92
+size 1505

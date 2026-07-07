@@ -1,33 +1,3 @@
-id: cnn_2023_01346
-title: "Pro-Wagner accounts keep showing up on Facebook and Instagram after Meta’s ban on the mercenary group, report shows"
-date: "2023-08-17"
-section: "Tech"
-url: "https://www.cnn.com/2023/08/17/tech/wagner-facebook-instagram/index.html"
-content: |
-  A network of dozens of accounts on Facebook and Instagram have been promoting Russia’s Wagner mercenary group to hundreds of thousands of followers, months after Meta vowed to remove content glorifying the group, according to a new report by disinformation experts.
-  
-  The study found more than 110 pro-Wagner accounts operating in more than a dozen languages across Meta’s platforms. Many of the posts call for recruits, include images of graphic violence or express praise for a group the Biden administration has labeled atransnational criminal organization.
-  
-  Although there isn’t credible evidence directly linking the social media accounts to the Wagner group, many of them at least posed as the organization, said the London-based Institute for Strategic Dialogue (ISD), which published the report Thursday. Even if the accounts are not directly affiliated with the Wagner group, ISD said, the content they created still likely violates Meta’s terms.
-  
-  The apparent persistence of pro-Wagner content on Meta’s platforms underscores how the private military group led by Yevgeny Prigozhin — or perhaps the organization’s admirers — has been able to skirt a Meta policy designed to combat so-called “dangerous organizations.”
-  
-  Meta’s algorithms also appeared to recommend pro-Wagner pages and groups to ISD researchers as they were conducting the study, the report said, raising questions about the company’s ability to keep users from discovering material that glorifies the group.
-  
-  In a statement Thursday, Meta said it is evaluating the accounts highlighted in the report and that the Wagner group “is not permitted to have a presence on our platforms and we regularly remove assets when we identify those with clear ties to the organization.”
-  
-  In May,after reports that Wagnerhad used social media platforms to boost its recruitment efforts, Meta said it had banned Wagnerunder its dangerous organizations policy. At the time, Meta said it would also remove content that praises or supports Wagner “when we become aware of it, including posts that aim to recruit for them.”
-  
-  Whether or not Wagner was behind the accounts uncovered by ISD, Prigozhin has long been connected to information operations that exploit social media, according to researchers and US officials. The Wagner chief inFebruary admitted to foundingthe Internet Research Agency, a “troll farm” that Washington has sanctioned for meddling in US elections.
-  
-  Meta’s dangerous organizations policy, which also coversmovements like QAnonand some content affiliated withBoogaloo extremism, restricts material that promotes violence. Its most stringent restrictions affect what Meta calls “Tier 1” entities, which advocate for “violence against civilians, repeatedly dehumanizing or advocating for harm against people based on protected characteristics, or engaging in systematic criminal operations.”
-  
-  Wagner is considered a Tier 1 entity, Meta confirmed to CNN. That means Meta does not allow “praise, substantive support, and representation” of Wagner or its leaders, founders or prominent members. But Meta’s statement Thursday suggests that the ban applies primarily to content that can be traced directly back to the group, rather than by its adherents or third-party supporters.
-  
-  Meta added that in the first quarter of 2023, it removed 14.5 million pieces of content that violated its dangerous organizations policy, 99% of which was acted on before a user reported it. The ISD report, meanwhile, highlights how there may be additional violating content that Meta has not detected and removed.
-  
-  Wagner’s ownership structures are not transparent, and activities tied to Prigozhin have often operated through a web of unsanctioned offshore companies. But the posts and accounts discovered by ISD in some cases posted “authentic contact details” for Wagner that included real phone numbers, Telegram channels and links to Wagner’s official website. Other posts displayed content glorifying the group, ISD said, including video advertisements depicting Wagner soldiers in dramatic, staged scenes or providing testimonials to Wagner as a “big family.”
-  
-  Three of the Facebook pages ISD found had been routinely sharing pro-Wagner content in Arabic to a total of more than 136,000 followers, according to the report. The pages had been supportive of Wagner since last December, ISD said, meaning that their activities began before Meta’s ban went into effect and continued despite the change in policy.
-  
-  Of these pages, ISD wrote, “the most viewed post, a video with over 712,000 views, shows Wagner mercenary forces testing tank traps set up at a defensive line in Ukraine. These pages were also found to be luring Facebook users to Telegram with links to graphic content showing dead bodies.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:43b44fded50b626c52d33971d1ec71fdd2f960133ba10ffac78a92deb8decdac
+size 5158

@@ -1,35 +1,3 @@
-id: cnn_2022_01174
-title: "Telecom regulator blocks China Unicom from US market"
-date: "2022-01-27"
-section: "Tech"
-url: "https://www.cnn.com/2022/01/27/tech/fcc-block-china-unicom-us-market-intl-hnk/index.html"
-content: |
-  The Federal Communications Commission on Thursday voted to ban China Unicom(CHU), a state-owned Chinese telecommunications carrier, from offering telecom services in the United States.
-  
-  The decision marks the regulators’ latest move to lock down US networksagainst the risk of Chinese espionage, a threat that national security officials began highlighting several years ago with the spread of cheap, Chinese-produced networking gear in small and rural wireless networks.
-  
-  “Today we take another critical step to protect our communications networks from foreign national security threats,” said FCC Chairwoman Jessica Rosenworcel in astatement.
-  
-  “There has been mounting evidence—and with it, a growing concern—that Chinese state-owned carriers pose a real threat to the security of our telecommunications networks,” she added.
-  
-  In atweet, the FCC said the action “safeguards the nation’s telecommunications infrastructure from potential security threats.”
-  
-  China Unicom has been operating in the United States since 2002, when it was authorized by the FCC to provide telecoms services. It had more than 351 million subscribers worldwide in 2020, according toa filing.
-  
-  China Unicom said in a written response to CNN Business that it has complied with “relevant US laws and regulations” in the past two decades, and that the FCC has acted “without any justifiable grounds and without affording required due process.”
-  
-  China Unicom added that it “would act proactively to protect the rights and interests of the company and its customers.”
-  
-  China’s foreign ministry on Friday blasted the US move as “a serious violation” of international economic and trade rules.
-  
-  “The Chinese government supports relevant enterprises in safeguarding their rights and interests in accordance with the law, and will continue to take necessary measures to resolutely safeguard the legitimate rights and interests of Chinese enterprises,” said Zhao Lijian, a spokesperson for the foreign ministry, at a press conference in Beijing.
-  
-  The FCC has also started similar revocation proceedings against two other Chinese companies, Pacific Networks Corp. and ComNet (USA) LLC.
-  
-  In recent years, Congress has instructed the FCC to embark on a program to “rip and replace” networking equipment that experts worry could allow foreign telecom firms — or Chinese officials directly — to monitor sensitive US communications. The FCC has also sanctioned firms such as Huawei and ZTE in connection with those bipartisan concerns.
-  
-  In October, the FCCbarred China Telecomfrom operating in the United States over national security concerns. In 2019, itvoted to deny China Mobile’s applicationto provide telecommunications services in the United States.
-  
-  China Mobile, China Telecom, and China Unicom are all state-run businesses and dominate China’s telecoms market.
-  
-  — CNN’s Beijing bureau contributed to this report.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3c4bd59ba38ed8913830574995b685eba480f1f0504fa39c79fb5f160403069
+size 3222

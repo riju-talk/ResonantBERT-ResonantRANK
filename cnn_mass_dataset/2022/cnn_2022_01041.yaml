@@ -1,25 +1,3 @@
-id: cnn_2022_01041
-title: "Amazon puts a second Prime Day sale on the calendar"
-date: "2022-09-26"
-section: "Business"
-url: "https://www.cnn.com/2022/09/26/business/amazon-prime-day-october?query=query%28%24symbols%3A%20%5BString%5D%29%20%7B%0A%20%20marketIndexes%28symbols%3A%20%24symbols%29%20%7B%0A%20%20%20%20indexes%20%7B%0A%20%20%20%20%20%20symbol%0A%20%20%20%20%20%20index_displayName%0A%20%20%20%20%20%20inSession%0A%20%20%20%20%20%20streamId%3A%20streamSymbol%0A%20%20%20%20%20%20change%0A%20%20%20%20%20%20level%0A%20%20%20%20%20%20changePct%0A%20%20%20%20%20%20link%0A%20%20%20%20%20%20__typename%0A%20%20%20%20%7D%0A%20%20%20%20__typename%0A%20%20%7D%0A%7D%0A&variables=%7B%22symbols%22%3A%5B%22INDU%22%2C%22INX%22%2C%22COMP.IDX%22%5D%7D"
-content: |
-  Amazon is addinganother Prime Dayto the calender.
-  
-  The company announced Monday that the sale, called “Prime Early Access Sale,” will take place October 11-12. The 48-hour event is only for members of its Prime subscription program and will feature discounts on “hundreds of thousands” of items.
-  
-  “Prime Early Access Sale”will be available in 15 countries including Canada, China, France, the United Kingdom and the United States.
-  
-  Amazon is following its rivals in getting a jumpstart on the holiday shopping season. Walmartannounced last weekthat it will start its holiday sales as early as next month, and Target said its shopping kickoff, called “Deal Days,” will be held October 6-8.
-  
-  Launching holiday shopping sales in October will help attract budget-conscious shoppers, according to Neil Saunders, retail analyst and managing director at GlobalData Retail.
-  
-  “Consumers are going to start holiday shopping earlier this year as they look to spread the costs at a time when household incomes are being squeezed,” he previously told CNN Business.
-  
-  Dangling all these early deals, however, might not ignite a shopping frenzy during the most important sales period of the year for retailers, which historically begins in earnest on Black Friday, the day after Thanksgiving.
-  
-  Households nationwide continue to grapple with persistent high inflation that eats into their budgets and savings, forcing them to cut back.
-  
-  Consulting firm Deloitte expects holiday retail sales overall for the key year-end gift-buying months of November, December and January (when Christmas gift cards typically are redeemed) to increase 4% to 6%, sharply down from a robust 15.1% increase for the same time frame last year.
-  
-  –CNN Business’ Parija Kavilanz to this report.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6637f67b219b76000b85ead58d50474f1c6fe4310d733aec8ecaf7c0e105d60
+size 2578

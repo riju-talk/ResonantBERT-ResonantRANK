@@ -1,31 +1,3 @@
-id: cnn_2019_01083
-title: "Amazon is investigating alleged child labor law violations at a Foxconn facility that makes Echoes and Kindles"
-date: "2019-08-09"
-section: "Tech"
-url: "https://www.cnn.com/2019/08/09/tech/amazon-foxconn-abuse/index.html"
-content: |
-  Anew report from China Labor Watchaccuses Foxconn of worker abuse, poor pay and imposing long hours on employees who make popular Amazon devices. Amazon said in response that it has opened an investigation.
-  
-  The report marks the organization’s second critical examination of the factory in more than a year.
-  
-  China Labor Watch, a New York City-based non-profit group, said it found numerous violations at Foxconn’s Hengyangfactoryin eastern China, where it makes the Amazon Echo, Kindle and tablets.
-  
-  The organization interviewed employees and obtained photos from the facility. It said it discovered that Foxconn relies on more than 1,500 interns aged between 16 and 18 to work 10-hour days and six days a week. The hours and the number of interns it employsviolate Chinese labor laws, the group said.
-  
-  In a statement to CNN Business, Amazon(AMZN)said it doesn’t tolerate violations of its supplier code of conduct. Amazon(AMZN)said it has ramped up its oversight of the facility.
-  
-  “We do not tolerate violations of our Supplier Code of Conduct. We regularly assess suppliers, using independent auditors as appropriate, to monitor continued compliance and improvement – if we find violations, we take appropriate steps, including requesting immediate corrective action,” Amazon said.
-  
-  “We are urgently investigating these allegations and addressing this with Foxconn at the most senior level. Additional teams of specialists arrived on-site yesterday to investigate, and we’ve initiated weekly audits of this issue,” they said.
-  
-  Foxconn did not respond to CNN Business’ repeated requests for comment.
-  
-  In total, the facility employs more than 7,400 workers. According to China Labor Watch, interns make up 21% of the facility’s workforce, which is more than double the 10% allowed under Chinese law. The Chinese government did not immediately respond to requests for comment from CNN Business.
-  
-  Foxconn allegedly requires teachers to recruit the students to work at the facility and supervise them, China Labor Watch said. Teachers “often physically and verbally attack interns” and many employees witnessed a teacher who “aggressively grabbed the intern by the ear, did not let him swipe out of work and scolded him,” the report said.
-  
-  According to China Labor Watch, Foxconn reduced the amount it pays interns at the facility over the past year, from $276 per month in 2018 to $248 per month in 2019. And the interns no longer receive living stipends and employment rewards. Full-time workers’ pay also declined the same amount, the group said. CNN Business is unable to verify those numbers.
-  
-  The facility also allegedly relies on “dispatch” workers, which are temporary workers who do not receive sick pay or paid leave for vacation. Chinese laws state that the factories limit the number of dispatch workers on staff to about 10% of the total to discourage exploitation, but 34% of the Hengyang facility is made up of that worker type, China Labor Watch said.
-  
-  Last year, China Labor Watch madesimilar allegationsabout the Hengyang factory. Foxconn said last year it would conduct an investigation and Amazon said it demanded a “corrective action plan” to fix the issues.  Amazon referred to Foxconn on steps the plan would’ve entailed.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c6b8607dd3fc4b77cdea791d0de9ccdeb27b2b84afbe5b88f309f19ccedb759f
+size 3595

@@ -1,21 +1,3 @@
-id: cnn_2022_02877
-title: "US and European allies blame Russia for cyberattack on satellite provider as Ukraine invasion began"
-date: "2022-05-10"
-section: "Politics"
-url: "https://www.cnn.com/2022/05/10/politics/ukraine-russia-cyberattack-satellite-blinken/index.html"
-content: |
-  The US, European Union and the UK have blamed Russia for a hack that knocked out internet service for tens of thousands of satellite modems in Ukraine and elsewhere in Europe at the onset of Russia’s invasion on February 24.
-  
-  “The United States is joining with allies and partners to condemn Russia’s destructive cyber activities against Ukraine,” US Secretary of State Antony Blinken said in astatementTuesday.
-  
-  The cyberattack on a satellite network owned by US-based telecommunications firm Viasat isone of the most consequentialcyber incidents of the war in Ukraine. It disrupted communications in Ukraine an hour before Russia’s full-scale invasion, according to an EU statement, and the collateral damage included knocking thousands of wind turbines offline in Germany that relied on the satellite network.
-  
-  A top Ukrainian cyber official, Victor Zhora, on March 15 called the hack “a really huge loss in communications in the very beginning of the war.” The primary target of the hack “is believed to have been the Ukrainian military,” the UK’s Foreign, Commonwealth and Development Officesaid Tuesday.
-  
-  Blinken’s statement also blamed Russian military hackers for a series of data-wiping hacks on Ukrainian government agencies and companies prior to and after Russia’s invasion of Ukraine. The hacks before the invasion may been an attempt by the Kremlin to extract concessions from the Ukrainian government,according to Microsoft analysts.
-  
-  The State Department on Tuesdayalso offered further detailson how the US government is trying to help Kyiv ward off a barrage of suspected Russian hacks.
-  
-  Contractors for the US Agency for International Development are “providing hands-on support” to Ukrainian government agencies and critical infrastructure to identify malicious software and bring systems back online, the department said. Meanwhile, the FBI has been briefing Ukrainian officials about Russian intelligence services’ hacking operations and receiving leads on cyber threats for the FBI to investigate, according to the State Department.
-  
-  The cyberattack was “yet another example of Russia’s continued pattern of irresponsible behaviour in cyberspace, which also formed an integral part of its illegal and unjustified invasion of Ukraine,” the European Council, said in a statement.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc891737a192e29de9811989f2447ed7278dc9efeb574b3b6a473633f9c3c048
+size 2647

@@ -1,33 +1,3 @@
-id: cnn_2023_02306
-title: "Cyberattack forces hospitals to divert ambulances in Connecticut and Pennsylvania"
-date: "2023-08-04"
-section: "Politics"
-url: "https://www.cnn.com/2023/08/04/politics/cyberattack-connecticut-pennsylvania-hospitals-ambulances/index.html"
-content: |
-  A cyberattack on Thursday knocked computer systems offline at hospitals in Connecticut and Pennsylvania, forcing them to send ambulances to other hospitals, hospital spokespeople told CNN.
-  
-  As of late Friday morning, Crozer Health, a network of three hospitals and a medical center in the Philadelphia suburbs, was still diverting ambulances for stroke and trauma patients to other hospitals because of a “ransomware attack,” Crozer Health spokesperson Lori Bookbinder told CNN.
-  
-  The hack hit Prospect Medical Holdings and affected all of their health care facilities, according to a statement from PMH affiliate Eastern Connecticut Health Network. PMH owns 16 hospitals in California, Connecticut, Pennsylvania and Rhode Island, according to its website.
-  
-  At Eastern Connecticut Health Network, which includes two hospitals, the urgent care center is closed and elective surgeries were canceled until further noticed because of the hack, according to the network’s website.
-  
-  Other Prospect Medical Holdings affiliates reported disruptions from the hack.
-  
-  “We are working closely with federal law enforcement to respond to this incident,” Prospective Medical Holdings said in a statement to CNN.
-  
-  National Security Council spokeswoman Adrienne Watson told CNN that the White House is “closely monitoring the ongoing incident,” adding that “the Department of Health and Human Services has been in contact with the company to offer federal assistance, and we are ready to provide support as needed to prevent any disruption to patient care as a result of this incident.”
-  
-  The company has so far declined offers of federal assistance, according to a US official.
-  
-  But Prospective Medical Holdings said later Friday that they “believe there may have been a miscommunication or a misunderstanding” and that they “welcome any assistance from the federal government.”
-  
-  CharterCARE Health Partners, which includes two hospitals in Rhode Island, said Thursday that the incident was affecting “inpatient and outpatient operations” and that “some patient procedures may be affected.”
-  
-  Patient care continues at the affected hospitals, but they’re operating with limited capacity in what is now a well-rehearsed routine. Throughout the coronavirus pandemic, ransomware and other cyberattacks hampered patient care at American hospitals that are often ill-equipped to deal with them.
-  
-  Eastern Connecticut Health Network ended ambulance diversion at 10 a.m. local time Friday, spokesperson Nina Kruse told CNN. The emergency rooms at ECHN’s two hospitals have been open throughout the incident, Kruse said.
-  
-  This isn’t Crozer Health’s first bout with ransomware. A June 2020 attack orchestrated by a prolific ransomware gang forced the hospital network to take its computer systems offline.
-  
-  This story has been updated with additional reporting.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e6136a3327803ce5e214e85e4d39359fb5455c9e6d3475eb5f9539dea7ab797
+size 3205

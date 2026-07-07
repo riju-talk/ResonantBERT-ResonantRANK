@@ -1,17 +1,3 @@
-id: cnn_2019_01356
-title: "FDA approves new drug for migraine sufferers"
-date: "2019-12-23"
-section: "Health"
-url: "https://www.cnn.com/2019/12/23/health/new-migraine-drug-fda-approval/index.html"
-content: |
-  The US Food and Drug Administration on Mondayannounced the approval of a drugcalled ubrogepant for the acute treatment of migraine, which could be a new option for people who can’t take or don’t respond to migraine medications currently on the market.
-  
-  The drug will be sold under the name Ubrelvy by the pharmaceutical company Allergan. It is considered effective for migraine with or without aura, referring to the sensory or visual disturbances that occur among roughly a third of migraine sufferers.
-  
-  “Ubrelvy represents an important new option for the acute treatment of migraine in adults, as it is the first drug in its class approved for this indication,” Dr. Billy Dunn, acting director of the Office of Neuroscience in the FDA’s Center for Drug Evaluation and Research, said in a statement Monday.
-  
-  In astudy published last month, the drug showed greater rates of pain and symptom relief from migraine compared to a placebo, with more than 19% of participants given the drug reporting to be pain-free within two hours and nearly 40% relieved of the most bothersome symptoms linked to migraine, which include light and noise sensitivity. This is compared to roughly 12% and 28%, respectively, from the placebo. Nausea, sleepiness and dry mouth were the most commonly reported side effects.
-  
-  Some migraines can be treated with over-the-counter medications such as ibuprofen, acetaminophen or aspirin, if taken at the first signs of a migraine occurring. When these aren’t effective, the most commonly prescribed treatment is a class of drugs called triptans, which are considered more effective than ubrogepant but have a catch: They work by constricting blood vessels around the brain to stop the pain, so they are not considered safe for use by people at risk of cardiovascular disease and stroke. The newly approved drug, on the other hand, has a different molecular target – a protein involved in the transmission of pain.
-  
-  An estimated 40 million Americans and 1 billion people worldwide suffer from migraines. The condition affects one in five women and one in 16 men, according to the American Migraine Foundation.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7f451e3e468aec3165955656de77093995de4d82e4b63548037b0aabb00cdff
+size 2374

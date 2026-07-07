@@ -1,27 +1,3 @@
-id: cnn_2022_00917
-title: "Uber Eats launches robot delivery service in Miami"
-date: "2022-12-15"
-section: "Tech"
-url: "https://www.cnn.com/2022/12/15/tech/uber-eats-robots?utm_campaign=mb&utm_medium=newsletter&utm_source=morning_brew"
-content: |
-  The next time you order a meal from Uber Eats, it may be delivered by a robot – at least if you live in Miami.
-  
-  Starting on Thursday, some Miami residents canorder their Uber Eats takeout to be delivered via autonomous, sidewalk-trotting robots thanks to a new partnership between the ride-hailing company and robotics firm Cartken.
-  
-  Uber launching self-driving cars in Las Vegas
-  
-  With the new service, customers will be alerted when their food is on the way and then be instructed to meet the remotely-supervised robot on the sidewalk, according to in-app screenshots shared with CNN by Uber. Customers can then unlock the vehicle using their phone and grab their order from a secure compartment. (Customers can also opt-out if they prefer to have their items delivered by a courier.)
-  
-  Cartken’s six-wheeled robots are equipped with multiple sensors and cameras to help them avoid collisions and choose routes which have the fewest hazards, according to its website. The delivery robots can operate indoors as well as outdoors.
-  
-  The food delivery option will initially be available in the Dadeland area ofMiami-Dade County, with plans to expand throughout the county and to additional cities next year.
-  
-  The announcement is the latest example of Uber partnering with outside firms to offer the kind of futuristic, automated technologies that were once part of its pitch to investors and the public. Uber alsorecently partneredwith Motional, a driverless technology company, to offer autonomous vehicles in Las Vegas. The moves come two years after Ubersold off its self-driving car unitamid financial and legal pressure.
-  
-  In a statement Thursday, Noah Zych, Uber’s global head of autonomous mobility and delivery, called the latest collaboration with Cartken “another important milestone for our efforts in automated and autonomous technology.”
-  
-  Through these partnerships, Uber may be attempting to shift away from being as reliant on its vast fleet of independent contractors who pick up riders and deliver meals – a business model that has posed legal issues for the company in recent years.
-  
-  Christian Bersch, co-founder and CEO at Cartken, touted some benefits of the new partnership, including how it can help communities by reducing traffic congestion and allowing local merchants to increase delivery capacity via emission-free delivery options.
-  
-  In June, Cartken partnered with Grubhub to bring robot deliveries to some college campuses in the United States. The company’s partnership with Uber marks its first with an on-demand delivery app outside of college campuses.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a385f0636abdf5ded07b5a655cef70cc6fec88f7df6f98414cbf7e24a72b4175
+size 2884

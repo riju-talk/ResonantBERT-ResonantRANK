@@ -1,29 +1,3 @@
-id: cnn_2020_02348
-title: "Fact-check: DeJoy said USPS isn’t changing policies for election mail. Internal documents show they were going to"
-date: "2020-08-21"
-section: "Politics"
-url: "https://www.cnn.com/2020/08/21/politics/dejoy-election-mail-hearing-fact-check/index.html"
-content: |
-  Postmaster General Louis DeJoyclaimed Fridaythat USPS hasn’t changed election mail policies ahead of the 2020 election, but documents obtained by CNN show that USPS planned to implement a drastic policy change for election mail after DeJoy took over, though that change has since been reversed.
-  
-  “I’d like to emphasize that there has been no changes in any policies with regard to election mail for the 2020 election,” DeJoy told the Senate Homeland Security and Governmental Affairs Committee.
-  
-  Facts First:Internal USPS documents obtained by CNN clearly show that USPS planned some policy changes that could have resulted in longer delivery times for ballots. That policy has since been reversed, which DeJoy mentioned in his testimony, but DeJoy ignored the fact that there were plans to make a significant change to election mail just a few weeks ago.
-  
-  Documents obtained by CNN, dated mid-August show that USPS was planning to treat election mail differently this year. In years past, as a courtesy, USPS often treated election mail as first-class mail, regardless of the postage put on it. First-class mail gets moved significantly faster than regular mail – if ballots don’t get that priority this year, it could result in late ballots and possible disenfranchisement for many voters.
-  
-  The USPS did not respond to a request for comment.
-  
-  This year the USPS had planned on treating election mail as first-classonlyif it’s marked first class, according to the documents, which were given to CNN by Don Cheney with the American Postal Workers Union Puget Sound Area Local 298. Election mail that was sent as “marketing mail” would not be delivered as quickly as first-class mail, a policy the document noted was “new.”
-  
-  Responding to CNN’s fact check, a USPS spokesperson reiterated what DeJoy said in his testimony.
-  
-  “We have not changed any of these practices, and we are committed to keeping our established practices and standards in place for the November general election,” the spokesperson said. “We will be committing additional resources in the lead-up to the election to ensure that there are no delays in the processing or delivery of Election Mail.”
-  
-  The USPS spokesperson took issue with the notation on the document that this was a “new” policy, saying that the documents were not “official policy documents and did not come from the Postmaster General.”
-  
-  However, after being pressed by Democratic Senator Gary Peters on the issue, DeJoy indicated the new policy was reversed. He later pledged to deliver at least 95% of election mail within 1-3 days, which is how first-class mail gets treated.
-  
-  “We will deploy processes and procedures that advance any election mail in some cases ahead of first-class mail,” DeJoy said, adding that USPS would not charge election officials more for doing so.
-  
-  This story has been updated to include comment from a USPS spokesperson.
+version https://git-lfs.github.com/spec/v1
+oid sha256:90f2901e6637b4e0eb00d71a0a282929c7b66f2c1e4d6070f54d0aacf3f36827
+size 3269

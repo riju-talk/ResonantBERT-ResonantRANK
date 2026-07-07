@@ -1,25 +1,3 @@
-id: cnn_2023_03527
-title: "Mortgage rates fall for the fourth week in a row"
-date: "2023-04-06"
-section: "Homes"
-url: "https://www.cnn.com/2023/04/06/homes/mortgage-rates-april-6/index.html"
-content: |
-  Homebuyers benefited from another week of falling mortgage rates, with the average rate dropping for the fourth week in a row, according to data from Freddie Mac released Thursday.
-  
-  The 30-year fixed-rate mortgage averaged 6.28% in the week ending April 6, down from 6.32% the week before. A year ago, the 30-year fixed-rate was 4.72%.
-  
-  “Mortgage rates continue to trend down entering the traditional spring homebuying season,” said Sam Khater, Freddie Mac’s chief economist. “Unfortunately, those in the market to buy are facing a number of challenges, not the least of which is the low inventory of homes for sale, especially for aspiring first-time homebuyers.”
-  
-  The average mortgage rate is based on mortgage applications that Freddie Mac receives from thousands of lenders across the country. The survey includes only borrowers who put 20% down and have excellent credit.
-  
-  After hitting a 2022 high of 7.08% in November, rates started 2023 trending down. However, they climbed again in February, after robust economic data suggested the Federal Reserve was not done in its battle to cool the US economy and would likely continue hiking its benchmark lending rate.
-  
-  The Fed raised interest rates by a quarter point at its most recent policymaking meeting, in an effort to continue to fight stubbornly high inflation while taking into account the risks to financial stability brought about by recent turmoil in the banking sector.
-  
-  The fallout from the banking meltdown could lead to potentially stricter lending requirements and a “less hospitable borrowing environment,” said Hannah Jones, economic research analyst at Realtor.com, in a statement Thursday. “More expensive, stricter lending helps to usher in the long-term health of the economy, but the downside is that borrowing for large purchases, including a home purchase, may be relatively more challenging in the short term.”
-  
-  Six takeaways from the Senate hearing on recent bank failures
-  
-  “In response to recent bank instability, investors went searching for high land in the bond market, which nudged bond yields lower,” she said. “However, as the uncertainty in the financial sector waned, investors shifted away from bonds, pushing bond yields back up. Mortgage rates tend to move with the 10-year Treasury yield, which ticked up this week, but the spread between the two narrowed as mortgage rates moved down and the market continued to navigate ongoing economic uncertainty.”
-  
-  “Potential buyers continue to face elevated mortgage rates and home prices, making buying less accessible than a year ago,” said Jones. “However, home prices continue to show signs of softening, a welcomed development for buyers. This week’s rate also creates an opportunity for potential buyers to dive in while rates are slightly lower. Pent-up housing demand is evident with every gain in affordability, whether it be softening prices or lower mortgage rates.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0e8269de83eb43cd529b0c60f534d7fbbdd0254f6421a78faebd83b797643e1
+size 3186

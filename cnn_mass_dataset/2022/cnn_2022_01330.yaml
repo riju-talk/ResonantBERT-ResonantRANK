@@ -1,33 +1,3 @@
-id: cnn_2022_01330
-title: "Waymo to expand robotaxi service to Los Angeles"
-date: "2022-10-19"
-section: "Business"
-url: "https://www.cnn.com/2022/10/19/business/waymo-los-angeles-rides"
-content: |
-  Waymo, the robotaxi provider of Google’s parent company Alphabet, said Wednesday that it will expand its ridehail service to Los Angeles.
-  
-  Waymo declined to say when fully autonomous car rides will be available to the public in the country’s second largest metropolitan area.
-  
-  Waymo will begin with approximately a dozen vehicles in the coming months to lay the groundwork for operating a ridehail service by mapping the neighborhoods of Miracle Mile, Koreatown, Santa Monica, Westwood and West Hollywood.
-  
-  Mapping an area is a critical early step to operating Waymo’s robotaxis, which rely on detailed maps, in addition to sensors, to help them navigate their surroundings.
-  
-  Los Angeles will be Waymo’s third market. It offers robotaxi rides to the public in Chandler, Arizona and to its employees in San Francisco. It is taking steps towards offering public robotaxi trips in San Francisco as well as downtown Phoenix, which is close to Chandler. Select members of the public who sign up for Waymo’s research program can take rides in both places today. Waymo hasn’t said when public rides will be available in each market. Waymo began operating robotaxis in Arizona in 2017 and opened the service to the public in October 2020. Today, Waymo says it serves hundreds of rides in Chandler a week.
-  
-  If Waymo follows a similar rollout in Los Angeles, it may be years before Waymo can seize a significant share of the LA ride hail market.
-  
-  Waymo’s robotaxis look like the typical Chrysler minivans and Jaguar SUVs they’re based on, but include an array of sensors mounted on the exterior to perceive its surroundings. Passengers request a ride on their smartphone with the Waymo app similar to if they were using Uber or Lyft.
-  
-  Passengers board through a rear door and are told by a robotic voice as they enter, “This car is all yours with no one up front.”
-  
-  A written message posted on the steering wheel warns wayward passengers to “Please keep your hands off the wheel.”
-  
-  Waymo’s robotaxis have impressed many riders while also struggling with situations that human drivers handle easily. Last year one Waymorobotaxi became strandedon a road while carrying a passenger and then unexpectedly drove away as the company’s roadside assistance arrived.
-  
-  Google launched a self-driving car program in 2009 near its Silicon Valley headquarters, but it would later dump theterm “self-driving”in favor of “fully autonomous” among concerns among industry leaders that Tesla was misusing the phrase.
-  
-  Google’s leadership in the field has led to former employees launching competing programs that have partnered with rivals likeUber,Ford, VWand Toyota. Google gave thefirst robotaxi ride in October 2015to a blind man in Austin,Texas.
-  
-  The program was renamed Waymo and began testing vehicles in the greater Phoenix area in 2016. The area’s warm climate, wide roads and scarcity of pedestrians and cyclists make it well-suited to robotaxis, which struggle with weather and more crowded lanes and streets of other locations.
-  
-  Waymo said in a blog post Tuesday that the LA ride hail market is worth an estimated $2 billion, the equivalent of a dozen smaller US markets combined.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c1548c99080252a7d026da6aa9cdcd8b48be7d4de640555a082fe26504aeb070
+size 3456

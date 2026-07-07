@@ -1,33 +1,3 @@
-id: cnn_2022_01666
-title: "Why Jamie Dimon apologized to Elizabeth Warren"
-date: "2022-09-22"
-section: "Economy"
-url: "https://www.cnn.com/2022/09/22/economy/bank-ceos-testify-senate?query=query%28%24symbols%3A%20%5BString%5D%29%20%7B%0A%20%20marketIndexes%28symbols%3A%20%24symbols%29%20%7B%0A%20%20%20%20indexes%20%7B%0A%20%20%20%20%20%20symbol%0A%20%20%20%20%20%20index_displayName%0A%20%20%20%20%20%20inSession%0A%20%20%20%20%20%20streamId%3A%20streamSymbol%0A%20%20%20%20%20%20change%0A%20%20%20%20%20%20level%0A%20%20%20%20%20%20changePct%0A%20%20%20%20%20%20link%0A%20%20%20%20%20%20__typename%0A%20%20%20%20%7D%0A%20%20%20%20__typename%0A%20%20%7D%0A%7D%0A&variables=%7B%22symbols%22%3A%5B%22INDU%22%2C%22INX%22%2C%22COMP.IDX%22%5D%7D"
-content: |
-  JPMorgan Chase CEO Jamie Dimon testified on Capitol Hill Thursday for the second straight day. This time, he faced his longtime criticSen. Elizabeth Warren.
-  
-  Warren began her line of questioning by asking how many instances of fraud had been reported to his bank from customers using Zelle, a popular payment platform jointly owned by a number of banks including JPMorgan.
-  
-  Zelle, Warren said, has helped boost bank profits while “defrauding” customers out of at least half a billion dollars. Consumers sent $490 billion through Zelle in 2021, of which an estimated $440 million were lost through fraud and scams, according to Early Warning Services, Zelle’s parent company.
-  
-  Warren said she had reached out to JPMorgan and other banks in July for an answer but had been “stonewalled” and received no information.
-  
-  Warren slams Jerome Powell over interest rate comments: 'I'm very worried that the Fed is going to tip this economy into recession'
-  
-  “You didn’t provide any of the information that we requested,” she told Dimon in the Senate hearing. “Is that because you don’t keep track of when your customers report fraudulent Zelle transactions? Or is it because you do keep track and you know exactly how many fraudulent transactions had been reported and you want to keep that a secret?”
-  
-  Dimon said, “I deeply apologize if we didn’t give you the numbers you asked for.”
-  
-  The amount of fraud for the service, he said, is “relatively small.” When Warren pressed for specific numbers, Dimon promised to get them to her by the end of the day.
-  
-  “Terrific,” Warren said. “We’ll get it by the end of the day once nobody’s here to talk about it.”
-  
-  She also said that when a customer falls victim to fraud on the platform, they’re largely left to deal with the repercussions on their own.
-  
-  A JPMorgan spokesperson disputed the notion, saying in an email that “we reimburse customers for unauthorized transactions reported in a timely manner, and also reimburse for transactions where the consumer is fraudulently induced into providing account access credentials that are then used by a bad actor to make a payment.”
-  
-  Dimon was joined in the Senate by Wells Fargo CEO Charles Scharf, Bank of America CEO Brian Thomas Moynihan, Citigroup CEO Jane Fraser, Truist CEO William Rogers Jr., U.S. Bancorp CEO Andy Cecere and PNC CEO William Demchak.
-  
-  This isn’t the first time Warren has gone head-to-head with Dimon. Last year, Warren called Dimon the “star of the overdraft show” and accused him of prioritizing profits over struggling Americans. “Your bank, JPMorgan, collects more than seven times as much money in overdraft fees per account than your competitors,” she told him.
-  
-  Dimon responded that Warren’s numbers were “totally inaccurate.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e4ab970658cadd7b2a3a7b6594925b5c8e1b74b1a76900639c419438aeef52e
+size 3614

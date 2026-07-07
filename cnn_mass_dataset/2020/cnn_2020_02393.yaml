@@ -1,15 +1,3 @@
-id: cnn_2020_02393
-title: "Apple has been granted a patent for software that would allow for socially distant group selfies"
-date: "2020-06-08"
-section: "Tech"
-url: "https://www.cnn.com/2020/06/08/tech/apple-selfie-trnd/index.html"
-content: |
-  With people around the world self-isolating at home in order to curb the spread of Covid-19, Apple has received a patent for software that would allow people to take group selfies while socially distancing from one another.
-  
-  TheUS Patent and Trademark Office recently granted Apple a patentfor the software that would allow for “synthetic group selfies,” or socially distant group selfies.
-  
-  The software would allow a user to invite others to participate in a group selfie that would arrange multiple people into a single image. It would remove the background image from other users’ selfies and place them into the user’s photo.
-  
-  While it appears as if Apple filed for the patent as a response to the pandemic, the tech giant originally filed for the patent in 2018 and it received it June 2.
-  
-  Whether Apple decides to move forward with the patented software remains to be seen, but it would be the perfect way for people to create memories with one another while still socially distancing.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48d5d5bf26e10726940cd258f7f26547dde2a0ee9d9195181c30e8af98f05c88
+size 1261

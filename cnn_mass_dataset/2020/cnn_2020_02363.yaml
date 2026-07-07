@@ -1,21 +1,3 @@
-id: cnn_2020_02363
-title: "Facebook hit by antitrust scrutiny after buying a site for GIFs"
-date: "2020-06-12"
-section: "Tech"
-url: "https://www.cnn.com/2020/06/12/tech/facebook-giphy-antitrust/index.html"
-content: |
-  Facebook is once again drawing scrutiny from regulators – but this time, it’s for buying a search engine sometimes used to find GIFs of John Travolta and dumpster fires.
-  
-  The UK’s Competition and Markets Authority announced Friday it was looking into whether Facebook’s recentacquisitionof Giphy “may be expected to result in a substantial lessening of competition within any market or markets in the United Kingdom for goods or services.”
-  
-  In response, Facebook has decided to pause its integration with Giphy globally, according to a person familiar with the matter.
-  
-  In a statement provided to CNN Business, a Facebook spokesperson said it is “prepared to show regulators that this acquisition is positive for consumers, developers, and content creators alike.”
-  
-  Facebook said last month that it hadacquired Giphy, a library of animated GIFs – moving images that are often used on social media to express reactions or emotions. Terms of the deal were not disclosed, butone reportput the price tag at $400 million.
-  
-  The UKprobe marks the second major antitrust inquiry into the deal. Earlierthis week, Australian competition officials alsolaunched an antitrust investigation.
-  
-  “This is not just any old GIF supplier – it’s the biggest, most important one and given that, we were surprised that we weren’t notified by Facebook of this acquisition,”said Rod Sims, the chair of Australia’s competition regulator. “If, when we look at it, we do have concerns, then we obviously need to take court action.”
-  
-  As UK officials follow suit, it’s unclear whether US regulators may begin their own inquiry. The Federal Trade Commission already has an active,ongoing antitrust investigationof Facebook, which the company disclosed to investors last year. The FTC is also currentlyevaluating completed mergersfrom across the tech industry in a separate study.
+version https://git-lfs.github.com/spec/v1
+oid sha256:38e0b41208690ea84aeb724771502851b5a70deb959c78c5eb0c4f7875b5e564
+size 2132

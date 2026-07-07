@@ -1,21 +1,3 @@
-id: cnn_2025_03749
-title: "Capital One says a ‘technical issue’ is affecting some customers’ ability to get money"
-date: "2025-01-17"
-section: "Business"
-url: "https://www.cnn.com/2025/01/17/business/capital-one-outage-direct-deposits?cid=external-feeds_iluminar_yahoo"
-content: |
-  Problems with a third-party vendor thatCapital Oneuses are affecting some bank customers’ ability to access money online and igniting anger on social media.
-  
-  The bank said in a statement to CNN that a “technical issue experienced by a third-party vendor” has “temporarily impacted” some of Capital One’s services, including payment processing, deposits and its consumer, small business and commercial banks.
-  
-  As of Friday afternoon, the company saidon Xit was still working to address the issue.
-  
-  Beginning Thursday and continuing Friday, thousands of users are reporting problems onDowndetector, a website that monitors outages. Capital One’s support account on X also has been flooded with complaints, several using explicit language, from people not being able to pay bills or access money.
-  
-  “We are actively working with the vendor to resolve the issue and apologize to our customers for this inconvenience,” a Capital One spokesperson said.
-  
-  Users of the Capital One app are greeted with a message saying it’s “currently experiencing technical issues” and that it’s “working to fix the problem as quickly as possible.”
-  
-  The third-party vendor affected is FIS Global, a provider of financial tech services to a number of major banks, including Capital One. The company said in a statement a power outage was the root of the problem.
-  
-  “We are working with impacted clients to finalize the posting of transactions that occurred while systems were offline and expect most, if not all, of that work to be completed today,” an FIS spokesperson told CNN.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a46fa84a817ba3e6af2925844bb04b62e7e2555e76ff2de40ed62c556fbe630
+size 1904

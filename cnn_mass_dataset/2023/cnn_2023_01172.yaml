@@ -1,33 +1,3 @@
-id: cnn_2023_01172
-title: "Capitol Hill data breach more ‘extensive’ than previously known"
-date: "2023-03-09"
-section: "Politics"
-url: "https://www.cnn.com/2023/03/09/politics/capitol-data-breach-senate-house/index.html"
-content: |
-  A sweeping cybersecuritybreach of congressional members’ private informationwas more extensive than previously known and affects not only House lawmakers and their staff but also Senate employees.
-  
-  The Senate sergeant-at-arms alerted Senate staff about the breach Thursday in an email obtained by CNN.
-  
-  The compromised data is “extensive,” and includes sensitive data such as Social Security numbers, home addresses and information on Senate employees’ health insurance plans, the sergeant-at-arms said in the email, which urged Senate staff to freeze their family credit to guard against fraud.
-  
-  Law enforcement gave the sergeant-at-arms a list of Senate employees whose data was stolen, the email said, and the sergeant-at-arms was contacting those employees so they could protect themselves from fraud.
-  
-  Hundreds of US House members and staff also had their personally identifiable information stolen in the breach, which affected a DC health insurance service, CNN reported Wednesday.
-  
-  Punchbowl News firstreportedon the sergeant-at-arms’ email.
-  
-  The revelation that Senate staff also had their data stolen will only increase pressure from Capitol Hill on DC Health Link, the affected insurance service, to provide a full accounting of how the breach occurred.
-  
-  DC Health Link said Wednesday it had “initiated a comprehensive investigation” of the incident and is working with law enforcement. The FBI is involved in the investigation, the bureau said.
-  
-  It’s unclear how the data was accessed or who was responsible for the breach, but it immediately raised concerns among lawmakers that they could become the victims of identity theft, as many other Americans have in recent years.
-  
-  House Speaker Kevin McCarthy and House Minority Leader Hakeem Jeffries have written a letter to DC Health Link expressing their concern over the breach, McCarthy previously told CNN.
-  
-  Others were less alarmed.
-  
-  “I can’t get all that worked up about this, honestly,” a Senate staffer told CNN Thursday night.
-  
-  China “got all my data already in the OPM hack,” the staffer added, referring to the 2014-2015 breach of the Office of Personnel Management that compromised millions of US government personnel records. US officials have blamed Chinese hackers for the breach, a charge Beijing denied.
-  
-  On a popular cybercrime forum this week, someone claimed to have sold the data belonging to DC Health Link. The advertisement for the stolen data, which CNN reviewed, claimed the leak affected 170,000 people and included Social Security numbers.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c396eb36a3fc31c6b6b076af132a20a58f44c4986e969064e92d60b9934a45a7
+size 2845

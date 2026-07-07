@@ -1,21 +1,3 @@
-id: cnn_2024_01647
-title: "Man who faked own death by hacking into death registry to avoid paying child support sentenced to over 6 years in prison"
-date: "2024-08-20"
-section: "US"
-url: "https://www.cnn.com/2024/08/20/us/man-hacking-death-registry-over-child-support-sentenced-6-years?cid=ios_app"
-content: |
-  A Kentucky man who faked his own death by hacking into a death registry to avoid paying child support was sentenced to over 6 years in prison Monday,according to a releasefrom the U.S. Attorney’s Office of the Eastern District of Kentucky.
-  
-  Jesse Kipf accessed the Hawaii death registrysystem in January 2023, using the username and password of a physician living in another state, to create a “case” for his own death, according to his plea agreement.
-  
-  He then completed a death certificate worksheet, “assigned himself as the medical certifier for the case and certified his death, using the digital signature of the doctor. This resulted in Kipf being registered as a deceased person in many government databases,” the release reads.
-  
-  Kipf admitted he faked his own death, “in part, to avoid his outstanding child support obligations,” it says.
-  
-  “We respect the court’s decision,” Kipf’s attorney, Tommy Miceli, told CNN.
-  
-  Using credentials he stole from real people, Kipf also infiltrated other states’ death registry systems, private business networks, along with governmental and corporate networks – then tried to sell access to the networks on the dark net, according to officials.
-  
-  Kipf was sentenced to 81 months in prison on Monday and is required to serve 85% of his prison sentence under federal law. After he’s released, he’ll be under the supervision of the U.S. Probation Office for three years, the release said.
-  
-  “This scheme was a cynical and destructive effort, based in part on the inexcusable goal of avoiding his child support obligations,” said Carlton S. Shier, IV, U.S. Attorney for the Eastern District of Kentucky.  “This case is a stark reminder of how damaging criminals with computers can be, and how critically important computer and online security is to us all.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0b7ab4472a084ea5cec8a97099aa374eae83021ac98ca21de9bfc877b179f32
+size 2177

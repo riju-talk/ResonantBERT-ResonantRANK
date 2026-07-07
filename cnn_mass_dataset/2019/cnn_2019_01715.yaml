@@ -1,31 +1,3 @@
-id: cnn_2019_01715
-title: "American Airlines is canceling 90 flights a day because of 737 Max grounding"
-date: "2019-03-24"
-section: "Business"
-url: "https://www.cnn.com/2019/03/24/business/american-canceling-flights-737-max-grounding/index.html"
-content: |
-  American Airlines plans to cancel flights well into April because of the Boeing 737 Max grounding.
-  
-  American, the world’s largest airline, said Sunday it is canceling about 90 flights a day out through April 24. Before Sunday’s announcement, American had only canceled flights through March 28.
-  
-  The airline is hopeful that that the 737 Max planes will be flying again soon, but said it is canceling flights about a month out as it waits for word from the Federal Aviation Administration.
-  
-  “Canceling in advance provides additional availability and rebooking options for our customers,” said the statement from American.
-  
-  The global fleet of 371 of the 737 Max jets wasgrounded indefinitely on March 13after two of the planes had fatal crashes. A Lion Air flight crashed in October and anEthiopian Airlines flight crashed on March 10.
-  
-  The causes of the crashes have yet to be determined but the focus has been on anautomatic safety featurewhich may have forced the nose of each plane lower when it incorrectly believed the plane was in danger of going into a stall.
-  
-  Boeing and the FAA said they are working on anupgrade of its softwareto deal with that safety feature. Boeing said at the time of the grounding that it expected that update to be available “within weeks.”
-  
-  American has 24 of the 737 Max 8 jets. But not every flight which had been scheduled to have a 737 Max has been canceled. American said it has rearranged its schedule to use other aircraft to complete some of those flights.
-  
-  Ethiopian Airlines CEO rejects criticism that pilots did not train on 737 Max 8 simulator
-  
-  “We have balanced [cancellations] across our system,” said the airline. It said both international and domestic flights are affected. “We will vary by day as we look to impact the fewest number of customers.”
-  
-  American operates 3,300 flights its mainline system daily on average, and another 3,400 through regional carriers and partner airlines.
-  
-  Other carriers are not canceling nearly that far out.
-  
-  Southwest Airlines(LUV), which has 34 737 Max jets, said it is only canceling five days out at this point. It said it is also trying to rework the schedule to affect the fewest possible number of customers.
+version https://git-lfs.github.com/spec/v1
+oid sha256:69cf6746e729f6454a7107b701da6e24e10e08596fa3a2ba74b4e3bc45cc8405
+size 2527

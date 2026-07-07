@@ -1,25 +1,3 @@
-id: cnn_2025_02330
-title: "US Senate votes to strike controversial AI regulation moratorium from Trump agenda bill"
-date: "2025-07-01"
-section: "Tech"
-url: "https://www.cnn.com/2025/07/01/tech/senate-strikes-ai-regulation-moratorium-agenda-bill?iid=cnn_buildContentRecirc_end_recirc"
-content: |
-  The US Senate has voted nearly unanimously to remove a 10-year moratorium on the enforcement of state artificial intelligence regulations from Republicans’ sweeping domestic policy bill.
-  
-  The provision in the Senate bill would have effectively prevented states from enforcing many proposed and existing AI-related laws — including regulations around sexually explicit and political deepfakes — for the next decade. Earlier this month, Senate Commerce Committee Republicans hadmoved to tiecompliance with the moratorium to crucial federal funds for deploying internet infrastructure.
-  
-  While some tech leaders have advocated for a single federal law rather than a patchwork of state regulations, the moratorium hadraised alarmsamong other tech workers and leaders, academics, advocacy groups,state regulatorsand lawmakers. Opponents of the provision worried that it could hamstring efforts to hold tech companies accountable for potential harms to society, especially in light of the fact that there is currently no comprehensive federal legislation regulating AI.
-  
-  On Monday night, the Senate voted 99-1 in favor of an amendment to strike the provision from the bill. The amendment was co-sponsored by Sens. Ed Markey, Maria Cantwell and Marsha Blackburn.
-  
-  State regulator: Proposed 10-year moratorium on AI law enforcement is ‘extremely disconcerting’
-  
-  “This 99-1 vote sent a clear message that Congress will not sell out our kids and local communities in order to pad the pockets of Big Tech billionaires,” Markey said in a statement, adding, “I look forward to working with my colleagues to develop responsible guardrails for AI.”
-  
-  The vote came during theSenate’s marathon “vote-a-rama”on various amendments to the agenda bill. Republicans have been aiming to have the bill on President Donald Trump’s desk by July 4, but the legislation must still go back to the House if it passes the Senate.
-  
-  At least one House lawmaker, Rep. Marjorie Taylor Greene, had warned that she would vote “no” on the agenda bill if the Senate did not remove the AI moratorium provision.
-  
-  Opponents of the AI regulation moratorium cheered the Senate vote on Tuesday.
-  
-  “State legislatures all across the country have done critical bipartisan work to protect the American people from some of the most dangerous harms of AI technology,” Ilana Beller, democracy organizing manager at the progressive consumer advocacy group Public Citizen said in a statement. “The defeat of this moratorium will mean vital protections remain in place for millions of Americans.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff82191a40aab2c60ec1f4492c4c0311ad12b23b74fdea3128d4b51975452a00
+size 2912

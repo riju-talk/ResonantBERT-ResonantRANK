@@ -1,19 +1,3 @@
-id: cnn_2022_02688
-title: "Treasury bans Americans from buying Russian stocks and bonds"
-date: "2022-06-08"
-section: "Investing"
-url: "https://www.cnn.com/2022/06/08/investing/treasury-russian-stocks-ban?query=query%28%24symbols%3A%20%5BString%5D%29%20%7B%0A%20%20marketIndexes%28symbols%3A%20%24symbols%29%20%7B%0A%20%20%20%20indexes%20%7B%0A%20%20%20%20%20%20symbol%0A%20%20%20%20%20%20index_displayName%0A%20%20%20%20%20%20inSession%0A%20%20%20%20%20%20streamId%3A%20streamSymbol%0A%20%20%20%20%20%20change%0A%20%20%20%20%20%20level%0A%20%20%20%20%20%20changePct%0A%20%20%20%20%20%20link%0A%20%20%20%20%20%20__typename%0A%20%20%20%20%7D%0A%20%20%20%20__typename%0A%20%20%7D%0A%7D%0A&variables=%7B%22symbols%22%3A%5B%22INDU%22%2C%22INX%22%2C%22COMP.IDX%22%5D%7D"
-content: |
-  The Biden administration has issued new investment restrictions that prohibit Americans from buying Russian stocks and bonds.
-  
-  The ban is the latest step by US officials to crank up thefinancial pressure on Russiain response to Moscow’s invasion of Ukraine.
-  
-  Newguidanceissued Monday by the Treasury Department explains that US investors are prohibited from buying “both new and existing debt and equity securities issued by an entity in the Russian Federation.”
-  
-  Up until now, Americans were able to buy Russian stocks and bonds that change hands in secondary markets.
-  
-  Americans will still be allowed to sell Russian stocks and bonds, although only to a “non-US person,” Treasury said. The guidance explains that Americans are not “required” to divest Russian securities and may continue to hold them.
-  
-  US investors can also still invest in US funds that own Russian securities, as long as those Russian holdings are not the bulk of the fund’s assets.
-  
-  “Consistent with our goal to deny Russia the financial resources it needs to continue its brutal war against Ukraine, Treasury has made clear that US persons are prohibited from making new investments in the success of Russia, including through purchases on the secondary market,” a Treasury spokesperson said.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5dbb7417b15ab985b3f5d79bc495fb7cbb6a8499ddf5402cc5e9442b47361e5e
+size 2088

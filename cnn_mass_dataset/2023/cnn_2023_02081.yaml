@@ -1,33 +1,3 @@
-id: cnn_2023_02081
-title: "Why everyone’s phone will alarm at 2:20 pm ET on Wednesday"
-date: "2023-10-02"
-section: "Tech"
-url: "https://www.cnn.com/2023/10/02/tech/emergency-alert-wireless-test-fema-fcc/index.html"
-content: |
-  If you hear a screeching alert go off on your cell phone – and everyone else’s cell phone – this Wednesday at 2:20 pm ET, don’t panic.
-  
-  The federal government said it will conduct on Wednesday afternoon a nationwide test of its Emergency Alert System and Wireless Emergency Alerts. The EAS portion of the test will send an emergency alert to all radios and televisions, while the WEA portion of the test will direct alerts to all consumer cell phones.
-  
-  “The purpose of the Oct. 4 test is to ensure that the systems continue to be effective means of warning the public about emergencies, particularly those on the national level,” the Federal Emergency Management Agency, which is conducting the test in coordination with the Federal Communication Commission, said in astatement.
-  
-  Beginning at approximately 2:20 pm ET this Wednesday, all wireless phones should receive an alert and an accompanying text message that reads: “THIS IS A TEST of the National Wireless Emergency Alert System. No action is needed.”
-  
-  The free text message will be sent in either English or Spanish, depending on the language settings of your device. The text will be accompanied by a unique tone and vibration that is meant to make the alert accessible to the entire public, including people with disabilities, FEMA said.
-  
-  The test will be broadcast by cell towers for approximately 30 minutes beginning at 2:20 pm ET, FEMA said. During this time, all compatible wireless phones that are switched on, within range of an active cell tower, and whose wireless providers participates in WEA tests should receive the text message.
-  
-  Meanwhile, all radios and televisions will also broadcast a test emergency alert at the same time as part of the broader test. This message, which will run for approximately one minute, will state: “This is a nationwide test of the Emergency Alert System, issued by the Federal Emergency Management Agency, covering the United States from 14:20 to 14:50 hours ET. This is only a test. No action is required by the public.”
-  
-  As the agency has said, no action is required by you after you receive the emergency alert test on your phone or hear it through the radio or TV.
-  
-  Wednesday’s test is set to be the seventh-ever nationwide test of the Emergency Alert System – the alerts that are sent through radio and television broadcasters. It is the third nationwide test of the Wireless Emergency Alerts, but only the second to be sent to consumer cellular devices.
-  
-  The most-recent test run of both systemstook place in 2021. The first-ever test of the Emergency Alert System occurredmore than a decade ago, in 2011.
-  
-  There have indeed been multiple high-profilemistakes, attributed to errors at the state-level, associated with mobile emergency alert systems that hit cell phones.
-  
-  Perhapsthe most infamous incidentwas a 2018 misfire in Hawaii that set off a wave of short-lived panic across the state. On the morning of January 13, 2018, a Hawaii state emergency management worker accidentally pushed the wrong button in the emergency operation center, sending out a false warning alerting of an incoming ballistic missile threat. The employee who pushed the wrong button was ultimately fired, state officials said.
-  
-  And earlier this year in Florida, state emergency management officialsissued an apologyafter Floridians were awoken at 4:45 a.m. by a test emergency alert sent to their phones. State officials said the test alert was meant to run only on TV and not meant to disturb anyone who was sleeping. Florida also said it was ending its contract with the software company blamed for shooting off the pre-dawn test alert to cell phones.
-  
-  Last year,a FEMA official told CNNthat vulnerabilities in software that TV and radio networks around the country use to transmit emergency alerts could potentially allow a hacker to broadcast fake messages over the alert system. The agency at the time urged operators of these devices to update their software to address the issue. The advisory did not say, however, that alerts sent over text messages could be impacted. The official also said at the time that there is no evidence that malicious hackers have actually exploited the vulnerabilities.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a19558015898b4b93289e3fbf90a4c1936924277742a0b39d7a2a2bab9e12820
+size 4504

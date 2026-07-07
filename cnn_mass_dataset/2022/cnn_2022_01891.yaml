@@ -1,35 +1,3 @@
-id: cnn_2022_01891
-title: "Microsoft says cyberattacks targeting Ukraine ‘raise serious concerns’ under Geneva Convention"
-date: "2022-03-01"
-section: "Tech"
-url: "https://www.cnn.com/2022/03/01/tech/microsoft-geneva-convention-ukraine/index.html"
-content: |
-  As hacking by nation-states has grown more pervasive in recent years, Microsoft has long called for the creation of a new Geneva Convention governing cyberspace.
-  
-  But now, for the first time, the tech giant appears to be suggesting that cyberattacks tied to the war in Ukraine could potentially be considered war crimes under existing international law.
-  
-  US firms should be wary of destructive malware unleashed on Ukraine, FBI and CISA warn
-  
-  On Monday, Microsoft (MSFT) said that in the hours leading up to Russia’s invasion, it detected a new form of “offensive and destructive” software targeting Ukrainian institutions. Microsoft also said it has observed a barrage of cyberattacks zeroing in on Ukraine’s agricultural, commercial, finance and energy sectors.
-  
-  “These attacks on civilian targets raise serious concerns under the Geneva Convention, and we have shared information with the Ukrainian government about each of them,” wrote Microsoft president Brad Smith in a blog post.
-  
-  Microsoft’s underlying message? The years-long ethical debate surrounding cyberwar — and its impact on civilians — is no longer theoretical. It is here, it is real, and governments must figure out how to respond. (Microsoft declined to comment on whether it believes the hacks constitute actual breaches of the Geneva Convention.)
-  
-  In 2017, Smith argued that the rise of transnational digital crime and the brazen Sony data breach attributed to North Korea showed how cyberspace “has become a potential new and global battleground.”
-  
-  A digital Geneva Convention, Smith said at the time, should commit governments to refrain from using cyberattacks against civilian targets or critical infrastructure, and keep countries from stockpiling software vulnerabilities as they often do with other strategic weapons.
-  
-  “Just as the world’s governments came together in 1949 to adopt the Fourth Geneva Convention to protect civilians in times of war, we need a Digital Geneva Convention that will commit governments to implement the norms that have been developed to protect civilians on the internet in times of peace,” Smith said.
-  
-  The Fourth Geneva Convention was the first to address the treatment of civilians in a warzone, reflecting the horrors of World War II.
-  
-  US braces for Russian cyberattacks as Ukraine conflict escalates. Here's how that might play out
-  
-  The analogy at the time seemed largely rhetorical. It used the language of diplomacy to describe a possible model for a new international framework limiting the fallout of hacking.
-  
-  But Smith’s claim on Monday takes the company further. Microsoft specifically highlighted how the cyberattacks targeting Ukraine raise concerns under existing international law. Microsoft is no longer simply advocating for a new Geneva Convention to deal with cyberattacks; it is suggesting that cyberattacks like the kind in Ukraine should already fall within the reach of contemporary war crimes agreements.
-  
-  Just because Microsoft says so does not make it true, however, said P.W. Singer, a strategist at the New America Foundation who has written extensively on the use of technology in warfare.
-  
-  “Microsoft can describe something as a war crime,” he said, “but for that, an actual court, not just the court of public opinion, matters.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1438fd59844c5fb12f636f46a7cd28bc936af267b69654ec268434979179377
+size 3628

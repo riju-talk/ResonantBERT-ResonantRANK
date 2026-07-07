@@ -1,27 +1,3 @@
-id: cnn_2018_00699
-title: "Facebook doesn’t think hackers accessed third-party sites"
-date: "2018-10-02"
-section: "Tech"
-url: "https://www.cnn.com/2018/10/02/tech/facebook-hack-third-party/index.html"
-content: |
-  Facebook says it has not found any evidence “so far” that its attackers accessed third-party sites through Facebook Login.
-  
-  It’s a sliver of good news about amassive data breachthat the company first disclosed last week. Attackers accessed as many as50 million accountsin the largest such breach of Facebook’s network.
-  
-  “We have now analyzed our logs for all third-party apps installed or logged during the attack we discovered last week. That investigation has so far found no evidence that the attackers accessed any apps using Facebook Login.” said Facebook’s Guy Rosen in a statement.
-  
-  On Friday, Facebook announced unknown attackers had exploited a vulnerability to access the accounts. They were able to view other people’s Facebook profiles as if they were the accounts’ owners. For example, they could see friends’ profiles and updates.
-  
-  Facebook says it closed the loophole on Thursday night, but 90 million users were forcefully logged out of their accounts as a precaution.
-  
-  The attackers stole Facebook “access tokens,” which keep a person logged into their Facebook account over long periods. Facebook reset all 50 million tokens, as well as tokens for an additional 40 million people who had used the “view as” feature in the past year as a precautionary step.
-  
-  During a call about the hack last week, Rosen said the attackers would have also been able to access third-party sites using Facebook Login, but the company had found no evidence of them doing so.
-  
-  Hundreds of sites and apps including Tinder, Spotify and Airbnb use Facebook Login, which lets people access the services with their Facebook username and password. Early this week,developers were confusedabout whether their services had been exposed in the Facebook hack.
-  
-  The company says partners following Facebook “best practices” were automatically protected. Some developers might not have followed those rules, and they could have put their users at risk.
-  
-  “We’re sorry that this attack happened — and we’ll continue to update people as we find out more,” Rosen said.
-  
-  – CNN’s Donie O’Sullivan contributed reporting.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c4a1c925b9336f7a93ceb6a3dc7f436abe3cb70936273af3978535e065f1c7d
+size 2403

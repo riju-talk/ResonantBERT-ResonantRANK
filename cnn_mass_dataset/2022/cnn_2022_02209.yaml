@@ -1,25 +1,3 @@
-id: cnn_2022_02209
-title: "Airbnb to crack down on parties during summer holidays"
-date: "2022-05-04"
-section: "Tech"
-url: "https://www.cnn.com/2022/05/04/tech/airbnb-party-houses-memorial-day-july-4?query=query%28%24symbols%3A%20%5BString%5D%29%20%7B%0A%20%20marketIndexes%28symbols%3A%20%24symbols%29%20%7B%0A%20%20%20%20indexes%20%7B%0A%20%20%20%20%20%20symbol%0A%20%20%20%20%20%20index_displayName%0A%20%20%20%20%20%20inSession%0A%20%20%20%20%20%20streamId%3A%20streamSymbol%0A%20%20%20%20%20%20change%0A%20%20%20%20%20%20level%0A%20%20%20%20%20%20changePct%0A%20%20%20%20%20%20link%0A%20%20%20%20%20%20__typename%0A%20%20%20%20%7D%0A%20%20%20%20__typename%0A%20%20%7D%0A%7D%0A&variables=%7B%22symbols%22%3A%5B%22INDU%22%2C%22INX%22%2C%22COMP.IDX%22%5D%7D"
-content: |
-  Airbnb is once again trying to stop people from using its platform to host unauthorized parties ahead of key summer holidays.
-  
-  The company said Wednesday it will be instituting “strict anti-party measures” for Memorial Day weekend for the first time and will reapply the same approach for July 4th weekend — something it did last year and said was effective.
-  
-  The added measures, which will apply to bookings in the US for userswithout a history of positive reviews, will prohibit users frombooking a home for only one night. The company will also restrict some two-night reservations, such as those made locally or last-minute.
-  
-  Airbnb also said it will add something called “anti-party attestations,” which will require guests booking local reservations to confirm they understand its party rules and could be otherwise subject to legal action.
-  
-  The news comes as Airbnb’s businessbounced backafter being decimated in the early months of the pandemic. Airbnb CEO Brian Chesky told analysts on its first quarter earnings call Tuesday it is already seeing “strong demand for summer bookings and beyond.” However, Airbnb continues to grapple with preventing people from using its platform to book properties and host unauthorized parties – some of which have gotten severely out of hand and made headlines over the years.
-  
-  Last month, two teens were killed and several other people injured at alarge party held at an Airbnb-rented propertyin Pittsburgh – many of the guests were minors. Airbnb, which said it banned the person who booked the property, told CNN at the time parties aren’t allowed, per its rental agreements, and the event was “thrown without the knowledge or consent of the host.”
-  
-  In 2019, Cheskyannounceda ban on “party houses”after five peoplewere shot and killed at a Halloween party at an Airbnb rental house in Orinda, California. At the time, he said the company was “redoubling our efforts to combat unauthorized parties and get rid of abusive host and guest conduct.” Airbnb also launched a 24/7 support hotline to help enforce the ban and began restricting usersunder the age of 25from booking home listings in their area if they didn’t have a history of positive reviews.
-  
-  In August 2020, Airbnb announced a global ban on parties and events on Airbnb listings amid the public health crisis, restricting gatherings to a maximum capacity of 16 people.
-  
-  In its latest announcement, Airbnb touted the effectiveness of its anti-party measures in weeding out questionable bookings around Independence Day weekend last year. It said more than 126,000 guests without histories of positive reviews were unable to book certain reservations during July 4 weekend last year.
-  
-  “The 4th of July weekend in 2021 was quiet and we saw a substantial decrease in reports of disruptive and unauthorized parties,” the company said.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fd2649381e8685f210f0b7bc6ce47d7b029ef901fbc8e942198a1482c89d503
+size 3687

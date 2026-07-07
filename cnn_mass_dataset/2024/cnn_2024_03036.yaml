@@ -1,19 +1,3 @@
-id: cnn_2024_03036
-title: "GM’s self-driving car unit restarts testing on public roads"
-date: "2024-05-13"
-section: "Business"
-url: "https://www.cnn.com/2024/05/13/business/gms-self-driving-car-unit-restarts-testing-on-public-roads?cid=external-feeds_iluminar_yahoo"
-content: |
-  Cruise, General Motors’ autonomous driving technology subsidiary, will start taking its self-driving vehicles out on public roads again this week. The company had stopped testing last October following an incident in San Francisco in which a pedestrian was badly injured.
-  
-  Cruise’s vehicles will begin driving again in Phoenix, Arizona, but with a “safety driver” at the wheel of the modified Chevrolet Bolt EVs. The vehicles will still mostly drive themselves but a person will be in the driver’s seat ready to take control if needed, such as in an emergency.
-  
-  Last October, a Cruise self-driving car, with no one inside, hit a pedestrian after the person had first been struck by another vehicle. After striking the pedestrian, the Cruise vehicle attempted to pull off to the side of the road to avoid causing an obstruction. This resulted in the person being dragged across the pavement for about 20 feet, further injuring them.
-  
-  A few weeks later, theCalifornia Department of Motor Vehicles suspended Cruise’s permitsto operate its vehicles in that state, citing a lack of cooperation in the investigation of the crash. About two days later, Cruise announced it washalting all operations nationwidewhile it investigated the incident and the company’s response to it.
-  
-  In the meantime,Cruise said it updated its softwareto better respond to such incidents in the future. Cruise’s chief executive and other executives also resigned and the companylaid off nearly a quarter of its workforcein the weeks after the accident.
-  
-  Cruise’s own investigation, commissioned through the law firm of Quinn Emanuel Urquhart & Sullivan, cited a number of faults with Cruise including an “us versus them” attitude toward regulators, and a “myopic focus” on avoiding blame in the incident.
-  
-  “We acknowledge that we have failed to live up to the justifiable expectations of regulators and the communities we serve,” Cruise wrote in itsblog post on the reportat the time. “In doing so, we also fell woefully short of our own expectations.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:78c620c58361daff2b7b6b249e9b5d2e5e51e1e3743f691d95cff6c8c3ce0985
+size 2364

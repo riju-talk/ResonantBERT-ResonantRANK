@@ -1,31 +1,3 @@
-id: cnn_2025_02371
-title: "Thousands call on Christie’s to cancel AI art auction in open letter"
-date: "2025-02-11"
-section: "Style"
-url: "https://www.cnn.com/2025/02/11/style/christies-ai-auction-open-letter-tan/index.html"
-content: |
-  Editor’s Note:This article was originally published byThe Art Newspaper, an editorial partner of CNN Style.
-  
-  Nearly 4,000 people have signed anopen lettercalling on Christie’s New York to cancelan upcoming salededicated solely to art created with artificial intelligence (AI) — the first of its kind for a major auction house — over concerns that the programs used to create some generative digital pieces are trained on copyrighted work and exploit human artists.
-  
-  The online letter began circulating Saturday, the day after the Christie’s Augmented Intelligencesale was announced. The sale, which the auction house expects will bring in more than $600,000, includes work by artistsRefik Anadol,Harold Cohen, Holly Herndon and Mat Dryhurst, Alexander Reben and Claire Silver. The more than 20 lots in the sale span five decades, and roughly one quarter are digitally native works like non-fungible tokens (NFTs), according to Christie’s. Examples of other works in the auction include light boxes and screens, as well as sculptures, paintings and prints. Bidding is scheduled to begin February 20 and run until March 5.
-  
-  At publishing, the letter calling on Christie’s to halt the auction had 3,936 signatures attached. The authors largely take issue with the AI models used to create some of the works in the sale, which they say were trained on copyrighted works without their creators’ authorization.
-  
-  “These models, and the companies behind them, exploit human artists, using their work without permission or payment to build commercial AI products that compete with them,”the letterreads. “Your support of these models, and the people who use them, rewards and further incentivizes AI companies’ mass theft of human artists’ work.”
-  
-  The use of artists’ copyrighted work to train generative AI models that power programs likeMidjourney, Stable DiffusionandDall-Ehave resulted in lawsuits against the technology companies creating the software. Artists say their work has been used by the AI programs to train models without their permission or financial compensation. The technology companiesdefend themselvesby citing fair use, which allows for the use of some copyrighted material without permission in some cases.
-  
-  “Why are Christie’s condoning these models by helping sell these works for tens or even hundreds of thousands of dollars, when the models are directly leading to the impoverishment of so many artists that they’ve stolen from?” Ed Newton-Rex, the chief executive of Fairly Trained, a non-profit that certifies generative AI companies for fairer data sourcing,wrote on X.
-  
-  The letter is addressed to Christie’s digital art specialists Nicole Sales Giles and Sebastian Sanchez, who are heading up the auction. In a statement, a spokesperson for the auction house toldThe Art Newspaper:“The artists represented in this sale all have strong, existing multidisciplinary art practices, some recognized in leading museum collections. The works in this auction are using artificial intelligence to enhance their bodies of work.”
-  
-  Sarp Kerem Yavuz, an artist whose practice sometimes incorporates AI and whose work is included in the Christie’s sale (and acontributortoThe Art Newspaper), says the idea that AI-generated art is theft is based on a misunderstanding of the data sets used in such work.
-  
-  “Most AI-generated images result from the combination of millions — literally millions — of images, which means no single artist can claim that an image of a meadow, a heroic knight, a cat or a flower was based on their specific creation,” he wrote in a statement. “AI-generated images mimic human inspiration in many ways — they’re just more efficient at parsing through information.”
-  
-  As AI technology advances and becomes more integrated into day-to-day life, laws regarding copyright and fair use are struggling to keep up. Last month, the US Copyright Office ruled that artists can copyright work they created using AI tools, but that “purely AI-generated material”remains ineligiblefor protections.
-  
-  Read more stories from The Art Newspaperhere.
-  
-  An earlier version of this story misidentified an artwork as being AI generated. The image has been removed.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1aededa1aea4dffe5460e04dbf426e4f06e6e76d6c07a0808843cf7c3a415d3
+size 4531

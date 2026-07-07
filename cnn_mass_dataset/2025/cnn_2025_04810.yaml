@@ -1,23 +1,3 @@
-id: cnn_2025_04810
-title: "A Zoom outage prevented thousands of people from joining meetings, using the website"
-date: "2025-04-16"
-section: "Tech"
-url: "https://www.cnn.com/2025/04/16/tech/zoom-down-outage/index.html"
-content: |
-  Tens of thousands of people likely got a break from their afternoon meetings on Wednesday when Zoom outages prevented users from joining meetings and accessing the website. Disruptions peaked shortly after 3 p.m. ET, and service appeared to be mostly restored roughly two hours later, according to outage tracking siteDowndetector.com.
-  
-  A Zoom spokesperson said the company was aware that “some users are experiencing an outage” in an email to CNN, but did not provide a cause for the issues. At 4:52 p.m. ET, a post fromZoom’s X accountsaid service had been restored.
-  
-  At its height, Downdetector.com showed more than 60,000 outage reports Wednesday afternoon. By 4:43 p.m., outage reports plummeted to below 10,000 and continued to taper off throughout the afternoon.
-  
-  The outage was met with a mix of celebration and complaints on social media, with some remote workers cheering the cancellation of their afternoon meetings.
-  
-  “Shoutout to Zoom for being down when I really didn’t want to go to a 4pm meeting,” one user posted onX.
-  
-  “Zoom is down. No more work today,” another personquipped.
-  
-  Zoom is one of the most popular web conferencing tools, having risen to popularity during the COVID-19 pandemic. In addition to web conferencing, it also offers office team collaboration software.
-  
-  Earlier Wednesday, the music streaming app Spotify also experienced issues, with some users reporting being unable to stream audio. The issues were resolved by midday Wednesday, according to a post by Spotify onX.
-  
-  This story has been updated with additional context and developments.
+version https://git-lfs.github.com/spec/v1
+oid sha256:210e1eafb2f294d2ff15450084966dcad9b3f099c580e9d1f4c0767b6d5681c0
+size 1858

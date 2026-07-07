@@ -1,33 +1,3 @@
-id: cnn_2022_01905
-title: "Home affordability gets worse as prices and mortgage rates rise"
-date: "2022-04-07"
-section: "Homes"
-url: "https://www.cnn.com/2022/04/07/homes/us-home-affordability-gets-worse/index.html"
-content: |
-  As both home prices andmortgage rates rise, buying a home isincreasingly unaffordablefor a growing number of Americans.
-  
-  Home pricesin the first quarter were up by at least 10% from a year ago in two-thirds of the counties tracked in a new report from real estate data firm ATTOM.
-  
-  The decline in affordability has happened quickly. A median-priced, single-family home was less affordable than historical norms in nearly 80% of counties analyzed. That surged from just 38% of counties that were historically less affordable a year ago. The measure is now at its highest point since mid-2008, as home prices continued rising faster than wages in much of the country.
-  
-  What a real estate bubble would mean for homebuyers
-  
-  Price gains outpaced wage growth in four of every five markets, the report found. The counties where wages were growing faster than home prices tended to be places with incredibly high incomes like Seattle, San Jose, California, and parts of New York City.
-  
-  “Historically low mortgage rates and higher wages helped offset rising home prices over the past few years, but as home prices continue to soar and interest rates approach 5% on a 30-year fixed-rate loan, more consumers are going to struggle to find a property they can comfortably afford,” said Rick Sharga, executive vice president of market intelligence for ATTOM.
-  
-  Even as the pandemic wreaked havoc on much of the economy, homebuying recovered quickly after a short pause and just kept booming, fueled by record low interest rates. But a historically short supply of homes was outstripped by demand, sending home prices ever higher.
-  
-  That spike in demand has damaged affordability, the report found.
-  
-  Paying less than 30% of your income toward housing costs is a standard threshold for affordability.
-  
-  For more than half the counties included in the report, the cost of ownership was over the 30% guideline – many well over. Areas with more than 1 million people that required the largest share of average yearly pay to afford a typical home in the first quarter were Orange County, California, at 68%; Queens, New York, at 65%; Oakland, California, at 59% and Manhattan, New York, also at 59%.
-  
-  Just 21% of the counties in the report were more affordable than historical norms, down considerably from 62% a year ago.
-  
-  How much house can I afford?
-  
-  Overall, the areas with the best affordability in the first quarter were Decatur, Illinois; Kings County, California; Schuylkill County, Pennsylvania and Peoria, Illinois.
-  
-  To be included in ATTOM’s research data, counties needed to have a population of at least 100,000 and at least 50 single-family home and condo sales in the first quarter of 2022. The report calculated the cost of owning a home by looking at the major expenses for a median-priced home with a 30-year fixed-rate mortgage and a 20% down payment.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb47a7f6de6f9372d5cb9a766964ed9fbd15984bc1d10c8343bda19ca8445d1b
+size 3138

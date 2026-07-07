@@ -1,21 +1,3 @@
-id: cnn_2022_02427
-title: "Facebook-parent Meta to share more details with researchers about political ad targeting"
-date: "2022-05-23"
-section: "Tech"
-url: "https://www.cnn.com/2022/05/23/tech/meta-facebook-political-ad-transparency?cid=external-feeds_iluminar_msn"
-content: |
-  Facebook-parent Meta on Monday said it would soon offer more transparency and information to researchers about how political and social ads are targeted to users on the platform, months before the US midterm elections.
-  
-  Starting later this month, Meta(FB)will provide “detailed targeting information for social issue, electoral or political ads”to “vetted academic researchers” who have registered to be a part of the company’s research-sharing initiative, according to Jeff King, the company’s vice president of business integrity
-  
-  Social media platforms vowed to rein in extremism. Buffalo puts them to the test
-  
-  The effort, dubbed the Facebook Open Research and Transparency project, was created to help qualified academic researchers study social media’s impact on society with measures included to protect users’ privacy, according to the company. Facebook has previouslyfaced criticismfrom inside and outside the company about how highly-targeted political ads risk undermining political discourse.
-  
-  The data provided to researchers will include information such as the interest categories, which can include everything from “environmentalism” to“frequent travelers,”chosen to help target each individual ad.
-  
-  King said that, starting in July, Meta’s publicly-available Ad Library will also include a summary of targeting information for political ads, including location, demographics and interests. For example, the Ad Library could show that over the last 30 days, a page ran 2,000 ads about social issues, elections or politics, and that 40% of its spend on these ads was targeted to “people who live in Pennsylvania” or “people who are interested in politics.”
-  
-  “By making advertiser targeting criteria available for analysis and reporting on ads run about social issues, elections and politics, we hope to help people better understand the practices used to reach potential voters on our technologies,” King wrote.
-  
-  Last year, some researchers at New York Universityaccused Facebook of deplatforming their accountsafter they attempted to study the political ads users see on the social network. The company previously said it took action because NYU’s Ad Observatory project studied political ads using “unauthorized means to access and collect data,” violating Facebook’s terms of service.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e4ab0ed379f215ef451bf5c2738c7d56946882e661c50b6baf89f54d15393ac
+size 2657

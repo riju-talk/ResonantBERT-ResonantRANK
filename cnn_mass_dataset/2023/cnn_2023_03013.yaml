@@ -1,35 +1,3 @@
-id: cnn_2023_03013
-title: "Casino giant MGM expects $100 million hit from hack that led to data breach"
-date: "2023-10-05"
-section: "Business"
-url: "https://www.cnn.com/2023/10/05/business/mgm-100-million-hit-data-breach/index.html"
-content: |
-  MGM Resorts International said on Thursday a cyberattack last month that disrupted its operations would cause a $100 million hit to its third-quarter results, as it works to restore its systems.
-  
-  One of the world’s largest gambling firms, MGM shut down its systems after detecting the attack to contain damage, it said. It expects to also incur less than $10 million as a related one-time cost in the quarter ended on Sept. 30.
-  
-  After the attack last month, customers posted social media images showing slot machines with error messages and queues at hotels in Las Vegas.
-  
-  MGM has declined to comment on whether it was asked for or paid any ransom.
-  
-  The private data of customers who used MGM services before March 2019, including contact information, gender, date of birth and driver’s license numbers, was breached, the company said.
-  
-  Caesars and MGM grapple with hacks as cybersecurity in Vegas is under scrutiny
-  
-  “We also believe a more limited number of Social Security numbers and passport numbers were obtained,” it said.
-  
-  “We have no evidence that the criminal actors have used this data to commit identity theft or account fraud.”
-  
-  Hackers often hold stolen data for ransom and may also leak it to public forums or sell it to other cybercriminals.
-  
-  The MGM data breach, which the FBI is investigating, is a vivid example of how large organizations remain vulnerable to cybercrime.
-  
-  MGM said the hackers did not obtain any customer bank account numbers or payment card information, and that no data from its luxury resort hotel The Cosmopolitan of Las Vegas was breached.
-  
-  “The full scope of the costs and related impacts of this issue has not been determined,” MGM said in a regulatory filing.
-  
-  The company expects the breach will have a negative impact of about $100 million to its adjusted property core profit for its Las Vegas Strip division, and expects total occupancy of 93% this October versus 94% in the same month a year ago.
-  
-  “Virtually all of the Company’s guest-facing systems have been restored,” it said, adding that it expects no impact on its full-year results from the breach.
-  
-  MGM said it is “well-positioned” to have a strong fourth quarter with record results in November, driven mainly by a Formula One racing event slated to take place in Las Vegas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a3d6b0dd1b14cd25799b214991736641993afd4f37ec990fdfba0f518b70990
+size 2610

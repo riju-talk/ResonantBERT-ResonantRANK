@@ -1,31 +1,3 @@
-id: cnn_2022_01828
-title: "Twitter agrees to pay millions in fines after US government alleges privacy violations"
-date: "2022-05-25"
-section: "Tech"
-url: "https://www.cnn.com/2022/05/25/tech/twitter-lawsuit-us-government/index.html"
-content: |
-  Twitter has agreed to pay $150 million in fines after the US government sued the social media company on Wednesday, alleging that it misled consumers about how it protects their personal data.
-  
-  According to thefederal lawsuit, Twitter failed to tell its users for years that it used their contact information to help marketers target their advertising — in violation of a 2011 privacy settlement with the Federal Trade Commission.
-  
-  “This practice affected more than 140 million Twitter users, while boosting Twitter’s primary source of revenue,” FTC Chair Lina Khan said in a statement.
-  
-  Twitter said Wednesday that the use of the personal information for ads was “inadvertent,” and that the incident was first disclosed in 2019.
-  
-  “This issue was addressed as of September 17, 2019, and today we want to reiterate the work we’ll continue to do to protect the privacy and security of the people who use Twitter,” Damien Kieran, Twitter’s chief privacy officer,wrote in a blog post. “Keeping data secure and respecting privacy is something we take extremely seriously, and we have cooperated with the FTC every step of the way. In reaching this settlement, we have paid a $150M USD penalty, and we have aligned with the agency on operational updates and program enhancements to ensure that people’s personal data remains secure and their privacy protected.”
-  
-  Wednesday’s suit, filed by the FTC and the Justice Department in the US District Court for the Northern District of California, marks the latest headache for Twitter amida tumultuous acquisition process by billionaire Elon Muskand a personnel shakeup at the company that has led to multiple senior employees’ departure.
-  
-  In its alleged misconduct, Twitter only ever told users that their phone numbers and email addresses were being used for account security purposes, but failed to mention advertising, according to a copy of the complaint viewed by CNN.
-  
-  Twitter will now label and suppress misinformation surrounding armed conflict and other crises
-  
-  “From at least May 2013 until at least September 2019, Twitter misrepresented to users of its online communication service the extent to which it maintained and protected the security and privacy of their nonpublic contact information,” the complaint said.
-  
-  The complaint also alleges that Twitter’s conduct violates the terms of a 2011settlementstemming from two hacking incidents that resulted in the attackers gaining administrative privileges on the platform. Under the settlement, Twitter was barred from misleading the public about how it protects consumer data. Violations of the agreement can lead to fines.
-  
-  “Twitter’s misrepresentations violate the FTC Act and the 2011 Order, which specifically prohibits the company from making misrepresentations regarding the security of nonpublic consumer information,” the complaint said.
-  
-  In addition to the $150 million penalty, the new proposed agreement between Twitter and the FTC to settle Wednesday’s allegations also bars the company from profiting off of what the FTC described as “deceptively collected data” and to allow for user authentication methods other than phone numbers, such as multi-factor authentication apps. The company will also be required to inform users about its failure to disclose its alleged practice of using contact information for advertising purposes.
-  
-  Wednesday’s settlement must still be approved by the court.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3cbe6c73ba80ea26fe0e99cf005d36c54997c6b57c2bd84595731493e8fc8d4f
+size 3753

@@ -1,33 +1,3 @@
-id: cnn_2025_01879
-title: "Tech and energy giants pour billions to turn Pennsylvania into an AI hub as part of Trump’s tech push"
-date: "2025-07-15"
-section: "Tech"
-url: "https://www.cnn.com/2025/07/15/tech/ai-energy-summit-90-billion-trump-anthropic-meta-google?iid=cnn_buildContentRecirc_end_recirc&recs_exp=up-next-article-end&tenant_id=related.en"
-content: |
-  President Donald Trump on Tuesday announced an investment of more than $90 billion from private companies across tech, energy and finance to turn Pennsylvania into a hub for artificial intelligence — a technology that’s expected to upend everything from the economy to health care and education.
-  
-  The announcement was made during the Pennsylvania Energy and InnovationSummit in Pittsburgh, hosted by Sen.Dave McCormick of Pennsylvania,and is part of a push by the Trump administration to ensure the United States stays ahead of China in the AI race. A key part of that will beto make surethe United Stateshas the energy necessary to power it all, which was the central focus of Tuesday’s event and the billions in funding.
-  
-  The event emphasized a key part of Trump’s vision for the American economy: making as much as possible within US borders, at every stage of a product’s life cycle.
-  
-  “With that historic announcement and the new commitments being made today, we’re building a future where American workers will forge the steel, produce the energy, build the factories and really run a country like, I believe, like this country has never been run before,” Trump said at the event.
-  
-  A swath of high-profile companies, including Anthropic, Blackstone, Brookfield, CoreWeave, Google, Constellation Energy and Meta, are among those making investments as part of the initiative. The push comes as China has been ramping up its energy efforts, particularly inrenewable energysources andcoal.
-  
-  Tech giants are grappling with the demanding energy needs required to power AI applications. Electricity demand from data centers globally is expected to double to around 945 terawatt-hours by 2030, slightly more than the entire electricity consumption of Japan.
-  
-  That’s according toan April reportfrom the International Energy Agency, a body that works with governments and industries to provide data and policy recommendations. Energy provider Dominion Energy has also increased its estimated power needs for the next decade because of surging data center demand, according to a 2024 research note from JPMorgan.
-  
-  Blackstone is investing $25 billion in data center and energy infrastructure in northeast Pennsylvania, while Google inked a 20-year deal with Brookfield to support two hydropower facilities to support the state. Meta is committing $2.5 million toward a partnership program with Carnegie Mellon to support rural Pennsylvania startups.
-  
-  Anthropic is providing $1 million over three years to support a cybersecurity education program for middle and high school students, as well as an additional $1 million for energy research at Carnegie Mellon.
-  
-  During the summit, tech, policy and business leaders raised concerns about what could happen if the United States were to fall behind in AI. Anthropic CEO Dario Amodei, who made headlines in Mayfor his stark warningthat AI could cause a spike in unemployment,said AI could have a major impact on the future of national security, adding that it’s crucial that the US “lock down every piece of the supply chain, from…the chips to the companies building the AI to especially energy.”
-  
-  He said that in a few years, AI models will be like having a “country of geniuses in a data center.”
-  
-  Trump has made AI and investment in American technology a cornerstone of his presidency thus far. He declareda national energy emergencyduring his first day in office and shortly after announced a $500 billion AI infrastructure project calledStargate,which involves a collaboration between OpenAI CEO Sam Altman, SoftBank CEO Masayoshi Son and Oracle Chairman Larry Ellison. He also said he wouldroll back Biden-era AI export restrictionson AI chips.
-  
-  The AI race between the United States and China ratcheted up earlier this year with the arrival of Chinese startupDeepSeek, which made waves with its supposedly cheap-to-train yet powerful R1 AI model.
-  
-  “We’re here today because we believe that America’s destiny is to dominate every industry and be the first in every technology, and that includes being the world’s number one superpower in artificial intelligence,” Trump said. “And we are way ahead of China. I have to say we’re way ahead of China.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:128f270e590c1368a2f20719aeac75cd0d511d14dca379aff3c323e8347b97eb
+size 4658

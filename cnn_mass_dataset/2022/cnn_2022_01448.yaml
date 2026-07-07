@@ -1,31 +1,3 @@
-id: cnn_2022_01448
-title: "Biden signs order to implement EU-US data privacy framework"
-date: "2022-10-07"
-section: "Tech"
-url: "https://www.cnn.com/2022/10/07/tech/biden-eu-data-privacy-order"
-content: |
-  President Joe Biden on Friday signed an executive order to implement a European Union-United States data transfer framework announced in March that adopts new American intelligence gathering privacy safeguards.
-  
-  The deal seeks to end the limbo in which thousands of companies found themselves after Europe’s top court threw out two previous pacts due to concerns about U.S. surveillance.
-  
-  U.S. Commerce Secretary Gina Raimondo told reporters the executive order “is the culmination of our joint effort to restore trust and stability to transatlantic data flows” and “will ensure theprivacy of EU personal data.”
-  
-  The framework addresses the concerns of the Court of Justice of the European Union which struck down the prior EU-U.S. Privacy Shield framework as a valid data transfer mechanism under EU law.
-  
-  The White House said “transatlantic data flows are critical to enabling the $7.1 trillion EU-U.S. economic relationship” and the framework “will restore an important legal basis for transatlanticdata flows.”
-  
-  The White House said Biden’s order bolstered current “privacy and civil liberties safeguards” for U.S. intelligence gathering and created an independent, binding multi-layer redress mechanism for individuals who believe their personal data was illegally collected by U.S. intelligence agencies.
-  
-  EU officials said it would take about six months for this to complete a complex approval process, noting the previous system only had redress to an ombudsperson inside the U.S. administration, which the EU court rejected.
-  
-  Biden’s order adopts new safeguards on the activities of U.S. intelligence gathering, requiring they do only what is necessary and proportionate, and creates a two-step system of redress - first to an intelligence agency watchdog then to a court with independent judges, whose decisions would bind intelligence agencies.
-  
-  Biden and European Commission President Ursula von der Leyen in March said the provisional agreement offered stronger legal protections and addressed the EU court’s concerns.
-  
-  Raimondo on Friday will transmit a series of letters to the EU from U.S. agencies “outlining the operation and enforcement of the EU-U.S. data privacy framework” that “will form the basis for the European Commission’s assessment in a new adequacy decision,” she said.
-  
-  Under the order, the Civil Liberties Protection Officer (CLPO) in the U.S. Office of the Director of National Intelligence will investigate complaints and make decisions.
-  
-  The U.S. Justice Department is establishing a Data Protection Review Court to independently review CLPO’s decisions. Judges with experience in data privacy and national security will be appointed from outside the U.S. government.
-  
-  European privacy activists have threatened to challenge the framework if they did not think it adequately protects privacy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d810f72716c4db4ec21d8db94383edc9a06b92d8c84a6773bded91bdb0ed2e34
+size 3124

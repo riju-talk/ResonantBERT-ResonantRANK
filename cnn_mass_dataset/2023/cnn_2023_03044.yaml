@@ -1,27 +1,3 @@
-id: cnn_2023_03044
-title: "America’s biggest banks are taking on Apple Pay and PayPal"
-date: "2023-01-24"
-section: "Investing"
-url: "https://www.cnn.com/2023/01/24/investing/banks-electronic-wallets"
-content: |
-  America’s largest banks announced plans Tuesday for an electronic wallet that will take aim at Apple Pay and PayPal.
-  
-  The banks are working with Early Warning Services, the company that runs their Zelle electronic payment service. The new electronic wallet, which will operate separately from Zelle, would allow people to make purchases online. Right now, Zelle primarily allows transfers of funds between people who know each other.
-  
-  The digital wallet is an attempt to regain banks’ control of purchases currently being made using Apple Pay and similar services. The new digital wallet is due to launch at an unspecified time later this year.
-  
-  The seven banks that own EWS are among the nation’s largest: JPMorgan Chase(JPM), Bank of America(BAC), Wells Fargo(WFC), Capital One(COF), PNC(PNC), US Bancorp and Truist(TFC).
-  
-  EWS has yet to report results for 2022 but in 2021 it said customers sent $490 billion in payments via Zelle in 2021, up 59% from a year earlier. While that’s more than twice the $230 billion in payments and transferred handled by Venmo in that year, it’s about half the volume handled by PayPal. PayPal Holdings(PYPL), which includes both PayPal and Venmo, had total payment volume of $1.25 trillion in 2021.
-  
-  Apple(AAPL)is also getting more involved in financial services, announcing a pay later service last year, and a partnership with Goldman Sachs(GS)on anApple(AAPL)credit card in 2019.
-  
-  But Zelle has been subject of Congressional criticism forproblems with fraud and incorrect payments. Sen. Elizabeth Warren announced results of an investigation in October which said despite lack of data from most of the banks, fraud claims were on pace to $255 million last year, up from about $90 million in 2020.
-  
-  And Warren’s investigation alleged that the banks were not making customers whole following complaints of fraudulent transactions, with just less than half of “unauthorized” transactions classified by EWS as fraud returned to consumers in 2021 and the first half of 2022.
-  
-  “Zelle is increasingly becoming a tool of bad actors who use the platform to defraud consumers, while the big banks that own Zelle do little to stop them or provide recourse to their consumers,” Warren wrote to EWS and the banks in October.
-  
-  EWS responded that the rate of fraudulent transactions has been falling, not increasing, and that more than 99.9% of transactions go through without any problems. While it responded to Warren that it was changing its liability policies and refunds for customers, Warren responded in December that she had little faith about the changes.
-  
-  “Your proposed policy changes are long overdue: consumers deserve better than EWS’ current approach, which leaves them holding the bag while scammers and fraudsters benefit,” Warren wrote in a letter to the companies in December. “But given the consistent unwillingness of EWS and the big banks that own and operate the platform to cooperate or provide lawmakers and the public with full, complete, and factual information about fraud on Zelle, your announcement gives me little confidence that your company will implement the full scope of changes needed to protect consumers from fraud on Zelle.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:f20014c6944813e99a14d026c267ba07603f648ae9aad7783a4cc28686fbe5ac
+size 3474

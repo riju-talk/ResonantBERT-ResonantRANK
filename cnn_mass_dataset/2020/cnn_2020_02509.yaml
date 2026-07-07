@@ -1,23 +1,3 @@
-id: cnn_2020_02509
-title: "Fact check: Trump falsely claims ‘illegal ballots’ are changing the election"
-date: "2020-11-07"
-section: "Politics"
-url: "https://www.cnn.com/2020/11/07/politics/donald-trump-illegal-ballots-fact-check/index.html"
-content: |
-  In a tweet thread Saturday morning President Donald Trump threw out baseless claims suggesting that “tens of thousands” of illegal ballots are being used to change the results in key states.
-  
-  “Tens of thousands of votes were illegally received after 8 P.M. on Tuesday, Election Day,” the Presidenttweeted, further claiming these votes are “totally and easily changing the results in Pennsylvania and certain other razor thin states.”
-  
-  Twitter quickly tagged Trump’s tweet telling users that the post might be misleading. Users have to click through the warning in order to read Trump’s tweet.
-  
-  Facts First:Trump’s tweet is wrong. Votes received after 8 pm on Election Day, in the form of mail-in ballots, are not “illegal.” In total, 22 states, plus the District of Columbia, count all ballots that are postmarked on or before November 3, even if they are received after Election Day. The deadlines vary from state to state.
-  
-  In Pennsylvania specifically – one of the key states for both parties and a target of many false allegations of fraud – ballots received up until November 6 can still be legally counted as long as they’re postmarked on or before November 3.
-  
-  However, those ballots were separated and not every county in Pennsylvania has included these late-arriving ballots in their current totals.
-  
-  Republicans have asked the US Supreme Court to intervene in Pennsylvania and stop ballots that arrived after 8pm on Election Day through 5pm Friday from being counted in final voting totals.
-  
-  Pennsylvania Secretary of State Kathy Boockvar, a Democrat,toldCNN’s Jake Tapper Thursday there were only a small number of those late-arriving ballots, and they would not be nearly enough to sway the election.
-  
-  Pennsylvania’s Lieutenant Governor John Fetterman threw cold water on several Republican lawsuits that the Trump campaign legal team is currently pursuing in Pennsylvania, saying “there is no evidence of any fraud occurring in Pennsylvania,” during an interview with CNN’s Alisyn Camerota.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b75b213c8606ef7c9eb4bc1d9a73c28bdf244a772edfc5970a91791231b2413
+size 2333

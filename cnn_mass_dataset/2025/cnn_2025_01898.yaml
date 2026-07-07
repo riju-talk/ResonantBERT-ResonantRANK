@@ -1,35 +1,3 @@
-id: cnn_2025_01898
-title: "Tesla finally began a limited version of long-promised robotaxi service. But there were some bumps"
-date: "2025-06-23"
-section: "Business"
-url: "https://www.cnn.com/2025/06/23/business/tesla-robotaxi-service-austin"
-content: |
-  Tesla’s much-publicized robotaxi service began this weekend — but only in one neighborhood in Austin, Texas, only for a select group of the company’s fans and only with a Tesla employee in the front passenger seat.
-  
-  It was a far more modest rollout for robotaxis than Tesla CEO Elon Musk had promised. While other companies have already achieved and surpassed this initial test, Tesla fans still cheered the unassuming launch as a game-changing first step.
-  
-  Musk has promised since 2019 that Tesla was on the verge of providing a wide-ranging ride-hailing service that would change the basic way riders get around, including the promise that Tesla owners would profit from renting their cars to the service. Last fall, Musk debuted a prototype for a “Cybercab” without a steering wheel or pedals, and he said the service would greatly change the financial outlook for Tesla, making it the most valuable company on the planet.
-  
-  But the start of the Tesla service Sunday was only a fraction of any of that. A small number of company-owned cars were used and they were existing Model Y vehicles — notCybercabs,which are not yet allowed on roads, let alone produced on a mass scale. It was not even the most extensive robotaxi service in Austin — a joint effort between Uber and Waymo, the self-driving car unit of Google parent Alphabet, has been up and running inAustin since March.
-  
-  But the Austin test pressed on regardless.
-  
-  The rides were made available to a select group of Tesla fans, according to Dan Ives, a tech analyst with Wedbush Securities and an effusive Tesla bull, and Joey Klender, who writes for the site Teslarati.com. Klender and a member of Ives’ team took multiple rides in a Tesla Model Yrobotaxi on Sunday.
-  
-  Ives’ note to clients, which cited how a Tesla “safety monitor” sat in the front passenger seat while no person was in the driver’s seat, praised the quality of the rides taken by his team member.
-  
-  “We took a route through a park with dirt roads and traffic cones, yet the car was able to navigate perfectly and picked us up right at our exact location,” Ives said in the note. “To really put it into perspective, there was a moment where we drove up a narrow road going up a hill with cars parked on both sides with oncoming traffic and people opening their car doors into the road and the Robotaxi masterfully maneuvered.”
-  
-  But it was not all smooth sailing, with multiple videos showing the car making mistakes. In oneYouTube video, the robotaxi drove on the wrong side of the road after it attempted and abandoned a left turn, only to continue traveling down the street on the opposite side of a double yellow linebefore making the left turn on the following block. Fortunately, there were no vehicles driving on the other side of the road.
-  
-  A separateYouTuberposted a video in which the robotaxi kept driving past its destination for several minutes as he tried to get it to pull over so he could get out.
-  
-  “Please exit safely,” a screen in the rear seat of the car said, as it continued driving down the road.
-  
-  All the rides on Sunday, no matter the distance, cost $4.20, a favorite number of Musk based on its association with marijuana.
-  
-  Musk reposted tweets on X from others who took rides on the initial day of service. Unsurprisingly, all the posts were positive. Musk and his fans have insisted the service will rapidly be expanded to other cities and will dramatically change the financial performance of Tesla.
-  
-  But the EV maker is playing a game of catch up. Waymo, a unit of Google parent Alphabet, has been providing paid rides since 2020, andnow providesmore than 250,000 rides a week to paying riders in Austin, Phoenix, Los Angeles and San Francisco. It soon plans to expand the service to Atlanta, Miami and Washington, DC.
-  
-  General Motorspulled the plug on its own self-driving car hailing service in December, citing the “considerable” resources needed and “an increasingly competitive robotaxi market.” It also had anaccidentin which one of its robotaxis in San Francisco hit a pedestrian and dragged the woman along the road for 20 feet. The woman had already been hit by a human-driven car before she was struck by GM’s robotaxi. California authorities ordered the company to halt its operations in the state as a result.
+version https://git-lfs.github.com/spec/v1
+oid sha256:359c04ab9229d64e2b53f0a0fec09eeabe11cad0c33e0d92f21a20cd802fef64
+size 4636

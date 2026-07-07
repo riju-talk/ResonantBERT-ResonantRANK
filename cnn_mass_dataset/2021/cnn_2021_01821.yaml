@@ -1,35 +1,3 @@
-id: cnn_2021_01821
-title: "Ohio Attorney General sues Meta over revelations from the ‘Facebook Papers’"
-date: "2021-11-15"
-section: "Tech"
-url: "https://www.cnn.com/2021/11/15/tech/meta-facebook-ohio-lawsuit/index.html"
-content: |
-  Ohio Attorney General Dave Yost on Mondayannouncedthat he is suing Meta, the social media giant formerly known as Facebook, based on revelations fromwhistleblower Frances Haugenandthe trove of internal company documentsshe leaked.
-  
-  The securities lawsuit, filed on behalf of the Ohio Public Employees Retirement System and other investors, alleges that the company misled the public about its algorithm and the harms the company’s own research showed its apps can cause to users. It claims that Facebook(FB)-turned-Meta executives violated securities law by making false statements about the “safety, security and privacy of its platforms” in order to boost its stock. Meta shares have fallen around 7% since reporting on Haugen’s claims and the internal documents began two months ago, harming investors to the tune of more than $100 billion, according to the lawsuit.
-  
-  “[Meta] repeatedly misrepresented to investors and the public that use of Facebook’s products does not harm children, that the Company takes aggressive and effective measures to stop the spread of harmful content, and that Facebook applies its standards of behavior equally to all users,” thelawsuitalleges.
-  
-  “Facebook investors recently learned the truth when former Facebook employee turned whistleblower, Frances Haugen, came forward with internal documents showing that Defendants were aware that Facebook’s platforms facilitate dissention, illegal activity, and violent extremism, and cause significant harm to users,” the complaint states. It lists the company, as well as CEO Mark Zuckerberg, CFO David Wehner and vice president of global affairs Nick Clegg as defendants.
-  
-  “This suit is without merit and we will defend ourselves vigorously,” Meta spokesperson Andy Stone said in a statement to CNN Business Monday.
-  
-  Facebook-parent Meta will remove the ability to target ads based on sensitive categories
-  
-  The Wall Street Journal in September began publishing a series called the “Facebook Files” based on the internal documents, which raised concerns about Instagram’s effects on teen girls, among other issues. The reporting prompted a Senate subcommittee hearing with Facebook head of global safety Antigone Davis. Haugen then testified before the Senate subcommittee, during which she said she believes that “Facebook’s products harm children, stoke division, and weaken our democracy.”
-  
-  The internal documents, which have come to be known as the “Facebook Papers,” were provided by Haugen to the Securities and Exchange Commission and lawmakers. A consortium of news organizations, including CNN, reviewed the redacted versions received by Congress. The documents provide the deepest look yet at many of Meta’s biggest problems, including with its approach to combating hate speech and misinformation, managing international growth and protecting younger users on its platform.
-  
-  Last month, another former Facebook employeeanonymously filed a complaint against the companyto the SEC, with allegations similar to Haugen’s.
-  
-  The Ohio lawsuit, which was filed Friday, alleges that “these disclosures erased more than $100 billion in shareholder value and subjected Facebook to immense reputational harm.”
-  
-  Meta has repeatedly refuted Haugen’s claims and said the documents misrepresent the company’s research and its actions.
-  
-  “At the heart of these stories is a premise which is false,” a Facebook spokesperson said in a statement to CNN about the Facebook Papers last month. “Yes, we’re a business and we make profit, but the idea that we do so at the expense of people’s safety or wellbeing misunderstands where our own commercial interests lie.”
-  
-  In the wake of reporting on the Facebook Papers, the company announced it waschanging its name to Meta, a nod to its ambitious plans to build an immersive internet platform called the metaverse. It also madechanges to its ad-targeting practicesandhow it’s using facial-recognition software.
-  
-  Still, members of Congress have since called for Zuckerberg to testify about the documents’ findings.
-  
-  Yost’s office said in a statement Monday that his lawsuit “not only seeks to recover that lost value but also demands that Facebook make significant reforms to ensure it does not mislead the public about its internal practices.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:66f5f4ef2c4ef25aeb273dfb7f48392f798d4043e707ae2f8118a742ced8fb0e
+size 4624

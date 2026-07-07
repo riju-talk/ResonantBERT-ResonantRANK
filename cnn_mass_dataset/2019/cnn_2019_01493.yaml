@@ -1,25 +1,3 @@
-id: cnn_2019_01493
-title: "MoviePass confirms it may have exposed customer credit card numbers"
-date: "2019-08-21"
-section: "Tech"
-url: "https://www.cnn.com/2019/08/21/tech/moviepass-data-breach/index.html"
-content: |
-  MoviePass on Wednesday confirmed a security issue may have exposed customers’ records.
-  
-  In a statement,MoviePasssaid a security lapse was recently discovered and its system was immediately secured. Reports of the data breach first surfaced Tuesday.
-  
-  The breach is believed to affect tens of thousands of customers, according toTechCrunch, which first reported the news. But MoviePass did not confirm the number, stating it is still investigating the scope and will notify affected customers eventually.
-  
-  The breach was discovered by Mossab Hussein, a security researcher at SpiderSilk, a cybersecurity firm in Dubai, the report said. Hussein confirmed to CNN Business the database he found contained millions of entries, some of which had sensitive data such as MoviePass customer card numbers.
-  
-  The extreme ways people protect themselves from hacks
-  
-  MoviePass customers are issued cards that function like debit cards. Customers pay a monthly subscription fee to watch a maximum of one movie a day. MoviePass loads the full cost of a movie onto their card and the cash balance can then be used to pay for movies at theaters.
-  
-  In 2017,MoviePasschanged its business model to offer a plan with a monthly price of $9.95, which entitled customers to watch one movie a day. It surged in popularity, but it was forced to briefly stop running when it ran out of money. It has since resumed service but has continued toface challenges.
-  
-  Hussein told CNN Business that when the data was discovered, he emailed MoviePass CEO Mitch Lowe to report it. When he didn’t hear back after a few days, Hussein reached out to TechCrunch.
-  
-  “We feel the average customer should have the right to know about such incidents ASAP, and as transparently as possible,” Hussein said.
-  
-  MoviePass said it would continue to disclose information about the incident.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8773dd21797f5e6d0bb05c467ba284c7c5d2ee50757244cdcc8a47e093e2fc92
+size 2097

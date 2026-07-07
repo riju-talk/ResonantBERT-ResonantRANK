@@ -1,31 +1,3 @@
-id: cnn_2023_03371
-title: "Tesla recalls almost 3,500 Model Y cars for loose bolts"
-date: "2023-03-04"
-section: "Business"
-url: "https://www.cnn.com/2023/03/04/business/tesla-recall-model-y-bolts"
-content: |
-  Tesla is recalling 3,470 2022-2023 Model Y cars due to bolts in the second-row seat back frames not being secured properly.
-  
-  An estimated 4% of cars are affected, arecall reportsubmitted in late February said.
-  
-  The loose bolts could cause the seat belts to not work properly in a crash, “which may increase the risk of an injury for occupants seated in affected second-row seating positions,” the National Highway Traffic Administration said.
-  
-  On Model Y vehicles, the second-row driver- and passenger-side seat back frames are secured with four bolts per seat back. But during production for certain Model Y cars, one or more of the bolts securing the seat back frames to the lower seat frame “may not have been torqued to specifications.”
-  
-  Tesla recalling nearly 363,000 vehicles equipped with 'Full Self-Driving'
-  
-  Owners can tell if their car is affected by seeing if their second-row seat back frame folds improperly or if it’s loose and rattles when driving.
-  
-  Tesla found five warranty claims regarding the bolts since last December, but is not aware of any injuries or deaths due to it.
-  
-  A driver in Fremont, California, found a faulty seat back bolt last December, triggering a Tesla investigation and risk assessment which ended February 17. A recall determination was made on the same day.
-  
-  Tesla will inspect the bolts and tighten them if necessary for free of charge, and owner notification letters will be mailed.
-  
-  The recall was filed the same month Tesla recalledall 363,000 US vehicles with the “Full Self Driving” driver assist softwaredue to safety risks, a significantly larger recall, which was a blow to the automaker’s business model.
-  
-  The NHTSA said, based on its analysis, Tesla’s “Full Self Driving” feature “led to an unreasonable risk to motor vehicle safety based on insufficient adherence to traffic safety laws.” And it warned the feature could violate traffic laws at some intersections “before some drivers may intervene.”
-  
-  “The FSD Beta system may allow the vehicle to act unsafe around intersections, such as traveling straight through an intersection while in a turn-only lane, entering a stop sign-controlled intersection without coming to a complete stop, or proceeding into an intersection during a steady yellow traffic signal without due caution,” said the recall notice, posted on NHTSA’s website.
-  
-  Tesla will attempt to fix the feature, which costs $15,000, through an over-the-air software update, the notice added.
+version https://git-lfs.github.com/spec/v1
+oid sha256:06ea69c7a23af75c83e3667d715d67e1afee0409ab4f386fd919e53dc0960027
+size 2752

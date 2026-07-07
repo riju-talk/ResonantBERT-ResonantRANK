@@ -1,31 +1,3 @@
-id: cnn_2022_01586
-title: "AT&T, Verizon delay launching 5G near some airports after airlines ask Biden to intervene"
-date: "2022-01-18"
-section: "Tech"
-url: "https://www.cnn.com/2022/01/18/tech/airplane-5g-att/index.html"
-content: |
-  AT&T and Verizon announced Tuesday that they would delay activating 5G on some towers around certain airports. The wireless technology’s rollout near major airports had beenscheduled for Wednesday, but airlines warned ofdire consequencesfor transportation and the economy.
-  
-  AT&T made the announcement as it works with the aviation industry and the US Federal Aviation Administration for further information, according to a statement from AT&T spokesperson Megan Ketterer.
-  
-  “We are frustrated by the FAA’s inability to do what nearly 40 countries have done, which is to safely deploy 5G technology without disrupting aviation services, and we urge it do so in a timely manner,” the spokeswoman said.
-  
-  “As the nation’s leading wireless provider, we have voluntarily decided to limit our 5G network around airports,” Verizon said in a separate statement. “The Federal Aviation Administration (FAA) and our nation’s airlines have not been able to fully resolve navigating 5G around airports, despite it being safe and fully operational in more than 40 other countries.”
-  
-  AT&T(T), which owns CNN’s parent company, and Verizon will continue to launch advanced 5G services everywhere else as planned.
-  
-  The Biden administration said earlier Tuesday it was “actively engaged” in finding a solution to Wednesday’splanned 5G rolloutthat airlines say cause safety problems that will lead to major flight delays.
-  
-  A White House official tells CNN that the administration is talking with the FAA, Federal Communications Commission, wireless carriers, airlines and aircraft equipment manufacturers to find a solution that still allows the rollout without sacrificing the safety of flights.
-  
-  Airlines ask Biden administration for 'immediate intervention' on 5G
-  
-  In a Tuesday letter, CEOs from 10 airlines told the Biden administration to push back the already-delayed rollout. Airlines estimate 1,000 flight disruptions per day because of possible interference with radar altimeters that pilots use to land in low visibility conditions. The telecom industry has not commented on the letter, but has said fears are unfounded since there have not been problems in other countries where 5G is already deployed.
-  
-  A source familiar with the discussions tells CNN that right now talks are centering on establishing a buffer at key airports, allowing roughly 90% of 5G towers to be deployed. If agreed to, officials predict the cancellations could be avoided and impacts to the traveling public – while not eliminated – would be reduced.
-  
-  American Airlines chief operating officer David Seymour said that 5G poses a serious issue to airline operations, according to a new employee memo shared with CNN on Tuesday.
-  
-  He said the aviation industry and 5G should be able to “coexist” but “that only comes with better understanding of potential impacts.”
-  
-  “Until a long-term technical solution is developed and implemented and as long as 5G is deployed, we anticipate we’ll experience delays, diversions and cancellations that are well beyond our control,” he said, echoing the letter sent to federal officials.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e7eda5649a89436ae8b48a9b11071ff0de5b12898c9b3d034df8e71d2af6194
+size 3414

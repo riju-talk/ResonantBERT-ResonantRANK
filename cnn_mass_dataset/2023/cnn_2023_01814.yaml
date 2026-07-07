@@ -1,23 +1,3 @@
-id: cnn_2023_01814
-title: "VW recalls 140,000 SUVs due to faulty passenger-side airbags, owners told  not to let anyone ride shotgun"
-date: "2023-04-04"
-section: "Business"
-url: "https://www.cnn.com/2023/04/04/business/vw-atlas-recall/index.html"
-content: |
-  Volkswagen is recalling 143,000 of its big Atlas SUVs in the US because a faulty sensor on the front passenger side can switch the airbag system off under certain conditions. Until the issue can be corrected, VW is advising owners to avoid letting people ride in that seat.
-  
-  The problem is “sporadic,” according to documentsVW filed with the National Highway Traffic Safety Administration, which oversees vehicle recalls.
-  
-  Most modern passenger vehicles have weight sensors in the front seat to detect if someone small – like a child – is riding in that seat. Airbags, which inflate forcefully in the event of a crash, can injure small children. If these sensors detect a small person is seated there, the airbag is switched off.
-  
-  But faulty sensors in some Atlas SUVs can cause the so-called “passenger occupant detection system” to indicate a system issue and deactivate the airbag. This could leave front seat passengers without the protection of the airbag in the event of a crash.
-  
-  While it’s still unclear what’s causing the problem, VW investigators were able to determine that it was happening in Atlases built during two specific time periods. The vehicles being recalled are all model year 2018 through 2021 Atlas and model year 2020 Atlas Cross Sport SUVs.
-  
-  Volkswagen is unaware of any injuries that might have resulted from the problem, VW spokesman Mark GIllies said.
-  
-  If this problem occurs, a warning light will illuminate inside the vehicle. VW hasn’t determined how to fix the problem yet but, once that’s figured out, repairs will be done free of charge, according to documents VW filed with NHTSA. Owners of recalled Atlas SUVs will be notified by mail.
-  
-  Concerned owners can also call NHTSA’s auto safety hotline at 1-888-327-4236.
-  
-  The Atlas, a seven-seat SUV that was designed specifically for the US market, is built at VW’s Chattanooga, Tennessee, factory.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a09e2b6966b32f64c86a266f82725d3f271ef3cdbb62cc24a437cc131ef3754d
+size 2198

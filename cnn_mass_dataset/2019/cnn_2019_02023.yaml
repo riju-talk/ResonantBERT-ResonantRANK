@@ -1,21 +1,3 @@
-id: cnn_2019_02023
-title: "A rogue trader’s oil bets cost his employer $320 million"
-date: "2019-09-20"
-section: "Business"
-url: "https://www.cnn.com/2019/09/20/business/mitsubishi-rogue-trader-oil-loss/index.html"
-content: |
-  A rogue trader in Singapore cost Japan’s Mitsubishi at least $320 million when unauthorized bets on the oil market went wrong.
-  
-  Mitsubishi Corp.(MSBHY)reported the losson Friday. In a statement, the company said the employee had been hired by one of its subsidiaries, Petro-Diamond Singapore (PDS), to overseeoil trade with China.
-  
-  The employee made a series of unauthorized trades starting in January this year, manipulating risk management systems to make the transactions look legitimate, the company said. But the losses on those trades piled up aftercrude oil prices started falling sharply in July.
-  
-  Mitsubishi said it discovered the rogue transactions in August, while the employee was absent from work. The Japanese companysaid that lossesfrom the transactions could rise further.
-  
-  “Although PDS has already closed the position in question and determined how much was lost on the underlying derivatives, we are now examining the total amount of losses,” it said.
-  
-  The amount lost by Mitsubishi’s rogue trader pales in comparison to other infamous cases such asJerome Kerviel, who cost French bank Societe Generale(SCGLF)over $6 billion in the early 2000s, andNick Leeson, another Singapore-based trader who lost $1.3 billion on trades that brought down UK bank Barings.
-  
-  Mitsubishi said it jumped into action soon after discovering the losses, bringing in an outside lawyer and setting up an investigating team.
-  
-  PDS fired the employee two days ago and lodged a complaint with police on Thursday, Mitsubishi said in its statement.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e02584f6c99b3686a52c53372969fc41903ef79604952479b522f1da6ca8335
+size 1805

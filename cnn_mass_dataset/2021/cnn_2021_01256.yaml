@@ -1,29 +1,3 @@
-id: cnn_2021_01256
-title: "Supreme Court takes up state secrets dispute involving Guantanamo detainee"
-date: "2021-04-26"
-section: "Politics"
-url: "https://www.cnn.com/2021/04/26/politics/supreme-court-guantanamo-bay-case/index.html"
-content: |
-  The Supreme Courtagreed on Mondayto take up a case concerning Abu Zubaydah, an associate of Osama bin Laden, who is currently housed in Guantanamo Bay and whose lawyers are attempting to obtain classified information from former CIA contractors concerning his detention abroad.
-  
-  The 9th US Circuit Court of Appeals had rejected the US government’s assertion of the state-secrets privilege over some of the information in the case, overruling the judgment of then-CIA Director Mike Pompeo regarding the potential harm to national security. The appeals court sent the case back down to the district court to examine material that may not have been privileged.
-  
-  Afghanistan: Why the US is there, why it's leaving, what will happen when it's gone
-  
-  Zubaydah was initially captured in Pakistan in March 2002 and detained in CIA detention facilities abroad in the wake of 9/11. His lawyers are now seeking to compel discovery via subpoena from two CIA contractors (James Elmer Mitchell and John Bruce Jessen) who worked on the CIA program. Zubaydah wants the evidence for use in criminal proceedings in Poland that would confirm whether the CIA operated a detention facility in Poland in the early 2000 and used interrogation techniques.
-  
-  Zubaydah seeks to hold Polish officials accountable for their complicity in unlawful detention and torture in a CIA facility in Stare Kiejkuty, Poland.
-  
-  In court papers, the Justice Department told the court that the US has declassified a significant amount of information regarding the CIA program including the fact that enhanced interrogation techniques were used against Zubaydah. But other information including the identities of foreign intelligence partners and the location of detention facilities have remained secret.
-  
-  A report released by the Senate Select Committee on Intelligence in 2014, found that Zubaydah experienced at least 83 applications of the waterboard technique, spent over 11 days in a coffin-size confinement box and was subjected to other interrogation methods such as facial holds, stress positions and sleep deprivation.
-  
-  “The question in this case is whether the two contractors behind the CIA program can be compelled to give evidence as part of judicial proceedings in Poland,” said Steve Vladeck, CNN Supreme Court analyst and professor at the University of Texas School of Law. “The trial court said no, relying on the state secrets privilege and the extent to which the information to which those contractors would presumably testify remains classified today. The Court of Appeals reversed, ordering the trial court to take a more nuanced approach to individual pieces of evidence.”
-  
-  Supreme Court agrees to take up major Second Amendment case
-  
-  Vladeck added, “That the Supreme Court is stepping in now, as opposed to waiting for those proceedings to play out, probably augurs in favor of the government’s attempt to block this testimony – across both the Trump and Biden administrations.”
-  
-  Joseph Margulies, a lawyer for Zubaydah, told the justices that the Senate report determined that Zubaydah was not a member of al Qaeda. He urged the justices not to step in at this juncture because the court of appeals “emphatically did not order the disclosure of classified or privileged information,” instead it sent the case back down to the district court to determine whether “non-privileged information is inextricably intertwined with privileged matter.”
-  
-  This story has been updated with additional information.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba7807a6cc74bd4880041708541dcfcb6684bd658002c3b9b339d61366f1227e
+size 3799

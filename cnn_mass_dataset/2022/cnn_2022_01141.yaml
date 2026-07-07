@@ -1,27 +1,3 @@
-id: cnn_2022_01141
-title: "Amazon may face criminal liability for lying to Congress, House lawmakers allege"
-date: "2022-03-09"
-section: "Tech"
-url: "https://www.cnn.com/2022/03/09/tech/amazon-house-panel-justice-department/index.html"
-content: |
-  House lawmakers who spent much of 2019 and 2020 probing Amazon for possible antitrust violations now accuse the tech giant of lying to Congress and want the Justice Department to investigate “potentially criminal conduct” from the company and some of its executives.
-  
-  In a letter to Attorney General Merrick Garland dated March 9, members of the House Judiciary Committee say “Amazon lied through a senior executive’s sworn testimony” about how the company had used the data it collects from third-party sellers. The lawmakers further allege the company “engaged in a pattern and practice of misleading conduct,” which may have been an attempt “to influence, obstruct, or impede” the House committee’s investigation.
-  
-  Theletterthreatens to focus even greater scrutiny on Amazon(AMZN)as it seeks antitrust approval for its acquisition of MGM, and as lawmakers continue to weigh a raft of bills targeting competition in digital markets. And it suggests Amazon(AMZN)may face more legal troubles ahead beyond those directly related to its business practices.
-  
-  In 2020, the Judiciary Committee antitrust panel published alandmark reportsummarizing the results of its investigation into Big Tech, finding that Amazon, Apple(AAPL), Facebook(FB)and Google(GOOG)enjoy “monopoly power” and dominate their respective parts of the industry, thanks in part to their control of data.
-  
-  How Mark Zuckerberg is trying to reduce his exposure to public scrutiny
-  
-  The lawmakers’ concerns outlined Wednesday zero in on claims Amazon made during that investigation that the company does not use data from third-party sellers to determine how to introduce its own competing products that threaten those sellers’ businesses.
-  
-  Amazon further “attempted to cover up its lie by offering ever-shifting explanations” about how it used seller data, according to the letter, which was signed by Reps. Jerry Nadler and Ken Buck, the committee’s top Democrat and Republican, as well as leading members of the panel’s antitrust subcommittee. After being “caught in a lie,” the lawmakers wrote, Amazon tried to draw “misleading” distinctions about how its policy prohibited the use of individual sellers’ data while still allowing Amazon to use seller data in the aggregate.
-  
-  Wednesday’s letter added that despite that explanation, the investigation found evidence showing that Amazon allegedly turned a blind eye to repeated violations of the policy, a finding that also dovetailed with public reporting by the Wall Street Journal and others.
-  
-  In a statement provided to CNN Business, an Amazon spokesperson said: “There’s no factual basis for this, as demonstrated in the huge volume of information we’ve provided over several years of good faith cooperation with this investigation.”
-  
-  During a hearing in July 2020, Amazon CEO Jeff Bezos was confronted by lawmakers about Amazon’s use of data. He admitted that while Amazon has “a policy against using seller-specific data to aid our private label business … I can’t guarantee you that policy has never been violated.”
-  
-  But although Bezos and other company officials tried to paint any violations of the policy as the result of rogue employee action, “multiple, credible reports offered specific evidence that Amazon employees regularly violated the Seller Data Protection Policy, and senior officials knew about this practice,” the letter said. “Amazon offered little more than a declaration that it was ‘satisfied’ that Amazon takes its policy seriously.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:db379f999bdb083aa7713599cd6452953e77f33eb016d5879fd871be9ee43aa8
+size 3843

@@ -1,29 +1,3 @@
-id: cnn_2024_01435
-title: "Hacked health care giant makes progress in recovery, but concerns for small clinics remain"
-date: "2024-03-18"
-section: "Tech"
-url: "https://www.cnn.com/2024/03/18/tech/health-insurance-billing-system-cyberattack/index.html"
-content: |
-  The health insurance billing system in the United States is stabilizing following an unprecedented cyberattack on a key company last month, but smaller health clinics may still need help to ensure they can stay in business, senior Biden administration officials said Monday after meeting with health care executives.
-  
-  Ninety-five percent of Change Healthcare’s health insurance claims are now being processed, the insurance billing firm that has been roiled by the Feb. 21 hack, a senior administration official told reporters in an update on the federal response to the hack.
-  
-  “[O]ur real focus is making sure we don’t get to the point where there are issues with access to care,” the official said in a press call conducted on background, meaning reporters cannot cite officials by name. “And the way to do that is make sure you keep liquidity in the system.”
-  
-  “We are still hearing from small rural safety net providers who need cash assistance,” another senior official said.
-  
-  The cyberattack forced Change Healthcare, a subsidiary of UnitedHealthGroup, to take computer systems that handle electronic payments and insurance claims offline in what the American Hospital Association (AHA) has called the most significant cyberattack in US health care history. Change Healthcare says it handles one in every three patient records in the US.
-  
-  Change Healthcare restored its electronic payments platform on March 15 and “is proceeding with payer implementations,” UnitedHealthGroup said in astatementon Monday. The statement indicated 99% of the company’s pharmacy network services are back online and the company is working on the rest.
-  
-  Change Healthcare will release “medical claims preparation software” to thousands of customers over the next several days, the parent firm said, touting an “important step in the resumption of services.”
-  
-  But the full financial impact of the hack is still unknown. US officials told reporters they don’t have that data.
-  
-  “Billions of dollars” stopped flowing to health care providers because of the hack, according to AHA, which represents thousands of hospitals across the country.
-  
-  The fallout has been acute for people trying to get their prescriptions and for doctors trying to run their health practices. CNN interviewed awoman in Coloradowho paid $1,600 out of pocket, at least temporarily, for Paxlovid because her insurance couldn’t be billed, and the chief financial officer of a cancer-treatment clinic in Oregon whoworriedshe would be forced to close her doors.
-  
-  Inmeetingsover the last week, senior White House and Department of Health and Human Services (HHS) officials have urged UnitedHealthGroup executives and those from other health care firms to be clear about what forms of financing are available to health providers during the disruption.
-  
-  The unprecedented pressure on a hacked US health care firm won’t go away with the restoration of billing services. HHS hasopened an investigationinto whether Change Healthcare has complied with federal law to protect patient data.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0d4e322fc90f2399e76b29c7a446dbc1c94c2fe375e26ad30c391c10ee3ed2d
+size 3381

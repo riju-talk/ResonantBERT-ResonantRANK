@@ -1,27 +1,3 @@
-id: cnn_2022_02393
-title: "Columbus Day and Indigenous People’s Day 2022: Here’s what’s open and closed"
-date: "2022-10-09"
-section: "Business"
-url: "https://www.cnn.com/2022/10/09/business/columbus-day-open-closed?query=query%28%24symbols%3A%20%5BString%5D%29%20%7B%0A%20%20marketIndexes%28symbols%3A%20%24symbols%29%20%7B%0A%20%20%20%20indexes%20%7B%0A%20%20%20%20%20%20symbol%0A%20%20%20%20%20%20index_displayName%0A%20%20%20%20%20%20inSession%0A%20%20%20%20%20%20streamId%3A%20streamSymbol%0A%20%20%20%20%20%20change%0A%20%20%20%20%20%20level%0A%20%20%20%20%20%20changePct%0A%20%20%20%20%20%20link%0A%20%20%20%20%20%20__typename%0A%20%20%20%20%7D%0A%20%20%20%20__typename%0A%20%20%7D%0A%7D%0A&variables=%7B%22symbols%22%3A%5B%22INDU%22%2C%22INX%22%2C%22COMP.IDX%22%5D%7D"
-content: |
-  Columbus Day, and now Indigenous People’s Day, will beobserved on Monday, October 10 this year, and while some will have the day off from work or school, others may wonder what errands they can run or what movies to see.
-  
-  The federal holiday is always celebrated the second Monday of October.
-  
-  President Joe Biden formally recognized Indigenous People’s Day last year by signing aproclamationstating that Federal policies “systematically sought to assimilate and displace Native people and eradicate Native cultures.”
-  
-  Some states officially celebrateIndigenous People’s Dayand others commemorate it through proclamations. And as of 2021, more than 130 cities replaced Columbus Day with Indigenous People’s Day.
-  
-  Here’s what’s open and closed Monday.
-  
-  Though many banks will be closed, some  – notably TD Bank – will remain open. The nation’s two largest banks,Bank of America and JPMorgan Chase will not be open on Monday.
-  
-  The New York Stock Exchange and Nasdaq will be operating. Federal Reserve Banks will be closed.
-  
-  The United States Postal Service will be closed and will not deliver mail or packages.
-  
-  However, all FedEx services will be operating, including Express and Ground shipping. UPS also will be open as usual.
-  
-  Major retailers and grocers will be open tomorrow, including Walmart, Target and other major chains. Make sure to check with local retailers to see if they will be observing the holiday.
-  
-  Government buildings will be closed on Monday because of thefederal holiday, including the DMV, libraries and government offices.
+version https://git-lfs.github.com/spec/v1
+oid sha256:274ad2459255079943b582c168ffed96ce6865c6315b59e0b4e1618dc58e5a27
+size 2404

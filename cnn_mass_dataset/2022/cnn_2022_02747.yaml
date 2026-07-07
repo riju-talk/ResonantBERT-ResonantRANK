@@ -1,31 +1,3 @@
-id: cnn_2022_02747
-title: "Japan intervenes to prop up the yen for first time in 24 years"
-date: "2022-09-22"
-section: "Investing"
-url: "https://www.cnn.com/2022/09/22/investing/japan-yen-intervention?query=query%28%24symbols%3A%20%5BString%5D%29%20%7B%0A%20%20marketIndexes%28symbols%3A%20%24symbols%29%20%7B%0A%20%20%20%20indexes%20%7B%0A%20%20%20%20%20%20symbol%0A%20%20%20%20%20%20index_displayName%0A%20%20%20%20%20%20inSession%0A%20%20%20%20%20%20streamId%3A%20streamSymbol%0A%20%20%20%20%20%20change%0A%20%20%20%20%20%20level%0A%20%20%20%20%20%20changePct%0A%20%20%20%20%20%20link%0A%20%20%20%20%20%20__typename%0A%20%20%20%20%7D%0A%20%20%20%20__typename%0A%20%20%7D%0A%7D%0A&variables=%7B%22symbols%22%3A%5B%22INDU%22%2C%22INX%22%2C%22COMP.IDX%22%5D%7D"
-content: |
-  Japan tried to shore up the value of its currency Thursday by buying yen and selling US dollars for the first time in 24 years.
-  
-  The yen had earlier plunged to its lowest level since 1998 after theFederal Reserve hiked interest rates aggressivelywhile the Bank of Japan kept its rates in negative territory in a bid to boost its fragile economic recovery. The currency has lost about 20% this year against asurging US dollar.
-  
-  “In the current foreign exchange market, we are seeing rapid and one-sided movements against the backdrop of speculative activities,” Japan’s vice finance minister for international affairs Masato Kanda told reporters on Thursday.
-  
-  “The government is concerned about these excessive fluctuations and has just taken decisive action,” he added.
-  
-  Thursday’s decision marks the first time since 1998 that the Japanese government intervened in the foreign exchange market by buying yen.
-  
-  Earlier Thursday, the Bank of Japan announced that it would maintain its ultra-loose monetary policy, reinforcing its outlier status among G7 nations that are raising interest rates to tame inflation.
-  
-  The central bank held interest rates at minus 0.1%, just hours after the Fed made history with its third straight three-quarter percentage point rate hike, taking benchmark US rates up to between 3% and 3.25%.
-  
-  That initially sent the yen plunging to 145 to the US dollar. Those losses were reversed following news of the intervention, however, and the yen was last trading at around 141, up 2%.
-  
-  Bank of England hikes interest rates by half a point for second straight month
-  
-  Finance Minister Shunichi Suzuki told reporters at a press conference that the currency intervention had some effect and that Japan would not accept excess volatility in the market.
-  
-  But he declined to comment on whether the intervention was conducted with US support, saying only that Japan was in “regular contact with countries concerned.”
-  
-  Japan was believed to have been selling dollar-denominated assets it holds, such as US Treasuries, Japanese news agency Kyodo reported.
-  
-  Japan last intervened to support its currency during the Asian financial crisis in 1998. But it had intervened more recently — in November 2011 — to prevent the yen appreciating too rapidly against the dollar, public broadcaster NHK reported.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0fc0d193c031873abaf168dfe6dec74e69c293e179bc3fc6dd0542606586f67d
+size 3156

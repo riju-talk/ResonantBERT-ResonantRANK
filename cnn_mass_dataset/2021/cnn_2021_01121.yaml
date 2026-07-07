@@ -1,25 +1,3 @@
-id: cnn_2021_01121
-title: "FTC charges Broadcom with monopolizing chip industry"
-date: "2021-07-02"
-section: "Tech"
-url: "https://www.cnn.com/2021/07/02/tech/ftc-broadcom/index.html"
-content: |
-  The Federal Trade Commission said Friday it hassued and settledwith the technology giant Broadcom over allegations that the company sought to monopolize the supply of semiconductor chips.
-  
-  According to the complaint, Broadcom(AVGO)entered into exclusive anti-competitive deals with its business customers — including television and internet service providers such as Charter, Comcast and Verizon — that forbade them from purchasing chips from other vendors. (The ISPs did not immediately respond to a request for comment.) Broadcom(AVGO)also allegedly sought to link sales of its chips with other related products such as WiFi and signal converter chips, requiring customers to purchase both.
-  
-  Broadcom’s alleged misconduct affected the distribution ofvideo set-top boxes and internet modems, and harmed competition, the FTC said.
-  
-  Under the settlement, which must still be approved by a court, Broadcom will refrain from engaging in those types of business deals. And, according to an agency release, “the proposed order prohibits Broadcom from retaliating against customers for doing business with Broadcom’s competitors.”
-  
-  Last year, Broadcom and the European Unionreached a settlementover similar allegations.
-  
-  The FTC just took a step that could make it easier to go after Amazon
-  
-  “We are pleased to move toward resolving this Broadband matter with the FTC on terms that are substantially similar to our previous settlement with the [European Commission] involving the same products,” the company said in a statement. “While we disagree that our actions violated the law and disagree with the FTC’s characterizations of our business, we look forward to putting this matter behind us and continuing to focus on supporting our customers through an environment of accelerated digital transformation.”
-  
-  Broadcom’s proposed agreement with the FTC comes amid aglobal chip shortage, exacerbated by the pandemic, that has affected a wide range of industries including the computing and automotive sectors.
-  
-  The settlement comes a day after the FTC, led by its new chair Lina Khan, voted to pursue anticompetitive behavior more aggressively and to focus more intensively on key sectors of the economy including the technology and health care industries.
-  
-  The FTC voted unanimously to sue and settle the Broadcomcase. Khan did not participate in the vote.
+version https://git-lfs.github.com/spec/v1
+oid sha256:95e3de43c8d55e792d77378f5fd2747922417795981f74e69e47ec69e86f73e8
+size 2607

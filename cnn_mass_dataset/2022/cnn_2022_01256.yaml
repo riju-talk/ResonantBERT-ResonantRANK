@@ -1,35 +1,3 @@
-id: cnn_2022_01256
-title: "New Biden administration rules give pipeline operators more flexibility to combat cyber threats"
-date: "2022-07-22"
-section: "Politics"
-url: "https://www.cnn.com/2022/07/22/politics/biden-tsa-pipelines-cybersecurity?cid=external-feeds_iluminar_msn"
-content: |
-  The Biden administration on Thursday issued updated cybersecurity requirements for big US pipeline operators that give them more flexibility over what cyber defensive measures they can take following amajor ransomware attacklast year.
-  
-  The Transportation Security Administration directive – a revision to requirements enacted in the wake of the cyberattack on a major US pipeline operator which were criticized as onerous and impractical by the oil and gas industry – focuses on achieving key cybersecurity outcomes rather than dictating to pipelines how to achieve them.
-  
-  The updated directive, for example, requires certain pipeline operators to maintain security controls that would allow industrial equipment to keep operating if IT systems were hacked. Pipeline operators are also required to have an incident response plan outlining how they would recover from a major cyberattack.
-  
-  “Our goal was to improve the standards to make it even more secure going forward because this threat is very real [and] has significant impacts across the country,” TSA Administrator David Pekoske said in an interview with CNN last month.
-  
-  Oil and gas industry groups complained that the previous TSA rules didn’t account for the variation in how different pipelines run and in the technology they use. Pipeline operators also chafed at a previous requirement to report cyber incidents to the government within 12 hours; they now have 24 hours in a separate change that TSA made in May.
-  
-  The genesis for the TSA directives was a ransomware attack by an alleged Russian-speaking hacker on Colonial Pipeline’s computer systems in May 2021, which shut down 5,500 miles of pipeline for days. The incident prompted long lines at the gas pump in multiple states and, analysts say, exposed the cybersecurity shortcomings of the pipeline sector and lack of federal resources dedicated to the issue.
-  
-  Pekoske argued that the flexibility in the updated directive, which is valid for a year, will make pipelines more secure as technologies and hacking threats evolve.
-  
-  “TSA has worked closely with stakeholders over the past several months to permit more flexibility, and ensure secure methods to protect critical pipeline infrastructure,” Jake Rubin, a spokesperson for the American Gas Association, previously told CNN.
-  
-  The disruption of Colonial Pipeline – which provides roughly 45% of the fuel consumed on the East Coast – made critical infrastructure firms “much more sensitive” to their cybersecurity needs, Pekoske told CNN.
-  
-  It was also a galvanizing moment for President Joe Biden, driving home how cybersecurity can be a kitchen-table issue. Biden subsequently urged Russian President Vladimir Putin to crack down on criminal hackers operating from Russian soil, but it isunclear to what extent that has happenedand the Kremlin has historically been reluctant to do so.
-  
-  “The reality is that [ransomware] never received the attention it deserved [from the broader public] until post-Colonial,” Bryan Vorndran, assistant director of the FBI’s Cyber Division, said this week at a cybersecurity conference hosted by Fordham University in New York.
-  
-  TSA, which has jurisdiction over the more than 2.7 million miles of natural gas and hazardous liquid pipeline in the country, only had five people dedicated to pipeline security in 2018 and 34 the month of the Colonial Pipeline attack, TSA spokesperson Carter Langston told CNN.
-  
-  “Today, we have 83 full time employees dedicated to pipelines,” Langston said in an email. “Of those, 47 are considered to be pipeline inspectors.” (Other divisions of the Department of Homeland Security and the Department of Energy also work on pipeline cybersecurity.)
-  
-  Aside from ransomware from cybercriminals, pipeline operators have to be mindful of state-backed hacking threats. US intelligence officials say that governments such as China and Russia have the ability to disrupt US transportation systems or other critical infrastructure with cyberattacks.
-  
-  “China is the broadest, most active, and persistent cyber espionage threat and almost certainly is capable of launching cyberattacks that would disrupt critical infrastructure services within the United States, including against oil and gas pipelines and rail systems,” DHS said in an intelligence bulletin sent to critical infrastructure firms this month that CNN obtained.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0fe72aad5476e9d6ed2d8cbf326f87d2febe19c5d393705d9f48f90c50a49d31
+size 4743

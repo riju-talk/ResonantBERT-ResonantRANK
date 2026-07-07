@@ -1,33 +1,3 @@
-id: cnn_2021_00609
-title: "SpaceX capsule with four astronauts aboard docks with International Space Station"
-date: "2021-04-24"
-section: "Tech"
-url: "https://www.cnn.com/2021/04/24/tech/spacex-nasa-astronaut-crew-2-docking-scn/index.html"
-content: |
-  A SpaceX Crew Dragon spacecraft — carrying fourastronautsfrom three countries — docked with the International Space Station early Saturday morning ET, beginning the crew’s six-month stay in space.
-  
-  This mission, dubbed Crew-2, marks the third-ever crewed flight for Elon Musk’s company and the first to make use of a previously flown, privately-owned rocket booster and spacecraft.
-  
-  The astronauts took off from Kennedy Space Center in Florida Friday morning and spent nearly 24 hours soaring through orbit at more than 17,000 miles per hour, as their Crew Dragon spacecraft maneuvered toward the ISS, which orbits about 250 miles above Earth.
-  
-  On Saturday morning, the capsule slowly aligned itself and moved in to dock directly with one of the space station’s ports.
-  
-  The crew consists of NASA astronautsShane Kimbrough and Megan McArthur,Thomas Pesquetof the European Space Agency, andAkihiko Hoshidewith Japan’s JAXA space agency.
-  
-  SpaceX rocket carrying four astronauts launches from Florida
-  
-  A prime focus of the astronauts’ mission will be research with “tissue chips,” or “small models of human organs containing multiple cell types that behave much the same as they do in the body” and that NASA hopes will advance the development of drugs and vaccines, according to the space agency. That work will build on years of studying biological and other scientific phenomena aboard the ISS, where the microgravity environment can give scientists a better fundamental understanding of how something works.
-  
-  Kimbrough, McArthur, Pesquet, and Hoshide joined seven astronauts already on board the station, four of whom arrived on a different SpaceX Crew Dragon capsule in November. That brings the space station’s current total of personnel to 11 — one of the largest crews the ISS has ever hosted. But that number will quickly drop back down to seven when four of the astronauts who’d been on board hitch a ride home from the station on April 28.
-  
-  NASA has spent more than a decade working to boost staffing aboard the 21-year-old space station after the retirement of its Space Shuttle program in 2011 left Russia’s Soyuz spacecraft as the only option for getting astronauts to and from the ISS. The United States had been paying Russia as much as $90 million per seat for those trips.
-  
-  Japanese billionaire invites 8 people to join SpaceX mission around the Moon
-  
-  For years, SpaceX worked under a $2.6 billion fixed-price contract to develop its Crew Dragon spacecraft under NASA’s Commercial Crew program, which for the first time in the space agency’s history handed over the task of building and testing a crew-worthy spacecraft to the private sector.
-  
-  (Boeing(BA)is working under a similar contract to develop its own capsule for the program. That capsule, called Starliner, is still in the testing phase.)
-  
-  The mission is a hallmark in SpaceX’s efforts to reuse spacefaring hardware in order to drive down the cost of spaceflight. Both the Crew Dragon capsule, named “Endeavour,” and the Falcon 9 rocket that lofted it into orbit have flown in space before.
-  
-  Though the company has re-flown boosters and spacecraft dozens of times on satellite and cargo launches over the past several years, this marks the first time the company has reused hardware for a crewed mission.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e31205511b79bfb9640a9dad4c525eac72ebad02bfba9cc3a4098cc5e25a553
+size 3624

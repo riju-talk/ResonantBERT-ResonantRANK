@@ -1,35 +1,3 @@
-id: cnn_2022_03005
-title: "Extreme California heat knocks key Twitter data center offline"
-date: "2022-09-12"
-section: "Tech"
-url: "https://www.cnn.com/2022/09/12/tech/twitter-data-center-california-heat-wave/index.html"
-content: |
-  Extremeheat in Californiahas left Twitter without one of its key data centers, and a company executive warned in an internal memo obtained by CNN that another outage elsewhere could result in the service going dark for some of its users.
-  
-  Twitter(TWTR), like all major social media platforms, relies on data centers, which are essentially huge warehouses full of computers, including servers and storage systems. Controlling the temperature in those centers is critical to ensuring the computers don’t overheat and malfunction. To save on cooling costs, some tech companies have increasingly looked to place their data centers in colder climates; Google, for example,opened a data centerin Finland in 2011, and Meta has had one center in northern Sweden since 2013.
-  
-  Twitter's whistleblower is set to testify on Capitol Hill. Here's what to expect
-  
-  “On September 5th, Twitter experienced the loss of its Sacramento (SMF) datacenter region due to extreme weather. The unprecedented event resulted in the total shutdown of physical equipment in SMF,” Carrie Fernandez, the company’s vice president of engineering, said in an internal message to Twitter engineers on Friday.
-  
-  Major tech companies usually have multiple data centers, in part to ensure their service can stay online if one center fails; this is known as redundancy.
-  
-  As a result of the outage in Sacramento, Twitter is in a “non-redundant state,” according to Fernandez’s Friday memo.  She explained that Twitter’s data centers in Atlanta and Portland are still operational but warned, “If we lose one of those remaining datacenters, we may not be able to serve traffic to all Twitter’s users.”
-  
-  The memo goes on to prohibit non-critical updates to Twitter’s product until the company can fully restore its Sacramento data center services. “All production changes, including deployments and releases to mobile platforms, are blocked with the exception of those changes required to address service continuity or other urgent operational needs,” Fernandez wrote.
-  
-  The restrictions highlight the apparent fragility of some of Twitter’s most fundamental systems, a problem Peiter “Mudge” Zatko, Twitter’s former head of security who turned whistleblower, had raised in a disclosure sent to lawmakers and government agencies in July.
-  
-  In his whistleblower disclosure, first reported by CNN and The Washington Post, Zatko warned that Twitter had “insufficient data center redundancy” that raised the risk of a brief service outage or even the prospect of Twitter going offline for good.
-  
-  “Even a temporary but overlapping outage of a small number of datacenters would likely result in the service [Twitter] going offline for weeks, months, or permanently,” according to Zatko’s whistleblower disclosure. (Twitter has criticized Zatko and broadly defended itself against the allegations, saying the disclosure paints a “false narrative” of the company.)
-  
-  News of the data center outage comes a day before Zatko is due to testify before the Senate Judiciary Committee.
-  
-  Twitter has not disclosed the number or locations of its data centers, but Zatko’s whistleblower disclosure cites a public news report that identifies the Twitter data center in Sacramento and another in Atlanta. In 2020,Amazon announcedthat Twitter had selected its cloud computing platform, Amazon Web Services, to serve some tweets from Amazon data centers.
-  
-  In a statement about the Sacramento outage, a Twitter spokesperson told CNN, “There have been no disruptions impacting the ability for people to access and use Twitter at this time. Our teams remain equipped with the tools and resources they need to ship updates and will continue working to provide a seamless Twitter experience.”
-  
-  Data centers need “reliable water, power, humidity controls and refrigeration to live,” said retired brigadier general Greg Touhill, who served as the US government’s chief information security officer in 2016 and 2017.
-  
-  “You want redundancy, not duplication, of your data locations to enhance your cyber resilience so you can take a punch from a natural disaster [or other event] that can take down a single piece of equipment or data center,” Touhill, who now heads the CERT Division at Carnegie Mellon University’s Software Engineering Institute, told CNN.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3c351a82ab9211c1cd656df6013191839fa13493a80106455650aabbb3998c2
+size 4637

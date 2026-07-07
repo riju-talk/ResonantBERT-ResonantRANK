@@ -1,27 +1,3 @@
-id: cnn_2018_01420
-title: "Facebook gets maximum fine over its big data scandal. It won’t even notice"
-date: "2018-10-25"
-section: "Tech"
-url: "https://www.cnn.com/2018/10/25/tech/facebook-fine-data-scandal/index.html"
-content: |
-  UK authorities have hit Facebook with the maximum possible fine over itsCambridge Analyticascandal. But the penalty is tiny.
-  
-  The United Kingdom’s Information Commissioner’s Office announced the £500,000 ($645,000) fine on Thursday, saying that Facebook failed to safeguard user data and wasslow to contain the leak.
-  
-  The watchdog launched its investigation earlier this year after it emerged that Cambridge Analyticaaccessed informationfrom as many as 87 million Facebook users without their permission.
-  
-  Facebook (FB) said in a statement that it was reviewing the decision.
-  
-  “While we respectfully disagree with some of their findings, we have said before that we should have done more to investigate claims about Cambridge Analytica and taken action in 2015,” the company added.
-  
-  The penalty, which is less than the average price of a home in London, won’t hurt Facebook. But the Information Commissioner warned that any future fines would be much higher under Europe’snew data protection law.
-  
-  “The fine would inevitably have been significantly higher under the GDPR,” Elizabeth Denham, the UK Information Commissioner, said in a statement.
-  
-  Since GDPR came into effect in May, European data watchdogs have had the power to fine companies the higher of €20 million, or 4% of annual global sales, for new data protection violations.
-  
-  Europe has fined Google $5 billion. But that won't hurt it
-  
-  Jonathan Compton, a data protection lawyer and partner at law firm DMH Stallard, said that the maximum penalty that Facebook would face under the law is $1.6 billion.
-  
-  “This would perhaps focus the attention of Facebook’s executives somewhat,” he said.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8634aa2369a28068c79edb395a6a5d87f6bb4701cdb60072ee3ffabf4867118
+size 1949

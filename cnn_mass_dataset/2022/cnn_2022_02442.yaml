@@ -1,29 +1,3 @@
-id: cnn_2022_02442
-title: "Supreme Court to hear cases that could decide future of internet speech and social media"
-date: "2022-10-03"
-section: "Politics"
-url: "https://www.cnn.com/2022/10/03/politics/supreme-court-internet-speech-social-media-section-230?cid=external-feeds_iluminar_msn"
-content: |
-  The Supreme Court will hear two pivotal cases later this term about online speech that could significantly shape the future of social media, the court announced on Monday.
-  
-  One case, Gonzalez v. Google, is set to consider whether tech platforms’ recommendation algorithms are protected from lawsuits under a commonly invoked legal shield tech companies have used to nip other types of content-moderation suits in the bud.
-  
-  The second case, Twitter v. Taamneh, will decide whether social media companies can be sued for allegedly aiding and abetting an act of terrorism, when the platforms have hosted unrelated user content that generally expresses support for the group behind the violence.
-  
-  Both cases have significant ramifications for the tech industry, which has come under increasing pressure over content moderation in recent years amid calls by lawmakers and President Joe Biden for the companies’ liability shield, Section 230 of the Communications Decency Act, to be trimmed back.
-  
-  The court’s orders on Monday set the stage for a possible judicial narrowing of that law, which has been heavily criticized by members of both parties over platforms’ handling of content but that industry defenders say is critical to keeping online services free from spam, hate speech and other legal-but-objectionable content.
-  
-  Google didn’t immediately respond to a request for comment. Twitter declined to comment.
-  
-  In the recent past, some justices, including conservatives Clarence Thomas and Samuel Alito, have expressed interest in hearing cases about online content moderation that could allow the court to weigh in on an increasingly influential sphere of public life.
-  
-  By taking up Gonzalez, the court opens up fresh risks for platforms including Google, Meta and Twitter. In that case, the court is expected to decide whether Google can cite Section 230 to avoid liability over its YouTube algorithms having recommended videos that were created by supporters of the terrorist group ISIS. An eventual ruling against Google could expose major parts of the tech giant’s business, not to mention other tech companies that use automatic recommendation engines, to new lawsuits.
-  
-  In the Twitter case, the justices will review whether hosting generally pro-ISIS content – unrelated to a specific terrorist attack by the organization – may constitute “knowing” and “substantial assistance” to the group in violation of a federal anti-terrorism law, particularly in the face of company policies and efforts to block that material.
-  
-  A ruling against Twitter could mean that tech platforms may not cite Section 230 to avoid lawsuits alleging violations of the US Anti-Terrorism Act, effectively circumscribing the liability shield.
-  
-  Conversely, a ruling in Twitter’s favor could potentially uphold Section 230’s broad scope by overturning a lower-court ruling that found tech platforms can be held liable under the Anti-Terrorism Act.
-  
-  This story has been updated with additional reaction and background information.
+version https://git-lfs.github.com/spec/v1
+oid sha256:488bd571872d84580085dd312c013cd8fc0eb0c3708dfe54f21edfe00d62c406
+size 3385

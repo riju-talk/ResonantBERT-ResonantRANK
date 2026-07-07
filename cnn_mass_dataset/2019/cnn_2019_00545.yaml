@@ -1,27 +1,3 @@
-id: cnn_2019_00545
-title: "Dow logs fifth day of gains"
-date: "2019-09-10"
-section: "Investing"
-url: "https://www.cnn.com/2019/09/10/investing/dow-stock-market-today/index.html"
-content: |
-  The Dow logged its fifth straight day of gains Tuesday, despite sluggish trading as investors await inflation data and the European Central Bank’s policy update later in the week.
-  
-  US stocks spent much of the day in negative territory, but the Dow(INDU)still eked out a 74 point, or 0.3% gain, making it five days in the green. The S&P 500(SPX)rallied in the final minutes of trading and closed flat in positive territory. The Nasdaq Composite(COMP)finished 0.3% lower, marking its third down day in a row.
-  
-  European indexes mostly finished higher, and Asian markets closed mixed, withChinese stock exchanges in the red, after China reported August consumer price inflation of 2.8%. The producer price index fell 0.8%, slightly less than expected, on the back of weaker demand.
-  
-  President Donald Trump said in a tweet that national security adviser John Bolton had been fired, whichled US oil prices to drop more than 1%, paring all their gains and falling into negative territory. Prices settled down 0.8% at $57.40 a barrel, according to CME.
-  
-  The 10-year Treasury yield continues to edge higher at 1.732%.
-  
-  “Despite the weak data that bookended last week, US yields bounced off the low end of their recent range,” wrote Credit Suisse trading strategist Jonathan Cohn in a note to clients.
-  
-  Drivers of the move in yields include the next round of US-China trade talks, a perceived lower likelihood of a no-deal Brexit, as well as some improving economic data and new bond issuance exceeding expectations.
-  
-  “While we continue to think US yields will trend lower for the remainder of the year, the next few weeks may offer a period of further consolidation as optimism on potential trade progress trumps better judgment earned through recent experience,” Cohn said.
-  
-  The economic calendar is once again light in the United States. The small business optimism index from the National Federation of Independent Business was lower than expected at 103.1 in August, which was its lowest level since March.
-  
-  US job openings for July came in just below expectations, edging down from the previous month. Still, for now, open jobs outnumber unemployed workers.
-  
-  “Employer’s demand for workers in the US labor market continues to slow down. Last week’s jobs report sparked a debate over whether the slowdown in hiring is due to an economy hitting full employment, but today’s JOLTS report indicates that this is actually a labor market that is losing momentum,” said Nick Bunker, economist at Indeed Hiring Lab, in emailed comments.
+version https://git-lfs.github.com/spec/v1
+oid sha256:630e2b1d3c55684c7de1dc2d0ef88ad7afc0820c323fe1b6f01e1248fe2caee7
+size 2776

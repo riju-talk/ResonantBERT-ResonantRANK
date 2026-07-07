@@ -1,21 +1,3 @@
-id: cnn_2020_00705
-title: "Apple is tracking iPhones stolen from its stores"
-date: "2020-06-03"
-section: "Tech"
-url: "https://www.cnn.com/2020/06/03/tech/iphones-stolen-warning-message/index.html"
-content: |
-  Apple is sending a clear message to people who’ve stolen iPhones from its stores: You’re “being tracked.”
-  
-  The company is actively disabling the iPhones that are stolen from the displays of its retail stores, leaving them inoperable.
-  
-  Screenshots of Apple’s warning message started topop up on sitessuch as Twitter and Reddit earlier this week amid global protests following the death of George Floyd.
-  
-  Apple stores, which recently started reopening across the United States after months of closures due to the global pandemic,reportedvandalism and theft at several locations, including in New York, Philadelphia and Washington, DC.
-  
-  “Please return to Apple Walnut Street,” readone message, referencing its Philadelphia location, posted to Twitter. “The device has been disabled and is being tracked. Local authorities will be alerted.”
-  
-  Apple(AAPL)declined to comment on matters of security.
-  
-  However, the effort isn’t specific to the ongoing protests. The company has long installed special software on its stores’ iPhones to track the whereabouts of stolen items. This software does not come on purchased iPhones.
-  
-  In a memo sent to employees on Sunday, Apple CEO Tim Cookcalledthe killing of Floyd “senseless” and pledged to donate to human rights groups, including the Equal Justice Initiative.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad7b5f7706b00e1125730258509582b9e085c06453fc75851a546ed204a2660d
+size 1564

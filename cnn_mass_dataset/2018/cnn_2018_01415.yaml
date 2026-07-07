@@ -1,25 +1,3 @@
-id: cnn_2018_01415
-title: "Google+ to shut down after security bug"
-date: "2018-10-08"
-section: "Tech"
-url: "https://www.cnn.com/2018/10/08/tech/google-plus-security/index.html"
-content: |
-  For Google, a data privacy reckoning may finally come as a result of a service that it admits almost no one uses much anymore.
-  
-  Google said Monday it is shutting down the long ailing social network Google+ for consumer use amid new scrutiny of the company for reportedly failing to publicly disclose a security bug affecting hundreds of thousands of accounts on the service.
-  
-  In ablog post, the company admitted Google+ had failed to achieve “broad consumer or developer adoption” since it launched as a would-be Facebook rival in 2011. However, the announcement came moments after The Wall Street JournalreportedGoogle had opted not to disclose a bug affecting Google+ users at least in part to avoid additional regulatory scrutiny.
-  
-  Google said in the blog post that it “discovered and immediately patched” a bug in March 2018 that potentially allowed app developers to access profile data from users that had not been marked as public. The bug is said to have affected as many as 500,000 accounts, though the company says it found “no evidence” that any data was actually misused.
-  
-  The same month that the bug was discovered, Facebook’sCambridge Analytica data scandalcame to light, prompting politicians on both sides of the Atlantic to call for hearings and regulation.
-  
-  According to the Journal, Google’s legal and policy team warned senior executives at the company that disclosing the security flaw could lead to “immediate regulatory interest.”
-  
-  “Every year, we send millions of notifications to users about privacy and security bugs and issues,” a spokesperson for Google said in a statement provided to CNN Business. “Whenever user data may have been affected, we go beyond our legal requirements and apply several criteria focused on our users in determining whether to provide notice.
-  
-  While Google has faced scrutiny in recent months forallowing third-party apps to access and share datafrom Gmail accounts, much of the privacy uproar hitting the tech industry has focused on Facebook. The key difference, for now, is a matter of scale.
-  
-  Cambridge Analytica, a data firm with ties to President Donald Trump’s campaign, accessed information from as many as 87 million Facebook users without their knowledge. And last month, Facebook disclosed that attackers exposed information on nearly 50 million users.
-  
-  Kaya Yurieff contributed to this report.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b30b12d2411289c91d8052818acf52cd52cb4e2e8b0d292f6dba6793ee807966
+size 2616

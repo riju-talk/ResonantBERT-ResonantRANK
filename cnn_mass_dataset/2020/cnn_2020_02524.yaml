@@ -1,31 +1,3 @@
-id: cnn_2020_02524
-title: "Appeals court stops Wisconsin from accepting mail-in ballots after Election Day"
-date: "2020-10-08"
-section: "Politics"
-url: "https://www.cnn.com/2020/10/08/politics/seventh-circuit-appeal-wi/index.html"
-content: |
-  A federal appeals court on Thursday blockedan attempt to allow absentee ballots in Wisconsin to be received six days after Election Day, the latest twist in the legal fights over voting during the coronavirus pandemic.
-  
-  In a 2-1 decision, the 7th US Circuit Court of Appeals sided with the Wisconsin legislature and the Republican National Committee to stop a lower federal court order  on the ballot deadlines.
-  
-  A district court last month had ruled for the Democratic National Committee in extending online voter registration until October 21 and extending the deadline for absentee ballots to be received from the night of Election Day to up until November 9 – as long as they are postmarked before Election Day.
-  
-  The majority judges, Frank Easterbrook, appointed by President Ronald Reagan, and Amy St. Eve, appointed by President Donald Trump,granted the stay, saying the lower court should not have made changes to election laws and regulations close to election day so as not to cause voter confusion.
-  
-  “The State Legislature offers two principal arguments in support of a stay: first, that a federal court should not change the rules so close to an election; second, that political rather than judicial officials are entitled to decide when a pandemic justifies changes to rules that are otherwise valid. We agree with both of those arguments, which means that a stay is appropriate,” the two judges said.
-  
-  The judges cite a 2006 Supreme Court ruling,Purcell v. Gonzalez, as precedent for previous legal decisions that support not changing election rules close to the election.
-  
-  Judge Ilana Rovner, appointed by President Reagan, wrote a passionate 25-page dissent arguing that citizens may lose their right to vote as a result of the pandemic and limits on voting access.
-  
-  “It is not unreasonable for Wisconsin voters to view the option of in-person registration and voting as a form of Russian roulette,” Rovner said.
-  
-  “Today, in the midst of a pandemic and significantly slowed mail delivery, this court leaves voters to their own devices,” Rovner added. “Good luck and G-d bless, Wisconsin. You are going to need it.”
-  
-  Ruth Bader Ginsburg fought for her legacy in her final Supreme Court term
-  
-  This is the second time this year the absentee ballot deadlines have come up in Wisconsin. In April, the Supreme Court sided with Wisconsin Republicans to block  mail ballot extensions.
-  
-  Justice Ruth Bader Ginsburg, in one of her final significant dissents, said the ruling “boggles the mind.”
-  
-  “The court’s suggestion that the current situation is not ‘substantially different’ from an ‘ordinary election’ boggles the mind,”she wrote.“While I do not doubt the good faith of my colleagues, the Court’s order, I fear, will result in massive disenfranchisement.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6c774d7169263f4f20c35e3b703a97d2acda684dcefd6542466e44c9e144143
+size 3101

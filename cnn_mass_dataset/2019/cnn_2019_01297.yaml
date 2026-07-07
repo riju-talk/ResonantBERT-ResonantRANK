@@ -1,33 +1,3 @@
-id: cnn_2019_01297
-title: "A court ordered Facebook to take down a post. The decision could affect social media around the world"
-date: "2019-10-03"
-section: "Tech"
-url: "https://www.cnn.com/2019/10/03/tech/facebook-eu-court/index.html"
-content: |
-  The top European court has ruled Facebook and other internet companies can be forced to remove certain content worldwide.
-  
-  If aEuropean courtorders a company to take down content, such as a post, that company must remove it everywhere it appears.
-  
-  The decision poses huge potential problems for internet companies. It can not be appealed.
-  
-  The case revolves around an Austrian politician, Eva Glawischnig-Piesczek, who sought to have Facebook(FB)remove disparaging comments about her that had been posted on an Irish person’s page. An Austrian court had found the remarks to be harmful to her reputation by insulting and defaming her.
-  
-  The European Court of Justiceruled that Facebookmust remove information as well as block access to that information worldwide.
-  
-  “This judgment raises critical questions around freedom of expression and the role that internet companies should play in monitoring, interpreting and removing speech that might be illegal in any particular country,” Facebook said in a statement.
-  
-  The social network said the decision could force internet companies to proactively monitor all content and then interpret if it is “equivalent” to content that has been found to be illegal by one nation’s court.
-  
-  “It undermines the long-standing principle that one country does not have the right to impose its laws on speech on another country,” Facebook(FB)said in its statement.
-  
-  This is not purely a European issue for internet companies such as Facebook and Google(GOOG). They are under increasing attention and criticism for the role they play inspreading false information, especially as it relates to elections and political discourse. There have beenhearings in Washington DCand even calls tobreak-up major tech companies.
-  
-  But Europe has fewer guarantees of free speech and much more restrictive laws related to privacy and a so-called “right to be forgotten,” established by the same European court in 2014, which allows EU citizens to request that links containingpersonal information about them be removed from search results.
-  
-  But just last week that court ruled in favor of Google(GOOG)that in most cases that right shouldapply only within the European Union.
-  
-  Google does not have to honor the 'right to be forgotten' outside Europe
-  
-  In that case France’s privacy regulator had sought to extend the right beyond EU borders, a position opposed by media outlets, free speech advocates and tech companies.
-  
-  The court acknowleged that other countries do not recognize the right to be forgotten, adding that protection of personal data is not an absolute right and must be balanced against other freedoms.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f15c9648addcd9fc65d17f699a345cb0dee9f024100ae653c85a00f9fee5255
+size 2953

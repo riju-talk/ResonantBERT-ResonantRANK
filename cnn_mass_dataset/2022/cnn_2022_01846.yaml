@@ -1,31 +1,3 @@
-id: cnn_2022_01846
-title: "Special counsel Durham’s case can proceed against Clinton campaign lawyer, judge rules"
-date: "2022-04-13"
-section: "Politics"
-url: "https://www.cnn.com/2022/04/13/politics/durham-sussman-dismiss-rejected/index.html"
-content: |
-  A federal judge declined Wednesday to dismiss special counsel John Durham’s case against a Hillary Clinton campaign lawyer accused of lying to the FBI during its investigation of potential Trump-Russia collusion.
-  
-  US District Judge Christopher Cooper rejected a request from Clinton campaign lawyer Michael Sussmann, whoargued that the case should be thrown outbecause his alleged lie wasn’t material to the FBI’s Russia probe. Sussmann is accused of falsely telling a top FBI official, during a September 2016 meeting about then-candidate Donald Trump’s potential ties to Russia, that he was not providing the information on behalf of any client.
-  
-  Sussmann has pleaded not guilty and has accused Durham of bringing a politically motivated case.
-  
-  The ruling is a major victory for Durham and means that the case can proceed to trial next month. Durham was appointed under the Trump administration to investigate the origins of the Russia probe.
-  
-  Cooper said Sussmanhad not adequately refuted the special counsel’s arguments that “it is at least possible that statements made to law enforcement prior to an investigation could materially influence the later trajectory of the investigation.”
-  
-  At this pre-trial stage of the proceedings, judges must assume that the facts that prosecutors allege are true and assess whether, if true, those facts meet the legal standards of the offense charged.
-  
-  “Whether Sussmann’s alleged statement was in fact capable of influencing either the commencement or the later conduct of the FBI’s investigation is a very different question, and one that the parties hotly dispute,” Cooper, an appointee of former President Barack Obama, wrote in his six-page opinion, saying it will be up to the jury to decide.
-  
-  The closely watched case has dredged up a host of long-simmering controversies related to the 2016 election, including the Trump-Russia collusion claims and the so-called Steele dossier. Durham wants to bring up the infamous dossier and might even call its author, Christopher Steele, as a witness at the trial, according to court papers filed last week.
-  
-  During Sussmann’s 2016 meeting with the FBI, he passed along information about strange cyber connections between Trump and Russia. The data, which was compiled by cybersecurity experts, seemed to suggest that there might be a communications backchannel between the Trump Organization and Alfa Bank, the largest private bank in Russia.
-  
-  An FBI investigation ultimately concluded there weren’t any improper cyber links between the companies, according to a Justice Department inspector general report. Separately, special counsel Robert Mueller’s probe did not establish a criminal conspiracy between the Trump campaign and Russian operatives, but that inquiry uncovered dozens of untoward contacts between the two sides.
-  
-  Trump has repeatedly claimed that Clinton’s campaign, Sussmann, the Democratic National Committee, former senior FBI officials and other operatives concocted bogus information about his ties to Russia in hopes of triggering an FBI probe and undermining his 2016 presidential campaign.
-  
-  Sussmann maintains that he never had any reason to doubt the accuracy of the data and pointed out that prosecutors haven’t ever accused him of fabricating the information. At a court hearing last month, Durham’s prosecutors repeatedly sidestepped the question of whether the underlying data about Trump and Alfa Bank was fabricated. Prosecutors have only accused Sussmann of lying about whether he was representing a client.
-  
-  “This is an unprecedented false-statement prosecution,” Sussmann attorney Michael Bosworth said at a court hearing last month. “Nobody who has ever provided a tip to the government been prosecuted for giving ancillary information, and not for giving a false tip.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:38fc801c81575e419e7092bb911bf4b25480c48e11f86106cb577af1e1cbe285
+size 4143

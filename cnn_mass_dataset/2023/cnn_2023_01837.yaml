@@ -1,25 +1,3 @@
-id: cnn_2023_01837
-title: "White House to announce Tesla will open part of its charging network in effort to expand EV access"
-date: "2023-02-15"
-section: "Politics"
-url: "https://www.cnn.com/2023/02/15/politics/white-house-tesla-charging-network/index.html"
-content: |
-  The Biden administration is announcing new steps Wednesday toexpand the nation’s electric vehicle infrastructure,including a new partnership with Tesla that would see the electric vehicle manufacturer open a portion of its charging network to non-Tesla EVs for the first time.
-  
-  According to a fact sheet shared with CNN, Wednesday’s announcements are part of the administration’s goal to build out a nationwide EV charging network of 500,000 chargers along America’s highways while building towards their goal ensuring 50% of new car sales are EVs by 2030. As part of that goal, the administration is announcing Tesla will open at least 7,500 chargers of its EV charging network to all electric vehicles, including 3,500 new and existing 250 kW Superchargers along highway corridors.
-  
-  Per White House Infrastructure Coordinator Mitch Landrieu, the news is the product of “many, many months” of work between the Biden administration and EV manufacturers, including Tesla CEO Elon Musk, who Landrieu said was “very open [and] very constructive,” in meetings with the administration on expanding EV access.
-  
-  Last month, Reuters reported that Musk met with top White House officials in Washington to discuss expanding EV production and charging networks – a meeting the Tesla and Twitter CEO later confirmed via tweet.
-  
-  But while Biden and Muskhave both taken a staunchly pro-EV stance,the two have clashed over Musk’s anti-union stance at his Tesla factories, while Musk’s tenure as CEO of Twitterhas seen the tech magnateamplify right-wing talking points on a host of issues.
-  
-  Also included in Wednesday’s announcement is new funding, including $2.5 billion over five years from the Federal Highway Administration and $7.4 million across seven projects from the Department of Energy to expand publicly accessible electric vehicle charging networks for millions of Americans.
-  
-  Per the administration, to qualify for federal funding under Wednesday’s announcement, Combined Charging System (CCS) capable vehicles must be able to charge at federally funded charging ports – something Tesla has developed hardware and software solutions to accommodate.
-  
-  And the administration is linking with additional partners like car rental company Hertz and BP gas stations to bring EV fast charging infrastructure to locations across America, including major cities such as Atlanta, Austin, Boston, Chicago, Denver, Houston, Miami, New York City, Orlando, Phoenix, San Francisco and Washington, DC.
-  
-  “These recent and new commitments will make more public charges available for all EVs,” Landrieu told reporters on a call Wednesday.
-  
-  “With announcements like today’s and the overall growth we’re seeing, it’s clear that this administration is making incredible progress towards building our election future. In fact, since the president took office, EV sales have tripled – the number of publicly available charging ports has grown by over 40%, and there are currently more than 3 million EVs on the road and 130,000 public charges across the country. But our work is far from over and our progress will continue as long as we keep working hand in hand with our partners across federal state and local governments and the private sector.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:01bcbbdf9a3c3908907705e6cbf395e865fe47e1d4ef7e6ee45c53035fb7e494
+size 3575

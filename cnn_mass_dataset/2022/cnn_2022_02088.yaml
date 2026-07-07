@@ -1,31 +1,3 @@
-id: cnn_2022_02088
-title: "Blood pressure medication recalled over cancer risk concerns"
-date: "2022-03-23"
-section: "Health"
-url: "https://www.cnn.com/2022/03/23/health/pfizer-blood-pressure-medication-recall-wellness/index.html"
-content: |
-  Pfizer has issued a recall for a high blood pressure medication distributed under three names, according to the company.
-  
-  Accuretic and its two generic versions distributed by Greenstone – quinapril and hydrochlorothiazide tablets and quinapril HCl/hydrochlorothiazide tablets – are subject to the recall.
-  
-  The medications treat hypertension, which increases the risk for potential dangerous cardiovascular events like strokes.
-  
-  The recall is voluntary, and stems from the tablets containing higher levels of nitrosamines, which pose a cancer risk, although Pfizer said in a news release “there is no immediate risk to patients taking this medication.”
-  
-  Number of people with high blood pressure has doubled globally, large study finds
-  
-  “Nitrosamines are common in water and foods, including cured and grilled meats, dairy products and vegetables. Everyone is exposed to some level of nitrosamines. These impurities may increase the risk of cancer if people are exposed to them above acceptable levels over long periods of time,” Pfizer said in the news release.
-  
-  Nitrosamines may be unintentionally introducedwhen certain chemical reactions are used in the production of medications.
-  
-  The company said it’s not aware of any reports of adverse effects resulting from use of the medication and added that the products have a safety profile established over more than 20 years, according to the release.
-  
-  Distributors and wholesalers should stop use and distribution and “quarantine the product immediately,” the release said.
-  
-  Blood pressure patients can take tainted pills during valsartan shortage, FDA says
-  
-  Pfizer recommended that patients taking the medication consult with their doctor about alternative treatment options.
-  
-  High blood pressure is a growing problem: The number of people over 30 with the condition has doubled over the past 30 years,according to a 2021 study.
-  
-  Clarification:An earlier version of this story did not clarify that the recall is for one medication distributed under three names.
+version https://git-lfs.github.com/spec/v1
+oid sha256:28d2ffe83f37a4891c484825b97a288b9b517cc3b6f017744230229bdeee563d
+size 2324

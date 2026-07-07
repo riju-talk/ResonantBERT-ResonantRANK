@@ -1,27 +1,3 @@
-id: cnn_2025_03901
-title: "DOJ sues to block Hewlett Packard Enterprise’s $14 billion Juniper deal"
-date: "2025-01-30"
-section: "Business"
-url: "https://www.cnn.com/2025/01/30/business/doj-hewlett-packard-juniper-deal/index.html"
-content: |
-  The US Department of Justice has sued to block Hewlett Packard Enterprise’s $14 billion deal to acquire networking gear maker Juniper Networks, arguing that it would stifle competition, according to a complaint filed on Thursday.
-  
-  Shares of both the server maker and Juniper Networks fell more than 3% in afternoon trading. The antitrust lawsuit marks the first sincePresident Donald Trump took officelast week.
-  
-  The DOJ argued that the acquisition would eliminate competition and would lead to only two companies — Cisco Systems and HPE — controlling more than 70% of the US market for networking equipment.
-  
-  More than a year ago, the server maker said that it wouldbuyJuniper Networks for $14 billion in an all-cash deal, as it looks to spruce up its artificial intelligence offerings.
-  
-  The companies said in a joint statement that they would defend the deal, arguing that the acquisition will bring together two complementary networking offerings to better compete with global incumbent players.
-  
-  “Juniper has also introduced innovative tools that have materially decreased the cost of operating a wireless network for many customers. This competitive pressure has forced HPE to discount its offerings and invest in its own innovation,” the DOJ said in its complaint.
-  
-  Juniper gained prominence over the past few years as data centers flocked to its products for use in AI applications.
-  
-  Stiff competition from Juniper forced HPE to sell its products at a discount and spend to introduce new features under the “Beat Mist” campaign, named after the networking gear company’s rival product, the DOJ wrote.
-  
-  “Having failed to beat Mist on the merits, HPE changed tactics and in January 2024 opted to try to buy Juniper instead,” the agency added.
-  
-  HPE representatives met with Trump’s antitrust enforcers regarding its bid for Juniper,Bloomberg Newsreported earlier this week.
-  
-  The UK Competition and Markets authority and the European Union have cleared the deal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e50d4487e838db8f9be3227ea2a08fcb89f713a4154884a85221e25efa1c24c3
+size 2273

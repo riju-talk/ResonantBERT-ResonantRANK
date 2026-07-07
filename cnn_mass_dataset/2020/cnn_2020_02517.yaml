@@ -1,33 +1,3 @@
-id: cnn_2020_02517
-title: "China’s Tecno sold thousands of smartphones with malware in Africa"
-date: "2020-08-26"
-section: "Tech"
-url: "https://www.cnn.com/2020/08/26/tech/tecno-malware-africa/index.html"
-content: |
-  Software that eats up mobile data and registers people for unwanted subscriptions has been found pre-installed on thousands of low-cost Chinesesmartphones in Africamore than two years after it was first detected.
-  
-  The Triada malware signs mobile users up to subscription services without their permission and has been discovered onTecno W2 smartphonesin countries such as Ethiopia, Ghana, Cameroon and South Africa, according to a report published this week in partnership withBuzzFeed.
-  
-  Africa's favorite smartphone maker is now worth $4 billion
-  
-  Secure-D, the anti-fraud platform that conducted the research, recorded 19.2 million suspicious transactions since March 2019 from over 200,000 unique devices. “The fact that the malware arrives pre-installed on handsets that are bought in their millions by typically low-income households tells you everything you need to know about what the industry is currently up against,” said managing director, Geoffrey Cleaves.
-  
-  “This particular threat takes advantage of those most vulnerable,” he added.
-  
-  China’s Transsion Holdings manufactures the Android devices, whichdominateAfrica’s smartphone market with a 41% share, according to market research firmIDC. Shenzhen-based Transsion, whichlisted on China’s version of the Nasdaqlast year, has ignored its home market to focus almost exclusively on the continent. It sells more affordable handsets than rivals such as Samsung and Apple(AAPL)under the brand Tecno Mobile.
-  
-  In a statement to CNN Business, Tecno Mobile said the problem “was an old and solved mobile security issue globally” for which it issued a fix in March 2018. Consumers currently experiencing difficulties should download the fix through their phones or contact after sales support, it added.
-  
-  Transsion blamed an “unidentified vendor in the supply chain process,” according to BuzzFeed.
-  
-  Triada malware installs a piece of code known as xHelper onto compromised devices, automatically subscribing users without their knowledge to services that consume pre-paid airtime — the only way to pay for digital products in many developing countries.
-  
-  “The xHelper trojan persists across reboots, app removals and even factory resets, making it extremely difficult to deal with even for experienced professionals, let alone the average mobile user,” Secure-D, which is owned by mobile technology company Upstream, said in a statement.
-  
-  The Chinese phone giant that beat Apple to Africa
-  
-  The company’s investigation found evidence in code and traffic data to link at least one of the xHelper components to fraudulent subscription requests via Transsion’s Tecno W2 handset. Its analysis was carried out on phones from existing users and newly purchased handsets. No signs of Triada malware were found to affect other mobile phones manufactured by Transsion, Secure-D said.
-  
-  In a2016 blog post, Google, which developed the Android operating software, attributed the presence of Triada to the actions of third-party suppliers within the production process.
-  
-  “We have always attached great importance to consumers’ data security and products safety,” said Tecno Mobile. “Every single software installed on each device runs through a series of rigorous security checks,” it added, noting that security updates are periodically sent to mobile users.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a2c5afafd864a738cc6ee3a8bd9dfce1c185f342eb628e07abdfad8ac3f444a
+size 3614

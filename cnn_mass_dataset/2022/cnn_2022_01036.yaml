@@ -1,15 +1,3 @@
-id: cnn_2022_01036
-title: "YouTube rolls out new features and an updated look"
-date: "2022-10-24"
-section: "Tech"
-url: "https://www.cnn.com/2022/10/24/tech/youtube-new-features/index.html"
-content: |
-  YouTube is rolling out what it calls a “small makeover” with a handful of new features and design changes intended to make watching videos on the platform a better experience.
-  
-  In ablog postpublished Monday, the company said it’s adding new tools inspired by feedback from its YouTube creator community and viewers.
-  
-  Perhaps the first thing users will notice are color changes intended to make consuming videos easier on the eyes. In addition to new vibrant colors, an ambient mode will allow the app to adjust the background color to match the video. An update to YouTube’s dark theme aims to make colors pop more on screen.
-  
-  Meanwhile, a new tool will let users fast forward or rewind to the exact spot they want to in a video — a potentially useful feature for when watching a tutorial. Other changes include a pinch-to-zoom tool, allowing users to zoom in and out of a video on mobile devices while it still plays, and a handful of tweaks coming to the video player. YouTube links, for example, in video descriptions will become buttons, and the ability to share and download videos will be “formatted to minimize distractions.” The subscribe button will also undergo some change: It’s no longer red but will be easier to find on channel and video pages, due in part to a new shape and high contrast, YouTube said.
-  
-  The new features will roll out gradually in the next few weeks.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9bf9703db1eead5f05bd5b9472441019f800a1cd42ad79eb5c54d54cdf014956
+size 1618

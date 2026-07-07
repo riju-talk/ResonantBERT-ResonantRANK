@@ -1,31 +1,3 @@
-id: cnn_2023_03270
-title: "Nvidia is developing new chips for China to comply with US export curbs"
-date: "2023-12-06"
-section: "Tech"
-url: "https://www.cnn.com/2023/12/06/tech/nvidia-china-chip-development-us-curbs/index.html"
-content: |
-  Nvidia is working closely with the US government to ensure new chips for the Chinese market are compliant with export curbs, CEO Jensen Huang said on Wednesday.
-  
-  The California-based artificial intelligence chip designer has commanded more than 90% share of China’s $7 billion AI chip market, but analysts have said new U.S. curbs on chip exports are likely to create opportunities for Chinese rivals to make inroads.
-  
-  Reuters last month reported Nvidia (NVDA)had toldcustomers in China it was delaying the launch of a new China-focused AI chip until the first quarter of next year.
-  
-  Huang declined to confirm the Reuters article.
-  
-  “Nvidia has been working very closely with the US government to create products that comply with its regulations,” Huang told a news conference in Singapore.
-  
-  “Our plan now is to continue to work with the government to come up with a new set of products that comply with the new regulations that have certain limits.”
-  
-  He added Nvidia needs to seek the advice of the market and the process is ongoing, adding that Huawei was a “formidable” competitor.
-  
-  Tencent says it stockpiled Nvidia chips but seeks Chinese replacements
-  
-  Nvidia warned during its November earnings that it expects a steep drop in fourth-quarter sales in China in the wake of the new U.S. rules.
-  
-  Huang noted that China’s revenue contribution to Nvidia has been traditionally around 20% but it was hard to predict how much that would change with the new U.S. export restrictions.
-  
-  Separately, he said Nvidia was in talks with Singapore about potential big investments and working with the city-state to help develop its own large language model, Sealion.
-  
-  Singapore’s Infocomm Media Development Authority (IMDA) announced on Monday a S$70 million ($52 million) initiative to develop Southeast Asia’s first large language model.
-  
-  Huang noted Singapore had a vibrant AI ecosystem and its role as a major data center for many Asian markets.
+version https://git-lfs.github.com/spec/v1
+oid sha256:454fd45dc3cbdd5ebcb9edb23dfa94e46d8288688fc9143d0abca6117762e3aa
+size 2267

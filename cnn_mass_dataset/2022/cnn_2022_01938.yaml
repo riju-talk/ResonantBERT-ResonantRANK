@@ -1,33 +1,3 @@
-id: cnn_2022_01938
-title: "Former Bank of England official slams ‘really stupid’ UK government decisions"
-date: "2022-09-28"
-section: "Investing"
-url: "https://www.cnn.com/2022/09/28/investing/charlie-bean-uk-pound-crash?query=query%28%24symbols%3A%20%5BString%5D%29%20%7B%0A%20%20marketIndexes%28symbols%3A%20%24symbols%29%20%7B%0A%20%20%20%20indexes%20%7B%0A%20%20%20%20%20%20symbol%0A%20%20%20%20%20%20index_displayName%0A%20%20%20%20%20%20inSession%0A%20%20%20%20%20%20streamId%3A%20streamSymbol%0A%20%20%20%20%20%20change%0A%20%20%20%20%20%20level%0A%20%20%20%20%20%20changePct%0A%20%20%20%20%20%20link%0A%20%20%20%20%20%20__typename%0A%20%20%20%20%7D%0A%20%20%20%20__typename%0A%20%20%7D%0A%7D%0A&variables=%7B%22symbols%22%3A%5B%22INDU%22%2C%22INX%22%2C%22COMP.IDX%22%5D%7D"
-content: |
-  Former Bank of England Deputy Governor Charlie Bean said the central bank will almost certainly announce an emergency interest rate hike before its next scheduled meeting in November, predicting that turmoil would continue to roil UK markets.
-  
-  Investors have lostfaith in the government’s ability to manage the economy and public finances, he said, commenting on a market crash sparkedby the UK government’s plan to slash taxes and boost borrowing in the face of high inflation.
-  
-  “Sterling and UK government bonds look vulnerable at the moment, and if there is another bout of significant downward pressure, I think the bank really will have to act,” Bean told CNN Business.
-  
-  Markets are now treating UK bonds like Greek and Italian debt
-  
-  Bean was speaking shortly beforethe Bank of England announced Wednesday that it would intervene in the bond market, buying longer-dated UK government bonds on “whatever scale is necessary” to “restore orderly market conditions.”
-  
-  But it has stopped short of raising interest rates despite the plunge in the pound, whichhit a record lowagainst the US dollar this week. A rate hike could help halt the sharp sell-off of government debt, though a surprise move also risks stoking more alarm among investors.
-  
-  The central banksaid earlier this weekthat it’s prepared to keep aggressively hiking interest rates to fight inflation, and would assess the impact of plans by Prime Minister Liz Truss to slash taxes while ramping up borrowing at its next meeting in November. On Tuesday, the central bank’s chief economist said it is “hard not to draw the conclusion there will be a significant monetary policy response.”
-  
-  But Bean predicted that a large hike — perhaps of a full percentage point — will probably need to come sooner.
-  
-  “The bank is between a rock and a hard place here, because the real issue obviously is fiscal policy,” Bean said. “It’s a reckless fiscal policy, especially in the eyes of market participants.”
-  
-  Bean said that the decision by Truss and Kwasi Kwarteng, the UK finance minister, to unveil tax cuts just as tens of billions of pounds are needed to subsidize energy bills was a mistake.
-  
-  The choice not to ask for an assessment of the new plans from the country’s budget watchdog, he added, was “really stupid” — while the firing of the top civil servant in the UK’s finance ministry earlier this month was “unbelievably stupid.”
-  
-  “You put it all together, and it’s not surprising investors start thinking these guys are irresponsible,” Bean said.
-  
-  The“striking” statementfrom the International Monetary Fund on Tuesday — which warned against “large and untargeted fiscal packages” and urged the UK government to rethink its policies — highlights the flaws in the government’s approach, Bean added.
-  
-  “It’s unusual for the IMF to do that, particularly for a G7 economy, and for them to do it so swiftly,” he said. “They might do these sorts of things for an emerging market country that has been on the edge for a while.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbbcbde171f53b60ce20bd934447798fbbe0dc9cf68afa0b7b055a32e8e32b3d
+size 3914

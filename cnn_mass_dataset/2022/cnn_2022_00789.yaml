@@ -1,25 +1,3 @@
-id: cnn_2022_00789
-title: "Former NSA employee charged with violating Espionage Act after trying to sell US secrets"
-date: "2022-09-29"
-section: "Politics"
-url: "https://www.cnn.com/2022/09/29/politics/jareh-sebastian-dalke-nsa-espionage-sell-secrets-charged/index.html"
-content: |
-  A former employee of the National Security Agency was arrested Wednesday on espionage-related charges for allegedly trying to sell US secrets, the Justice Department announced.
-  
-  Jareh Dalke, 30, attempted to transmit classified national defense information (NDI) to a representative of a foreign government, the department said in anews release. He faces charges related to three violations of the Espionage Act and made his first appearance in court Thursday.
-  
-  The Colorado man, who worked at the NSA for less than a month as an information system security designer, used an encrypted email to send excerpts of three classified documents to someone he believed to be a representative of a foreign government, according to an affidavit. The person was an undercover FBI agent.
-  
-  The excerpts, which Dalke obtained while employed at the NSA, related to threat assessments of a foreign government’s military offensive capabilities and “sensitive US defense capabilities,” as well as a US agency’s “plans to update a certain cryptographic program,” the affidavit said.
-  
-  Dalke left the NSA in early July, citing a situation with his family, and began corresponding with the undercover agent weeks later.
-  
-  He provided the excerpts as a “small sample to what is possible,” and soon after transmitted a secret document related to a different US agency that contained information about a foreign leader, as a “show of good faith,” the affidavit said.
-  
-  Days later, Dalke applied to an open position at the NSA, leading law enforcement to believe he might have been “seeking to access additional national defense information,” according to the affidavit.
-  
-  The undercover agent transferred about $16,000 in cryptocurrency to Dalke following the initial information transfers and Dalke requested $85,000 in exchange for all the information he possessed at the time.
-  
-  The government said Dalke then arranged to transfer additional classified information to the undercover FBI agent at a location in Denver. When Dalke showed up on Wednesday, the FBI arrested him.
-  
-  Convictions under the Espionage Act carry sentences of up to life in prison or potential death sentences, the Justice Department said in its release.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bba90658d036d95733326095b8794a1a87602d04e8e7c7cce5455188e01a392f
+size 2545

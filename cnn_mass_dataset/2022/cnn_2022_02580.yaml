@@ -1,23 +1,3 @@
-id: cnn_2022_02580
-title: "Supreme Court won’t hear case brought by a group of voters against Dominion Voting Systems and Facebook"
-date: "2022-12-05"
-section: "Politics"
-url: "https://www.cnn.com/2022/12/05/politics/dominion-voting-systems-facebook-supreme-court/index.html"
-content: |
-  The Supreme Court declined on Monday to take up a case brought against Dominion Voting Systems and Facebook after the 2020 election by a group of voters who claimed the companies illegally “influenced or interfered with” the contest.
-  
-  Lower courts had previouslyrejected the case,ruling that the eight voters lacked the procedural threshold – known as standing – needed to bring the suit against parties including the Center for Tech and Civic Life, Meta CEO Mark Zuckerberg and his wife Priscilla Chan.
-  
-  “The court’s refusal to take up this case is no surprise; the lower courts threw it out because the plaintiffs didn’t have standing, and, even if they did, their claims are frivolous,” said Steve Vladeck, CNN Supreme Court analyst and professor at the University of Texas School of Law.
-  
-  “The fact that no justice even asked Dominion or the other defendants to respond to the petition says everything that needs to be said about how seriously they took this appeal – which is to say, not at all,” Vladeck added.
-  
-  Lawyers sanctioned for 'conspiracy theory' election fraud lawsuit
-  
-  Dominion, which sells election technology that was used in more than two dozen states during the 2020 election,has long been the subject of false allegations of election fraudby allies of former President Donald Trump.
-  
-  The voters claimed that the company, along with the other named parties, “engaged in concerted action to interfere with the 2020 presidential election through a coordinated effort to, among other things, change voting laws without legislative approval, use unreliable voting machines, alter votes through an illegitimate adjudication process” and “privately fund only certain municipalities and counties.”
-  
-  A federal judge in Colorado dismissed the case last year, saying the group of voters “allege no particularized injury traceable to the conduct of Defendants, other than their general interest in seeing elections conducted fairly and their votes fairly counted.”
-  
-  “When the alleged injury is undifferentiated and common to all members of the public or a large group, courts routinely dismiss such cases as ‘generalized grievances’ that cannot support standing,” Magistrate Judge N. Reid Neureiter wrote in his ruling.
+version https://git-lfs.github.com/spec/v1
+oid sha256:855eb4ebc72cda677f12f9b0b822ac827373765e955157fed8f32750317f8977
+size 2594

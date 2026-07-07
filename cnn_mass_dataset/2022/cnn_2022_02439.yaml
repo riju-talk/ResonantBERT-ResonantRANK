@@ -1,27 +1,3 @@
-id: cnn_2022_02439
-title: "The world’s second biggest cryptocurrency just got a lot greener"
-date: "2022-09-15"
-section: "Tech"
-url: "https://www.cnn.com/2022/09/15/tech/ethereum-merge-crytocurrency-energy-consumption-hnk-intl?query=query%28%24symbols%3A%20%5BString%5D%29%20%7B%0A%20%20marketIndexes%28symbols%3A%20%24symbols%29%20%7B%0A%20%20%20%20indexes%20%7B%0A%20%20%20%20%20%20symbol%0A%20%20%20%20%20%20index_displayName%0A%20%20%20%20%20%20inSession%0A%20%20%20%20%20%20streamId%3A%20streamSymbol%0A%20%20%20%20%20%20change%0A%20%20%20%20%20%20level%0A%20%20%20%20%20%20changePct%0A%20%20%20%20%20%20link%0A%20%20%20%20%20%20__typename%0A%20%20%20%20%7D%0A%20%20%20%20__typename%0A%20%20%7D%0A%7D%0A&variables=%7B%22symbols%22%3A%5B%22INDU%22%2C%22INX%22%2C%22COMP.IDX%22%5D%7D"
-content: |
-  Ethereum, the world’s second most valuablecryptocurrency, has completed a massive software upgrade that its backers claim will slash its carbon footprint.
-  
-  The long-awaited revamp, which is known as “The Merge,” will reduce ethereum’s energy consumption by nearly 99.95%, according to theEthereum Foundation, a nonprofit organization dedicated to supporting the cryptocurrency and its related technologies.
-  
-  “The Merge refers to the original Ethereum Mainnet merging with a separate … blockchain called the Beacon Chain,” it added.
-  
-  Until now, both ethereum and bitcoin were running on a mechanism called “proof-of-work,” under which high-powered computers were required to solve complex puzzles. The merger moves ethereum to a mechanism called “proof-of-stake,” which is much more energy efficient, as it does away with the need to have computers compete against each other. Instead, users deposit their ether to participate in the race for more currency.
-  
-  With this switch, ethereum hopes that it “will improve security, reduce energy consumption, increase the number of users on the network, and grow its market cap,” Deutsche Bank research analyst Marion Laboure wrote in a note this week.
-  
-  “Happy merge all,” Vitalik Buterin, the 28-year-old Russian-Canadian programmer who helped createEthereum said on Twitter. “This is a big moment for the Ethereum ecosystem. Everyone who helped make the merge happen should feel very proud today,” he added.
-  
-  The co-founder said that the upgrade will “reduce worldwide electricity consumption by 0.2%.”
-  
-  While cryptocurrencies have seen a phenomenal rise in the last few years, observers say they’re terrible for the environment. According toDigiconomist, a platform that tracks crypto energy usage, a single Ethereum transaction is equivalent to the weekly power consumption of an average US household.
-  
-  Earlier this month,Digiconomist saidthat the powersavedas a result of the upgrade would “likely be equivalent to the electrical energy consumption of a country like Portugal.”It could also become the  “final nail in the coffin” for bitcoin’s transaction mechanism.
-  
-  Ethereum was down 0.7% after the news, trading at $1,592.78, but analysts say the upgrade could have a big impact on the crypto world in the long run. The world’s most valuable cryptocurrency, bitcoin, was down almost 1%, trading at $20,174, according to CoinDesk.
-  
-  “It’s been a long time in the making and the question on traders’ lips right now is will it be the next bullish catalyst for cryptos or a “sell the fact” event,” wrote Craig Erlam, a senior market analyst at Oanda,  in a note on Thursday.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca9c2196b50eb1cd6a55e8c700aa6db8e0b18f347cf8ce12ee24d771f8fe803c
+size 3526

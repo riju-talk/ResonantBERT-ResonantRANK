@@ -1,35 +1,3 @@
-id: cnn_2023_01606
-title: "Google details plans to use AI in search results"
-date: "2023-02-08"
-section: "Tech"
-url: "https://www.cnn.com/2023/02/08/tech/google-search-event"
-content: |
-  Google on Wednesday detailed plans to use artificial intelligence technology to radically change how people search for information online, one day after rival Microsoft announced a revamped version of Bing powered by AI.
-  
-  Atan eventin its Paris office, Prabhakar Raghavan, an SVP at Google, said the company will bring “the magic of generative AI” directly into its core search product and use artificial intelligence to pave the way for the “next frontier of our information products.”
-  
-  Microsoft unveils revamped Bing search engine using AI technology more powerful than ChatGPT
-  
-  Generative AI is the technology that underpins ChatGPT, the viral AI chatbot tool backed by Microsoft. These tools are trained on vast troves of information online in order to generate compelling written responses to user prompts and queries. It can also be used to generate images.
-  
-  In his presentation, Raghavan noted this technology would allow Google’s search engine to offer more complex and conversational responses to queries, including providing bullet points ticking off the best times of year to see various constellations and also offering pros and cons for buying an electric vehicle.
-  
-  “The potential for generative AI goes far beyond language and text,” he said, noting that the new tech can be used to search through information “visually.”
-  
-  “With generative AI, we can already automate 360-degree spins of sneakers from just a handful of still photos, something that would have previously required merchants to use hundreds of product photos and costly technology,” Raghavan said. “As we look ahead, you could imagine how generative AI will enable people to interact with visual information in entirely new ways.”
-  
-  The event on Wednesday comes just days after Google unveiled its new AI-poweredchatbot dubbed “Bard” in an apparent bid to compete with theviral successof ChatGPT. Access to Bard was opened up to “trusted testers” earlier this week, and Google has plans to make the tool available to the public “in the coming weeks,” according to a blog post Monday from CEO Sundar Pichai.
-  
-  “We’ll continue to use feedback from internal and external testing to make sure it meets the high bar, our high bar for quality, safety, and groundedness, before we launch more broadly,” Raghavan said.
-  
-  Microsoft held its own press event on Tuesday, as anAI arms racebetween the tech giants heats up. At Microsoft’s event, the tech giantannounced an overhaul of its Bing search engineand Edge web browser that would be powered by AI. Microsoft last month confirmed plans to invest billions into OpenAI, the company behind ChatGPT.
-  
-  ChatGPT’s meteoric rise in popularity hasreportedlyprompted Google’s management to declare a “code red” situation for its core product: online search. In the two months since it launched to the public, ChatGPT has been used to generate essays and song lyrics, and answer questions one might have previously searched for on Google.
-  
-  The underlying technology that supports Bard has been around for some time, though not widely available to the public. Google unveiled its Language Model for Dialogue Applications (or LaMDA) some two years ago, and said that this technology will power Bard. LaMDA made headlines late last year when a former Google engineer claimed the chatbot was“sentient.” His claims were widely criticized in the AI community.
-  
-  The rise of AI-powered chatbots, and the incorporation of this technology into products like online search, could also carry risks. Because these tools are trained on data online, experts have noted they have the potential to perpetuate biases and spread misinformation. A number of AI-powered chatbots released by tech giants over the years – from Microsoft’sinfamous “Tay”in 2016 toMeta’s BlenderBot3 just last year– have run into trouble shortly after their public launch for offensive remarks.
-  
-  But Google and its rivals are increasingly betting on the technology’s potential to rethink search, one of the most foundational products on the internet.
-  
-  “Although we are 25 years into search, I dare say that our story has just begun,” Raghavan said. “We have even more exciting, AI-enabled innovations in the works that will change the way people search, work and play. We’re reinventing what it means to search and the best is yet to come.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:629eb936983ff98f4fcbee69057203851a1c3bc66fddd662bd64f760ea6ac62c
+size 4636

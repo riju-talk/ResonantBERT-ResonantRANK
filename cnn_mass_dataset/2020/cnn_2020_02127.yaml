@@ -1,27 +1,3 @@
-id: cnn_2020_02127
-title: "American paychecks just aren’t getting much bigger – unless you’re rich"
-date: "2020-02-20"
-section: "Economy"
-url: "https://www.cnn.com/2020/02/20/economy/wage-inequality-rising-2019/index.html"
-content: |
-  Income inequality in the United States worsened in 2019. Earners at the top of the income ladder received the largest increase in their paychecks, according to a report from the Economic Policy Institute.
-  
-  Wages at the 95th percentile grew by 4.5% last year, while the median increase was just 1%.
-  
-  That’s nothing new: The median hourly wage climbed about 15% between 1979 and 2019, but pay for workers in the 95th percentile grew more than 63% over the past 40 years.
-  
-  “Wage growth for low- and middle-wage workers continues to be slower than would be expected in an economy with relatively low unemployment,” said EPI Senior Economist Elise Gould.
-  
-  Economists have struggled to explain the sluggish wage growth for average and low earners. America’s labor market is healthy and the unemployment rate sits near a 50-year low. The Bureau of Labor Statistics’ latest jobs report showed the American labor force participation ticked up in January toits highest level since 2013.
-  
-  Workers who don’t currently have a job and are re-entering the labor force might have less bargaining power when it comes to negotiating salaries, which could weigh on wage data.
-  
-  A tight labor market, in which employers have to compete more actively for workers, should drive wages higher. But paychecks haven’t seen as big a boost as expected. This means policymakers should not assume that the economy is nearing full employment, Gould said. Remaining slack in the jobs market could explain why wages aren’t rising faster.
-  
-  The disparity in wage growth is worsening income inequality across the country. However, the lowest-income workers got a boost last year thanks to increases in minimum wage in 16 states and the District of Columbia. By lifting the minimum wage, these states helped people move up the income ladder as wages at the average 10th percentile grew more than 4%. In comparison, paychecks only rose 0.9% at the same percentile in states that didn’t increase the minimum wage last year.
-  
-  This trend has been going on for a while. Over the past seven years, 26 states and DC raised their minimum wage at least once. Local paychecks at the 10th percentile grew in lockstep, increasing by 17.6%, versus only 9.3% in the states without increases.
-  
-  The Federal minimum wage has been set at $7.25 since 2007, but many states have moved to raise wages. Median hourly wages stood at $19.33 per hour, which would translate into $40,000 per year.
-  
-  Minimum wage gainswill boost paychecks again in 2020, with increases in 24 states and 48 cities and counties expected.
+version https://git-lfs.github.com/spec/v1
+oid sha256:54d967881020d646cc7374087b2eac1be27468abaae2ac7b27be243eb3ff8044
+size 2854

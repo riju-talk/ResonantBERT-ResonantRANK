@@ -1,25 +1,3 @@
-id: cnn_2023_03144
-title: "This tech company is clearing out recurring meetings from employee calendars"
-date: "2023-01-03"
-section: "Tech"
-url: "https://www.cnn.com/2023/01/03/tech/shopify-meetings"
-content: |
-  One tech company is trying to help its employees kick off the new year with a clean slate, or at least an emptier calendar.
-  
-  In a memo to employees Tuesday, Shopify said it would do away with all previously scheduled recurring meetings involving three or more people and impose a “two-week cooling off period” before any of those meetings can be added back on to calendars.
-  
-  In a memo, a copy of which was provided to CNN, Shopify COO Kaz Nejatian also said the e-commerce company would reinstate meeting-free Wednesdays and limit large meetings with over 50 people to a six-hour window on Thursdays.
-  
-  The moves, which Nejatian described as a “useful subtraction,” are intended to help free up employee time and comes after many companies have experienced asharp increasein the number of meetings during the pandemic. As part of its announcement, Shopify said it will delete nearly 10,000 events from employee calendars, thereby clearing up over 76,500 hours.
-  
-  The change also follows a difficult year for Shopify. The company cut 10% of its staff last year after admitting tomaking the “wrong” betabout how long the pandemic-fueled online shopping boom would last.
-  
-  Slashing meetings could help make the company more efficient while also potentially boosting morale for some workers.
-  
-  “No one joined Shopify to sit in meetings,” Nejatian wrote.
-  
-  After the two-week scheduling freeze is done, Nejatian said employees should “be really critical” about what goes on their calendar. Shopify is also pushing a “no judgment zone,” urging employees to cancel meetings as they see fit.
-  
-  Shopify is also taking aim at how employees use workplace communication tools. The company said its employees’ Slack usage can be “bloated, noisy, and distracting.”
-  
-  Moving forward, Shopify is splitting internal communication between Slack and Workplace by Meta to be “super intentional” about how employees are receiving and sharing different kinds of information. The company is also encouraging employees to leave large, distracting Slack groups.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3682a60b277a1d0e9c9ebf182eb4b64ddedd9765ea6b26e8b6cab91c04dff884
+size 2313

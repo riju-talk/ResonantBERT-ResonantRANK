@@ -1,29 +1,3 @@
-id: cnn_2024_02702
-title: "Microsoft turns to the Middle East for its latest bet on AI"
-date: "2024-04-16"
-section: "Tech"
-url: "https://www.cnn.com/2024/04/16/tech/microsoft-g42-ai/index.html"
-content: |
-  Microsoft will invest $1.5 billion in Abu Dhabi’s G42, an artificial intelligence group that has faced questions over its ties to China.
-  
-  The companies will collaborate on AI and digital infrastructure, in a move that sees Microsoft’s AI empire expand into the Middle East for the first time.
-  
-  The move could attract sizeable scrutiny from regulators.
-  
-  G42 — led by Peng Xiao, a Chinese businessman and former CEO of Pegasus, a cybersecurity firm — has reportedly faced questions over its links to Beijing.
-  
-  In November, the New York Timesreportedthat US officials were concerned G42 could be used to share American technology and data with the Chinese government. Xiao denied those claims, calling them “misinformation” inan interview with CNN in January.
-  
-  G42 and Microsoft say they have committed to comply with US and international trade rules as part of their partnership.
-  
-  Microsoft President Brad Smith will join the G42 board as part of the deal. “Our two companies will work together not only in the UAE, but to bring AI and digital infrastructure and services to underserved nations,” he said.
-  
-  Last year, G42 unveiled an Arabic-language AI modelnamed “Jais,” which is available on Microsoft’s Azure platform.
-  
-  Microsoft has forged high-profile partnerships with several AI companies, in an attempt to position itself as a leader in the technology.
-  
-  Its partnership with OpenAI is credited as being one of the main drivers of Microsoft’s growth in the past year, but it has attracted interest from regulators in theUnited StatesandEuropewho fear Microsoft is becoming too dominant.
-  
-  Microsoft has also made ahost of high-profile AI investmentsoverseas in recent months. In February, it announced a partnership with Mistral, the leading French AI startup. The same month, it also pledged billions of dollars in funding for AI projects in Spain and Germany.
-  
-  “It’s all about this new AI era,” Smith told CNN in February. “Fundamentally, a new sector of the economy is being born.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8d1e5261d5160ce59f03b334aea24af84093b6d3262122ecb46eefd06f485f3
+size 2274

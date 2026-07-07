@@ -1,21 +1,3 @@
-id: cnn_2021_01114
-title: "GM recalling another 70,000 Chevrolet Bolt electric cars"
-date: "2021-08-20"
-section: "Business"
-url: "https://www.cnn.com/2021/08/20/business/gm-bolt-ev-recall/index.html"
-content: |
-  General Motors is recalling another 73,000 Bolt EV and EUV electric vehicles in the United States and Canada for a problem that could cause the vehicles to catch fire.
-  
-  GM had earlier announced that the recall would cost $800 million,but that was before the recall was expanded to cover all remaining Bolt vehicles. The recall is now expected to cost an additional $1 billion.
-  
-  The recall comes after GM had previously recalled about 70,000 Bolt vehicles for the same potential problem. The recall now covers Bolt EV and EUVs from 2017 to 2022.
-  
-  The recalled Bolt vehicles can catch fire after being charged due to a manufacturing defect, the company said. Until the batteries in the recalled vehicles can be checked and replaced, if necessary, GM recommends the vehicles be set to charge to only 90%. Owners should also charge their vehicles more frequently and avoid allowing the battery to be depleted to less than about 70 miles of driving range. The vehicles should also be parked outdoors right after charging and should not be charged indoors.
-  
-  GM now says it is pursuing reimbursements from Korean battery manufacturer LG, the company that made the batteries that, GM said, are the cause of the problem.
-  
-  LG did not immediately respond to a request for comment.
-  
-  GM had previously said that the problem with the Bolt batteries was caused by two rare battery manufacturing errors in model years 2017 to 2019 vehicles, and that more recent models did not undergo the same battery manufacturing process and so were not included in the recall. Now, though, GM is recalling 9,335 more model year 2019 Bolt EVs and another 63,683 model year 2020 through 2022 Bolt EV and Bolt EUV models. TheBolt EUVis a taller crossover SUV version of the Bolt EV.
-  
-  Concerned customers can visitwww.chevy.com/boltevrecallor contact the Chevrolet EV Concierge 1-833-EVCHEV, GM said in its announcement.
+version https://git-lfs.github.com/spec/v1
+oid sha256:391c8bfe928370f473464f7c3ba0c18eb1c1df341644699bc4877d163772c232
+size 2129

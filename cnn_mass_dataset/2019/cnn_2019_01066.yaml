@@ -1,29 +1,3 @@
-id: cnn_2019_01066
-title: "Apple’s credit card is here, but most people can’t use one yet"
-date: "2019-08-06"
-section: "Tech"
-url: "https://www.cnn.com/2019/08/06/tech/apple-credit-card-limited-launch/index.html"
-content: |
-  Five months after it was announced,Apple’s first credit cardis now available — but not to everyone.
-  
-  Hundreds of thousands of people signed up online to be notified when the Apple Card became available. Apple has randomly selected a limited number of them to receive invites Tuesday to apply for and use the new card before it rolls out later this month to everyone who qualifies, the companyannouncedon Tuesday.
-  
-  Apple Card is an Apple-branded credit card issued through Goldman Sachs that runs on Mastercard’s network and is only available to iPhone users. It works similarly to any other credit card — you can use the physical card at all the usual places, as well as inside the Apple Pay feature to make contactless payments with an iPhone.
-  
-  The credit card may fill some coverage gaps for Apple amongmerchants that don’t accept Apple Pay.
-  
-  Apple told CNN Business that Goldman Sachs willoversee customer dataand transactions, and that the bank would not misuse the data or sell it to third-parties. Goldman Sachs did not immediately respond to requests for comment.
-  
-  Apple, which teased the card in March, will give 3% cash back on Apple products, including iPhones and software subscriptions, 2% on any Apple Pay purchases and 1% on all other purchases.
-  
-  Its cash back percentage on Apple products ison par with other cards, including those offered by fellow tech giants. For example, Amazon offers Prime members 5% on all purchases using its branded card on its platform and at Whole Foods, and a $50 sign-up bonus. Uber offers 4% on dining.
-  
-  The physical card itself is optional, but free, for people who sign up for Apple Card. It has the usual Apple look: It’s white, made of titanium and hasApple’s logo on the top left. It’s slightly more substantial than a typical credit card and it doesn’t display any credit card numbers.
-  
-  To activate the card, you’ll need to tap it with an iPhone. The device will receive a notification and walk you through the set-up process.
-  
-  Anyone who wants to use Apple Card must also authenticate who they are with a fingerprint or via Face ID. They also need to set up the Apple Cash feature, which gives them the option of saving the cash they earn back on purchases or spending it instantly after they earn it each day.
-  
-  Apple Card syncs up with the iOS Wallet app to display a colorful representation of how much money you have spent, sorting transactions into categories like entertainment or food & drink. A payments wheel shows how much interest will be charged if you only pay part of the balance. Apple Card does not have any fees besides the variable interest charged when a balance is kept unpaid. It charges 12.99% to 23.99% interest rate, depending on your credit score. That’s slightly lower than what Apple initially advertised, pushed down by the Fed’s rate cut. But those aren’t better or worse compared to competitors.
-  
-  The card comes at a time when iPhone sales areon the decline, and the company looks todiversifywith services such as its gaming subscription serviceApple Arcadeand itsnews app subscription service,Apple News+. The iPhone no longer accounts for the majority of Apple’s revenue.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f859d4511a6ec1b5a3becd4504d0325fbd049c0857559880576d0a89d5c36c4
+size 3458

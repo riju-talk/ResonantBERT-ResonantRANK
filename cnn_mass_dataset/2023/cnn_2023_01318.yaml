@@ -1,17 +1,3 @@
-id: cnn_2023_01318
-title: "Spirit Airlines cancels some Friday and Saturday flights for unspecified inspections"
-date: "2023-10-20"
-section: "Business"
-url: "https://www.cnn.com/2023/10/20/business/spirit-airlines-flight-cancellations/index.html"
-content: |
-  Spirit Airlines says its flight schedule could be impacted for days as it scrambles to perform “a necessary inspection of a small section of 25 of our aircraft.”
-  
-  As of 2:45 p.m. EDT, the ultra-low-cost carrier has canceled 98 flights, or 11% of its schedule for Friday,according to flight tracking site FlightAware. The site also showed that Spirit has canceled another 81 flights, or 9% of its schedule, on Saturday.
-  
-  “While this action is being taken out of an abundance of caution, the impact to our network is expected to last several days as we complete the inspections and work to return to normal operations,” Spirit said in a statement. “We apologize for the inconvenience and are working to take care of affected guests.”
-  
-  Spirit has not specified the type of inspections that needs to take place, though FlightAware data shows almost all the cancellations involve Spirit’s Airbus A319 aircraft. The airline also operates A320s and A321s.
-  
-  Flights departing from airports such as Atlantic City, Hartsfield-Jackson, Nashville, Boston Logan, Baltimore/Washington, Dallas-Fort Worth, Houston Bush, Las Vegas, Los Angeles, Memphis, Orlando, Chicago O’Hare, Southwest Florida, and Tampa have been impacted.
-  
-  In a statement, the Federal Aviation Administration classified the checks as a “mandatory maintenance inspection” and that the agency “will ensure that the matter is addressed before the airplanes are returned to service.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:8037c5cc0fe7f3ae439c852d4ea21f4a72634bc698af2ac13c9e7498cabb45f4
+size 1740

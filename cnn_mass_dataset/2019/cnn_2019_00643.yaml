@@ -1,27 +1,3 @@
-id: cnn_2019_00643
-title: "Congress to approve $425 million for election security upgrades"
-date: "2019-12-16"
-section: "Politics"
-url: "https://www.cnn.com/2019/12/16/politics/congress-425-million-election-security-2019/index.html"
-content: |
-  Congress will approve a total of $425 million in election security funding, according to two sources familiar with the deal.
-  
-  The money, which comes in the appropriations bill set to be released Monday, is a compromise: significantly higher than the $250 million Senate Majority Leader Mitch McConnell hadinitially backedin September, but far below the more than $1 billion that the Democrat-controlled House hadpassed in HR 1 in March.
-  
-  It’s the biggest influx of cash to bolster US election infrastructure since the 2016 election, which prompted a gradual national consensus that voting machines that don’t use paper ballots or receipts – and thus can’t be independently verified with an audit – are outdated. Congress also passed $380 million for election security in the appropriations bill of 2018.
-  
-  Virginia Democratic Sen. Mark Warner praised the existence of the funding, but echoed election security experts in arguing that states should get a promise of regular annual funding to better plan their security strategy.
-  
-  “This is a welcome development after months of pressure, but this money is no substitute for a permanent funding mechanism for securing and maintaining elections systems, and comprehensive legislation to protect our elections, which the White House and Republican leaders in Congress have been blocking for two years now,” Warner told CNN.
-  
-  “While states are sorely in need of funds to modernize and secure election systems, what’s substantially more important are setting minimum security baselines (including paper ballots) and establishing a mechanism of recurring – rather than haphazard – funding for continued IT upkeep and modernization,” Warner said. “We’ve had bipartisan legislation to accomplish both of those things for over two years – but have been stymied at every turn by the White House and Republican leaders.”
-  
-  Larry Norden, director of the Election Reform Program at the Brennan Center, said that “the frustrating thing about this is that it’s progress, but it’s also a Band-Aid.” The Brennan Center has issued multiple studies on the steps it would take to bring US election infrastructure to what it considers a level baseline of security.
-  
-  Brennan’s latest estimate is that it would take$2.2 billion in fundingover the next five years – including a commitment to make election security funding a fixture each year, so that state and local officials can make long term plans.
-  
-  “At the end of the day, we need a Congress that’s a full partner in election security, and that means consistent, steady funding. And I’d like to see at the very least some national guidelines around cybersecurity post-election audits, from Congress,” Norden said. “Unfortunately, that’s a bridge too far for this current Congress. In the short term this is a good outcome, and more than a lot of people expected.”
-  
-  The funding process is somewhat complicated in that it follows the formula created by the Help America Vote Act – the 2002 law passed in the wake of the controversial 2000 presidential election – that led to the widespread adoption of paperless voting machines in the first place. That formula doesn’t take into account that some states have significantly newer and more sophisticated systems than others.
-  
-  “Our partnership with Congress to provide safe and secure elections throughout the country is stronger than ever – and it has to be,” West Virginia Secretary of State Mac Warner told CNN. “Federal funding is critical to every state as we prepare to protect ourselves against foreign influences in the 2020 election cycle.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:cbd6992c0f7dd7e9ac6893658b690b8eea09644398b74d4ee57f1ee3d224920f
+size 3933

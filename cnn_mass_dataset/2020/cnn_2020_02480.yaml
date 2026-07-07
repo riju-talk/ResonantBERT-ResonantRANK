@@ -1,15 +1,3 @@
-id: cnn_2020_02480
-title: "Google Maps is back on the Apple Watch"
-date: "2020-08-11"
-section: "Tech"
-url: "https://www.cnn.com/2020/08/11/tech/google-maps-apple-watch-trnd/index.html"
-content: |
-  Google Mapswill soon return to the Apple Watch after suddenly disappearing three years ago.
-  
-  The new app, which includes step-by-step directions and estimated arrival times, will be available to download in the coming weeks, Google said.
-  
-  This time around, Maps is a standalone app available in theApple Watch app store— a bit of a change from its previous iteration, when iPhone users had to download the Google Maps iOS app then use it as an extension on their Watch. Several other apps, like Amazon and eBay, pulled their iOS apps’ support for the Apple Watch in 2017 without offering an explanation, according toprevious reports.
-  
-  Google(GOOGL)is also rolling out an update this week that will expand its Maps app compatibility withApple’s CarPlay system. That means users can listen to music or check their calender in a side-by-side display of Google(GOOGL)Maps. The maps appear on the left of the screen and other features, like the music, appears on the right.
-  
-  Apple’s CarPlay infotainment system is available in97% of new cars, according to the company.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3a6f965166b4d0854fc41e3379687e61718027496022e1b46528ef2929cfa93
+size 1286

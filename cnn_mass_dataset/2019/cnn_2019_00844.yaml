@@ -1,19 +1,3 @@
-id: cnn_2019_00844
-title: "Lyft is rolling out a car rental service"
-date: "2019-12-12"
-section: "Tech"
-url: "https://www.cnn.com/2019/12/12/tech/lyft-car-rentals/index.html"
-content: |
-  Lyft(LYFT)has spent years battling Uber in the ride-hailing market. Now, it’s taking on Hertz and Avis, too.
-  
-  The companyannounceda new service called Lyft Rentals on Thursday, which allows users to rent cars for up to two weeks. A sedan in San Francisco was available for $35 per day on Thursday, but prices vary significantly depending on the day and time of booking and could go up to $149 per day on the weekend.
-  
-  Lyft Rentals will initially be available only in Los Angeles and the San Francisco Bay Area, where the companyhas been testing themfor a few months. It says it won’t hit customers with mileage-based charges and extra refueling costs that other car rental companies add on, boasting of “no lines, hidden fees or last-minute vehicle model changes” in a blog post published Thursday.
-  
-  Lyft is offering free rides so that people can go to job interviews
-  
-  Lyft will also give riders credits of up to $20 each way for rides to and from its rental lots — two in Los Angeles and one each in San Francisco and Oakland. Users can rent a Mazda 3 sedan or a Mazda CX-5 SUV in Los Angeles, and can choose between a Volkswagen Passat or a Volkswagen Atlas SUV in the Bay Area.
-  
-  In its release, Lyft marketed the service as useful for things like moving and errands. However, it is currently offering only daily rates, so someone using the car for only a few hours will still have to pay for a full day.
-  
-  Lyft declined to comment on how many cars it currently has available. The company is also offering various insurance plans that cover the car, the driver and third parties, respectively.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e99a6d1f7049c80702b4c3e0d91856839e2575548b88f2b830c4b163940f3559
+size 1817

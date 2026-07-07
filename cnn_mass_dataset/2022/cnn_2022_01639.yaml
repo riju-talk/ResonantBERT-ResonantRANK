@@ -1,29 +1,3 @@
-id: cnn_2022_01639
-title: "US officials warn of new hacking tools that could be used to target energy facilities"
-date: "2022-04-13"
-section: "Politics"
-url: "https://www.cnn.com/2022/04/13/politics/hacking-industrial-facilities-energy-department/index.html"
-content: |
-  US officials warned Wednesday that unnamed hackers have developed tools designed to “gain full system access” to the sensitive computer systems used to operate energy facilities.
-  
-  The tools could help a hacker burrow into an industrial computer network and “disrupt critical devices or functions,” said the Department of Energy, the FBI, the National Security Agency and the Cybersecurity and Infrastructure Security Agency in anadvisory.
-  
-  There are no reports of the malicious code being used in cyberattacks. But US officials and cybersecurity experts urged organizations to harden their defenses because the malicious software could be used to disrupt critical infrastructure if successfully deployed.
-  
-  The hacking tools could permit “lower-skilled cyber actors to emulate higher-skilled actor capabilities,” the US agencies said.
-  
-  The agencies did not identify who was responsible for developing the hacking tools or in what country they had been developed. CNN has requested comment from the agencies.
-  
-  Russian military-linked hackers target Ukrainian power company, investigators say
-  
-  Two US cybersecurity firms that analyzed the hacking tools, Dragos and Mandiant, said the malicious software was likely state-sponsored. Mandiant analystscalledit “an exceptionally rare and dangerous cyber attack capability.”
-  
-  “We are unable to associate (the hacking tools) with any previously tracked group at this stage of our analysis, but we note the activity is consistent with Russia’s historical interest” in industrial control systems, Mandiant analysts said. The tools pose “the greatest threat to Ukraine, NATO member states, and other states actively responding to Russia’s invasion of Ukraine,” the analysts added.
-  
-  For years, multiple state-linked hacking groups, including some tied to Russia, China and Iran, have taken an interest in infiltrating industrial computer networks. Doing so generally takes specialized knowledge and skill that is different from hacking a business computer network.
-  
-  For their part, US and Israeli hackers werereportedlybehind the 2009 cyber operation against an Iranian facility for nuclear energy.
-  
-  Ukrainian authorities on Tuesdayaccused a hacking grouplinked with Russian military intelligence of trying to sabotage an electric utility that served about 2 million people in Ukraine. Ukrainian officials said the attack had been thwarted and had not affected the provision of electricity at the utility.
-  
-  The Justice Department has blamed the same Russian hacking group for causing power outages in Ukraine in 2015 and 2016. Those cyberattacks are the only two hacks on record that have successfully caused power outages, according to analysts.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eff95ab4f9ee4ccb4b362869d08d611ca969e36ffd00bd073128426469c2b392
+size 3028

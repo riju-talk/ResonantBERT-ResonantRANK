@@ -1,23 +1,3 @@
-id: cnn_2024_03423
-title: "Mexico tests cellphone app allowing migrants to send alert if they are about to be detained in US"
-date: "2024-12-27"
-section: "Americas"
-url: "https://www.cnn.com/2024/12/27/americas/mexico-cellphone-app-deportations-intl-latam/index.html"
-content: |
-  Mexico is developing a cellphone app that will allow migrants to warn relatives and local consulates if they think they are about to be detained by the U.S. immigration department, a senior official said Friday.
-  
-  The move is in response to President-elect Donald Trump’s threats to carry out mass deportations after he takes office on Jan. 20.
-  
-  The app has been rolled out for small-scale testing and “appears to be working very well,” said Juan Ramón de la Fuente, Mexico’s secretary of foreign affairs.
-  
-  He said the app would allow users to press a tab that would send an alert notification to previously chosen relatives and the nearest Mexican consulate. De la Fuente described it as a sort of panic button.
-  
-  “In case you find yourself in a situation where detention is imminent, you push the alert button, and that sends a signal to the nearest consulate,” he said.
-  
-  U.S. authorities are obliged to give notice to home-country consulates when a foreign citizen is detained. Mexico says it has beefed up consular staff and legal aid to help migrants in the legal process related to deportation.
-  
-  De la Fuente expects the app to be rolled out in January. He didn’t say whether the app has a de-activation tab that would allow someone to rescind an alert if they weren’t really detained.
-  
-  The government says it has also set up a call center staffed 24 hours a day to answer migrants’ questions.
-  
-  The Mexican government estimates there are 11.5 million migrants with some form of legal residency in the United States, and 4.8 million without legal residency or proper documents.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aff2c1940c92cf796e48c82958416d3ec329aabac4b44caa291f9548042cbf1e
+size 1913

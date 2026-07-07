@@ -1,31 +1,3 @@
-id: cnn_2022_02409
-title: "Opinion: The GDP report isn’t as bad as it seems, but there are still economic risks ahead"
-date: "2022-05-03"
-section: "Perspectives"
-url: "https://www.cnn.com/2022/05/03/perspectives/gdp-report-economy-risks/index.html"
-content: |
-  Editor’s Note:Erik Lundh is a principal economist at The Conference Board. Dana Peterson is an executive vice president and chief economist at The Conference Board. The opinions expressed in this commentary are their own.
-  
-  If you grimaced at the most recent US GDP report, you weren’t alone. At first glance, it suggested that the US economy may have entered a recession.Growthnosedived in the first quarter of the year, shrinking by an annualized rate of 1.4%. Bizarrely, though, the details of the report show relatively sound economic fundamentals. In fact, looking ahead, there is reason to be cautiously optimistic about economic growth over the remainder of the year.
-  
-  Indeed, a closer look at the underlying data suggests that the first quarter figure represents a perfect storm of temporary disruptions that distorted overall GDP growth, rather than signs of a deeper problem.
-  
-  Gross domestic product is broken up into several pieces — including consumption, investment, government spending and international trade — which measure the overall spending that occurs in an economy. The biggest and most important components are consumption and investment, which measure what US consumers and businesses are doing. While government spending is important, too, it’s a smaller piece, and international trade, which includes exports and imports, can be quite volatile.
-  
-  Over the first quarter of this year,consumptiongrew by 2.7%, with spending onservicesperforming especially well. This tells us that Americans are eager to get out of their homes to dine out and go on vacation. Spending ongoodswas roughly flat for the quarter, which is understandable given how much “stuff” we’ve accumulated over the last two years. This pivot in spending patterns should continue, even as thewar in Ukrainedrives up prices for things like food and gasoline. Thus, these data show that US consumer spending held up in the first quarter.
-  
-  Meanwhile, US businesses also continued to spend. Investment inequipment and machineryrose 15% in the first quarter of this year, and investment inintellectual property(like software and research & development) rose 8.1%. This shows that even in the face of rising wages and rising materials costs, US businesses continued to invest in their future.
-  
-  Inventories are one important caveat to the business spending story. As the pandemic disrupted factories and shipping lanes in 2020 and 2021, warehouse stockpiles got pummeled around the country. US businesses worked to replenish these stockpiles over the last two quarters, andinventoriesrose by an impressive $193 billion in the fourth quarter of last year and $159 billion in thefirst quarter of 2022. These were big gains, but because the most recent number was smaller than the previous one, the resulting quarter-to-quarter growth rate for inventories declined and hurt overall GDP growth. This drag is therefore a bit misleading.
-  
-  Opinion: The Fed can't afford to make the wrong moves again
-  
-  Relatedly, trade was also a critical factor in shrinking GDP. “Net exports” (that’s exports minus imports) cut overallGDP growthby 3.2% asexportsfell 5.9% in the first three months of 2022 whileimportsjumped 17.7%. These trade numbers suggest that domestic demand was strong (especially as US businesses continued to restock their inventories from factories overseas), but foreign demand for US goods and services was weak. If exports and import growth had been balanced, GDP growth would have certainly been positive last quarter.
-  
-  Thus, while each of these pieces of GDP played a role in the economic story in the first quarter, the stars of the show — consumption and investment — performed well. Unfortunately, complications in inventories and international trade dragged the whole quarter down.
-  
-  And while most economists (including those at The Conference Board) will likely lower their GDP forecast for 2022 following the release of these first quarter data, the trends seen in consumption and investment suggest that the US economy is pushing forward despite a prolonged period of high inflation. A tight labor market and rising wages are supporting demand among US consumers, and businesses are scrambling to give them what they’re asking for. Yes, interest rates will continue to rise as the Federal Reserve works to rein in inflation, but its goal is to slow demand — not destroy it.
-  
-  Nevertheless, sizable risks still weigh on the US economic outlook. Renewed Covid-19 outbreaks in China have resulted inlockdownsthat could reverse progress in global supply chains. Additionally, the war in Ukraine has the potential to spiral even further out of control, driving food and energy prices even higher. This kind of an environment makes it easier for the Federal Reserve to make policy mistakes as it walks the tightrope between maintaining economic growth and combating inflation.
-  
-  Policymakers will have to carefully monitor these factors moving forward to ensure the weakness seen in some parts of the economy doesn’t spread to the core of the actors: US consumers and businesses.
+version https://git-lfs.github.com/spec/v1
+oid sha256:022ad67b428d4378fb77d27bd19dc87d11fdc5fa579650a202fb09bf0c3f72f4
+size 5413

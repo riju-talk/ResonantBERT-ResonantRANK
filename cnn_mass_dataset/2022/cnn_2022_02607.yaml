@@ -1,29 +1,3 @@
-id: cnn_2022_02607
-title: "Why Apple is ditching the physical SIM card"
-date: "2022-09-09"
-section: "Tech"
-url: "https://www.cnn.com/2022/09/09/tech/esim-card-iphone-explainer"
-content: |
-  The days of using a paper clip to perform microsurgery to extract a tiny SIM card from a little tray in your iPhone may be coming to an end.
-  
-  At its closely-watchedpress eventthis week, Apple revealed that it is ditching the physical SIM cards and trays on its new iPhone 14 lineup in the United States. In its place, the company is embracing a digital alternative known as eSIMs.
-  
-  Apple unveils new iPhones, Apple Watches and AirPods
-  
-  A SIM card is a unique identifier in every cell phone that enables the device to connect to wireless networks in order to text and make calls. An eSIM refers to an “embedded” SIM, or a card that is hardwired into the phone itself. People tend to change their SIM cards when they are switching carrier plans or traveling internationally and seeking to use a different service provider during their trip.
-  
-  Apple first rolled out eSIM support on iPhones in 2018, with the promise of making it easier for customers to activate their cellular plans and to use multiple phone numbers and carriers for the same device.
-  
-  Now, Apple is doubling down on this featureby entirely doing away with the infrastructure to support physical SIM cards on the iPhone 14.
-  
-  “With eSIM you can quickly transfer an existing cellular plan or get a new cellular plan, all digitally,” Kaiann Drance, Apple’s VP of iPhone marketing, said at the event Wednesday.
-  
-  Drance also touted how eSIM cards can make devices “more secure,” noting that “someone can’t remove the physical SIM card if your iPhone is lost or stolen.”
-  
-  The Federal Communications Commission alsostatesthat eSIMs carry “significant security benefits.” Some bad actors have been known to steal a physical SIM card and swap it into a different phone to gain access to someone’s information and reset their accounts, according to the federal agency. An eSIM card may reduce this risk because it “cannot be stolen without stealing the phone.”
-  
-  In theory, doing away with the SIM card slot could carry another benefit: allowing more room for larger batteries or other features on the phone. That’s no small thing for a company like Apple that is always trying to make its devices thinner.
-  
-  While ditching the SIM card slot may not be as polarizing as Apple’s decision to ditch the headphone jack, it has alreadycaused some grumblingson social media.
-  
-  Frequent international travelers, in particular, are used to switching out physical SIM cards in different places and may travel to places where carriers don’t yet support the use of eSIMS. In mainland China, for example, eSIM functionality on the iPhone 14 is currently not offered.
+version https://git-lfs.github.com/spec/v1
+oid sha256:185da3572d654e1ef65a914e8c618e2584ff4062282bcadfaf5a81284acecc1a
+size 2875

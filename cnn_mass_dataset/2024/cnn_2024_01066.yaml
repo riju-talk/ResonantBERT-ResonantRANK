@@ -1,35 +1,3 @@
-id: cnn_2024_01066
-title: "Oil giant Halliburton hit by apparent cyberattack disrupting systems"
-date: "2024-08-21"
-section: "Business"
-url: "https://www.cnn.com/2024/08/21/business/oil-giant-halliburton-apparent-cyberattack/index.html"
-content: |
-  Oil giant Halliburton said Wednesday it’s grappling with a computer system issue reportedly linked to a cyberattack.
-  
-  A person familiar with the matter toldReutersthat Halliburton was hit by a cyberattack that appears to be impacting business operations at the company’s Houston campus and some global networks.
-  
-  Halliburton would neither confirm nor deny to CNN that it is the victim of a cyberattack, but the oilfield services firm did acknowledge an unspecified “issue.”
-  
-  “We are aware of an issue affecting certain company systems and are working diligently to assess the cause and potential impact,” a Halliburton spokesperson said in a statement. “We have activated our pre-planned response plan and are working internally and with leading experts to remediate the issue.”
-  
-  Halliburton declined to describe the nature of the incident.
-  
-  ﻿The Energy Department told CNN on Thursday it has seen no evidence of a disruption to energy services.
-  
-  Asked by CNN about the reported Halliburton attack, Energy Department spokesperson Charisma Troiano said in a statement the agency is “aware of reports of a cyber incident impacting an energy services company.”
-  
-  “However, the exact nature of the incident is unknown at this time,” Troiano said, without naming Halliburton directly.
-  
-  “There are no indications that the incident is impacting energy services at this time and DOE is coordinating with interagency partners,” the Energy Department spokesperson said.
-  
-  Representatives for the Cybersecurity and Infrastructure Security Agency and the American Petroleum Institute did not provide a comment.
-  
-  Cyberattacks have increasingly disrupted operations at businesses.
-  
-  Aransomware attack on software provider CDK Globalcaused trouble at thousands of auto dealers across the United States earlier this year. CDK appears to havepaid a $25 million ransomto hackers to resolve the massive disruption, sources previously told CNN.
-  
-  During the spring of 2021, aransomware attack paralyzed the Colonial Pipeline, causing panic buying that wiped out supplies at gas stations along the East Coast.
-  
-  Eric Noonan, CEO of security and IT provider CyberSheath, said the apparent cyberattack on Halliburton is another reminder of the vulnerability of companies that operate critical infrastructure like energy.
-  
-  “Critical infrastructure operators in the United States get to decide how well they do or do not employ cybersecurity controls,” Noonan said. “This is a situation that cannot continue in perpetuity without enormous costs to the American people.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:e25fab69c8036816566b7831f559db34b55a9dbb1f10238a09472832e515f89b
+size 2885

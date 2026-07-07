@@ -1,25 +1,3 @@
-id: cnn_2023_01431
-title: "Russian propagandists exploited celebrity Cameo videos to spread disinformation, Microsoft says"
-date: "2023-12-07"
-section: "Tech"
-url: "https://www.cnn.com/2023/12/07/tech/cameo-celebrity-russia-propaganda-video/index.html"
-content: |
-  Russian propagandists exploited celebrity videos from the popular platform Cameo to support their misinformation campaigns, cybersecurity researchers at Microsoft said.
-  
-  Starting in July, pro-Russia social media channels began circulating videos of American celebrities that were “deceptively edited to push anti-Ukraine propaganda,” according to a report published Thursday by Microsoft’s Threat Analysis Center. The report said an unknown Russia-aligned influence actor leveraged Cameo, the popular website where people can pay public figures for personalized video messages, to obtain these videos of celebrities, including actor Elijah Wood and boxer Mike Tyson.
-  
-  The celebrities were apparently unaware that these videos were then edited in ways that appeared to attack Ukrainian President Volodymyr Zelensky.
-  
-  “The short video messages, which often feature celebrities pleading with ‘Vladimir’ to seek help for substance abuse, are edited by the unknown actor to include emojis and links,” according to the report. The videos were shared widely by pro-Russian social media accounts, and then were further amplified by state-backed Russian media outlets, the report said, where they were inaccurately portrayed as messages appealing directly to President Zelensky.
-  
-  Russia’s US embassy did not respond to CNN’s request for comment.
-  
-  The Microsoft researchers said they observed at least seven of these type of manipulated celebrity video messages being used since late July 2023. In addition to Wood and Tyson, videos featured other US celebrities such as Priscilla Presley, and actors Dean Norris, Kate Flannery and John McGinley. A representative for Tyson told CNN in an statement that the videos circulating of Tyson were false, and he had “zero involvement” with “creating such content.” “Anything outside of his usual lighthearted cameo videos are being altered,” the representative added.
-  
-  The other celebrities named in the report did not immediately respond to CNN’s requests for comment.
-  
-  The videos were edited in some cases to make it look like they were interviews with news outlets or from a celebrity’s own social media account – and part of broader pleas to Zelensky to get help for a supposed substance abuse issue.
-  
-  “Kremlin officials and Russian state-sponsored propaganda have long promoted the false claim that President Zelensky struggles with substance abuse; however, this campaign marks a novel approach by pro-Russia actors seeking to further the narrative in the online information space,” the Microsoft researchers stated in the report.
-  
-  A Cameo spokesperson told CNN in a statement that the company does not publicly comment “on the details of its Trust & Safety investigations.” The spokesperson added, however, that these sort of videos “would violate Cameo’s Community Guidelines, and in cases where such violations are substantiated Cameo will typically take steps to remove the problematic content and suspend the purchaser’s account to help prevent further issues.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:21bbc7f80eab1d64be2ce61d32a9b57a1026474bda1e7793825d7ada5ce5674e
+size 3362

@@ -1,13 +1,3 @@
-id: cnn_2023_01174
-title: "3.8 magnitude earthquake rattles the Buffalo, New York, area"
-date: "2023-02-06"
-section: "US"
-url: "https://www.cnn.com/2023/02/06/us/buffalo-earthquake-monday/index.html"
-content: |
-  A 3.8 magnitude earthquake rattled the Buffalo, New York, area early Monday.
-  
-  The quake struck around 6:15 a.m. and was centered just over a mile northeast of West Seneca at a depth of about 1.9 miles, theUS Geological Surveysaid.
-  
-  There were no immediate reports of damage or injuries, theBuffalo officeof the National Weather Service said.
-  
-  The earthquake comes weeks after the area endured a deadly winter storm that left39 people dead in Erie Countyand the city of Buffalo buried under nearly 52 inches of snow. The county also issued a “code blue” warning last week and opened three warming shelters asdangerously cold temperaturesgripped the northeast.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc4770f281adce6f574932504aa26d49605096956f6df0d2049cc2b3fe71adab
+size 888

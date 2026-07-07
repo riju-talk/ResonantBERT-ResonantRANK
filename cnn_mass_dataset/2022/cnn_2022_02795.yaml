@@ -1,21 +1,3 @@
-id: cnn_2022_02795
-title: "PayPal enables Ukrainian accounts to send and receive money"
-date: "2022-03-18"
-section: "Tech"
-url: "https://www.cnn.com/2022/03/18/tech/paypal-ukraine"
-content: |
-  PayPal(PYPL)said Thursday it is expanding its services for Ukrainian accounts and allowing them to send and receive money from friends and family.
-  
-  The payments company also said in a letter to the Ukrainian government that Ukrainian account holders will be able to transfer money from their PayPal accounts to credit and debit cards, as well as to external bank accounts by linking an eligible Visa or Mastercard debit or credit card.
-  
-  How hackers, Arnold Schwarzenegger and the State Department are trying to pierce Putin's digital Iron Curtain
-  
-  “We believe this service will be helpful for people in Ukraine to receive money from their friends and relatives around the world,” PayPalwrote in a letterdated March 17 to Ukraine’s Minister of Digital Transformation, Mykhailo Fedorov. “It will also help Ukrainian refugees in other countries, so they can receive money to use or withdraw in their current location.”
-  
-  Previously, PayPal users in Ukraine could only send money internationally from their accounts, not receive it, the company told CNN Business.
-  
-  PayPal is also waiving transaction fees for remittances to Ukrainian accounts, for both senders and recipients. The change also applies to Xoom, PayPal’s global remittance platform, the company said in a blog post.
-  
-  Money transferred from a PayPal account to a linked debit or credit card will make the funds available in the card’s local currency. Ukrainian users will be able to send and receive euros, US dollars, Canadian dollars and British pounds.
-  
-  The temporary service expansion will last through the end of June, the company said.
+version https://git-lfs.github.com/spec/v1
+oid sha256:13f2ce9836a6f78eb1e6524b5739aa5a2aa1a0477c6611ff22f0adf627da1afa
+size 1836

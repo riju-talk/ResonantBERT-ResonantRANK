@@ -1,31 +1,3 @@
-id: cnn_2024_03316
-title: "US safety regulations will require better automatic braking"
-date: "2024-04-29"
-section: "Cars"
-url: "https://www.cnn.com/2024/04/29/cars/nhtsa-auto-safety-regulations-automatic-braking/index.html"
-content: |
-  With distracted driving and pedestrian fatalities on the rise, auto industry regulators believe technology can prevent hundreds of deaths and thousands of injuries each year.
-  
-  New rules from the National Highway Traffic Safety Administration will require improved automating braking systems on new cars sold in the United States by September, 2029.
-  
-  These new regulations will require the systems to automatically apply brakes and prevent crashes and pedestrian impacts at higher speeds than most current systems, and to work at night as well as during the day.
-  
-  Even though automatic emergency braking, or AEB, is already common on new vehicles sold in the US, these new requirements will save hundreds of lives per year, NHTSA officials said in a statement.
-  
-  AEB is standard equipment on a large majority of new vehicles sold thanks to avoluntary agreement most automakers signed in 2016. Currently, AEB is used mostly to prevent rear-end collisions, a very common type of crash.
-  
-  Vehicles with AEB use sensors such as radar, sonar, or cameras to detect when a vehicle ahead has slowed or stopped,or if there is an obstacle in the road. If the driver fails to respond in time or with enough braking force, AEB systems apply the brakes automatically.
-  
-  While AEB may not always prevent a crash it can, at least, lessen the severity of the impact. Research by the privately funded Insurance Institute for Highway Safety showed today’s AEB systems reduced rear-end collisions by about 50%.
-  
-  Vehicles with pedestrian detection add sensors or cameras to recognize the presence of people walking in front of the car as it drives. Again, if the driver fails to respond, the system will automatically stop the car. And even if they don’t bring the car to a halt, they can reduce the severity of injuries to pedestrians.Arecent study by the IIHSfound that AEB with pedestrian detection reduced the risk of injury to pedestrians by about 30%.
-  
-  Pedestrian fatalities haveincreased 83% since reaching a low point in 2009, according to the IIHS. Bicyclist deaths from getting hit by vehicles have increased 75% over the same period.
-  
-  The new NHTSA regulations will require AEB systems that can help prevent collisions with other cars at speeds up to 62 miles an hour, and will require the car to stop before hitting pedestrians from speeds as high as 45 miles an hour. The system is also required to apply brakes at speeds up to 90 miles an hour, even if it it can’t entirely prevent a crash.
-  
-  The same study found that the pedestrian detection systems in vehicles today are ineffective in low-light conditions, at high speeds, or when the vehicle is turning — so, the agency sees significant room for improvements.
-  
-  The new rules will prevent as many as 360 deaths annually, according to NHTSA, and up to 24,000 injuries.
-  
-  “Most new vehicles already come with AEB, and we expect that many cars and light trucks will be able to meet this standard ahead of the deadline, meaning even more lives will be saved thanks to this technology,” NHTSA Deputy Administrator Sophie Shulman said in a statement.
+version https://git-lfs.github.com/spec/v1
+oid sha256:753c9a247d06dc14b0e487ec67310222e46227c8347ffb1af02bda50a576e513
+size 3385

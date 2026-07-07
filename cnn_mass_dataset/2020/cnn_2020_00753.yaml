@@ -1,17 +1,3 @@
-id: cnn_2020_00753
-title: "Twitter just made it much easier to follow stocks"
-date: "2020-10-03"
-section: "Tech"
-url: "https://www.cnn.com/2020/10/03/tech/twitter-ticker-symbol-topics/index.html"
-content: |
-  Twitter has long allowed users to include stock ticker symbols in their tweets. Now it’s allowing them to follow those stock tickers in the same way they can follow other news.
-  
-  A full list of the stocks you can followis here, under Business and Finance > Investing > Stocks. Twitter(TWTR)has included stocks like Apple, Amazon, Alibaba, Disney, Google, JPMorgan, Tesla and Zoom. It, of course, included its own stock ticker.
-  
-  Twitter said to CNN Business in a Friday email that it will be adding more stocks in coming weeks.
-  
-  Finance accounts on Twitter cheered the news on Thursday, although Ryan Sellers, aka@OpenOutcrier, pointed out that the platform still needs to clean up its bot problem.
-  
-  “Search any ticker and 90% is just bots,” Sellers tweeted. Twitter did not immediately respond to comment on Saturday.
-  
-  The update comesover eight yearsafter Twitter first released a feature that lets you click on stock tickers, and11 years afterit first allowed the dollar sign to function like a hashtag in tweets.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2166fb14932d0d1e4393a568c27c369d07f5f663f313bd50220fbec551ba308c
+size 1250

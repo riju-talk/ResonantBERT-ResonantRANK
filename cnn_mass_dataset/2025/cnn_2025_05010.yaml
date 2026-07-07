@@ -1,31 +1,3 @@
-id: cnn_2025_05010
-title: "Court overturns ex-Citi trader Hayes’ criminal conviction for interest rate rigging"
-date: "2025-07-23"
-section: "Business"
-url: "https://www.cnn.com/2025/07/23/business/tom-hayes-libor-scandal-conviction-overturn-intl"
-content: |
-  Tom Hayes, the first trader ever jailed for interest rate rigging, had his conviction overturned by Britain’s top court Wednesday after a years-long fight to clear his name.
-  
-  The UK Supreme Court unanimously allowed Hayes’ appeal, overturning his 2015 conviction of eight counts of conspiracy to defraud by manipulating Libor, a now-defunct benchmark interest rate.
-  
-  The court said there had been “ample evidence” for a jury to reasonably conclude Hayes had conspired with others to manipulate Libor submissions – much of it coming from Hayes’ own interviews with Britain’s Serious Fraud Office, which brought the charges against him.
-  
-  But the jury 10 years ago was misdirected by the judge, the court said, and that “undermined the fairness of the trial.”
-  
-  Supreme Court judge George Leggatt said Hayes was entitled to present his defense against allegations that he conspired to submit false information, including his insistence that he acted honestly, and to have those claims fairly considered by the jury.
-  
-  “He was deprived of that opportunity by directions which were legally inaccurate and unfair,” the court said, adding that his convictions were “therefore unsafe and cannot stand.”
-  
-  Hayes had initially received a 14-yearprison sentence, later reduced to 11 years on appeal. He served five and a half years before being released on license in 2021.
-  
-  A former star Citigroup and UBS trader, Hayes became the face of the global Libor scandal and challenged his conviction during three days of hearings at the UK Supreme Court along with Carlo Palombo, 46, a former Barclays trader who was found guilty in 2019 of skewing Libor’s euro equivalent, Euribor.
-  
-  The court also quashed Palombo’s conviction. He was given a four-year sentence in 2019.
-  
-  The SFO said that after considering the judgment it would not be in the public interest for it to seek a retrial.
-  
-  Hayes and Palombo had argued that their convictions depended on a definition of Libor and Euribor that assumes there is an absolute legal bar on a bank’s commercial interests being taken into account when setting rates.
-  
-  The Libor rate, phased out in 2023, was designed to reflect banks’ short-term funding costs and based on daily estimates from a group of banks as to how much they would expect to pay to borrow funds from each other for a range of currencies and periods.
-  
-  Hayes’ challenge at the Supreme Court followed a landmark US court decision in 2022 that overturned the Libor rigging convictions of two former Deutsche Bank traders.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b47301cc46d805d048f9723953e5f94f545b57c770e9dad3cceb13c11a8a0d2c
+size 2858

@@ -1,23 +1,3 @@
-id: cnn_2021_00715
-title: "Microsoft removed ‘Tank Man’ images on Tiananmen Square’s anniversary"
-date: "2021-06-06"
-section: "Tech"
-url: "https://www.cnn.com/2021/06/06/tech/tank-man-tiananmen-square-microsoft/index.html"
-content: |
-  Microsoft blocked images and videos around the world of “Tank Man,” the unidentified protester during China’s brutalcrackdown on pro-democracy demonstrationsin Beijing’s Tiananmen Square on June 4, 1989.
-  
-  The photos were taken down globally from Bing, Microsoft(MSFT)’s search engine, Friday — the 32nd anniversary of the event. A Microsoft(MSFT)spokesman said they were taken offline by mistake, attributing the removal to “human error.” The images reappeared around the world — outside of China — on Saturday.
-  
-  Bing, unlike its major competitors including Google(GOOGL), operates within mainland China. That means Microsoft is forced to censor search results for Chinese users, according to Chinese law — particularly images and information about theTiananmen Square protestsand the killings that ensued. China’s internet censorship typically ramps up in the weeks leading to  the event’s anniversary.
-  
-  Hundreds of people were killed on June 4, 1989, in Tiananmen Square. The massacre made headlines around the world — as did iconic images such as  “Tank Man” defying the troops on the square.
-  
-  Although China’s censorship typically pertains only within its borders, Microsoft’s accidental global takedown isn’t the first time Tiananmen Square information has been blocked outside of mainland China by a foreign company.
-  
-  The FBI in Decemberaccused a former Zoom employeeof participating in a scheme to censor meetings on behalf of the Chinese government. Xinjiang “Julien” Jin and co-conspirators allegedly terminated at least four video meetings commemorating the 31st anniversary of the Tiananmen Square massacre last June. Most of the meetings were organized and attended by US participants, some of whom were dissidents who had participated in and survived the 1989 protests, the FBI said.
-  
-  Tensions between the United States and China have escalated in recent weeks over China’s alleged surveillance of American companies that operate within its borders. President Joe Biden last week expanded a Trump-era ban on American investment in dozens of Chinese firms that Washington believes are linked to China’s military.
-  
-  Biden signed an executive orderThursday that prohibits Americans from owning or trading any securities tied to 59 companies, citing the threat of Chinese surveillance technology. The original order, signed by former President Donald Trump in November, applied to 31 Chinese companies that the administration said “enable the development and modernization” of China’s military and “directly threaten” US security. Biden’s new order goes into effect August 2.
-  
-  – CNN’s Jill Disis, Kyle Blaine and Lauren del Valle contributed to this report
+version https://git-lfs.github.com/spec/v1
+oid sha256:b386ecb765a52abe187a3d2eab1243ba748f20d613421db1d0a10a02532eae1b
+size 3001

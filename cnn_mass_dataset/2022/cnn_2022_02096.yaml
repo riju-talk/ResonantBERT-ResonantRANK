@@ -1,27 +1,3 @@
-id: cnn_2022_02096
-title: "Airbnb finds people have more trouble booking stays if hosts think they are Black"
-date: "2022-12-13"
-section: "Tech"
-url: "https://www.cnn.com/2022/12/13/tech/airbnb-project-lighthouse-data/index.html"
-content: |
-  Airbnb on Tuesday said it has found a “meaningful difference” in the booking success rate for users who are perceived to be White compared to those who are perceived to be Black. The findings come after the company launched an initiative to uncover and remedy race-based discrimination on its platform.
-  
-  While all users successfully had their reservations confirmed by hosts more than 90% of the time in 2021, Airbnb said it found a notable gap in user experiences during that time depending on their apparent racial identity. Users who were perceived to be White had a booking success rate of 94.1% while users who were thought to be Black had a success rate of 91.4%, according to the company. (Those perceived as Asian and Latino/Hispanic had booking success rates sitting in between.)
-  
-  “It is a meaningful difference, and it’s unacceptable,”Janaye Ingram, Airbnb’s director of community partner programs and engagement, told CNN. “It is something that we obviously are not okay with and we are doing a lot to address.”
-  
-  The findings are part of Project Lighthouse, an effort launched by Airbnb in 2020 to collect data on racial discrepancies on its service. The project was developed in partnership with Color of Change, the nation’s largest online racial justice organization, and with the support of other national privacy and civil rights organizations like the NAACP and Asian Americans Advancing Justice.
-  
-  Airbnb’s efforts to address racial disparity on its platform come after the company repeatedlyfaced scrutinyon the issue. A 2015studyfrom Harvard found that Airbnb hosts were less likely to rent to guests with names that sounded African American. The next year, Airbnbwas hit with a lawsuitaccusing it of discriminatory housing practices. (A federal judge laterblockedthe suit.) And in 2019, the companysettled a lawsuitfrom several Black women in Oregon alleging customers were discriminated against based on their race.
-  
-  The company said Tuesday that information collected through the Project Lighthouse initiative is being used to inform the company’s approach to bookings and reviews in an effort to minimize racial discrimination for prospective guests.
-  
-  “You can’t fix what you don’t measure,” Ingram said.
-  
-  Airbnb has taken a number of steps in recent years to address concerns about racial disparities on its platform, including getting rid of guests’ profile pictures prior to booking, making more people eligible for the “Instant Book” feature that bypasses host approval, auditing booking rejections and making it easier for all guests to receive reviews, according to the company.
-  
-  On Tuesday, Airbnb said Project Lighthouse revealed another potential issue in need of tweaking: guests with more reviews have higher booking success rates than those without, and guests perceived to be White or Asian have more reviews than others. In response, Airbnb plans to make it easier for all guests to receive a review when they travel, an effort that it hopes will have a large impact on the Black and Latino or Hispanic communities.
-  
-  The findings released on Tuesday come after Airbnb conducted two racial audits in 2016 and 2019.
-  
-  “Racial audits work, as long as corporations make the changes necessary to address what they expose,” said Rashad Robinson, president of Color Of Change. “Six years after Airbnb’s first racial audit, and two years after Color Of Change negotiated Project Lighthouse, Airbnb is now a leading example of what it looks like to back up the rhetoric of racial justice with the policy, practice and personnel that can prevent rampant racial discrimination.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:10a05729e78938e8e656ca0370afaa9206ed879b6cf27b4fcb3a85f267e2fd96
+size 3933

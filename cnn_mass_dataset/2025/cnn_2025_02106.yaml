@@ -1,27 +1,3 @@
-id: cnn_2025_02106
-title: "Ransomware attack triggers ‘system-wide’ tech outage at large network of medical centers"
-date: "2025-05-20"
-section: "Politics"
-url: "https://www.cnn.com/2025/05/20/politics/ransomware-attack-medical-centers"
-content: |
-  Aransomware attackhas triggered a “system-wide technology outage” at a network of over a dozen medical centers in Ohio, causing the cancellation of elective inpatient and outpatient procedures, according to a statement from the health network and a ransom note viewed by CNN.
-  
-  Kettering Health, which employs more than 1,800 doctors and serves a big chunk of Ohio, said in a statement that a “cyberattack” that hit Tuesday morning had created a “number of challenges” at the network’s 14 medical centers and had disrupted its call center. Emergency rooms and clinics are open and seeing patients, the statement said.
-  
-  “Inpatient and outpatient procedures have been canceled for today,” Kettering Health said. “Scheduled procedures at Kettering Health medical centers will be rescheduled.” The health network said it had backup procedures in place “for these types of situations” to keep providing safe and quality care for patients.
-  
-  Behind the scenes, Kettering Health executives and information technology personnel are scrambling to contain the fallout from the hack. Ransomware, which locks computers so hackers can demand a fee, was deployed on Kettering’s computer network, according to ransom note recovered at the scene and viewed by CNN.
-  
-  “Your network was compromised, and we have secured your most vital files,” the ransom note says. The note threatens to leak data allegedly stolen from Kettering Health online unless the health network begins negotiating an extortion fee.
-  
-  The ransom note leads the victim to an extortion site associated with a ransomware gang known as Interlock, which first emerged last fall. Interlock has since targeted a variety of sectors, including tech and manufacturing firms and government organizations, according to Talos, Cisco’s cyber-intelligence unit.
-  
-  A Kettering Health spokesperson declined to comment when asked for further details about the cyberattack beyond the network’s statement.
-  
-  The FBI, the Department of Health and Human Services, and the US Cybersecurity and Infrastructure Security Agency are the main federal agencies that typically respond to major cyberattacks on American health care providers. CNN has requested comment from all three entities.
-  
-  The US health care sector has for years been battered by cybercriminals that see hospitals as desperate to pay them off to try to keep patient care from being disrupted. The health sectorreportedmore than 440 ransomware attacks and data breaches to the FBI last year, the highest tally of all critical infrastructure sectors.
-  
-  A series of cyberattack attacks in the last 18 months on major health providers directly impacted patients across the country and underscored a sense among US lawmakers and federal officials that the cyber defenses of America’s health care providers are untenable.
-  
-  The hack last year of Ascension, a St. Louis-based nonprofit that oversees 140 hospitals across 19 states, endangered patients’ health as nurses were forced to work without electronic health records, nurses at two of those hospitalstold CNN. Meanwhile,a large swatheof Americans had their personal data stolen in a February 2024 ransomware attack on a UnitedHealth Group subsidiary that disrupted pharmacies across the US.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c776de35ba80916ac9999c356bdfcd829a80e9bad9604115d363a24052b3ed97
+size 3564

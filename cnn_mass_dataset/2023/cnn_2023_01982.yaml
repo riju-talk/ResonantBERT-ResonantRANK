@@ -1,25 +1,3 @@
-id: cnn_2023_01982
-title: "China says it’s built the world’s fastest internet network"
-date: "2023-11-15"
-section: "Tech"
-url: "https://www.cnn.com/2023/11/15/tech/china-launches-worlds-fastest-internet-network/index.html"
-content: |
-  China has started to roll out what it’s calling the world’s most advanced internet network, which promises to operate several times faster than current networks.
-  
-  The network – which can travel at about 1.2 terabits (or 1,200 gigabits) each second – is fast enough to transfer data from 150 movies in one second, according to Chinese tech manufacturer Huawei.
-  
-  Those represent theoretical speeds that won’t appear at consumers’ homes anytime soon. But a more robust, faster internet service has broad implications for businesses, faster information transfers, stock trading advantages and other national security implications.
-  
-  In a press conference this week, Huawei and China Mobile officially launched the country’s next-generation backbone network, in partnership with Beijing’s Tsinghua University and Cernet, an education and research network funded by the Chinese government. A backbone network is network infrastructure that moves internet traffic to different geographic locations, and can support hungry-data transfers from technologies such as 5G and electric vehicles.
-  
-  The new network runs on 1,800 miles of optic fiber cables between Beijing and the south, according to a translated press release. It did not share details on plans to expand throughout the country.
-  
-  It started to operate and undergo tests this summer, but is launching about two years ahead of expert forecasts.
-  
-  The news comes as President Biden is set to meet with Chinese president Xi Jinping in San Francisco on Wednesday, followingmonths of tensionbetween the two superpowers. Xi previously said the development of the backbone network will establish the country as “a cyber power” and “accelerate the promotion of core Internet technologies,” the press release said.
-  
-  But because this doesn’t apply to home internet speeds, and rather to internet infrastructure, it doesn’t pose a direct threat to the US, unlike how it otherwise competes with AI, semiconductors or wireless networking technology. It could, however, offer a foundation for Chinese-based businesses that would require a lot of bandwidth.
-  
-  Wu Jianping, a professor at the department of computer science and technology Tsinghua University who is overseeing the backbone internet project, said in the press release that the system, including software and hardware, was made in China, produced and is independently controlled. He also called it the most advanced network in the world.
-  
-  This isn’t the first time a major tech launch has coincided with a US visit. Huawei launched its highly-anticipated Mate 60 Pro smartphone, which features a breakthrough Chinese-made 5G chip, around the time someUS diplomats were visiting the countryin late summer. The US government later said it was investigating how the company would have the technology to make such a chip following sweeping efforts by the US to restrict China’s access to foreign chip technology.
+version https://git-lfs.github.com/spec/v1
+oid sha256:25ca79d7b8529ea9af9a7b28ba6b1be380b9eec003366f8879793b20c6ad38a3
+size 3215

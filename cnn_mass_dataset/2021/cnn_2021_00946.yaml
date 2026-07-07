@@ -1,31 +1,3 @@
-id: cnn_2021_00946
-title: "Apple will let Parler back on the App Store"
-date: "2021-04-19"
-section: "Tech"
-url: "https://www.cnn.com/2021/04/19/tech/apple-parler-app-store/index.html"
-content: |
-  Apple has approved Parler’s return to the iOS app store following improvements the social media company made to better detect and moderate hate speech and incitement, according to a letter the iPhone maker sent to Congress on Monday.
-  
-  The decision clears the way for Parler, an app popular with conservatives including some members of the far right, to be downloaded once again on Apple devices.
-  
-  The letter — addressed to Sen. Mike Lee and Rep. Ken Buck and obtained by CNN — explained that since the app was removed from Apple’s platform in January for violations of its policies, Parler “has proposed updates to its app and the app’s content moderation practices.”
-  
-  On April 14, Apple’s app review team told Parler that its proposed changes were sufficient, the letter continued. Now, all Parler needs to do is to flip the switch.
-  
-  “Apple anticipates that the updated Parler app will become available immediately upon Parler releasing it,” Apple’s letter said.
-  
-  Apple declined to comment. In a statement Monday evening, Parler said it planned to relaunch on Apple’s app store the week of April 26. The Apple version of Parler will block some posts that are permitted on Parler more generally, but those posts will remain accessible on Parler for Android and on the web, Parler said.
-  
-  “Parler has and will always be a free and open forum where users could engage in the free exchange of ideas in the full spirit of the First Amendment to the United States Constitution,” said Parler interim CEO Mark Meckler. “We have worked to put in place systems that will better detect unlawful speech and allow users to filter content undesirable to them, while maintaining our strict prohibition against content moderation based on viewpoint.”
-  
-  Parler, an alternative to Facebook(FB)and Twitter(TWTR)that bills itself as a haven for free speech, was removed from major tech platforms in early January following the US Capitol riots of Jan. 6.
-  
-  Parler waskicked offof Apple and Google’s app stores, as well as Amazon Web Services, which had been hosting the company’s product.
-  
-  All three tech giants cited the presence of violent speech on Parler as a reason for removal; Parler later said that other vendors also cut ties with the company, effectively shutting the service down and making it inaccessible on the web. For several weeks, visitors to Parler’s website were greeted by a static page instead of a functioning social networking app.
-  
-  The app cameback onlineon Feb. 15, but not beforeParler’s CEO was terminatedby its board. It took another two months for Apple to give its approval restoring Parler to its app store.
-  
-  In the meantime, Parler is waging a legal battle against Amazon(AMZN), alleging in part that Big Tech companies colluded to restrict Parler’s access to the market. In court filings and elsewhere, Parler has said that it had been developing an artificial intelligence-based content moderation system when the larger platforms’ crackdown took place.
-  
-  The tech companies have rejected Parler’s accusations of anti-competitive behavior. In Monday’s letter, Apple said its decision to remove Parler from its app store was “an independent decision” and that Apple “did not coordinate or otherwise consult with Google or Amazon with respect to that decision.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:346846d11093b033236c7f95350b9e07774ea8c35ae8f700b05507a905b816b4
+size 3573

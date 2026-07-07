@@ -1,25 +1,3 @@
-id: cnn_2022_01509
-title: "Google should limit location data collection to protect abortion seekers, US lawmakers say"
-date: "2022-05-25"
-section: "Tech"
-url: "https://www.cnn.com/2022/05/25/tech/lawmakers-google-location-data-abortion"
-content: |
-  Dozens of Democratic lawmakers urged Google on Tuesday to limit the amount of location data it collects and keeps on its users amid fears the information could be used against abortion seekers.
-  
-  In a <a href="https://www.wyden.senate.gov/imo/media/doc/Wyden-led%20letter%20to%20Google
-  
-  <a href=">
-  
-  (GOOG)%20on%20geofence%20data%20and%20abortion-related%20surveillance%205.24.22.pdf” target=”_blank”>letter to Google(GOOG)CEO Sundar Pichai led by Oregon Democratic Sen. Ron Wyden, more than 40 US senators and members of Congress said Google(GOOG)risks allowing “right-wing prosecutors to identify people who have obtained abortions” because of its practice of gathering location information from people using its services and products.
-  
-  Search histories, location data, text messages: How personal data could be used to enforce anti-abortion laws
-  
-  “We are concerned that, in a world in which abortion could be made illegal, Google’s current practice of collecting and retaining extensive records of cell phone location data will allow it to become a tool for far-right extremists looking to crack down on people seeking reproductive health care,” the lawmakers wrote.
-  
-  Google didn’t immediately respond to a request for comment.
-  
-  Tuesday’s letter follows the leaking of a draft Supreme Court opinion that would overturn Roe v. Wade and affirm state lawmakers’ ability to pass laws criminalizing abortion. Civil liberties and reproductive rights advocates have warned that data requests by law enforcement, submitted to tech platforms, could facilitate a crackdown on abortion-seekers and potentially those who aid them.
-  
-  On Tuesday, the lawmakers called for Google to scale back its practices so that it “no longer collects unnecessary customer location data nor retains any non-aggregate location data about individual customers.”
-  
-  “No law requires Google to collect and keep records of its customers’ every movement,” the letter continued. “Apple has shown that it is not necessary for smartphone companies to retain invasive tracking databases of their customers’ locations. Google’s intentional choice to do so is creating a new digital divide, in which privacy and security are made a luxury.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a3c21b3cc092236a33057b1b0cc7517e503425e67a6c656257048600b337bdf
+size 2525

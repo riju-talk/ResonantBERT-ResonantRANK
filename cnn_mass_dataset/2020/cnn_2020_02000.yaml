@@ -1,29 +1,3 @@
-id: cnn_2020_02000
-title: "FBI delivers to America a chilling reminder about al Qaeda"
-date: "2020-05-18"
-section: "Opinion"
-url: "https://www.cnn.com/2020/05/18/opinions/pensacola-shooting-terrorist-bergen/index.html"
-content: |
-  Editor’s Note:Peter Bergen is CNN’s national security analyst, a vice president at New America and a professor of practice at Arizona State University. He is the editor of theCoronavirus Daily Briefand author of the new book“Trump and His Generals: The Cost of Chaos.” The opinions expressed here are his own. Readmore opinionat CNN.
-  
-  Did al Qaeda strike a blow to the United States at the end of last year?FBI Director Christopher Wray told a press conference on Mondaythat Mohammed Alshamrani, a member of the Royal Saudi Air Force who killed three US sailors at the Pensacola Naval Air Station last December, was a terrorist associated with al Qaeda in the Arabian Peninsula, or AQAP, an al Qaeda affiliate based in Yemen.
-  
-  This means that the FBI may have determined that, unlike other recent acts of terrorism perpetrated by self-radicalized domestic terrorists, the Pensacola attack may be the first time since 9/11 that a foreign terrorist organization was able to strike successfully in the United States. (Though, asCNN noted, the officials “stopped short of saying that Alshamrani had been directed by the terror group.”)
-  
-  It is also a reminder that the Trump administration’s travel ban, which primarily targets Muslim-majority countries, is likely not the shield the president says it is. Saudi citizens like Alshamrani are not subject to the ban and the Trump administration continues to enjoy warm relations with the Saudi royal family.
-  
-  AQAPhad claimedresponsibility for the Pensacola attack in February, but such boasts are not always genuine. Wray said evidence gathered from Alshamrani’s two iPhones showed that he had been coordinating “planning and tactics” with AQAP.
-  
-  Wray and Attorney General William Barr, who also spoke at Monday’s press conference, had harsh words for Apple, which manufactured Alshamrani’s phones, saying that the company had not helped to unlock them. Barr said it was only the FBI’s own computer experts who were able to find the encrypted information that tied Alshamrani to AQAP.
-  
-  Apple said in Januarythat it had already helped the FBI by giving it access to the data from Alshamrani two phones that was stored in cloud storage, but that it was unable to help with the encryption on the devices that was essential to protect its customers from hackers and criminals.
-  
-  Stay up to date on the latest opinion, analysis and conversations through social media. Join us atFacebook/CNNOpinionand follow us@CNNOpinion on Twitter. We welcome your ideas and comments.
-  
-  No doubt Alshamrani’s case will be cited often in the future by the FBI and Department of Justice to argue that they need to be able to break into encrypted phones when they have a lawful search warrant, as they did in Alshamrani’s case. And Apple will continue to assert that the encryption they place on the phone is a necessary part of their business model to assure their consumers that their data is safe and that installing any kind of “back door” on their phones could be exploited by all sorts of bad actors.
-  
-  In a2016 letter to customers, Apple said that the issue was so important that even Apple can’t unlock its own phones saying, “We have even put that data out of our own reach, because we believe the contents of your iPhone are none of our business.”
-  
-  The letter from Apple was issued after the FBI said Apple had to bypass the encryption on one of their iPhones after two ISIS-inspired terrorists killed 14 people in San Bernardino, California, in 2015. Despite a court order, Applerefused to hack intothe terrorists’ phone, and eventually the FBI found a technical solution on its own.
-  
-  Aside from highlighting the ineffectualness of the administration’s travel ban, thePensacola attack is also a reminderthat although al Qaeda and its affiliates have been greatly damaged by US drone strikes and other counterterrorism measures, they still remain focused on attacking American targets and very occasionally they may succeed.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed9d4f64a2367754ac468d647d975de854d2d2b0f81f855c28022663448f47fc
+size 4272

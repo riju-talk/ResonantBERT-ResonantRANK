@@ -1,25 +1,3 @@
-id: cnn_2023_02861
-title: "US military investigating leak of emails from Pentagon server"
-date: "2023-02-21"
-section: "Politics"
-url: "https://www.cnn.com/2023/02/21/politics/us-military-leaked-emails-server-special-operations/index.html"
-content: |
-  The US military’s Special Operations Command says it is investigating a report from a cybersecurity researcher that the command was leaking a trove of unclassified email data on the internet.
-  
-  On Monday, the command “initiated an investigation into information we were provided about a potential issue with the command’s Cloud service,” Special Operations Command (SOCOM) spokesperson Ken McGraw said in an email to CNN on Tuesday.
-  
-  “The only other information we can confirm at this point is no one has hacked US Special Operations Command’s information systems,” McGraw said.
-  
-  TechCrunch firstreportedon the data leak, which was discovered by independent cybersecurity researcher Anurag Sen.
-  
-  Samples of the data Sen shared with CNN dated back years and included standard information about US military contracts and requests by Department of Defense employees to have their paperwork processed.
-  
-  Anyone who knew the IP address of the server could access the data without a password until the server was secured on Monday, Sen said.
-  
-  The data exposure is an example of how powerful organizations can unwittingly expose potentially sensitive internal data by not configuring their computer servers properly.
-  
-  It is not uncommon for large organizations to inadvertently expose internal data to the internet, but the fact that this is a Department of Defense email server will give US officials cause for concern. It is unclear if any malicious outsider accessed the exposed SOCOM data. CNN has requested comment from the command.
-  
-  Special Operations Command is an elite Pentagon command responsible for counterterrorism and hostage rescue missions around the globe.
-  
-  The leaked Department of Defense email data spanned three terabytes (the equivalent of dozens of standard smartphones’ storage), most of it belonging to SOCOM, according to Sen, who said the leak began on February 8.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c7ee1a4cd4426e12cfb7243cbe339348abcb5cba3b56ad78b8c24803292e3f84
+size 2187

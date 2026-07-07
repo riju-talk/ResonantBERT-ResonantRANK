@@ -1,29 +1,3 @@
-id: cnn_2023_03192
-title: "NSA chief warns TikTok could censor videos as part of Chinese influence operations"
-date: "2023-03-07"
-section: "Tech"
-url: "https://www.cnn.com/2023/03/07/tech/nsa-tiktok-surveillance-china-america/index.html"
-content: |
-  US national security officials are concerned that TikTok could use its vast global reach to shape public opinion by either suppressing certain videos or promoting others, the head of the National Security Agency and US Cyber Command told lawmakers on Tuesday.
-  
-  “It’s not only the fact that you can influence something, but you can also turn off the message as well when you have such a large population of listeners,” Gen. Paul Nakasone said in testimony before the Senate Armed Services Committee.
-  
-  TikTok’s collection of data and its control over the algorithm that serves user content are also concerning, Nakasone said.
-  
-  Nakasone’s comments follow a directive from the White House thatgives US federal agencies 30 daysto remove TikTok from government-issued devices. And they come amid a major policy debate in Washington about what to do about one of the most popular apps among American youth.
-  
-  US officials have for years accused TikTok – and its Chinese parent firm ByteDance – of collecting data that could enable surveillance by the Chinese government. TikTok denies the allegations and has called on the Biden administration to finalize a national security deal that would allow TikTok to continue operating in the US in exchange for greater US government visibility into how it collects and stores data on Americans.
-  
-  A TikTok spokesperson said that the company has been working with the US government to address national security concerns.
-  
-  “Our status has been debated in public in a way that is divorced from the facts of that agreement and what we’ve achieved already. We will continue to do our part to deliver a comprehensive national security plan for the American people,” Brooke Oberwetter from TikTok said in statement.
-  
-  Some House lawmakers havepushed legislationthat could effectively force the Biden administration to impose an outright ban on TikTok, but the prospects of that bill becoming law are slim.
-  
-  A bipartisan Senate bill that Virginia Democrat Mark Warner and South Dakota Republican John Thune are expected to unveil on Tuesday would give the Commerce Department authority to develop “mitigation measures,” up to and including a ban, to meet the risk posed by foreign-linked technologies.
-  
-  Like the US government push to ban hardware and other gear made by Huawei, another Chinese technology giant, US officials are often short on specifics when asked to show public proof of collusion between the Chinese government and ByteDance.
-  
-  “People are always looking for the smoking gun in these technologies,” NSA Cybersecurity Director Rob Joyce told reporters in December. “I characterize it much more as a loaded gun.”
-  
-  “I would not expect individualized targeting through [TikTok] to do malicious things,” Joyce said. “Where I’m concerned is the overall ability to do large-scale influence.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:049a164bc8e4edd0684da0d698152242efd67b0a054449d171f033f0ba42072a
+size 3164
