@@ -1,3 +1,0 @@
-"""
-ResonantBERT core ML package.
-"""
