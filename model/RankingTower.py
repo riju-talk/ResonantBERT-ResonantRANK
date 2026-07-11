@@ -8,7 +8,23 @@ from typing import Optional, Dict
 # ============================================================
 
 class GatedResidualLayer(nn.Module):
-    """Linear -> LN -> GeLU -> Dropout, fused with the input via a learned gate."""
+    """Gated residual connection: Linear -> LN -> GeLU -> Dropout, fused with input via gate.
+    
+    Formula:
+        h = Dropout(GeLU(LayerNorm(Linear(x))))  # main path
+        g = sigmoid(Linear(x))                    # learned gate
+        output = g ⊙ h + (1 - g) ⊙ residual_proj(x)
+    
+    This architecture:
+    - Preserves gradients through depth (residual connection)
+    - Learns adaptive routing (gating mechanism)
+    - Handles dimension changes smoothly
+    
+    Args:
+        dim_in: Input dimension
+        dim_out: Output dimension
+        p_drop: Dropout probability
+    """
     def __init__(self, dim_in: int, dim_out: int, p_drop: float = 0.1):
         super().__init__()
         self.linear = nn.Linear(dim_in, dim_out)
@@ -19,13 +35,26 @@ class GatedResidualLayer(nn.Module):
         self.residual_proj = nn.Identity() if dim_in == dim_out else nn.Linear(dim_in, dim_out)
 
     def forward(self, x: torch.Tensor) -> torch.Tensor:
-        h = self.dropout(self.act(self.ln(self.linear(x))))
-        g = torch.sigmoid(self.gate(x))
-        return g * h + (1 - g) * self.residual_proj(x)
+        """
+        Args:
+            x: (B, dim_in) or (batch, *, dim_in)
+        Returns:
+            output: (B, dim_out) or (batch, *, dim_out)
+        """
+        h = self.dropout(self.act(self.ln(self.linear(x))))  # main path
+        g = torch.sigmoid(self.gate(x))                       # gate values
+        return g * h + (1 - g) * self.residual_proj(x)        # gated residual
 
 
 class RankingTower(nn.Module):
-    """Deep MLP with gated residuals: 128 -> 128 -> 128 -> 64 -> 1 (raw score)."""
+    """Deep MLP with gated residuals: 128 -> 128 -> 128 -> 64 -> 1 (raw score).
+    
+    Architecture:
+    - Input: (B, 128) viral embedding
+    - Layer 1-3: Gated residual layers with residual connections
+    - Output layer: Linear(64) -> 1 raw score
+    - Final output shape: (B,) - batch of scores
+    """
     def __init__(self, in_dim: int = 128, p_drop: float = 0.1):
         super().__init__()
         self.layer1 = GatedResidualLayer(in_dim, 128, p_drop)
@@ -34,10 +63,17 @@ class RankingTower(nn.Module):
         self.output_layer = nn.Linear(64, 1)
 
     def forward(self, z: torch.Tensor) -> torch.Tensor:
-        x = self.layer1(z)
-        x = self.layer2(x)
-        x = self.layer3(x)
-        return self.output_layer(x).squeeze(-1)  # raw score s_i, (B,)
+        """
+        Args:
+            z: (B, 128) - viral embedding
+        Returns:
+            raw_score: (B,) - unsqueezed scores
+        """
+        x = self.layer1(z)  # (B, 128)
+        x = self.layer2(x)  # (B, 128)
+        x = self.layer3(x)  # (B, 64)
+        raw_score = self.output_layer(x)  # (B, 1)
+        return raw_score.squeeze(-1)  # (B,)
 
 
 class PlattScaling(nn.Module):
@@ -89,9 +125,20 @@ class RiskAdjustment(nn.Module):
 
 
 class ResonantRanker(nn.Module):
-    """
-    Takes ResonantBERT's 128-d viral embedding and produces a calibrated,
-    risk-adjusted virality score.
+    """Ranking tower that transforms viral embeddings into calibrated virality scores.
+    
+    Architecture:
+    - RankingTower: Deep MLP with gated residuals (128→128→128→64→1)
+    - Calibration: Platt scaling (parametric) or Isotonic regression (non-parametric)
+    - Risk adjustment: Final score modulated by controversy level
+    
+    Outputs:
+    - raw_score: (B,) unbounded scores from tower
+    - calibrated_score: (B,) scores in [0, 1]
+    - final_score: (B,) risk-adjusted scores
+    
+    Input: Viral embedding (B, 128) + risk score (B,)
+    Output: Calibrated virality scores with risk weighting
     """
     def __init__(self, in_dim: int = 128, p_drop: float = 0.1,
                  calibration: str = "platt", risk_lambda: float = 0.3):
@@ -107,6 +154,24 @@ class ResonantRanker(nn.Module):
     def forward(self, viral_embedding: torch.Tensor,
                 risk_score: torch.Tensor,
                 external_calibrator: Optional[IsotonicCalibrator] = None) -> Dict[str, torch.Tensor]:
+        """Transform viral embedding into calibrated, risk-adjusted virality scores.
+        
+        Args:
+            viral_embedding: (B, 128) - L2-normalized viral embedding from ResonantBERT
+            risk_score: (B,) - risk score in [0, 1] from ResonantBERT
+            external_calibrator: IsotonicCalibrator instance for isotonic mode
+        
+        Returns:
+            Dictionary containing:
+                - raw_score: (B,) - unbounded raw scores from ranking tower
+                - calibrated_score: (B,) - scores in [0, 1] after calibration
+                - final_score: (B,) - risk-adjusted scores in [0, 1]
+        
+        Processing:
+            1. raw_score = RankingTower(viral_embedding)
+            2. calibrated_score = Calibrator(raw_score)  [Platt or Isotonic]
+            3. final_score = calibrated_score × (1 - λ × risk_score)
+        """
         raw_score = self.tower(viral_embedding)  # s_i, (B,)
 
         if self.calibration_mode == "platt":

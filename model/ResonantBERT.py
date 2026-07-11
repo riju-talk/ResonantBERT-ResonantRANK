@@ -109,15 +109,19 @@ class GatedFusionHead(nn.Module):
     """Fuses F' (flattened), c, and r via a learned gate, then projects to the
     final 128-d viral embedding.
     
-    NOTE: The diagram labels the fusion projection as 1920 -> 128, but the
-    concatenation of F'(9*128) + c(128) + r(128) = 1408. If your source diagram
-    includes an extra term (e.g. re-injected e_h/e_b projections), adjust the
-    concat_dim below accordingly.
+    Formula: gated = flat ⊙ sigmoid(Linear(flat))
+             output = LayerNorm(GeLU(Linear(gated)))
+    
+    Dimensions:
+    - F'(flat): (B, 9*128) = (B, 1152)
+    - c: (B, 128)
+    - r: (B, 128)
+    - concat_dim = 1152 + 128 + 128 = (B, 1408)
     """
     def __init__(self, num_factors: int = 9, factor_dim: int = 128, out_dim: int = 128, p_drop: float = 0.1):
         super().__init__()
-        concat_dim = num_factors * factor_dim + factor_dim + factor_dim  # F'(flat) + c + r
-        self.gate = nn.Sequential(nn.Linear(concat_dim, concat_dim), nn.Sigmoid())
+        concat_dim = num_factors * factor_dim + factor_dim + factor_dim  # F'(flat) + c + r = 1408
+        self.gate = nn.Linear(concat_dim, concat_dim)
         self.proj = nn.Sequential(
             nn.Linear(concat_dim, out_dim),
             nn.LayerNorm(out_dim),
@@ -127,15 +131,31 @@ class GatedFusionHead(nn.Module):
 
     def forward(self, F_prime: torch.Tensor, c: torch.Tensor, r: torch.Tensor) -> torch.Tensor:
         B = F_prime.size(0)
-        flat = torch.cat([F_prime.reshape(B, -1), c, r], dim=-1)  # (B, concat_dim)
-        gated = flat * self.gate(flat)
-        return self.proj(gated)  # (B, 128) pre-normalization
+        flat = torch.cat([F_prime.reshape(B, -1), c, r], dim=-1)  # (B, 1408)
+        gate_values = torch.sigmoid(self.gate(flat))  # (B, 1408)
+        gated = flat * gate_values
+        return self.proj(gated)  # (B, 128)
 
 
 class ResonantBERT(nn.Module):
-    """
-    Dual-stream late-interaction encoder producing 128-d viral embeddings,
-    plus concept score, risk score, and 9-d factor attributions.
+    """Dual-stream late-interaction encoder producing 128-d viral embeddings.
+    
+    Architecture:
+    - Shared-weight dual-stream ModernBERT backbone
+    - Cross-document alignment (headline ↔ body interaction)
+    - 9 virality factor heads (novelty, arousal, urgency, etc.)
+    - Factorized self-attention over factors
+    - Residual-query cross-attention for concept fusion
+    - Gated fusion head for final viral embedding
+    
+    Outputs:
+    - viral_embedding: (B, 128) L2-normalized
+    - concept_score: (B,) core concept resonance
+    - risk_score: (B,) controversy level
+    - factor_attributions: (B, 9) factor breakdown
+    
+    Input: News articles (headline + body)
+    Output: Viral embedding + auxiliary signals
     """
     def __init__(
         self,
@@ -184,6 +204,32 @@ class ResonantBERT(nn.Module):
         headline_input_ids, headline_attention_mask,
         body_input_ids, body_attention_mask,
     ) -> Dict[str, torch.Tensor]:
+        """Encode article headline + body into viral embedding and auxiliary signals.
+        
+        Args:
+            headline_input_ids: (B, seq_len) - tokenized headline
+            headline_attention_mask: (B, seq_len) - padding mask for headline
+            body_input_ids: (B, seq_len) - tokenized body
+            body_attention_mask: (B, seq_len) - padding mask for body
+        
+        Returns:
+            Dictionary containing:
+                - viral_embedding: (B, 128) - L2-normalized viral embedding
+                - concept_score: (B,) - core concept resonance
+                - risk_score: (B,) - controversy/risk level in [0, 1]
+                - factor_attributions: (B, 9) - virality factors breakdown
+                - F_prime: (B, 9, 128) - factorized evidence matrix (for inspection)
+        
+        Processing Pipeline:
+            1. Dual-stream encoding with ModernBERT
+            2. Cross-document alignment (headline ↔ body)
+            3. Evidence construction: concat[eₕ, eᵦ, aₕ, aᵦ] → (B, 1664)
+            4. 9 Factor heads: evidence → (B, 9, 128)
+            5. Factorized self-attention over factors
+            6. Residual-query cross-attention (r ⊥ F')
+            7. Gated fusion: F' + c + r → (B, 128) viral embedding
+            8. Auxiliary outputs: concept, risk, factor attributions
+        """
         # 1. Dual-stream backbone (shared weights)
         H, e_h = self._encode_stream(headline_input_ids, headline_attention_mask)  # H:(B,m,768), e_h:(B,768)
         Bd, e_b = self._encode_stream(body_input_ids, body_attention_mask)          # Bd:(B,m,768), e_b:(B,768)
@@ -208,10 +254,13 @@ class ResonantBERT(nn.Module):
         fused = self.fusion_head(F_prime, c, r)               # (B, 128)
         viral_embedding = F.normalize(fused, p=2, dim=-1)     # z̃_i, L2-normalized
 
-        # Auxiliary outputs
+        # 7. Auxiliary outputs
         concept_score = self.concept_head(c).squeeze(-1)                  # (B,)
         risk_score = self.risk_head(fused).squeeze(-1)                    # (B,) in [0,1]
-        factor_attr = self.factor_attr_head(F_prime).squeeze(-1)          # (B, 9)
+        
+        # Factor attributions: apply linear head to each of 9 factors, then squeeze
+        factor_attr = self.factor_attr_head(F_prime)  # (B, 9, 1)
+        factor_attr = factor_attr.squeeze(-1)         # (B, 9)
 
         return {
             "viral_embedding": viral_embedding,   # z̃_i ∈ R^128
