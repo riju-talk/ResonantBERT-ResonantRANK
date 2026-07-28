@@ -1,7 +1,7 @@
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-from transformers import AutoModel
+from transformers import AutoModelForMaskedLM
 from typing import Optional, Tuple, Dict
 
 
@@ -168,7 +168,7 @@ class ResonantBERT(nn.Module):
     ):
         super().__init__()
         # 1. Shared-weight dual-stream backbone
-        self.backbone = AutoModel.from_pretrained(backbone_name)
+        self.backbone = AutoModelForMaskedLM.from_pretrained(backbone_name)
         self.hidden_dim = hidden_dim
 
         # 2. Cross-document alignment (separate modules per direction)
