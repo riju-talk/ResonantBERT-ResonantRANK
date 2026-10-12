@@ -1,0 +1,22 @@
+\begin{table}[t]
+\centering
+\small
+\begin{tabular}{llccccc}
+\toprule
+\textbf{Model} & \textbf{Train} & \textbf{NDCG@5} & \textbf{NDCG@10} & \textbf{Kendall $\tau$} & \textbf{Pair. Acc.} & \textbf{Spearman $\rho$} \\
+\midrule
+\textbf{ResonantBERT v3} & BBC & \textbf{0.892} & \textbf{0.939} & \textbf{0.517} & \textbf{0.770} & \textbf{0.796} \\
+TF-IDF + Ridge (CNN-trained)$^{**}$ & CNN & 0.862 & 0.924 & 0.452 & 0.736 & 0.738 \\
+ResonantBERT v3 (+RankingTower)$^{***}$ & BBC & 0.848 & 0.919 & 0.423 & 0.720 & 0.639 \\
+Frozen ModernBERT + Ridge (BBC-trained)$^{***}$ & BBC & 0.841 & 0.911 & 0.409 & 0.713 & 0.715 \\
+TF-IDF + Ridge (BBC-trained)$^{***}$ & BBC & 0.830 & 0.907 & 0.402 & 0.709 & 0.684 \\
+ResonantBERT v3 (concept head)$^{***}$ & BBC & 0.786 & 0.894 & 0.277 & 0.643 & 0.323 \\
+Rule-Based$^{***}$ & -- & 0.729 & 0.857 & 0.210 & 0.608 & 0.351 \\
+Sentence-BERT$^{***}$ & -- & 0.690 & 0.836 & 0.124 & 0.564 & 0.162 \\
+LLM Zero-Shot (Qwen2.5-1.5B)$^{***}$ & -- & 0.674 & 0.834 & 0.100 & 0.552 & 0.049 \\
+Random$^{***}$ & -- & 0.630 & 0.805 & -0.008 & 0.496 & -0.018 \\
+\bottomrule
+\end{tabular}
+\caption{News-value ranking on the CNN test split (201 groups, 1860 articles; target: sum of 7 news values). Train = labelled data the method was fit on. Stars: paired t-test on per-group NDCG@10 vs.\ ResonantBERT v3 ($^{*}p<.05$, $^{**}p<.01$, $^{***}p<.001$).}
+\label{tab:cnn_v3_main}
+\end{table}

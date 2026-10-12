@@ -1,0 +1,33 @@
+{
+  "model": "ResonantBERT_v3 + RankingTower_v2",
+  "train_steps": 1881,
+  "ranker_steps": 1000,
+  "note": "Training only. Run NDCG/Kendall/Spearman/MAE evaluation locally by loading the saved checkpoints.",
+  "config": {
+    "seed": 42,
+    "lora_r": 64,
+    "seq_len": 512,
+    "epochs": 3,
+    "batch": 32,
+    "news_values": [
+      "impact",
+      "conflict",
+      "novelty",
+      "proximity",
+      "prominence",
+      "timeliness",
+      "human_interest"
+    ],
+    "token_values": [
+      "conflict",
+      "human_interest",
+      "novelty",
+      "prominence"
+    ],
+    "sent_values": [
+      "impact",
+      "proximity",
+      "timeliness"
+    ]
+  }
+}

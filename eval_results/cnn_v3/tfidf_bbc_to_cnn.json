@@ -1,0 +1,46 @@
+{
+  "method": "TF-IDF + Ridge (BBC\u2192CNN)",
+  "alpha": 3.0,
+  "bbc_val_spearman": 0.7423660157107681,
+  "n_train": 143838,
+  "metrics": {
+    "ndcg@5": 0.8304891958082664,
+    "ndcg@10": 0.9070542222316563,
+    "ndcg@10_ci": [
+      0.8941662395418867,
+      0.9191213807212671
+    ],
+    "kendall_tau": 0.4021982778318519,
+    "pairwise_acc": 0.7090444175972074,
+    "spearman_global": 0.6841113327248322,
+    "spearman_by_news_value": {
+      "impact": 0.4670671845622257,
+      "conflict": 0.6465391729798715,
+      "novelty": 0.007920338126277127,
+      "proximity": 0.5283296178483778,
+      "prominence": 0.1865134099151382,
+      "timeliness": 0.4159202229060267,
+      "human_interest": 0.36623744067632114
+    }
+  },
+  "comparisons": {
+    "TF-IDF + Ridge (CNN, in-domain)": {
+      "delta_ndcg10_minus_bbc_tfidf": 0.016817519367510702,
+      "ci95": [
+        0.006858602089098264,
+        0.02736468050211461
+      ],
+      "p_ttest": 0.001663368989867354,
+      "p_wilcoxon": 0.0009733618741166315
+    },
+    "ResonantBERT v3 step1881 (value_sum)": {
+      "delta_ndcg10_minus_bbc_tfidf": 0.03163478666819915,
+      "ci95": [
+        0.02161612546627701,
+        0.04231683950894319
+      ],
+      "p_ttest": 7.115205831260314e-09,
+      "p_wilcoxon": 6.8476070176694414e-12
+    }
+  }
+}

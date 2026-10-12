@@ -262,6 +262,26 @@ HardNegativeMiner.form_triplets(anchor, positive, hard_negative)
 
 ---
 
+## 🗂️ Repository Layout
+
+```
+app/                 FastAPI serving code
+model/               ResonantBERT.py, RankingTower.py; model/checkpoints_v3/ (LFS: BERTv3-step1881.pt, rankers)
+data/                dataset download helpers
+bbc_articles/        BBC training set (LFS)
+cnn_mass_dataset/    CNN evaluation set + labeling scripts (LFS)
+scripts/             evaluation, ablation and retraining scripts (run from repo root, e.g. python scripts/evaluate_v3_cnn.py)
+notebooks/           evaluation notebooks
+eval_results/        metrics, tables and figures
+paper/               LaTeX source of the v3 paper
+docs/                design notes and change logs
+assets/              architecture diagrams
+```
+
+Large files (`*.pt`, `*.npz`, datasets) are stored with **Git LFS** - run `git lfs install` before cloning.
+
+---
+
 ## 📦 Installation
 
 ### Requirements

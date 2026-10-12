@@ -1,0 +1,24 @@
+# Python / env
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Generated / regenerable artifacts
+runs/
+eval_results/ablations/cache/
+eval_results.rar
+*.rar
+*.zip
+
+# Intermediate training checkpoints (keep only the released ones, see .gitattributes)
+model/checkpoints_v3/BERTv3-step*.pt
+!model/checkpoints_v3/BERTv3-step1881.pt
+model/checkpoints_v3/BERTv3-final-*.pt

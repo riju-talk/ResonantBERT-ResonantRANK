@@ -1,0 +1,107 @@
+{
+  "Random": {
+    "method": "Random",
+    "ndcg@5": 0.630246190610737,
+    "ndcg@5_std": 0.17337394787543994,
+    "ndcg@10": 0.8052773524201725,
+    "ndcg@10_std": 0.10170998079736893,
+    "kendall_tau": -0.00759941355678546,
+    "kendall_tau_std": 0.3358501564463416,
+    "pairwise_acc": 0.496089346592777,
+    "spearman_global": -0.018178367594832965,
+    "spearman_by_news_value": {
+      "timeliness": -0.019418213760873795,
+      "proximity": -0.03121633051591657,
+      "impact": -0.024676554738797263,
+      "prominence": 0.016945040388472266,
+      "conflict": -0.007646513296049018,
+      "novelty": -0.015152188972354865,
+      "human_interest": 0.008290138780478394
+    },
+    "n_groups": 201
+  },
+  "Rule-Based": {
+    "method": "Rule-Based",
+    "ndcg@5": 0.7286435205779428,
+    "ndcg@5_std": 0.16492119701628383,
+    "ndcg@10": 0.8566777486006707,
+    "ndcg@10_std": 0.09512332542088575,
+    "kendall_tau": 0.20989405340754624,
+    "kendall_tau_std": 0.3233284506629667,
+    "pairwise_acc": 0.6076162798563998,
+    "spearman_global": 0.3512261799189762,
+    "spearman_by_news_value": {
+      "timeliness": 0.2018694168107196,
+      "proximity": 0.18682105954815578,
+      "impact": 0.3471800925837426,
+      "prominence": 0.13740648807754918,
+      "conflict": 0.2665343498554445,
+      "novelty": 0.1694460727100894,
+      "human_interest": 0.12064493811923535
+    },
+    "n_groups": 201
+  },
+  "TF-IDF + Ridge": {
+    "method": "TF-IDF + Ridge",
+    "ndcg@5": 0.8621968733533182,
+    "ndcg@5_std": 0.11693515615887984,
+    "ndcg@10": 0.9238717415991671,
+    "ndcg@10_std": 0.07926553945070537,
+    "kendall_tau": 0.4518886458610147,
+    "kendall_tau_std": 0.3041140933792501,
+    "pairwise_acc": 0.7356658592868645,
+    "spearman_global": 0.7375376052196871,
+    "spearman_by_news_value": {
+      "timeliness": 0.48669332917194114,
+      "proximity": 0.5619471239884153,
+      "impact": 0.5537683590639857,
+      "prominence": 0.1947682554875029,
+      "conflict": 0.6796875578019893,
+      "novelty": 0.03340142301220105,
+      "human_interest": 0.3537029257154912
+    },
+    "n_groups": 201
+  },
+  "Sentence-BERT": {
+    "method": "Sentence-BERT",
+    "ndcg@5": 0.6896627465702738,
+    "ndcg@5_std": 0.1615815270299321,
+    "ndcg@10": 0.8359536032900922,
+    "ndcg@10_std": 0.0970422546519205,
+    "kendall_tau": 0.12366121857423451,
+    "kendall_tau_std": 0.3303601523505828,
+    "pairwise_acc": 0.5639575813337249,
+    "spearman_global": 0.16239246265582533,
+    "spearman_by_news_value": {
+      "timeliness": 0.07308739468176183,
+      "proximity": 0.009925809127003584,
+      "impact": 0.18554174693397418,
+      "prominence": 0.1336608832256275,
+      "conflict": 0.11843896554785528,
+      "novelty": 0.050395709928810956,
+      "human_interest": 0.052187892058205065
+    },
+    "n_groups": 201
+  },
+  "LLM Zero-Shot (Qwen2.5-1.5B-Instruct)": {
+    "method": "LLM Zero-Shot (Qwen2.5-1.5B-Instruct)",
+    "ndcg@5": 0.6738714376837176,
+    "ndcg@5_std": 0.16716973061944657,
+    "ndcg@10": 0.8338765101606287,
+    "ndcg@10_std": 0.09721501208507927,
+    "kendall_tau": 0.09993309334690897,
+    "kendall_tau_std": 0.3341674392585555,
+    "pairwise_acc": 0.5524092876884674,
+    "spearman_global": 0.04899130053014217,
+    "spearman_by_news_value": {
+      "timeliness": -0.020265430701797486,
+      "proximity": 0.021924227348339057,
+      "impact": 0.028515724531149998,
+      "prominence": -0.06525642192962186,
+      "conflict": -0.12222717629961521,
+      "novelty": 0.26083416954511096,
+      "human_interest": 0.15462311200731282
+    },
+    "n_groups": 201
+  }
+}

@@ -1,0 +1,232 @@
+\documentclass[11pt]{article}
+
+\usepackage{acl}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{microtype}
+\usepackage{inconsolata}
+\usepackage{graphicx}
+\usepackage{amsmath,amssymb}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{xcolor}
+\usepackage{hyperref}
+
+\title{ResonantBERT v3: Content-Only News-Value Ranking with\newline
+ModernBERT, Factor Interaction, and a Frozen-Embedding Ranking Tower}
+
+\author{
+Anonymous Authors \\
+Affiliation \\
+\texttt{email@domain.com}
+}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+We study content-only ranking of news articles before engagement signals are available. The goal is to order articles by a composite news-value target derived from seven editorial values: impact, conflict, novelty, proximity, prominence, timeliness, and human interest. We present ResonantBERT v3, an implementation built on the 768-dimensional ModernBERT-base masked-language-model backbone. A segment-aware encoder pools headline, body, and joint representations from one tokenized sequence. Seven ordinal value heads produce 128-dimensional factor representations and value scores. A one-layer Transformer interaction module models dependencies among these value representations, after which gated scoring produces a normalized 128-dimensional viral embedding and a concept score. A separate RankingTower v2 is then trained on frozen embeddings for listwise ranking and score calibration. The model also exposes a list-wide head and an auxiliary risk score. The current implementation and checkpoint pipeline are complete; the final SOTA and cross-publisher evaluations are still in progress and are therefore reported as pending rather than as established results.
+\end{abstract}
+
+\section{Introduction}
+
+News recommendation and editorial promotion often require an initial ranking before article-level engagement data exists. This setting is difficult because the system must infer useful ordering signals from content alone, while avoiding dependence on publisher metadata, clicks, shares, or other post-publication observations.
+
+We formulate the task as content-only news-value ranking. Given an article headline and body, the system predicts seven interpretable value dimensions and combines them into a ranking score. The current repository implements ResonantBERT v3 and RankingTower v2. This paper describes that implementation rather than the earlier proposed architecture based on nine factors, factorized cross-attention, a residual branch, or a separately frozen risk auditor. Those components are not part of the supplied v3 training script and are not claimed here.
+
+Our contributions are:
+\begin{enumerate}
+    \item a segment-aware ModernBERT encoder that derives headline, body, and joint representations from a single sequence;
+    \item seven ordinal news-value heads with distinct token-level and sentence-level input paths;
+    \item a Transformer-based value interaction module followed by gated scoring in a 128-dimensional embedding space;
+    \item a two-stage training pipeline in which RankingTower v2 learns to rank frozen ResonantBERT embeddings; and
+    \item an evaluation protocol that reports NDCG, Kendall's $\tau$, Spearman's $\rho$, and per-value mean absolute error, with final SOTA comparisons reserved for the pending rerun using newer checkpoints.
+\end{enumerate}
+
+\section{Task Formulation}
+
+Let an article be $x=(h,b)$, where $h$ is the headline and $b$ is the body. For each article, the data provide seven value targets:
+\begin{equation}
+    \mathbf{y}(x) = (y_{\mathrm{imp}}, y_{\mathrm{con}}, y_{\mathrm{nov}},
+    y_{\mathrm{pro}}, y_{\mathrm{prm}}, y_{\mathrm{tim}}, y_{\mathrm{hum}}).
+\end{equation}
+The implemented names are \texttt{impact}, \texttt{conflict}, \texttt{novelty}, \texttt{proximity}, \texttt{prominence}, \texttt{timeliness}, and \texttt{human\_interest}. The aggregate gold score is the unweighted sum
+\begin{equation}
+    y_{\mathrm{gold}}(x) = \sum_{v \in \mathcal{V}} y_v(x),
+    \qquad |\mathcal{V}|=7.
+\end{equation}
+
+Training examples are grouped into lists of at most eight articles. When a section/category column with more than five unique values is available, groups are formed within section after sorting by the aggregate gold score. Otherwise, articles are shuffled with seed 42 and partitioned into groups of at most eight. Groups with fewer than two items are discarded. Ten percent of the groups are held out as validation data.
+
+The primary ranking metrics are NDCG at 5 and 10, Kendall's $\tau$, and Spearman's $\rho$. The implementation also reports mean absolute error for each of the seven value heads.
+
+\section{ResonantBERT v3 Architecture}
+
+\subsection{Backbone and Segment-Aware Pooling}
+
+The model uses \texttt{answerdotai/ModernBERT-base} through \texttt{AutoModelForMaskedLM}. The hidden size is $d=768$, and the input sequence is truncated to 512 tokens. The collator concatenates each headline and body with the tokenizer separator token:
+\begin{equation}
+    [\mathrm{CLS}]\ h\ [\mathrm{SEP}]\ b\ [\mathrm{SEP}].
+\end{equation}
+
+The final hidden states $T \in \mathbb{R}^{S\times 768}$ are separated using the first separator position. Three independent attention-pooling layers produce:
+\begin{align}
+    \mathbf{e}_h &= \operatorname{Pool}_h(T_{\mathrm{headline}}) \in \mathbb{R}^{768},\\
+    \mathbf{e}_b &= \operatorname{Pool}_b(T_{\mathrm{body}}) \in \mathbb{R}^{768},\\
+    \mathbf{e}_j &= \operatorname{Pool}_j(T_{\mathrm{joint}}) \in \mathbb{R}^{768}.
+\end{align}
+Each pooling layer learns a scalar token attention logit, masks tokens outside its segment, applies a masked softmax, and returns the weighted average. Thus, the implementation uses one shared backbone with segment-specific pooling; it does not run two independent ModernBERT encoders.
+
+\subsection{Seven Ordinal News-Value Heads}
+
+The seven heads are listed in Table~\ref{tab:values}. Token-level heads use token representations and sentence-level heads use the concatenation of headline and body representations.
+
+\begin{table}[t]
+\centering
+\small
+\begin{tabular}{lll}
+\toprule
+\textbf{Value} & \textbf{Head input} & \textbf{Output dimension} \\
+\midrule
+Impact & headline + body & 128 \\
+Conflict & tokens & 128 \\
+Novelty & tokens & 128 \\
+Proximity & headline + body & 128 \\
+Prominence & tokens & 128 \\
+Timeliness & headline + body & 128 \\
+Human interest & tokens & 128 \\
+\bottomrule
+\end{tabular}
+\caption{The seven implemented news-value heads. The token-level set is conflict, prominence, human interest, and novelty; the sentence-level set is impact, proximity, and timeliness.}
+\label{tab:values}
+\end{table}
+
+For a token-level value, a learned query attends over the full token sequence using eight attention heads. The attended vector is projected from 768 to 128 dimensions. For a sentence-level value, the 1536-dimensional concatenation $[\mathbf{e}_h;\mathbf{e}_b]$ is passed through a $1536\rightarrow256\rightarrow128$ MLP with GELU, dropout, and layer normalization.
+
+Each head uses a common ordinal architecture. A 128-dimensional representation is mapped through a hidden layer of size 128, GELU, and dropout 0.1, followed by six cumulative logits because the implementation uses $NUM\_BINS=6$. If $\mathbf{z}_v$ denotes the head representation, its value score is
+\begin{equation}
+    s_v = \sum_{k=1}^{5}\sigma(c_{v,k}),
+\end{equation}
+where $c_{v,k}$ are the five cumulative logits. The ordinal loss is binary cross-entropy against the five cumulative threshold indicators.
+
+\subsection{Value Interaction and Gated Scoring}
+
+Let $F \in \mathbb{R}^{7\times128}$ be the stack of the seven value representations. ResonantBERT applies a one-layer Transformer encoder with four attention heads, feed-forward dimension 256, GELU activation, dropout 0.1, and batch-first layout:
+\begin{equation}
+    F' = \operatorname{TransformerEncoder}(F) \in \mathbb{R}^{7\times128}.
+\end{equation}
+This is ordinary multi-head Transformer interaction across the seven value slots. It is not a block-diagonal or factorized cross-attention mechanism.
+
+GatedScoring maintains seven learnable value weights. The weights are normalized with softmax and applied to $F'$ to obtain an aggregate representation. The aggregate is projected through a 128-to-128 linear layer and layer normalization, then L2-normalized:
+\begin{equation}
+    \mathbf{z}=\operatorname{Normalize}_2\left(\operatorname{LayerNorm}(W\sum_{v=1}^{7}w_vF'_v)\right)
+    \in\mathbb{R}^{128}.
+\end{equation}
+The concept score is a learned linear projection of $\mathbf{z}$. The model also exposes the seven value scores and the learned factor weights for analysis.
+
+\subsection{List-Wide Head and Risk Score}
+
+When group identifiers are supplied, the mean of each article's interacted value representations is padded into a group tensor. A learned classification token and one Transformer encoder layer produce a list-wide ordinal score. The list-wide target is the maximum aggregate gold score in each group and is trained with mean squared error.
+
+The model additionally computes a risk score from the joint pooled representation using a $768\rightarrow128\rightarrow1$ MLP with GELU, dropout 0.1, and sigmoid output. In the supplied implementation this is an auxiliary output of the same model. The script does not implement the earlier paper's claim of a separately trained frozen-backbone Risk Auditor with blocked gradients; we therefore make no such claim.
+
+\subsection{RankingTower v2}
+
+After the best encoder checkpoint is selected, the encoder is frozen and its 128-dimensional viral embeddings are cached. RankingTower v2 maps each embedding through
+\begin{equation}
+    128\rightarrow64\rightarrow1
+\end{equation}
+with GELU and dropout 0.1. It learns a scalar temperature initialized to 1.0 and returns raw, calibrated, and final scores. The ranking tower is trained for 1000 steps with AdamW at learning rate $10^{-3}$ and listwise top-1 ListNet loss over groups of four.
+
+\section{Training Objective}
+
+For a batch, the total ResonantBERT v3 loss combines seven ordinal value losses, listwise ranking, approximate NDCG, and the list-wide auxiliary loss:
+\begin{equation}
+\begin{split}
+\mathcal{L} ={}& W_{\mathrm{point}}\mathcal{L}_{\mathrm{ordinal}}
+ + W_{\mathrm{list}}\mathcal{L}_{\mathrm{ListNet}} \\
+&+ W_{\mathrm{NDCG}}\mathcal{L}_{\mathrm{approxNDCG}}
+ + W_{\mathrm{wide}}\mathcal{L}_{\mathrm{wide}}.
+\end{split}
+\end{equation}
+The configured weights are $W_{\mathrm{point}}=1.0$, $W_{\mathrm{list}}=1.0$, $W_{\mathrm{NDCG}}=0.5$, and $W_{\mathrm{wide}}=0.25$. The listwise target is the aggregate gold score, and the approximate NDCG term uses $\alpha=10.0$.
+
+The backbone is adapted with LoRA. The configured LoRA rank is 64, alpha is 128, and dropout is 0.05. The script discovers available linear projection names and targets the preferred set including \texttt{Wqkv}, \texttt{Wo}, \texttt{Wi}, query/key/value, dense, and projection modules when present. The base backbone weights remain frozen while LoRA parameters and non-backbone heads are trained.
+
+\begin{table}[t]
+\centering
+\small
+\begin{tabular}{ll}
+\toprule
+\textbf{Setting} & \textbf{Value} \\
+\midrule
+Backbone & ModernBERT-base, 768 dimensions \\
+Maximum sequence length & 512 \\
+Value embedding dimension & 128 \\
+Ordinal bins & 6 \\
+LoRA rank / alpha / dropout & 64 / 128 / 0.05 \\
+Backbone learning rate & $1\times10^{-5}$ \\
+Head learning rate & $2\times10^{-4}$ \\
+Ranker learning rate & $1\times10^{-3}$ \\
+Weight decay & 0.01 \\
+Gradient norm limit & 1.0 \\
+Epochs & 3 \\
+Warmup ratio & 0.06 \\
+Seed & 42 \\
+\bottomrule
+\end{tabular}
+\caption{Configured training hyperparameters in the supplied v3 script.}
+\label{tab:hyperparameters}
+\end{table}
+
+The optimizer is AdamW. The backbone/LoRA and head parameter groups use learning rates $10^{-5}$ and $2\times10^{-4}$, respectively, with weight decay 0.01. Training uses a cosine schedule with a 0.06 warmup ratio, gradient clipping at 1.0, gradient checkpointing, and BF16 autocasting on CUDA. The effective batch size is selected from GPU memory: 64 on GPUs with at least 70 GB, 32 on at least 35 GB, 32 on at least 22 GB, 24 on at least 18 GB, 32 on at least 14 GB, and 32 on smaller GPUs or CPU fallback. The configured group batch size is four groups, with a maximum group size of eight.
+
+\section{Evaluation Protocol}
+
+The current script evaluates on the held-out validation groups and limits intermediate validation to at most 50 batches. It reports NDCG@5, NDCG@10, Kendall's $\tau$, Spearman's $\rho$, the number of evaluated groups, and seven per-value MAEs. The final evaluation also reports the standard deviation of each ranking metric across groups.
+
+The project contains BBC article assets and CNN-related evaluation assets, but the supplied v3 script constructs its train/validation split from the available CSV and section values. It does not yet implement the publisher-disjoint 12-publisher NewsViral-Rank protocol described in the earlier draft. Consequently, cross-publisher zero-shot claims, SOTA comparisons, and publisher-transfer tables remain future evaluation targets rather than results of this implementation.
+
+\subsection{Status of Reported Numbers}
+
+The numerical values in Table~\ref{tab:pending} are intentionally left pending. Newer checkpoints are expected to change them, and no final rerun output was supplied with the current architecture description. This prevents provisional numbers from being mistaken for reproducible results.
+
+\begin{table}[t]
+\centering
+\small
+\begin{tabular}{lcc}
+\toprule
+\textbf{Evaluation} & \textbf{Metric} & \textbf{Status} \\
+\midrule
+Validation & NDCG@5 & Pending rerun \\
+Validation & NDCG@10 & Pending rerun \\
+Validation & Kendall's $\tau$ & Pending rerun \\
+Validation & Spearman's $\rho$ & Pending rerun \\
+Validation & Per-value MAE & Pending rerun \\
+Publisher-disjoint transfer & NDCG@10 / $\rho$ & Protocol pending \\
+SOTA comparison & All baseline metrics & Pending rerun \\
+\bottomrule
+\end{tabular}
+\caption{Results status for the current manuscript. Values will be populated from the newer checkpoint evaluation artifacts.}
+\label{tab:pending}
+\end{table}
+
+For completeness, the earlier draft reported illustrative values such as NDCG@10 of 0.587 and Spearman's $\rho$ of 0.561 for a different, nine-factor architecture. Those values are not transferred to the present results table because the current implementation has seven news-value heads and a different scoring and training pipeline.
+
+\section{Reproducibility and Artifacts}
+
+The training script saves encoder checkpoints at every 500 optimizer steps, evaluates every 200 steps, and uses patience 2 for early stopping based on validation Spearman correlation. It saves the best encoder as \texttt{BERTv3-best.pt}, the final encoder as \texttt{BERTv3-final-step<step>.pt}, the ranking tower as \texttt{RANKERv2-1000.pt}, and evaluation metadata as \texttt{train\_results\_v3.json}. Training and ranking diagnostics include a v3 dashboard, factor-weight plot, and ranker-loss plot.
+
+The checkpoint loader copies parameter and buffer tensors directly into the existing model rather than calling \texttt{load\_state\_dict}; this preserves the gradient-checkpointing hooks used by the script. The model is initialized from \texttt{answerdotai/ModernBERT-base}, and the random, NumPy, and Torch seeds are all set to 42.
+
+\section{Limitations and Planned Evaluation}
+
+First, the current manuscript describes a validation ranking experiment, not a completed cross-publisher zero-shot benchmark. Second, the aggregate target is a sum of seven supplied news-value annotations and should not be interpreted as observed user engagement or journalistic quality. Third, the risk score is an auxiliary model output whose calibration and safety behavior require a dedicated evaluation. Fourth, the final values in all result tables must be regenerated after the newer checkpoints are evaluated under a fixed, documented split.
+
+The next evaluation should report the exact checkpoint identifier, dataset version, number of groups and articles, confidence intervals or group-level standard deviations, per-publisher results where applicable, and all baseline configurations. It should also distinguish the direct ResonantBERT concept score from RankingTower v2's final score.
+
+\section{Conclusion}
+
+We documented ResonantBERT v3 as implemented: a shared ModernBERT-base encoder with segment-aware pooling, seven ordinal news-value heads, one-layer Transformer value interaction, gated 128-dimensional scoring, an auxiliary list-wide head and risk score, and a separately trained RankingTower v2 over frozen embeddings. This architecture provides interpretable value-specific outputs while retaining a learned representation for ranking. The final SOTA and cross-publisher conclusions are deliberately deferred until the newer-checkpoint evaluations are complete.
+
+\end{document}

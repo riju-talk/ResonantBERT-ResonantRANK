@@ -1,0 +1,17 @@
+\begin{table}[t]
+\centering
+\small
+\begin{tabular}{lccccc}
+\toprule
+\textbf{Model} & \textbf{NDCG@5} & \textbf{NDCG@10} & \textbf{Kendall $\tau$} & \textbf{Pairwise Acc.} & \textbf{Spearman $\rho$} \\
+\midrule
+TF-IDF + Ridge & 0.862 $\pm$ 0.117 & 0.924 $\pm$ 0.079 & 0.452 $\pm$ 0.304 & 0.736 & 0.738 \\
+Rule-Based & 0.729 $\pm$ 0.165 & 0.857 $\pm$ 0.095 & 0.210 $\pm$ 0.323 & 0.608 & 0.351 \\
+Sentence-BERT & 0.690 $\pm$ 0.162 & 0.836 $\pm$ 0.097 & 0.124 $\pm$ 0.330 & 0.564 & 0.162 \\
+LLM Zero-Shot (Qwen2.5-1.5B-Instruct) & 0.674 $\pm$ 0.167 & 0.834 $\pm$ 0.097 & 0.100 $\pm$ 0.334 & 0.552 & 0.049 \\
+Random & 0.630 $\pm$ 0.173 & 0.805 $\pm$ 0.102 & -0.008 $\pm$ 0.336 & 0.496 & -0.018 \\
+\bottomrule
+\end{tabular}
+\caption{Baseline virality ranking on the CNN test split (target: sum).}
+\label{tab:cnn_baselines}
+\end{table}
