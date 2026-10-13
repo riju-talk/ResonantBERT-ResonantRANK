@@ -22,3 +22,4 @@ eval_results.rar
 model/checkpoints_v3/BERTv3-step*.pt
 !model/checkpoints_v3/BERTv3-step1881.pt
 model/checkpoints_v3/BERTv3-final-*.pt
+!mind_data/Mind_Data.zip
