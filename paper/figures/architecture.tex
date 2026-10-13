@@ -1,216 +1,187 @@
-% ResonantBERT v3 architecture figure (ACL two-column, full text width = 16 cm).
+% ResonantBERT v3 architecture figure (ACL figure*, full text width = 16 cm).
 % Build:  pdflatex architecture.tex   ->  architecture.pdf
-% Use:    \begin{figure*}[t]\centering
-%           \includegraphics[width=\textwidth]{figures/architecture.pdf}
-%           \caption{...}\label{fig:architecture}\end{figure*}
-% Drawn at final size: text is 7-9 pt when included at \textwidth.
+% Use:    \includegraphics[width=\textwidth]{figures/architecture.pdf}
+% Needs fontawesome5 (in TeX Live / Overleaf). All fonts embed as Type 1.
 \documentclass[tikz,border=1pt]{standalone}
 \usepackage[T1]{fontenc}
 \usepackage{times}
 \usepackage{amsmath,amssymb}
+\usepackage{fontawesome5}
 \usetikzlibrary{arrows.meta,calc,decorations.pathreplacing}
 
-% Okabe-Ito palette (colour-blind safe); hue encodes role, not section
-\definecolor{encC}{HTML}{3B4A63}   % shared encoder
-\definecolor{hdC}{HTML}{CC79A7}    % headline segment
-\definecolor{bdC}{HTML}{56B4E9}    % body segment
+\newif\ifshowtower \showtowerfalse   % \showtowertrue draws the RankingTower ablation
+
+% Okabe-Ito palette (colour-blind safe); hue encodes role
+\definecolor{encC}{HTML}{3B4A63}   % encoder / ranking
+\definecolor{hdC}{HTML}{CC79A7}    % headline tokens
+\definecolor{bdC}{HTML}{56B4E9}    % body tokens
 \definecolor{tokC}{HTML}{E69F00}   % token-level heads
 \definecolor{segC}{HTML}{009E73}   % segment-level heads
 \definecolor{lossC}{HTML}{D55E00}  % training losses
-\definecolor{auxC}{HTML}{6A6A6A}   % training-only / ablation
+\definecolor{auxC}{HTML}{707070}   % training-only
 
-\newcommand{\fA}{\fontsize{9}{10.4}\selectfont}
-\newcommand{\fB}{\fontsize{8}{9.2}\selectfont}
-\newcommand{\fC}{\fontsize{7}{8.1}\selectfont}
+\newcommand{\fB}{\fontsize{7.5}{8.6}\selectfont}
+\newcommand{\fC}{\fontsize{6.5}{7.4}\selectfont}
 \newcommand{\vb}[1]{\mathbf{#1}}
 \newcommand{\Lo}[1]{\mathcal{L}_{\mathrm{#1}}}
 
 \tikzset{
-  >={Stealth[length=3.4pt,width=2.8pt]},
-  dsh/.style={dash pattern=on 2.2pt off 1.4pt},
-  base/.style={rounded corners=1.5pt, line width=0.55pt, align=center, inner sep=1.8pt, font=\fB},
-  enc/.style={base, draw=encC, fill=encC!9},
-  tok/.style={base, draw=tokC!80!black, fill=tokC!16},
-  seg/.style={base, draw=segC!80!black, fill=segC!14},
-  aux/.style={base, draw=auxC, dsh, fill=white},
-  abl/.style={base, draw=auxC, dotted, line width=0.75pt, fill=white},
-  arr/.style={->, line width=0.55pt, draw=black!80},
-  auxarr/.style={->, line width=0.55pt, draw=auxC, dsh},
-  ablarr/.style={->, line width=0.75pt, draw=auxC, dotted},
-  lossarr/.style={->, line width=0.5pt, draw=lossC, dsh},
-  loss/.style={font=\fC, text=lossC, align=center, inner sep=1pt},
-  note/.style={font=\fC, text=black!70, align=center, inner sep=1pt},
-  hdr/.style={font=\fA\bfseries, anchor=base},
-  tkn/.style={rounded corners=1pt, line width=0.4pt, minimum width=0.62cm,
-              minimum height=0.34cm, inner sep=0pt, font=\fC},
-  head/.style={minimum width=1.8cm, minimum height=0.34cm, inner sep=0pt},
+  >={Stealth[length=3pt,width=2.6pt]},
+  arr/.style={->, line width=0.5pt, draw=black!75},
+  flow/.style={-{Triangle[length=3.6pt,width=6.4pt]}, line width=2.4pt, draw=black!22},
+  dsh/.style={dash pattern=on 1.8pt off 1.2pt},
+  auxarr/.style={->, line width=0.5pt, draw=auxC, dsh},
+  ablarr/.style={->, line width=0.7pt, draw=auxC, dotted},
+  lab/.style={font=\fC, inner sep=0.5pt, text=black!80},
+  losstag/.style={font=\fC, text=lossC!85!black, draw=lossC, fill=lossC!7, rounded corners=1.5pt,
+                  line width=0.45pt, inner sep=1.6pt, align=center},
+  auxbox/.style={font=\fC, draw=auxC, dsh, fill=white, rounded corners=1.5pt, line width=0.45pt,
+                 inner sep=1.6pt, align=center},
 }
 
-% \ordinal{y}{expected level in [0,5]}{colour}: five CORAL threshold cells
-\newcommand{\ordinal}[3]{%
+% token-state row: [CLS] h h [SEP] b b b [SEP]; #1 = x of first cell, #2 = y
+\newcommand{\tokrow}[2]{%
+  \foreach \c [count=\i from 0] in {black!30,hdC,hdC,black!30,bdC,bdC,bdC,black!30}
+    \fill[\c] (#1+\i*0.15-0.065,#2-0.065) rectangle ++(0.13,0.13);}
+
+% value badge: \badge{cx}{top y}{icon}{name}{level in [0,5]}{colour}
+\newcommand{\badge}[6]{%
+  \draw[#6!75!black, fill=white, line width=0.45pt, rounded corners=2pt] (#1-0.70,#2-1.0) rectangle (#1+0.70,#2);
+  \node[text=#6!80!black, inner sep=0pt] at (#1,#2-0.25) {\fontsize{9}{9}\selectfont #3};
+  \node[font=\fontsize{6.3}{7}\selectfont, inner sep=0pt] at (#1,#2-0.54) {#4};
   \foreach \k in {0,...,4}{%
-    \pgfmathsetmacro{\xa}{10.15+\k*0.195}%
-    \pgfmathsetmacro{\w}{max(0,min(1,#2-\k))*0.165}%
-    \fill[#3] (\xa,#1-0.1) rectangle ++(\w,0.2);%
-    \draw[#3!75!black, line width=0.35pt] (\xa,#1-0.1) rectangle ++(0.165,0.2);%
-  }%
-  \node[note, anchor=west, text=black] at (11.12,#1) {#2};%
-}
+    \pgfmathsetmacro{\xa}{#1-0.465+\k*0.19}%
+    \pgfmathsetmacro{\w}{max(0,min(1,#5-\k))*0.16}%
+    \fill[#6] (\xa,#2-0.86) rectangle ++(\w,0.13);%
+    \draw[#6!70!black, line width=0.3pt] (\xa,#2-0.86) rectangle ++(0.16,0.13);}}
+
+% candidate row in a list: \cand{x}{y}{score in [0,1]}{colour}
+\newcommand{\cand}[4]{%
+  \draw[black!55, fill=white, line width=0.4pt] (#1,#2-0.11) -- ++(0,0.22) -- ++(0.12,0) -- ++(0.05,-0.05) -- ++(0,-0.17) -- cycle;
+  \fill[#4] (#1+0.25,#2-0.06) rectangle ++(#3*0.72,0.12);}
 
 \begin{document}
 \begin{tikzpicture}[x=1cm, y=1cm, font=\fB]
 
-% ---------------------------------------------------------------- headers
-\node[hdr] at (1.30,4.95) {(a) Input};
-\node[hdr] at (3.57,4.95) {(b) Encoder};
-\node[hdr] at (7.30,4.95) {(c) Seven news-value heads};
-\node[hdr] at (10.78,4.95) {(d) Ordinal scores};
-\node[hdr] at (14.10,4.95) {(e) Rank};
-
-% ---------------------------------------------------------------- (a) input
-\draw[hdC!80!black, fill=hdC!10, line width=0.55pt, rounded corners=1.5pt] (0,3.12) rectangle (1.62,4.62);
-\node[anchor=north west, align=left, inner sep=0pt] at (0.07,4.53)
-  {\textbf{Headline} $h$\\[2pt]{\fC\itshape\color{black!65}``Scientists find}\\[-1pt]{\fC\itshape\color{black!65}a new protein''}};
-\draw[bdC!80!black, fill=bdC!10, line width=0.55pt, rounded corners=1.5pt] (0,0.70) rectangle (1.62,2.92);
-\node[anchor=north west, align=left, inner sep=0pt] at (0.07,2.83)
-  {\textbf{Body} $b$\\[2pt]{\fC\itshape\color{black!65}``In a study,}\\[-1pt]{\fC\itshape\color{black!65}researchers\,\ldots}};
-\foreach \y/\l in {1.70/1.48, 1.48/1.36, 1.26/1.48, 1.04/1.48, 0.82/0.95}
-  \draw[bdC!50, line width=1.0pt, line cap=round] (0.12,\y) -- (\l,\y);
+% =============================================================== input article
+\draw[black!55, fill=white, line width=0.5pt] (0,0) -- (0,1.7) -- (0.78,1.7) -- (1.0,1.48) -- (1.0,0) -- cycle;
+\draw[black!55, fill=black!8, line width=0.5pt] (0.78,1.7) -- (0.78,1.48) -- (1.0,1.48);
+\fill[hdC] (0.11,1.37) rectangle (0.62,1.50);
+\fill[hdC!65] (0.11,1.18) rectangle (0.50,1.29);
+\foreach \y/\l in {0.92/0.70,0.77/0.66,0.62/0.70,0.47/0.62,0.32/0.70,0.17/0.48}
+  \fill[bdC!75] (0.11,\y) rectangle (\l,\y+0.065);
+\node[font=\fB, text=hdC!75!black] at (0.84,1.30) {$h$};
+\node[font=\fB, text=bdC!75!black] at (0.84,0.55) {$b$};
 
 % tokenised sequence  [CLS] h [SEP] b [SEP]
-\foreach \t/\y/\c in {{[CLS]}/4.42/black, {[SEP]}/2.92/black, {[SEP]}/0.92/black}
-  \node[tkn, draw=black!45, fill=black!7] at (2.12,\y) {\t};
-\foreach \t/\y in {{$h_1$}/3.92, {$h_2$}/3.42}
-  \node[tkn, draw=hdC!80!black, fill=hdC!18] at (2.12,\y) {\t};
-\foreach \t/\y in {{$b_1$}/2.42, {$b_2$}/1.92, {$b_3$}/1.42}
-  \node[tkn, draw=bdC!80!black, fill=bdC!18] at (2.12,\y) {\t};
-\draw[arr] (1.62,3.67) -- (1.79,3.67);
-\draw[arr] (1.62,1.92) -- (1.79,1.92);
-\foreach \y in {4.42,3.92,3.42,2.92,2.42,1.92,1.42,0.92}
-  \draw[arr] (2.44,\y) -- (2.64,\y);
+\foreach \c [count=\i from 0] in {black!30,hdC,hdC,black!30,bdC,bdC,bdC,black!30}
+  \fill[\c] (1.20,1.62-\i*0.22-0.085) rectangle ++(0.20,0.17);
+\draw[flow] (1.02,0.85) -- (1.17,0.85);
+\draw[flow] (1.42,0.85) -- (1.62,0.85);
 
-% ---------------------------------------------------------------- (b) encoder
-\node[enc, minimum width=1.86cm, minimum height=3.92cm] (enc) at (3.57,2.67)
-  {\textbf{ModernBERT}\\\textbf{base}\\[4pt]{\fC shared}\\[-1pt]{\fC encoder}\\[4pt]{\fC LoRA $r{=}64$}\\[4pt]{\fC $d{=}768$}};
+% =============================================================== encoder
+\foreach \o/\f in {0.10/6, 0.05/9}
+  \draw[encC!70, fill=encC!\f, line width=0.45pt, rounded corners=2pt] (1.66+\o,-0.62+\o) rectangle (2.98+\o,2.30+\o);
+\draw[encC, fill=encC!13, line width=0.55pt, rounded corners=2pt] (1.66,-0.62) rectangle (2.98,2.30);
+\node[font=\fB\bfseries, text=encC, rotate=90] at (1.95,0.84) {ModernBERT-base};
+\node[text=bdC!80!black, inner sep=0pt] at (2.54,1.42) {\fontsize{9}{9}\selectfont\faSnowflake};
+\node[font=\fC, text=encC] at (2.54,1.12) {frozen};
+\node[text=lossC, inner sep=0pt] at (2.54,0.58) {\fontsize{9}{9}\selectfont\faFire};
+\node[font=\fC, text=encC] at (2.54,0.28) {LoRA};
 
-% ---------------------------------------------------------------- (c) heads
-% token-level lane
-\fill[tokC!5, rounded corners=3pt] (4.66,2.62) rectangle (10.0,4.72);
-\draw[tokC!55, line width=0.4pt, rounded corners=3pt] (4.66,2.62) rectangle (10.0,4.72);
-\node[anchor=north west, font=\fC\bfseries, text=tokC!60!black, inner sep=0pt] at (4.76,4.64)
-  {Token-level: attend over all tokens};
-\node[tok, minimum width=2.32cm, minimum height=1.30cm] (tq) at (6.08,3.42)
-  {\textbf{Learned-query}\\\textbf{attention}\\[1pt]{\fC$\mathrm{MHA}(\vb q_v, H, H)$}\\{\fC$\to\mathrm{Lin}_{768\to128}$}};
-\draw[arr] (4.50,3.42) -- node[above, font=\fC, inner sep=1pt] {$H$} (tq.west);
+% =============================================================== heads: lanes
+\fill[tokC!7, rounded corners=3pt] (3.18,1.40) rectangle (10.44,2.62);
+\fill[segC!7, rounded corners=3pt] (3.18,0.10) rectangle (10.44,1.32);
 
-% segment-level lane
-\fill[segC!5, rounded corners=3pt] (4.66,0.68) rectangle (10.0,2.50);
-\draw[segC!55, line width=0.4pt, rounded corners=3pt] (4.66,0.68) rectangle (10.0,2.50);
-\node[anchor=north west, font=\fC\bfseries, text=segC!60!black, inner sep=0pt] at (4.76,2.42)
-  {Segment-level: pooled $h$ / $b$};
-\node[base, draw=hdC!80!black, fill=hdC!14, minimum width=1.05cm, minimum height=0.58cm] (ph) at (5.33,1.77)
-  {{\fC Attn-pool}\\[-1pt]{\fC $h\to\vb e_h$}};
-\node[base, draw=bdC!80!black, fill=bdC!14, minimum width=1.05cm, minimum height=0.58cm] (pb) at (5.33,1.06)
-  {{\fC Attn-pool}\\[-1pt]{\fC $b\to\vb e_b$}};
-\draw[arr] (4.50,1.77) -- (ph.west);
-\draw[arr] (4.50,1.06) -- (pb.west);
-\node[seg, minimum width=1.05cm, minimum height=1.30cm] (mlp) at (6.80,1.415)
-  {\textbf{MLP}\\[2pt]{\fC$[\vb e_h;\vb e_b]$}\\[1pt]{\fC$\to\mathbb{R}^{128}$}};
-\draw[arr] (ph.east) -- (ph.east -| mlp.west);
-\draw[arr] (pb.east) -- (pb.east -| mlp.west);
+% token-level: learned query attends over all token states H
+\draw[flow] (3.09,1.60) -- (3.30,1.60);
+\tokrow{3.42}{1.60}
+\node[lab, anchor=north] at (3.42,1.52) {$H$};
+\coordinate (q) at (3.92,2.30);
+\foreach \w [count=\i from 0] in {0.15,0.95,0.75,0.10,0.40,0.55,0.25,0.10}
+  \draw[tokC!85!black, line width=0.25+\w*0.75pt, opacity=0.25+0.75*\w] (q) -- (3.42+\i*0.15,1.67);
+\fill[tokC!85!black] (q) circle (0.10);
+\node[lab, anchor=east] at (3.80,2.32) {$\vb q_v$};
+\draw[arr] (4.04,2.30) -- (4.58,2.30);
 
-% head chips, value scores (example article), taps to the training branch
-\draw[auxC, line width=0.55pt, dsh] (9.90,4.12) -- (9.90,0.30);
-\foreach \n/\y/\s in {Conflict/4.12/3.4, Novelty/3.70/4.1, Prominence/3.28/1.2, Human interest/2.86/2.6}{
-  \node[tok, head] at (8.80,\y) {\n};
-  \draw[arr] (tq.east) -- (7.90,\y);
-  \draw[arr] (9.70,\y) -- (10.12,\y);
-  \fill[auxC] (9.90,\y) circle (1.0pt);
-  \ordinal{\y}{\s}{tokC}
-}
-\foreach \n/\y/\s in {Impact/1.85/3.8, Proximity/1.43/0.9, Timeliness/1.01/2.2}{
-  \node[seg, head] at (8.80,\y) {\n};
-  \draw[arr] (mlp.east) -- (7.90,\y);
-  \draw[arr] (9.70,\y) -- (10.12,\y);
-  \fill[auxC] (9.90,\y) circle (1.0pt);
-  \ordinal{\y}{\s}{segC}
-}
+% segment-level: attention-pool headline / body, concatenate
+\draw[flow] (3.09,1.10) -- (3.30,1.10);
+\tokrow{3.42}{1.10}
+\foreach \i in {1,2} \draw[hdC!80!black, line width=0.4pt] (3.42+\i*0.15,1.03) -- (3.75,0.66);
+\foreach \i in {4,5,6} \draw[bdC!80!black, line width=0.4pt] (3.42+\i*0.15,1.03) -- (4.13,0.66);
+\fill[hdC] (3.56,0.54) rectangle (3.94,0.66);
+\fill[bdC] (3.94,0.54) rectangle (4.32,0.66);
+\draw[black!50, line width=0.3pt] (3.56,0.54) rectangle (4.32,0.66);
+\node[lab, anchor=north] at (3.94,0.50) {$[\vb e_h;\vb e_b]$};
+\draw[arr] (4.36,0.60) -- (4.58,0.60);
 
-% ---------------------------------------------------------------- (d) ordinal scores
-\node[note, text=black, anchor=west] at (10.06,4.50) {$\hat s_v=\sum_{k=1}^{5}\sigma(c_{v,k})$};
-\node[loss, anchor=west] at (10.10,0.50) {$\Lo{CORAL}$ vs.\ $y_v$};
-\draw[decorate, decoration={brace, amplitude=4pt}, line width=0.55pt] (11.62,4.27) -- (11.62,0.86);
-\node[circle, draw=black!80, line width=0.6pt, fill=white, minimum size=0.56cm, inner sep=0pt, font=\fA] (sum) at (12.22,2.565) {$\Sigma$};
-\draw[arr] (11.78,2.565) -- (sum.west);
-\node[note, text=black, anchor=south] at (12.22,2.90) {$S(x)$};
-\node[note, anchor=north] at (12.22,2.22) {$=18.2$};
+% seven value heads -> 128-d f_v -> CORAL ordinal score (5 thresholds)
+\badge{5.32}{2.52}{\faBolt}{Conflict}{3.4}{tokC}
+\badge{6.77}{2.52}{\faLightbulb}{Novelty}{4.1}{tokC}
+\badge{8.22}{2.52}{\faCrown}{Prominence}{1.2}{tokC}
+\badge{9.67}{2.52}{\faHeart}{Human interest}{2.6}{tokC}
+\badge{5.32}{1.22}{\faBullseye}{Impact}{3.8}{segC}
+\badge{6.77}{1.22}{\faMapMarker*}{Proximity}{0.9}{segC}
+\badge{8.22}{1.22}{\faClock[regular]}{Timeliness}{2.2}{segC}
+\node[losstag] at (9.67,0.72) {$\Lo{CORAL}$\\[-1pt]vs.\ $y_v$};
 
-% ---------------------------------------------------------------- (e) rank
-\draw[black!55, fill=black!2.5, line width=0.5pt, rounded corners=1.5pt] (12.82,0.70) rectangle (16.0,4.62);
-\draw[arr] (sum.east) -- (12.82,2.565);
-\node[font=\fB\bfseries] at (14.41,4.40) {Sort candidates by $S(x)$};
-\node[note] at (14.41,4.10) {$C=\{x_1,\ldots,x_N\}$};
-\node[note, text=black!55] at (13.08,3.72) {\#};
-\node[note, text=black!55] at (13.48,3.72) {art.};
-\node[note, text=black!55, anchor=west] at (13.84,3.72) {$S(x)\in[0,35]$};
-\fill[black!9] (12.92,2.39) rectangle (15.90,2.75);
-\foreach \r/\a/\s/\y in {1/{$x_7$}/27.1/3.37, 2/{$x_2$}/22.8/2.97, 3/{$\boldsymbol{x}$}/18.2/2.57, $N$/{$x_5$}/6.4/1.77}{
-  \node[note, text=black] at (13.08,\y) {\r};
-  \node[note, text=black] at (13.48,\y) {\a};
-  \pgfmathsetmacro{\len}{\s/27.1*1.42}
-  \fill[encC!70] (13.84,\y-0.075) rectangle ++(\len,0.15);
-  \node[note, text=black, anchor=west] at (13.84+\len+0.04,\y) {\s};
-}
-\node[note, text=black] at (13.08,2.20) {$\vdots$};
-\node[note, text=black] at (13.48,2.20) {$\vdots$};
-\node[note, text=black!60, font=\fC\itshape] at (14.41,1.18) {content only: no clicks, user};
-\node[note, text=black!60, font=\fC\itshape] at (14.41,0.93) {data, or engagement signals};
+% =============================================================== aggregate
+\draw[decorate, decoration={brace, amplitude=3.5pt}, line width=0.5pt] (10.55,2.52) -- (10.55,0.22);
+\node[circle, draw=black!80, line width=0.55pt, fill=white, minimum size=0.42cm, inner sep=0pt] (sum) at (11.05,1.37) {$\Sigma$};
+\draw[arr] (10.70,1.37) -- (sum.west);
+\node[lab, anchor=south] at (11.05,1.62) {$S(x)$};
 
-% ---------------------------------------------------------------- training-only branch
-% secondary branch: set one size smaller than the inference path
-\draw[auxC, line width=0.5pt, dsh, rounded corners=3pt, fill=black!1.5] (4.66,-2.42) rectangle (16.0,0.30);
-\node[anchor=north west, font=\fC\bfseries, text=auxC, inner sep=0pt] at (4.76,0.22)
-  {Training only (discarded at inference)};
-\node[note, anchor=west] at (9.98,0.05) {$F=[\vb f_1;\ldots;\vb f_7]\in\mathbb{R}^{7\times128}$};
+% =============================================================== rank
+\node[lab, anchor=south] at (11.95,2.32) {$C$};
+\foreach \s/\y/\c in {0.55/2.12/black!35, 0.90/1.75/black!35, 0.62/1.37/encC, 0.30/0.99/black!35, 0.18/0.61/black!35}
+  \cand{11.62}{\y}{\s}{\c};
+\draw[arr] (sum.east) -- (11.58,1.37);
+\draw[flow] (12.62,1.37) -- (13.18,1.37);
+\node[text=black!60, inner sep=0pt] at (12.90,1.72) {\fontsize{8}{8}\selectfont\faSortAmountDown};
+\node[lab, anchor=south] at (13.75,2.32) {$\pi$};
+\foreach \r/\s/\y/\c in {1/0.90/2.12/black!35, 2/0.62/1.75/encC, 3/0.55/1.37/black!35, 4/0.30/0.99/black!35, 5/0.18/0.61/black!35}{
+  \node[lab] at (13.30,\y) {\r};
+  \cand{13.44}{\y}{\s}{\c}}
 
-\node[aux, font=\fC, minimum width=2.1cm, minimum height=0.78cm] (int) at (9.90,-0.72)
-  {\textbf{Value interaction}\\1-layer Transformer\\[-1pt]over 7 value slots};
-\draw[auxarr] (9.90,0.30) -- (int.north);
-\node[aux, font=\fC, minimum width=2.2cm, minimum height=0.78cm] (pool) at (12.55,-0.72)
-  {\textbf{Weighted pooling}\\$\textstyle\sum_v w_v F'_v$ (learned $w$)\\[-1pt]$\to$ Lin, LN, $\ell_2$-norm};
-\draw[auxarr] (int.east) -- node[above, font=\fC, inner sep=1pt] {$F'$} (pool.west);
-\node[aux, font=\fC, minimum width=1.62cm, minimum height=0.78cm] (cpt) at (15.13,-0.72)
-  {\textbf{Concept score}\\[1pt]$c(x){=}\mathrm{Lin}(\vb z)$};
-\draw[auxarr] (pool.east) -- node[above, font=\fC, inner sep=1pt] {$\vb z$} (cpt.west);
-\node[loss, anchor=north] (lrank) at (15.13,-1.30) {$\Lo{ListNet}\,+$\\$\Lo{ApproxNDCG}$\\vs.\ $y_{\mathrm{gold}}$};
-\draw[lossarr] (cpt.south) -- (lrank.north);
+\node[text=black!50, inner sep=0pt] at (15.35,1.62) {\fontsize{12}{12}\selectfont\faUserSlash};
+\node[lab, text=black!60, align=center] at (15.35,1.08) {no clicks or\\[-1pt]user signals};
 
-\node[abl, font=\fC, minimum width=2.9cm, minimum height=0.78cm] (tower) at (12.30,-1.90)
-  {\textbf{RankingTower v2} (ablation)\\frozen $\vb z\to$ MLP $128{\to}64{\to}1$\\[-1pt]$s=\sigma(\cdot/T)$, ListNet loss};
-\draw[ablarr] (12.55,-1.11) -- (12.55,-1.51);
+% =============================================================== training-only strip
+\draw[auxC, dsh, line width=0.45pt, fill=black!2, rounded corners=3pt] (3.18,-0.98) rectangle (13.32,-0.12);
+\node[lab, text=auxC, font=\fC\itshape, align=center] at (3.72,-0.55) {training\\[-1pt]only};
 
-\node[aux, font=\fC, minimum width=2.1cm, minimum height=0.78cm] (wide) at (7.55,-1.90)
-  {\textbf{List-wide head}\\$[\mathrm{CLS}]$ + Transformer\\[-1pt]over the candidate list};
-\draw[auxarr] (int.west) -| node[pos=0.3, above, font=\fC, inner sep=1pt] {$\mathrm{mean}_v F'$} (wide.north);
-\node[loss, anchor=east] (lwide) at (6.22,-1.90) {$\Lo{wide}$ vs.\\$\max y_{\mathrm{gold}}$};
-\draw[lossarr] (wide.west) -- (lwide.east);
+\draw[auxarr] (5.32,0.22) -- (5.32,-0.30);
+\foreach \c [count=\i from 0] in {tokC,tokC,tokC,tokC,segC,segC,segC}
+  \fill[\c] (5.02+\i*0.09,-0.80) rectangle ++(0.06,0.46);
+\node[lab, anchor=east] at (4.98,-0.57) {$F$};
 
-% ---------------------------------------------------------------- legend + objective
-\begin{scope}[shift={(0,0.12)}]
-  \draw[arr] (0,0) -- (0.5,0);              \node[note, anchor=west, text=black] at (0.6,0) {inference path};
-  \draw[auxarr] (0,-0.30) -- (0.5,-0.30);   \node[note, anchor=west, text=black] at (0.6,-0.30) {training-only branch};
-  \draw[ablarr] (0,-0.60) -- (0.5,-0.60);   \node[note, anchor=west, text=black] at (0.6,-0.60) {ablation (frozen encoder)};
-  \draw[auxC, line width=0.55pt, dsh] (0.25,-0.80) -- (0.25,-1.00);
-  \draw[black!80, line width=0.55pt] (0.08,-0.90) -- (0.42,-0.90);
-  \fill[auxC] (0.25,-0.90) circle (1.0pt); \node[note, anchor=west, text=black] at (0.6,-0.90) {tap of $\vb f_v\in\mathbb{R}^{128}$};
-  \node[loss, anchor=center] at (0.25,-1.20) {$\mathcal{L}$};
-  \node[note, anchor=west, text=black] at (0.6,-1.20) {training loss};
-  \node[note, anchor=north west, text=black, align=left] at (-0.03,-1.45)
-    {\textbf{Objective}\\[1pt]
-     $\mathcal{L}=\Lo{CORAL}+\Lo{ListNet}$\\[1pt]
-     $\phantom{\mathcal{L}}\;\;+\,0.5\,\Lo{ApproxNDCG}$\\[1pt]
-     $\phantom{\mathcal{L}}\;\;+\,0.25\,\Lo{wide}$};
-\end{scope}
+\node[auxbox, minimum width=1.18cm, minimum height=0.72cm] (int) at (6.40,-0.55) {};
+\foreach \i in {0,...,4} \fill[auxC] (6.08+\i*0.16,-0.48) circle (0.035);
+\foreach \a/\b in {0/2,1/3,2/4,0/4,1/4}
+  \draw[auxC, line width=0.3pt] (6.08+\a*0.16,-0.45) to[out=60,in=120] (6.08+\b*0.16,-0.45);
+\node[lab, text=auxC] at (6.40,-0.78) {interaction};
+\draw[auxarr] (5.66,-0.55) -- (int.west);
+
+% concept-score branch: weighted pooling -> z -> c(x) -> listwise losses
+\draw[auxarr] (int.east |- 0,-0.36) -- (7.32,-0.36);
+\node[circle, draw=auxC, dsh, line width=0.45pt, fill=white, minimum size=0.32cm, inner sep=0pt, font=\fC] (pw) at (7.48,-0.36) {$\Sigma_w$};
+\foreach \i in {0,1,2} \fill[auxC!70] (7.80+\i*0.09,-0.46) rectangle ++(0.06,0.20);
+\node[lab, anchor=north] at (7.89,-0.48) {$\vb z$};
+\draw[auxarr] (8.12,-0.36) -- (8.42,-0.36);
+\node[auxbox] (c) at (8.68,-0.36) {$c(x)$};
+\draw[auxarr] (c.east) -- (9.12,-0.36);
+\node[losstag, anchor=west] at (9.12,-0.36) {$\Lo{ListNet}+\Lo{ApproxNDCG}$ vs.\ $y_{\mathrm{gold}}$};
+
+% list-wide branch
+\draw[auxarr] (int.east |- 0,-0.76) -- (7.32,-0.76);
+\node[auxbox, anchor=west] (lw) at (7.32,-0.76) {list-wide head};
+\draw[auxarr] (lw.east) -- ++(0.22,0);
+\node[losstag, anchor=west] at ($(lw.east)+(0.22,0)$) {$\Lo{wide}$};
+
+\ifshowtower
+  \draw[ablarr] (7.89,-0.62) |- (9.80,-0.76);
+  \node[auxbox, dotted, line width=0.7pt, anchor=west] at (9.80,-0.76) {RankingTower (ablation)};
+\fi
 
 \end{tikzpicture}
 \end{document}
